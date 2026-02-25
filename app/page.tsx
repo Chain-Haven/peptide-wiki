@@ -23,6 +23,7 @@ import {
   Users,
   Globe,
   Sparkles,
+  Tag,
 } from 'lucide-react'
 import type { Category, Peptide, Supplier } from '@/lib/types'
 import { STACKS } from '@/data/peptides'
@@ -398,63 +399,56 @@ export default async function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {suppliers.map((supplier: Supplier, i: number) => {
-              const hasCrypto = supplier.payment_methods?.some(
-                m => m.toLowerCase().includes('crypto') || m.toLowerCase().includes('bitcoin')
-              )
+              const affiliateUrl = supplier.affiliate_url || supplier.url
               return (
                 <div key={supplier.id} className="bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-zinc-700 transition-colors">
                   {/* Header */}
-                  <div className="flex items-start justify-between mb-4">
-                    <div className="flex items-center gap-3">
-                      <div className="w-8 h-8 rounded-lg bg-zinc-800 border border-zinc-700 flex items-center justify-center text-sm font-bold text-zinc-400 flex-shrink-0">
+                  <div className="flex items-start justify-between mb-3">
+                    <div className="flex items-center gap-2.5">
+                      <div className="w-7 h-7 rounded-lg bg-zinc-800 border border-zinc-700 flex items-center justify-center text-xs font-bold text-zinc-400 flex-shrink-0">
                         #{i + 1}
                       </div>
                       <div>
-                        <a href={supplier.url} target="_blank" rel="noopener noreferrer"
-                          className="font-semibold text-white hover:text-blue-400 transition-colors flex items-center gap-1">
+                        <a href={affiliateUrl} target="_blank" rel="noopener noreferrer"
+                          className="font-semibold text-white hover:text-blue-400 transition-colors flex items-center gap-1 text-sm">
                           {supplier.name}
-                          <ExternalLink className="h-3 w-3 text-zinc-600" />
+                          <ExternalLink className="h-2.5 w-2.5 text-zinc-600" />
                         </a>
-                        <p className="text-xs text-zinc-500 mt-0.5">
-                          {supplier.url?.replace('https://', '').replace('http://', '')}
-                        </p>
                       </div>
                     </div>
                     <div className="flex items-center gap-1 flex-shrink-0">
-                      <Star className="h-3.5 w-3.5 text-amber-400 fill-amber-400" />
+                      <Star className="h-3 w-3 text-amber-400 fill-amber-400" />
                       <span className="text-sm font-bold text-white">{supplier.rating.toFixed(1)}</span>
                     </div>
                   </div>
 
                   {/* Badges */}
-                  <div className="flex flex-wrap gap-1.5 mb-4">
+                  <div className="flex flex-wrap gap-1.5 mb-3">
                     {supplier.has_coa && (
                       <span className="flex items-center gap-1 text-xs px-2 py-0.5 rounded-full bg-emerald-500/10 text-emerald-400 border border-emerald-500/20">
-                        <CheckCircle className="h-3 w-3" /> COA Verified
+                        <CheckCircle className="h-3 w-3" /> COA
                       </span>
                     )}
                     {supplier.ships_internationally && (
                       <span className="flex items-center gap-1 text-xs px-2 py-0.5 rounded-full bg-blue-500/10 text-blue-400 border border-blue-500/20">
-                        <Globe className="h-3 w-3" /> Ships Worldwide
-                      </span>
-                    )}
-                    {hasCrypto && (
-                      <span className="text-xs px-2 py-0.5 rounded-full bg-zinc-800 text-zinc-400 border border-zinc-700">
-                        ₿ Crypto
+                        <Globe className="h-3 w-3" /> Worldwide
                       </span>
                     )}
                   </div>
 
-                  {/* Payment methods preview */}
-                  <div className="text-xs text-zinc-500 mb-4">
-                    {supplier.payment_methods?.slice(0, 3).join(' · ')}
-                    {(supplier.payment_methods?.length || 0) > 3 && ` +${(supplier.payment_methods?.length || 0) - 3} more`}
-                  </div>
+                  {/* Discount code */}
+                  {supplier.discount_code && (
+                    <div className="flex items-center gap-2 p-2.5 bg-blue-500/5 border border-blue-500/15 rounded-lg mb-3">
+                      <Tag className="h-3.5 w-3.5 text-blue-400 flex-shrink-0" />
+                      <span className="text-xs text-zinc-400">Code:</span>
+                      <span className="font-mono font-bold text-blue-300 text-sm">{supplier.discount_code}</span>
+                    </div>
+                  )}
 
                   {/* CTA */}
-                  <a href={supplier.url} target="_blank" rel="noopener noreferrer"
-                    className="flex items-center justify-center gap-1.5 w-full py-2 bg-zinc-800 hover:bg-zinc-700 border border-zinc-700 hover:border-zinc-600 text-zinc-300 hover:text-white text-xs font-medium rounded-lg transition-colors">
-                    Visit {supplier.name} <ExternalLink className="h-3 w-3" />
+                  <a href={affiliateUrl} target="_blank" rel="noopener noreferrer"
+                    className="flex items-center justify-center gap-1.5 w-full py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-xs font-semibold rounded-lg transition-colors">
+                    Shop {supplier.name} <ExternalLink className="h-3 w-3" />
                   </a>
                 </div>
               )

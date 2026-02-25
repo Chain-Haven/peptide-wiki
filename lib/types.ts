@@ -53,6 +53,9 @@ export interface Supplier {
   name: string
   slug: string
   url: string
+  affiliate_url: string | null
+  discount_code: string | null
+  discount_description: string | null
   has_coa: boolean
   rating: number
   payment_methods: string[]

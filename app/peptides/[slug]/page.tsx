@@ -46,10 +46,10 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 async function getPeptide(slug: string) {
   const { data, error } = await supabase
     .from('peptides')
-    .select(`
+      .select(`
       *,
       category:categories(*),
-      prices(*, supplier:suppliers(*)),
+      prices(*, supplier:suppliers(id, name, slug, url, affiliate_url, discount_code, has_coa, rating, ships_internationally)),
       research_studies(*)
     `)
     .eq('slug', slug)
@@ -293,6 +293,9 @@ export default async function PeptideDetailPage({
                     {sortedPrices.map((price: Price, i: number) => {
                       const perMg = price.quantity_mg > 0 ? price.price / price.quantity_mg : null
                       const isBest = i === 0
+                      // Always use affiliate URL for the link
+                      const linkUrl = (price.supplier as (typeof price.supplier & { affiliate_url?: string }))?.affiliate_url || price.url
+                      const discountCode = (price.supplier as (typeof price.supplier & { discount_code?: string }))?.discount_code
                       return (
                         <tr
                           key={price.id}
@@ -300,7 +303,7 @@ export default async function PeptideDetailPage({
                         >
                           <td className="py-3 pr-4">
                             <a
-                              href={price.url}
+                              href={linkUrl}
                               target="_blank"
                               rel="noopener noreferrer"
                               className="text-blue-400 hover:text-blue-300 flex items-center gap-1 transition-colors"
@@ -308,6 +311,9 @@ export default async function PeptideDetailPage({
                               {price.supplier?.name}
                               <ExternalLink className="h-3 w-3 flex-shrink-0" />
                             </a>
+                            {discountCode && (
+                              <span className="text-xs text-blue-500/70 font-mono mt-0.5 block">Code: {discountCode}</span>
+                            )}
                           </td>
                           <td className="py-3 pr-4 text-zinc-400 capitalize text-xs">{price.form?.replace('_', ' ')}</td>
                           <td className="py-3 pr-4 text-zinc-300">{price.quantity_mg}mg</td>
