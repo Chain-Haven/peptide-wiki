@@ -7,7 +7,7 @@ import {
   Globe, Shield, Thermometer, Droplets, Tag, Copy, Award,
   Zap, Activity, Lock, Info,
 } from 'lucide-react'
-import { getResearchStatusColor, getResearchStatusLabel, formatPrice } from '@/lib/utils'
+import { getResearchStatusColor, getResearchStatusLabel, formatPrice, cn } from '@/lib/utils'
 import type { Peptide, Price, ResearchStudy } from '@/lib/types'
 import PeptideCard from '@/components/PeptideCard'
 import MoleculeViewer from '@/components/MoleculeViewer'
@@ -309,6 +309,15 @@ export default async function PeptideDetailPage({
                     const affiliateUrl = (supplier as (typeof supplier & { affiliate_url?: string }))?.affiliate_url || supplier.url
                     const discountCode = (supplier as (typeof supplier & { discount_code?: string }))?.discount_code
                     const lowestVendorPrice = Math.min(...prices.map((p: Price) => p.price))
+                    // Stock summary for this vendor
+                    const anyInStock = prices.some((p: Price & { in_stock?: boolean; stock_source?: string; last_checked_at?: string | null }) =>
+                      p.in_stock !== false || p.stock_source === 'login_gated' || !p.last_checked_at
+                    )
+                    const lastChecked = prices
+                      .map((p: Price & { last_checked_at?: string | null }) => p.last_checked_at)
+                      .filter(Boolean)
+                      .sort()
+                      .pop() as string | undefined
 
                     return (
                       <div key={supplierSlug} className="px-6 py-4 hover:bg-zinc-800/20 transition-colors">
@@ -327,19 +336,44 @@ export default async function PeptideDetailPage({
                                   <CheckCircle className="h-3 w-3" /> COA
                                 </span>
                               )}
+                              {!anyInStock && (
+                                <span className="flex items-center gap-1 text-xs text-red-400 bg-red-500/10 border border-red-500/20 px-2 py-0.5 rounded-full">
+                                  Out of Stock
+                                </span>
+                              )}
+                              {lastChecked && (
+                                <span className="text-xs text-zinc-600" title={new Date(lastChecked).toLocaleString()}>
+                                  Checked {Math.round((Date.now() - new Date(lastChecked).getTime()) / 3_600_000)}h ago
+                                </span>
+                              )}
                             </div>
                             {meta?.description && (
                               <p className="text-xs text-zinc-500 mb-2">{meta.description}</p>
                             )}
-                            {/* Size options */}
+                            {/* Size options with stock status */}
                             <div className="flex flex-wrap gap-1.5">
-                              {prices.map((price: Price) => (
-                                <a key={price.id} href={affiliateUrl} target="_blank" rel="noopener noreferrer"
-                                  className="text-xs px-2.5 py-1 bg-zinc-800 hover:bg-zinc-700 border border-zinc-700 hover:border-zinc-500 rounded-lg text-zinc-300 transition-colors">
-                                  {price.quantity_mg}mg — <span className="font-semibold text-white">{formatPrice(price.price)}</span>
-                                  <span className="text-zinc-500 ml-1 capitalize">({price.form?.replace('_', ' ')})</span>
-                                </a>
-                              ))}
+                              {prices.map((price: Price & { in_stock?: boolean; last_checked_at?: string | null; stock_source?: string }) => {
+                                const isLoginGated = price.stock_source === 'login_gated'
+                                const unchecked = !price.last_checked_at && !isLoginGated
+                                const outOfStock = !price.in_stock && !isLoginGated && !unchecked
+
+                                return (
+                                  <a key={price.id} href={outOfStock ? undefined : affiliateUrl}
+                                    target={outOfStock ? undefined : '_blank'}
+                                    rel="noopener noreferrer"
+                                    className={cn(
+                                      'text-xs px-2.5 py-1 border rounded-lg transition-colors',
+                                      outOfStock
+                                        ? 'bg-red-500/5 border-red-500/20 text-zinc-500 cursor-not-allowed line-through'
+                                        : 'bg-zinc-800 hover:bg-zinc-700 border-zinc-700 hover:border-zinc-500 text-zinc-300'
+                                    )}>
+                                    {price.quantity_mg}mg — <span className={cn('font-semibold', outOfStock ? 'text-zinc-600' : 'text-white')}>{formatPrice(price.price)}</span>
+                                    <span className="text-zinc-500 ml-1 capitalize">({price.form?.replace('_', ' ')})</span>
+                                    {outOfStock && <span className="ml-1 text-red-400 no-underline not-italic text-xs">Out of stock</span>}
+                                    {unchecked && <span className="ml-1 text-zinc-600 text-xs">⏱</span>}
+                                  </a>
+                                )
+                              })}
                             </div>
                           </div>
 
