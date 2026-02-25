@@ -4,7 +4,8 @@ import { useEffect, useState, useCallback } from 'react'
 import { supabase } from '@/lib/supabase'
 import {
   RefreshCw, CheckCircle, XCircle, AlertCircle, Clock, ExternalLink,
-  BarChart3, Search, Filter, ShieldCheck, Zap
+  BarChart3, Search, Filter, ShieldCheck, Zap, Brain, BookOpen, Play,
+  Sparkles, TrendingUp, Eye
 } from 'lucide-react'
 import Link from 'next/link'
 import { cn } from '@/lib/utils'
@@ -34,6 +35,29 @@ type LogRow = {
   triggered_by: string
 }
 
+type AILogRow = {
+  id: string
+  peptide_name: string
+  supplier_slug: string
+  product_url: string
+  action: string
+  confidence: number
+  reasoning: string
+  page_title: string
+  detected_price: number | null
+  detected_stock: boolean
+  detected_product_name: string
+  was_overridden: boolean
+  created_at: string
+}
+
+type LearningNote = {
+  id: string
+  note: string
+  source: string
+  created_at: string
+}
+
 function timeAgo(iso: string | null): string {
   if (!iso) return 'Never'
   const diff = Date.now() - new Date(iso).getTime()
@@ -58,8 +82,16 @@ export default function InventoryAdminPage() {
   const [secretInput, setSecretInput] = useState('')
   const [authed, setAuthed] = useState(false)
 
+  // AI scraper state
+  const [aiLogs, setAiLogs] = useState<AILogRow[]>([])
+  const [learningNotes, setLearningNotes] = useState<LearningNote[]>([])
+  const [aiSyncing, setAiSyncing] = useState(false)
+  const [aiReviewing, setAiReviewing] = useState(false)
+  const [aiResult, setAiResult] = useState<Record<string, unknown> | null>(null)
+  const [activeTab, setActiveTab] = useState<'inventory' | 'ai'>('inventory')
+
   const fetchData = useCallback(async () => {
-    const [pricesRes, logsRes] = await Promise.all([
+    const [pricesRes, logsRes, aiLogsRes, notesRes] = await Promise.all([
       supabase
         .from('prices')
         .select('id, product_url, in_stock, last_checked_at, check_error, stock_source, price, quantity_mg, form, peptide:peptides(name, slug), supplier:suppliers(name, slug, affiliate_url)')
@@ -69,10 +101,22 @@ export default function InventoryAdminPage() {
         .select('*')
         .order('run_at', { ascending: false })
         .limit(10),
+      supabase
+        .from('scraper_ai_log')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(50),
+      supabase
+        .from('scraper_learning')
+        .select('*')
+        .order('created_at', { ascending: false })
+        .limit(20),
     ])
 
     if (pricesRes.data) setPrices(pricesRes.data as unknown as PriceRow[])
     if (logsRes.data) setLogs(logsRes.data)
+    if (aiLogsRes.data) setAiLogs(aiLogsRes.data as AILogRow[])
+    if (notesRes.data) setLearningNotes(notesRes.data as LearningNote[])
     setLoading(false)
   }, [])
 
@@ -100,6 +144,58 @@ export default function InventoryAdminPage() {
     } finally {
       setSyncing(false)
     }
+  }
+
+  // AI Scraper handlers
+  const handleAiScraper = async () => {
+    setAiSyncing(true)
+    setAiResult(null)
+    try {
+      const baseUrl = window.location.origin
+      const res = await fetch(`${baseUrl}/api/cron/ai-scraper`, {
+        headers: {
+          'Authorization': `Bearer ${secretInput}`,
+          'x-triggered-by': 'admin_manual',
+        },
+      })
+      const data = await res.json() as Record<string, unknown>
+      setAiResult(data)
+      if (res.ok) await fetchData()
+    } catch (err) {
+      setAiResult({ error: 'Network error', details: String(err) })
+    } finally {
+      setAiSyncing(false)
+    }
+  }
+
+  const handleSelfReview = async () => {
+    setAiReviewing(true)
+    setAiResult(null)
+    try {
+      const baseUrl = window.location.origin
+      const res = await fetch(`${baseUrl}/api/cron/ai-self-review`, {
+        headers: {
+          'Authorization': `Bearer ${secretInput}`,
+          'x-triggered-by': 'admin_manual',
+        },
+      })
+      const data = await res.json() as Record<string, unknown>
+      setAiResult(data)
+      if (res.ok) await fetchData()
+    } catch (err) {
+      setAiResult({ error: 'Network error', details: String(err) })
+    } finally {
+      setAiReviewing(false)
+    }
+  }
+
+  const ACTION_COLORS: Record<string, string> = {
+    KEEP: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20',
+    MARK_OOS: 'bg-red-500/10 text-red-400 border-red-500/20',
+    MARK_INSTOCK: 'bg-blue-500/10 text-blue-400 border-blue-500/20',
+    UPDATE_PRICE: 'bg-amber-500/10 text-amber-400 border-amber-500/20',
+    FLAG_WRONG: 'bg-orange-500/10 text-orange-400 border-orange-500/20',
+    REMOVE_DEAD: 'bg-red-500/10 text-red-400 border-red-500/20',
   }
 
   // Compute stats
@@ -199,7 +295,30 @@ export default function InventoryAdminPage() {
 
       <div className="container mx-auto px-4 py-8 max-w-7xl space-y-6">
 
-        {/* Sync result */}
+        {/* ═══ Tab navigation ═══ */}
+        <div className="flex gap-2 p-1 bg-zinc-900 border border-zinc-800 rounded-xl">
+          {[
+            { id: 'inventory' as const, label: 'Inventory', icon: BarChart3 },
+            { id: 'ai' as const, label: 'AI Scraper', icon: Brain },
+          ].map(tab => {
+            const Icon = tab.icon
+            return (
+              <button key={tab.id} onClick={() => setActiveTab(tab.id)}
+                className={cn(
+                  'flex-1 flex items-center justify-center gap-2 px-4 py-2.5 rounded-lg text-sm font-medium transition-all',
+                  activeTab === tab.id ? 'bg-blue-600 text-white' : 'text-zinc-400 hover:text-white hover:bg-zinc-800'
+                )}>
+                <Icon className="h-4 w-4" />
+                {tab.label}
+                {tab.id === 'ai' && aiLogs.length > 0 && (
+                  <span className="bg-purple-600 text-white text-xs px-1.5 py-0.5 rounded-full">{aiLogs.length}</span>
+                )}
+              </button>
+            )
+          })}
+        </div>
+
+        {/* Sync result (always visible) */}
         {syncResult && (
           <div className={cn(
             'p-4 rounded-xl border text-sm',
@@ -210,6 +329,97 @@ export default function InventoryAdminPage() {
             <pre className="whitespace-pre-wrap font-mono text-xs">{JSON.stringify(syncResult, null, 2)}</pre>
           </div>
         )}
+
+        {/* ═══ AI Scraper Tab ═══ */}
+        {activeTab === 'ai' && (
+          <div className="space-y-6">
+            <div className="flex flex-wrap gap-3">
+              <button onClick={handleAiScraper} disabled={aiSyncing}
+                className={cn('flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-semibold transition-all',
+                  aiSyncing ? 'bg-zinc-700 text-zinc-400 cursor-wait' : 'bg-purple-600 hover:bg-purple-500 text-white shadow-lg shadow-purple-500/20')}>
+                <Brain className={cn('h-4 w-4', aiSyncing && 'animate-pulse')} />
+                {aiSyncing ? 'AI Analyzing...' : 'Run AI Scraper Now'}
+              </button>
+              <button onClick={handleSelfReview} disabled={aiReviewing}
+                className={cn('flex items-center gap-2 px-5 py-2.5 rounded-xl text-sm font-semibold transition-all',
+                  aiReviewing ? 'bg-zinc-700 text-zinc-400 cursor-wait' : 'bg-cyan-600 hover:bg-cyan-500 text-white')}>
+                <Sparkles className={cn('h-4 w-4', aiReviewing && 'animate-spin')} />
+                {aiReviewing ? 'Reviewing...' : 'Run Self-Review'}
+              </button>
+            </div>
+            {aiResult && (
+              <div className={cn('p-4 rounded-xl border text-sm',
+                'error' in aiResult ? 'bg-red-500/10 border-red-500/20 text-red-400' : 'bg-purple-500/10 border-purple-500/20 text-purple-300')}>
+                <pre className="whitespace-pre-wrap font-mono text-xs">{JSON.stringify(aiResult, null, 2)}</pre>
+              </div>
+            )}
+            {aiLogs.length > 0 && (
+              <div className="grid grid-cols-2 md:grid-cols-6 gap-3">
+                {Object.entries(aiLogs.reduce((acc: Record<string, number>, l) => { acc[l.action] = (acc[l.action] || 0) + 1; return acc }, {})).map(([action, count]) => (
+                  <div key={action} className="bg-zinc-900 border border-zinc-800 rounded-xl p-3 text-center">
+                    <span className={cn('text-xs px-2 py-0.5 rounded-full border inline-block mb-1', ACTION_COLORS[action] || 'bg-zinc-500/10 text-zinc-400 border-zinc-500/20')}>{action}</span>
+                    <div className="text-lg font-bold text-white">{count as number}</div>
+                  </div>
+                ))}
+                <div className="bg-zinc-900 border border-zinc-800 rounded-xl p-3 text-center">
+                  <span className="text-xs text-zinc-500 block mb-1">Avg Confidence</span>
+                  <div className="text-lg font-bold text-white">{(aiLogs.reduce((s, l) => s + (l.confidence || 0), 0) / aiLogs.length).toFixed(2)}</div>
+                </div>
+              </div>
+            )}
+            <div className="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden">
+              <div className="px-5 py-4 border-b border-zinc-800">
+                <h2 className="font-semibold text-white text-sm flex items-center gap-2"><Brain className="h-4 w-4 text-purple-400" /> AI Decisions ({aiLogs.length})</h2>
+              </div>
+              {aiLogs.length === 0 ? (
+                <div className="px-5 py-10 text-center text-zinc-600 text-sm">No AI decisions yet. Run the AI Scraper to start.</div>
+              ) : (
+                <div className="divide-y divide-zinc-800/40 max-h-96 overflow-y-auto">
+                  {aiLogs.map(log => (
+                    <div key={log.id} className="px-5 py-3 hover:bg-zinc-800/20 transition-colors">
+                      <div className="flex flex-wrap items-center gap-2 mb-1">
+                        <span className={cn('text-xs px-2 py-0.5 rounded-full border font-medium', ACTION_COLORS[log.action] || '')}>{log.action}</span>
+                        <span className="text-xs font-semibold text-white">{log.peptide_name}</span>
+                        <span className="text-xs text-zinc-500">@ {log.supplier_slug}</span>
+                        {log.was_overridden && <span className="text-xs text-red-400 bg-red-500/10 px-1.5 py-0.5 rounded-full">Overridden</span>}
+                      </div>
+                      <p className="text-xs text-zinc-400">{log.reasoning}</p>
+                      <div className="flex gap-3 mt-1 text-xs text-zinc-600">
+                        <span>Conf: <span className={cn('font-mono', log.confidence > 0.85 ? 'text-emerald-400' : log.confidence > 0.6 ? 'text-amber-400' : 'text-red-400')}>{log.confidence?.toFixed(2)}</span></span>
+                        {log.detected_price && <span>Price: ${Number(log.detected_price).toFixed(2)}</span>}
+                        <span>{timeAgo(log.created_at)}</span>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+            <div className="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden">
+              <div className="px-5 py-4 border-b border-zinc-800">
+                <h2 className="font-semibold text-white text-sm flex items-center gap-2"><BookOpen className="h-4 w-4 text-cyan-400" /> Learning Notes ({learningNotes.length})</h2>
+                <p className="text-xs text-zinc-500 mt-0.5">Automatically appended to AI system prompt to improve accuracy.</p>
+              </div>
+              {learningNotes.length === 0 ? (
+                <div className="px-5 py-8 text-center text-zinc-600 text-sm">No learning notes yet. Run Self-Review after accumulating AI decisions.</div>
+              ) : (
+                <div className="divide-y divide-zinc-800/40">
+                  {learningNotes.map(note => (
+                    <div key={note.id} className="px-5 py-3 flex items-start gap-3">
+                      <Sparkles className="h-3.5 w-3.5 text-cyan-400 flex-shrink-0 mt-0.5" />
+                      <div>
+                        <p className="text-sm text-zinc-300">{note.note}</p>
+                        <p className="text-xs text-zinc-600 mt-1">{note.source} · {timeAgo(note.created_at)}</p>
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              )}
+            </div>
+          </div>
+        )}
+
+        {/* ═══ Inventory Tab ═══ */}
+        {activeTab === 'inventory' && (<>
 
         {/* Stats grid */}
         <div className="grid grid-cols-2 md:grid-cols-6 gap-3">
@@ -429,6 +639,8 @@ export default function InventoryAdminPage() {
             FelixChem (login-gated — assumed in-stock)
           </div>
         </div>
+
+        </>)}
       </div>
     </div>
   )
