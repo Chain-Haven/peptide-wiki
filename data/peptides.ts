@@ -1621,6 +1621,16 @@ export const SUPPLIERS = [
     ships_internationally: true,
     logo_url: null,
   },
+  {
+    name: 'Peptide Sciences',
+    slug: 'peptide-sciences',
+    url: 'https://www.peptidesciences.com',
+    has_coa: true,
+    rating: 4.9,
+    payment_methods: ['Credit Card', 'Bitcoin', 'Ethereum', 'Bank Transfer', 'Personal Check'],
+    ships_internationally: true,
+    logo_url: null,
+  },
 ]
 
 export const STACKS = [
@@ -1671,5 +1681,37 @@ export const STACKS = [
     peptides: ['cjc-1295', 'ipamorelin', 'igf-1-lr3'],
     goal: 'Maximum muscle growth and strength',
     protocol: 'CJC-1295 + Ipamorelin as foundation. Add IGF-1 LR3: 40–80mcg post-workout. Always take with carbohydrates. 4–6 week cycles with breaks.',
+  },
+  {
+    name: 'Longevity Protocol',
+    slug: 'longevity-protocol',
+    description: 'A comprehensive longevity stack targeting telomere extension (Epithalon), mitochondrial health (SS-31 or MOTS-C), senescent cell clearance (FOXO4-DRI), and NAD+ restoration (NMN).',
+    peptides: ['epithalon', 'ss-31', 'nmn', 'ghk-cu'],
+    goal: 'Longevity, anti-aging, cellular health',
+    protocol: 'Epithalon: 5–10mg daily for 10–20 days, 2x/year. SS-31: 4–10mg/day SubQ for 4–8 weeks. NMN: 500mg/day oral ongoing. GHK-Cu: topical daily + injectable 2x/week ongoing.',
+  },
+  {
+    name: 'Gut Healing Protocol',
+    slug: 'gut-healing-protocol',
+    description: 'The most effective combination for intestinal healing, leaky gut, IBD, and GI inflammation. BPC-157 heals tissue, KPV provides anti-inflammatory action, and Larazotide seals tight junctions.',
+    peptides: ['bpc-157', 'kpv', 'larazotide'],
+    goal: 'Gut healing, leaky gut, IBD, intestinal repair',
+    protocol: 'BPC-157: 250–500mcg oral twice daily on empty stomach. KPV: 250–500mcg oral twice daily. Larazotide: 500mcg–1mg oral 3x daily before meals. Run 4–8 weeks.',
+  },
+  {
+    name: 'Senolytic Protocol',
+    slug: 'senolytic-protocol',
+    description: 'FOXO4-DRI selectively destroys senescent cells while Epithalon protects telomere length and thymosin alpha-1 rebuilds immune function following senescent cell clearance.',
+    peptides: ['foxo4-dri', 'epithalon', 'thymosin-alpha-1'],
+    goal: 'Senescent cell clearance, anti-aging, immune rebuild',
+    protocol: 'FOXO4-DRI: 5–10mg SubQ for 3 consecutive days per monthly cycle. Epithalon: 5mg/day for 10–20 days, 2x/year. Thymosin Alpha-1: 1.6mg 2x/week for 6 weeks following FOXO4-DRI cycle.',
+  },
+  {
+    name: 'Exercise Mimetic Stack',
+    slug: 'exercise-mimetic-stack',
+    description: 'AICAR activates AMPK and MOTS-C activates skeletal muscle metabolism independently — together they activate complementary metabolic pathways that mimic the effects of endurance exercise.',
+    peptides: ['aicar', 'mots-c', 'slu-pp-332'],
+    goal: 'Metabolic enhancement, endurance, insulin sensitivity',
+    protocol: 'AICAR: 500mg SubQ daily for 2–4 weeks. MOTS-C: 5–10mg 3–5x/week. SLU-PP-332: 1mg oral daily. Cycle 4–8 weeks.',
   },
 ]
