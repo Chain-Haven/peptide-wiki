@@ -1631,6 +1631,26 @@ export const SUPPLIERS = [
     ships_internationally: true,
     logo_url: null,
   },
+  {
+    name: 'PeptideTech',
+    slug: 'peptide-tech',
+    url: 'https://peptidetech.co',
+    has_coa: true,
+    rating: 4.7,
+    payment_methods: ['Credit Card', 'Crypto', 'Bank Transfer'],
+    ships_internationally: true,
+    logo_url: null,
+  },
+  {
+    name: 'Modified Aminos',
+    slug: 'modified-aminos',
+    url: 'https://www.modifiedaminos.com',
+    has_coa: true,
+    rating: 4.6,
+    payment_methods: ['Credit Card', 'Crypto', 'Zelle', 'CashApp'],
+    ships_internationally: false,
+    logo_url: null,
+  },
 ]
 
 export const STACKS = [
