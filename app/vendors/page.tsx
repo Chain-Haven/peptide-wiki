@@ -87,7 +87,7 @@ export default function VendorsPage() {
   const [suppliers, setSuppliers] = useState<Supplier[]>([])
 
   useEffect(() => {
-    supabase.from('suppliers').select('*').order('rating', { ascending: false }).then(({ data }) => {
+    supabase.from('suppliers').select('*').order('display_order', { ascending: true }).then(({ data }) => {
       if (data) setSuppliers(data)
     })
   }, [])

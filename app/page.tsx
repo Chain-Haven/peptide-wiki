@@ -45,7 +45,7 @@ async function getHomeData() {
         .in('research_status', ['fda_approved', 'prescription'])
         .order('name')
         .limit(4),
-      supabase.from('suppliers').select('*').order('rating', { ascending: false }),
+      supabase.from('suppliers').select('*').order('display_order', { ascending: true }),
       supabase.from('research_studies').select('id', { count: 'exact', head: true }),
       supabase.from('peptides').select('id', { count: 'exact', head: true }),
     ])
