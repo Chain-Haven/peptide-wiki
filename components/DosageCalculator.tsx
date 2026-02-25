@@ -16,6 +16,7 @@ import {
   Info,
   Layers,
   Clock,
+  ExternalLink,
 } from 'lucide-react'
 import { getResearchStatusColor, getResearchStatusLabel, formatPrice } from '@/lib/utils'
 import {
@@ -25,6 +26,7 @@ import {
   type Protocol,
 } from '@/data/protocols'
 import { cn } from '@/lib/utils'
+import SyringeCalculator from '@/components/SyringeCalculator'
 
 interface PeptideRow {
   id: string
@@ -43,12 +45,13 @@ interface PeptideRow {
   research_status: string
 }
 
-type Tab = 'reconstitution' | 'dosage' | 'volume' | 'protocol' | 'reference'
+type Tab = 'syringe' | 'reconstitution' | 'dosage' | 'volume' | 'protocol' | 'reference'
 
-const TABS: { id: Tab; label: string; icon: React.ComponentType<{ className?: string }> }[] = [
+const TABS: { id: Tab; label: string; icon: React.ComponentType<{ className?: string }>; badge?: string }[] = [
+  { id: 'syringe', label: 'Syringe Calc', icon: Syringe, badge: 'New' },
   { id: 'reconstitution', label: 'Reconstitution', icon: Droplets },
   { id: 'dosage', label: 'Dosage Calc', icon: Calculator },
-  { id: 'volume', label: 'Injection Volume', icon: Syringe },
+  { id: 'volume', label: 'Injection Volume', icon: FlaskConical },
   { id: 'protocol', label: 'Protocol Guide', icon: BookOpen },
   { id: 'reference', label: 'Quick Reference', icon: Table2 },
 ]
@@ -1079,6 +1082,47 @@ function ProtocolTab() {
             </SectionCard>
           </div>
 
+          {/* Dosing References */}
+          {protocol.dosingReferences && protocol.dosingReferences.length > 0 && (
+            <SectionCard>
+              <h3 className="font-semibold text-white mb-4 flex items-center gap-2">
+                <ExternalLink className="h-5 w-5 text-blue-400" />
+                Dosing References & Sources
+              </h3>
+              <div className="space-y-3">
+                {protocol.dosingReferences.map((ref, i) => (
+                  <div key={i} className="p-4 bg-zinc-800/50 border border-zinc-700 rounded-xl text-xs">
+                    <div className="flex items-start gap-2 mb-2">
+                      <span className="text-zinc-600 font-bold mt-0.5 flex-shrink-0">[{i + 1}]</span>
+                      <p className="font-medium text-zinc-200 leading-snug">{ref.title}</p>
+                    </div>
+                    <p className="text-zinc-500 mb-1.5 ml-5">
+                      {ref.authors} · <em className="text-zinc-400">{ref.journal}</em> · {ref.year}
+                    </p>
+                    {ref.note && (
+                      <p className="text-zinc-400 italic mb-2 ml-5 text-xs leading-relaxed">{ref.note}</p>
+                    )}
+                    <div className="flex gap-3 ml-5">
+                      {ref.doi && (
+                        <a href={`https://doi.org/${ref.doi}`} target="_blank" rel="noopener noreferrer"
+                          className="text-blue-400 hover:text-blue-300 flex items-center gap-1 transition-colors">
+                          DOI: {ref.doi.substring(0, 20)}{ref.doi.length > 20 ? '…' : ''}
+                          <ExternalLink className="h-2.5 w-2.5" />
+                        </a>
+                      )}
+                      {ref.url && (
+                        <a href={ref.url} target="_blank" rel="noopener noreferrer"
+                          className="text-blue-400 hover:text-blue-300 flex items-center gap-1 transition-colors">
+                          View Paper <ExternalLink className="h-2.5 w-2.5" />
+                        </a>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </SectionCard>
+          )}
+
           <div className="flex justify-end">
             <Link
               href={`/peptides/${protocol.slug}`}
@@ -1162,6 +1206,7 @@ function ReferenceTab({ peptides }: { peptides: PeptideRow[] }) {
                 <th className="text-left px-5 py-3">Frequency</th>
                 <th className="text-left px-5 py-3">Cycle</th>
                 <th className="text-left px-5 py-3">Routes</th>
+                <th className="text-left px-5 py-3">Sources</th>
               </tr>
             </thead>
             <tbody className="divide-y divide-zinc-800/50">
@@ -1204,6 +1249,33 @@ function ReferenceTab({ peptides }: { peptides: PeptideRow[] }) {
                         ))}
                       </div>
                     </td>
+                    <td className="px-5 py-3">
+                      {(() => {
+                        const proto = PROTOCOLS.find(pr => pr.slug === p.slug)
+                        const refs = proto?.dosingReferences
+                        if (!refs || refs.length === 0) return (
+                          <a href={`https://pubmed.ncbi.nlm.nih.gov/?term=${encodeURIComponent(p.name)}`}
+                            target="_blank" rel="noopener noreferrer"
+                            className="text-xs text-zinc-600 hover:text-blue-400 flex items-center gap-1 transition-colors">
+                            PubMed <ExternalLink className="h-2.5 w-2.5" />
+                          </a>
+                        )
+                        return (
+                          <div className="flex flex-col gap-1">
+                            {refs.slice(0, 2).map((ref, i) => (
+                              <a key={i}
+                                href={ref.url || (ref.doi ? `https://doi.org/${ref.doi}` : '#')}
+                                target="_blank" rel="noopener noreferrer"
+                                title={`${ref.title} (${ref.journal}, ${ref.year})`}
+                                className="text-xs text-blue-400 hover:text-blue-300 flex items-center gap-0.5 transition-colors truncate max-w-32">
+                                [{i + 1}] {ref.journal.split(' ').slice(0, 2).join(' ')} {ref.year}
+                                <ExternalLink className="h-2.5 w-2.5 flex-shrink-0" />
+                              </a>
+                            ))}
+                          </div>
+                        )
+                      })()}
+                    </td>
                   </tr>
                 )
               })}
@@ -1218,7 +1290,7 @@ function ReferenceTab({ peptides }: { peptides: PeptideRow[] }) {
 // ─── Main Component ───────────────────────────────────────────────────────────
 
 export default function DosageCalculatorClient({ peptides }: { peptides: PeptideRow[] }) {
-  const [activeTab, setActiveTab] = useState<Tab>('reconstitution')
+  const [activeTab, setActiveTab] = useState<Tab>('syringe')
 
   return (
     <div className="container mx-auto px-4 py-10 max-w-6xl">
@@ -1229,7 +1301,7 @@ export default function DosageCalculatorClient({ peptides }: { peptides: Peptide
           <h1 className="text-3xl font-bold text-white">Peptide Calculator</h1>
         </div>
         <p className="text-zinc-400">
-          Reconstitution calculator, dosage calculator, injection volume calculator, per-peptide protocol guides, and full reference table.
+          Visual syringe calculator, reconstitution, dosage, injection volume, protocol guides with clinical citations, and quick reference.
         </p>
       </div>
 
@@ -1242,7 +1314,7 @@ export default function DosageCalculatorClient({ peptides }: { peptides: Peptide
               key={tab.id}
               onClick={() => setActiveTab(tab.id)}
               className={cn(
-                'flex items-center gap-2 px-4 py-2.5 rounded-lg text-sm font-medium transition-all flex-1 justify-center',
+                'relative flex items-center gap-2 px-3 py-2.5 rounded-lg text-sm font-medium transition-all flex-1 justify-center',
                 activeTab === tab.id
                   ? 'bg-blue-600 text-white shadow-sm'
                   : 'text-zinc-400 hover:text-white hover:bg-zinc-800'
@@ -1250,6 +1322,14 @@ export default function DosageCalculatorClient({ peptides }: { peptides: Peptide
             >
               <Icon className="h-4 w-4" />
               <span className="hidden sm:inline">{tab.label}</span>
+              {tab.badge && (
+                <span className={cn(
+                  'absolute -top-1.5 -right-1 text-xs px-1.5 py-0.5 rounded-full font-bold leading-none',
+                  activeTab === tab.id ? 'bg-white text-blue-600' : 'bg-blue-600 text-white'
+                )}>
+                  {tab.badge}
+                </span>
+              )}
             </button>
           )
         })}
@@ -1257,6 +1337,7 @@ export default function DosageCalculatorClient({ peptides }: { peptides: Peptide
 
       {/* Tab content */}
       <div>
+        {activeTab === 'syringe' && <SyringeCalculator peptides={peptides} />}
         {activeTab === 'reconstitution' && <ReconstitutionTab />}
         {activeTab === 'dosage' && <DosageTab peptides={peptides} />}
         {activeTab === 'volume' && <VolumeTab />}
