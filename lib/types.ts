@@ -33,6 +33,14 @@ export interface Peptide {
   amino_acid_count: number | null
   wikipedia_url: string | null
   iupac_name: string | null
+  // Extended fields
+  amino_acid_sequence: string | null
+  peptide_type: string | null
+  storage_temp: string | null
+  storage_duration: string | null
+  reconstitution_solvent: string | null
+  wada_banned: boolean
+  origin: string | null
   created_at: string
   updated_at: string
   prices?: Price[]
