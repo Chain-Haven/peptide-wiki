@@ -3,6 +3,7 @@ import { Geist, Geist_Mono } from 'next/font/google'
 import './globals.css'
 import Navbar from '@/components/Navbar'
 import Footer from '@/components/Footer'
+import ChatWidget from '@/components/ChatWidget'
 
 const geistSans = Geist({
   variable: '--font-geist-sans',
@@ -20,7 +21,7 @@ export const metadata: Metadata = {
     template: '%s | PeptideWiki',
   },
   description:
-    'The most comprehensive peptide research database. Explore 40+ peptides with detailed mechanism of action, dosage protocols, vendor prices, research studies, and stack recommendations.',
+    'The most comprehensive peptide research database. Explore 61+ peptides with detailed mechanism of action, dosage protocols, vendor prices, research studies, stack recommendations, and AI-powered chat.',
   keywords: ['peptides', 'BPC-157', 'TB-500', 'semaglutide', 'research peptides', 'peptide database'],
   openGraph: {
     title: 'PeptideWiki — Comprehensive Peptide Research Database',
@@ -42,6 +43,7 @@ export default function RootLayout({
         <Navbar />
         <main>{children}</main>
         <Footer />
+        <ChatWidget />
       </body>
     </html>
   )
