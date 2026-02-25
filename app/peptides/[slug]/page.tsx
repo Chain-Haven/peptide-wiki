@@ -36,13 +36,31 @@ async function getPeptide(slug: string) {
     .select(`
       *,
       category:categories(*),
-      prices(*, supplier:suppliers(id, name, slug, url, affiliate_url, discount_code, has_coa, rating, ships_internationally, payment_methods)),
+      prices(id, price, quantity_mg, form, url, product_url, in_stock, last_checked_at, stock_source, supplier:suppliers(id, name, slug, url, affiliate_url, discount_code, discount_description, has_coa, rating, ships_internationally)),
       research_studies(*)
     `)
     .eq('slug', slug)
     .single()
   if (error || !data) return null
   return data
+}
+
+// Build the direct affiliate product URL for a price row
+function buildBuyUrl(
+  productUrl: string | null,
+  supplierSlug: string,
+  affiliateUrl: string
+): string {
+  if (!productUrl || supplierSlug === 'felix-chem') return affiliateUrl
+  const params: Record<string, string> = {
+    'peptide-tech': '?ref=bre&utm_source=affiliate',
+    'vandl-labs': '?ref=BRE',
+    'modified-aminos': '?ref=bre',
+    'modern-aminos': '?ref=bre',
+  }
+  const suffix = params[supplierSlug] || ''
+  const clean = productUrl.replace(/\/$/, '')
+  return suffix ? `${clean}${suffix}` : affiliateUrl
 }
 
 async function getRelatedPeptides(categoryId: string, currentSlug: string) {
@@ -281,114 +299,149 @@ export default async function PeptideDetailPage({
             {/* ═══════════ WHERE TO BUY ═══════════ */}
             {sortedPrices.length > 0 && (
               <section id="where-to-buy" className="bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden">
-                <div className="px-6 py-5 border-b border-zinc-800 flex items-center justify-between">
-                  <div>
-                    <h2 className="text-lg font-semibold text-white flex items-center gap-2">
-                      <DollarSign className="h-5 w-5 text-blue-400" />
-                      Where to Buy {peptide.name}
-                    </h2>
-                    <p className="text-xs text-zinc-500 mt-0.5">
-                      {Object.keys(pricesBySupplier).length} vendor{Object.keys(pricesBySupplier).length !== 1 ? 's' : ''} · Affiliate links — use codes below to save
-                    </p>
-                  </div>
-                  {lowestPrice && (
-                    <div className="text-right">
-                      <p className="text-xs text-zinc-500">Best price</p>
-                      <p className="text-xl font-black text-emerald-400">{formatPrice(lowestPrice)}</p>
+                {/* Header */}
+                <div className="px-6 py-5 border-b border-zinc-800">
+                  <div className="flex items-start justify-between gap-4">
+                    <div>
+                      <h2 className="text-lg font-semibold text-white flex items-center gap-2">
+                        <DollarSign className="h-5 w-5 text-blue-400" />
+                        Where to Buy {peptide.name}
+                      </h2>
+                      <p className="text-xs text-zinc-500 mt-1">
+                        {sortedPrices.length} option{sortedPrices.length !== 1 ? 's' : ''} across {Object.keys(pricesBySupplier).length} vendor{Object.keys(pricesBySupplier).length !== 1 ? 's' : ''} · Sorted cheapest first · All include direct product link
+                      </p>
                     </div>
-                  )}
+                    {lowestPrice && (
+                      <div className="text-right flex-shrink-0">
+                        <p className="text-xs text-zinc-500">From</p>
+                        <p className="text-2xl font-black text-emerald-400">{formatPrice(lowestPrice)}</p>
+                      </div>
+                    )}
+                  </div>
                 </div>
 
-                {/* Vendor cards */}
-                <div className="divide-y divide-zinc-800/60">
-                  {Object.entries(pricesBySupplier).map(([supplierSlug, vendorPrices]) => {
+                {/* Flat price table sorted lowest → highest */}
+                <div className="divide-y divide-zinc-800/40">
+                  {sortedPrices.map((price: Price & {
+                    product_url?: string | null
+                    in_stock?: boolean
+                    last_checked_at?: string | null
+                    stock_source?: string
+                  }, idx: number) => {
                     // eslint-disable-next-line @typescript-eslint/no-explicit-any
-                    const prices = vendorPrices as any[]
-                    const supplier = prices[0].supplier!
+                    const sup = price.supplier as any
+                    if (!sup) return null
+
+                    const supplierSlug: string = sup.slug || ''
+                    const affiliateUrl: string = sup.affiliate_url || sup.url || '#'
+                    const discountCode: string | null = sup.discount_code || null
                     const meta = VENDOR_META[supplierSlug]
-                    const affiliateUrl = (supplier as (typeof supplier & { affiliate_url?: string }))?.affiliate_url || supplier.url
-                    const discountCode = (supplier as (typeof supplier & { discount_code?: string }))?.discount_code
-                    const lowestVendorPrice = Math.min(...prices.map((p: Price) => p.price))
-                    // Stock summary for this vendor
-                    const anyInStock = prices.some((p: Price & { in_stock?: boolean; stock_source?: string; last_checked_at?: string | null }) =>
-                      p.in_stock !== false || p.stock_source === 'login_gated' || !p.last_checked_at
-                    )
-                    const lastChecked = prices
-                      .map((p: Price & { last_checked_at?: string | null }) => p.last_checked_at)
-                      .filter(Boolean)
-                      .sort()
-                      .pop() as string | undefined
+
+                    // Build direct product buy URL
+                    const buyUrl = buildBuyUrl(price.product_url || null, supplierSlug, affiliateUrl)
+
+                    // Stock status
+                    const isLoginGated = price.stock_source === 'login_gated'
+                    const unchecked = !price.last_checked_at && !isLoginGated
+                    const outOfStock = price.in_stock === false && !isLoginGated && !unchecked
+
+                    const isBestPrice = idx === 0
+                    const perMg = price.quantity_mg > 0 ? price.price / price.quantity_mg : null
 
                     return (
-                      <div key={supplierSlug} className="px-6 py-4 hover:bg-zinc-800/20 transition-colors">
-                        <div className="flex flex-col sm:flex-row sm:items-center gap-4">
-                          {/* Vendor info */}
-                          <div className="flex-1">
-                            <div className="flex flex-wrap items-center gap-2 mb-1">
-                              <span className="font-semibold text-white">{supplier.name}</span>
+                      <div key={price.id}
+                        className={cn(
+                          'px-5 py-4 hover:bg-zinc-800/30 transition-colors',
+                          isBestPrice && 'bg-emerald-500/5',
+                          outOfStock && 'opacity-60'
+                        )}>
+                        <div className="flex flex-col sm:flex-row sm:items-center gap-3">
+
+                          {/* Price + size */}
+                          <div className="flex items-center gap-4 flex-shrink-0 min-w-36">
+                            <div>
+                              {isBestPrice && (
+                                <span className="text-xs text-emerald-400 font-semibold uppercase tracking-wide block mb-0.5">
+                                  Best Price
+                                </span>
+                              )}
+                              <span className="text-2xl font-black text-white">{formatPrice(price.price)}</span>
+                              <span className="text-xs text-zinc-500 ml-1.5">/ {price.quantity_mg}mg</span>
+                              {perMg && (
+                                <div className="text-xs text-zinc-600 mt-0.5">
+                                  {formatPrice(perMg)}/mg
+                                </div>
+                              )}
+                            </div>
+                          </div>
+
+                          {/* Vendor + form + stock */}
+                          <div className="flex-1 min-w-0">
+                            <div className="flex flex-wrap items-center gap-1.5 mb-1">
+                              <span className="font-semibold text-sm text-white">{sup.name}</span>
                               {meta?.badge && (
                                 <span className={`text-xs px-2 py-0.5 rounded-full border ${meta.badgeColor}`}>
                                   {meta.badge}
                                 </span>
                               )}
-                              {supplier.has_coa && (
-                                <span className="flex items-center gap-1 text-xs text-emerald-400">
+                              {sup.has_coa && (
+                                <span className="flex items-center gap-0.5 text-xs text-emerald-400">
                                   <CheckCircle className="h-3 w-3" /> COA
                                 </span>
                               )}
-                              {!anyInStock && (
-                                <span className="flex items-center gap-1 text-xs text-red-400 bg-red-500/10 border border-red-500/20 px-2 py-0.5 rounded-full">
+                              {outOfStock && (
+                                <span className="text-xs text-red-400 bg-red-500/10 border border-red-500/20 px-1.5 py-0.5 rounded-full">
                                   Out of Stock
                                 </span>
                               )}
-                              {lastChecked && (
-                                <span className="text-xs text-zinc-600" title={new Date(lastChecked).toLocaleString()}>
-                                  Checked {Math.round((Date.now() - new Date(lastChecked).getTime()) / 3_600_000)}h ago
+                              {unchecked && (
+                                <span className="text-xs text-zinc-600">⏱ Stock unverified</span>
+                              )}
+                            </div>
+
+                            {/* Form + direct URL indicator */}
+                            <div className="flex flex-wrap items-center gap-2 text-xs">
+                              <span className="bg-zinc-800 border border-zinc-700 px-2 py-0.5 rounded-full text-zinc-400 capitalize">
+                                {price.form?.replace('_', ' ')}
+                              </span>
+                              {price.quantity_mg && (
+                                <span className="text-zinc-500">{price.quantity_mg}mg vial</span>
+                              )}
+                              {price.product_url && (
+                                <span className="text-zinc-600 flex items-center gap-0.5">
+                                  <ExternalLink className="h-2.5 w-2.5" /> direct product link
                                 </span>
                               )}
                             </div>
-                            {meta?.description && (
-                              <p className="text-xs text-zinc-500 mb-2">{meta.description}</p>
-                            )}
-                            {/* Size options with stock status */}
-                            <div className="flex flex-wrap gap-1.5">
-                              {prices.map((price: Price & { in_stock?: boolean; last_checked_at?: string | null; stock_source?: string }) => {
-                                const isLoginGated = price.stock_source === 'login_gated'
-                                const unchecked = !price.last_checked_at && !isLoginGated
-                                const outOfStock = !price.in_stock && !isLoginGated && !unchecked
 
-                                return (
-                                  <a key={price.id} href={outOfStock ? undefined : affiliateUrl}
-                                    target={outOfStock ? undefined : '_blank'}
-                                    rel="noopener noreferrer"
-                                    className={cn(
-                                      'text-xs px-2.5 py-1 border rounded-lg transition-colors',
-                                      outOfStock
-                                        ? 'bg-red-500/5 border-red-500/20 text-zinc-500 cursor-not-allowed line-through'
-                                        : 'bg-zinc-800 hover:bg-zinc-700 border-zinc-700 hover:border-zinc-500 text-zinc-300'
-                                    )}>
-                                    {price.quantity_mg}mg — <span className={cn('font-semibold', outOfStock ? 'text-zinc-600' : 'text-white')}>{formatPrice(price.price)}</span>
-                                    <span className="text-zinc-500 ml-1 capitalize">({price.form?.replace('_', ' ')})</span>
-                                    {outOfStock && <span className="ml-1 text-red-400 no-underline not-italic text-xs">Out of stock</span>}
-                                    {unchecked && <span className="ml-1 text-zinc-600 text-xs">⏱</span>}
-                                  </a>
-                                )
-                              })}
-                            </div>
-                          </div>
-
-                          {/* Discount code + CTA */}
-                          <div className="flex flex-col gap-2 items-end flex-shrink-0">
+                            {/* Coupon code */}
                             {discountCode && (
-                              <div className="flex items-center gap-2 px-3 py-1.5 bg-blue-500/10 border border-blue-500/20 rounded-xl">
-                                <Tag className="h-3.5 w-3.5 text-blue-400" />
-                                <span className="text-xs text-zinc-400">Code:</span>
-                                <span className="font-mono font-bold text-blue-300">{discountCode}</span>
+                              <div className="mt-2 inline-flex items-center gap-1.5 px-2.5 py-1 bg-blue-500/10 border border-blue-500/20 rounded-lg">
+                                <Tag className="h-3 w-3 text-blue-400 flex-shrink-0" />
+                                <span className="text-xs text-zinc-300">10% off code:</span>
+                                <span className="font-mono font-bold text-blue-300 text-xs">{discountCode}</span>
                               </div>
                             )}
-                            <a href={affiliateUrl} target="_blank" rel="noopener noreferrer"
-                              className="flex items-center gap-1.5 px-5 py-2.5 bg-blue-600 hover:bg-blue-500 text-white text-sm font-semibold rounded-xl transition-colors whitespace-nowrap shadow-lg shadow-blue-500/20">
-                              Buy from {supplier.name} <ExternalLink className="h-3.5 w-3.5" />
+                          </div>
+
+                          {/* Buy button */}
+                          <div className="flex-shrink-0">
+                            <a
+                              href={outOfStock ? undefined : buyUrl}
+                              target={outOfStock ? undefined : '_blank'}
+                              rel="noopener noreferrer"
+                              className={cn(
+                                'flex items-center justify-center gap-1.5 px-5 py-2.5 rounded-xl text-sm font-semibold transition-all whitespace-nowrap',
+                                outOfStock
+                                  ? 'bg-zinc-800 text-zinc-600 cursor-not-allowed border border-zinc-700'
+                                  : isBestPrice
+                                    ? 'bg-emerald-600 hover:bg-emerald-500 text-white shadow-lg shadow-emerald-500/20'
+                                    : 'bg-blue-600 hover:bg-blue-500 text-white shadow-lg shadow-blue-500/15'
+                              )}
+                            >
+                              {outOfStock ? 'Out of Stock' : (
+                                <>Buy at {sup.name} <ExternalLink className="h-3.5 w-3.5" /></>
+                              )}
                             </a>
                           </div>
                         </div>
@@ -399,8 +452,8 @@ export default async function PeptideDetailPage({
 
                 <div className="px-6 py-3 bg-zinc-950/40 border-t border-zinc-800/50">
                   <p className="text-xs text-zinc-600">
-                    Affiliate disclosure: PeptideWiki earns a commission from purchases through these links at no extra cost to you.
-                    All vendors are COA-verified. Prices shown are current research rates and may change.
+                    All links are affiliate links — PeptideWiki earns a commission at no extra cost to you.
+                    Coupon codes apply at checkout. Prices and availability may change. Always verify COA before purchasing.
                   </p>
                 </div>
               </section>
