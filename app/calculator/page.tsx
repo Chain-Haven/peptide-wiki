@@ -4,8 +4,9 @@ import DosageCalculatorClient from '@/components/DosageCalculator'
 export const revalidate = 3600
 
 export const metadata = {
-  title: 'Dosage Calculator',
-  description: 'Calculate peptide dosages based on body weight. Supports weight-based dosing for BPC-157 and other peptides.',
+  title: 'Peptide Calculator — Reconstitution, Dosage & Protocol Guide',
+  description:
+    'Complete peptide calculator: reconstitution calculator, dosage calculator, injection volume calculator, per-peptide protocol guides, and full reference table.',
 }
 
 async function getPeptides() {
