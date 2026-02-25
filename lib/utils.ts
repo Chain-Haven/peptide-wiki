@@ -20,6 +20,24 @@ export function formatPrice(price: number): string {
   }).format(price)
 }
 
+// Construct a direct affiliate product URL from a product page URL + supplier slug
+export function buildBuyUrl(
+  productUrl: string | null,
+  supplierSlug: string,
+  affiliateUrl: string
+): string {
+  if (!productUrl || supplierSlug === 'felix-chem') return affiliateUrl
+  const params: Record<string, string> = {
+    'peptide-tech': '?ref=bre&utm_source=affiliate',
+    'vandl-labs': '?ref=BRE',
+    'modified-aminos': '?ref=bre',
+    'modern-aminos': '?ref=bre',
+  }
+  const suffix = params[supplierSlug] || ''
+  const clean = productUrl.replace(/\/$/, '')
+  return suffix ? `${clean}${suffix}` : affiliateUrl
+}
+
 export function getResearchStatusLabel(status: string): string {
   const labels: Record<string, string> = {
     fda_approved: 'FDA Approved',

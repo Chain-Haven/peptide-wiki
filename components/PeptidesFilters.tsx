@@ -1,13 +1,15 @@
 'use client'
 
-import { useState, useMemo } from 'react'
-import PeptideCard from '@/components/PeptideCard'
+import { useState, useMemo, useCallback } from 'react'
+import PeptideCard, { type CartItem } from '@/components/PeptideCard'
+import CartSidebar from '@/components/CartSidebar'
 import { Search, X } from 'lucide-react'
 import type { Category, Peptide } from '@/lib/types'
 import { getResearchStatusLabel } from '@/lib/utils'
 
 interface PeptidesFiltersProps {
-  peptides: Peptide[]
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  peptides: (Peptide & { prices?: any[] })[]
   categories: Category[]
   initialCategory?: string
   initialStatus?: string
@@ -27,10 +29,29 @@ export default function PeptidesFilters({
   initialCategory = '',
   initialStatus = '',
 }: PeptidesFiltersProps) {
+  // ─── Filter state ─────────────────────────────────────────────────────────
   const [search, setSearch] = useState('')
   const [category, setCategory] = useState(initialCategory)
   const [status, setStatus] = useState(initialStatus)
 
+  // ─── Cart state ───────────────────────────────────────────────────────────
+  const [cartItems, setCartItems] = useState<CartItem[]>([])
+
+  const addToCart = useCallback((item: CartItem) => {
+    setCartItems(prev => {
+      // Prevent exact duplicates
+      if (prev.some(c => c.cartId === item.cartId)) return prev
+      return [...prev, item]
+    })
+  }, [])
+
+  const removeFromCart = useCallback((cartId: string) => {
+    setCartItems(prev => prev.filter(c => c.cartId !== cartId))
+  }, [])
+
+  const clearCart = useCallback(() => setCartItems([]), [])
+
+  // ─── Filtering ────────────────────────────────────────────────────────────
   const filtered = useMemo(() => {
     return peptides.filter(p => {
       const matchesSearch =
@@ -56,13 +77,13 @@ export default function PeptidesFilters({
 
   return (
     <div>
-      {/* Filters */}
+      {/* ─── Search + filter bar ─── */}
       <div className="flex flex-col sm:flex-row gap-3 mb-6">
         <div className="relative flex-1">
           <Search className="absolute left-3 top-1/2 -translate-y-1/2 h-4 w-4 text-zinc-500" />
           <input
             type="text"
-            placeholder="Search peptides by name or alias..."
+            placeholder="Search peptides by name, alias, or description..."
             value={search}
             onChange={e => setSearch(e.target.value)}
             className="w-full bg-zinc-900 border border-zinc-800 rounded-lg pl-9 pr-4 py-2.5 text-white placeholder-zinc-500 focus:outline-none focus:border-zinc-600 text-sm"
@@ -106,7 +127,7 @@ export default function PeptidesFilters({
         )}
       </div>
 
-      {/* Category tabs */}
+      {/* ─── Category quick-tabs ─── */}
       <div className="flex gap-2 mb-6 overflow-x-auto pb-1 scrollbar-none">
         <button
           onClick={() => setCategory('')}
@@ -136,17 +157,29 @@ export default function PeptidesFilters({
         })}
       </div>
 
-      {/* Results count */}
-      <p className="text-sm text-zinc-500 mb-4">
-        Showing {filtered.length} of {peptides.length} peptides
-        {hasActiveFilters && ' (filtered)'}
-      </p>
+      {/* ─── Results count ─── */}
+      <div className="flex items-center justify-between mb-4">
+        <p className="text-sm text-zinc-500">
+          Showing {filtered.length} of {peptides.length} peptides
+          {hasActiveFilters && ' (filtered)'}
+        </p>
+        {cartItems.length > 0 && (
+          <p className="text-xs text-blue-400">
+            {cartItems.length} item{cartItems.length !== 1 ? 's' : ''} in cart
+          </p>
+        )}
+      </div>
 
-      {/* Grid */}
+      {/* ─── Peptide grid ─── */}
       {filtered.length > 0 ? (
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
           {filtered.map(peptide => (
-            <PeptideCard key={peptide.id} peptide={peptide} />
+            <PeptideCard
+              key={peptide.id}
+              peptide={peptide}
+              onAddToCart={addToCart}
+              cartItems={cartItems}
+            />
           ))}
         </div>
       ) : (
@@ -157,6 +190,13 @@ export default function PeptidesFilters({
           </button>
         </div>
       )}
+
+      {/* ─── Cart sidebar (floating) ─── */}
+      <CartSidebar
+        items={cartItems}
+        onRemove={removeFromCart}
+        onClear={clearCart}
+      />
     </div>
   )
 }

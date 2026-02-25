@@ -15,7 +15,14 @@ async function getPeptidesData() {
   const [peptidesRes, categoriesRes] = await Promise.all([
     supabase
       .from('peptides')
-      .select('*, category:categories(*)')
+      .select(`
+        *,
+        category:categories(*),
+        prices(
+          id, price, quantity_mg, form, product_url, in_stock, stock_source,
+          supplier:suppliers(id, name, slug, affiliate_url, discount_code, has_coa, display_order)
+        )
+      `)
       .order('name'),
     supabase.from('categories').select('*').order('name'),
   ])
