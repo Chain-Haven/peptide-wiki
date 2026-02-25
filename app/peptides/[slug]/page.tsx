@@ -11,9 +11,16 @@ import {
   Layers,
   Clock,
   ExternalLink,
+  Microscope,
+  BarChart3,
+  Globe,
+  Shield,
 } from 'lucide-react'
 import { getResearchStatusColor, getResearchStatusLabel, formatPrice } from '@/lib/utils'
 import type { Peptide, Price, ResearchStudy } from '@/lib/types'
+import PeptideCard from '@/components/PeptideCard'
+import MoleculeViewer from '@/components/MoleculeViewer'
+import ClinicalTrialCard from '@/components/ClinicalTrialCard'
 
 export const revalidate = 3600
 
@@ -24,10 +31,14 @@ export async function generateStaticParams() {
 
 export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params
-  const { data } = await supabase.from('peptides').select('name, summary').eq('slug', slug).single()
+  const { data } = await supabase
+    .from('peptides')
+    .select('name, summary, cas_number, molecular_weight')
+    .eq('slug', slug)
+    .single()
   if (!data) return { title: 'Peptide Not Found' }
   return {
-    title: data.name,
+    title: `${data.name} — Mechanism, Dosage & Research`,
     description: data.summary,
   }
 }
@@ -35,7 +46,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
 async function getPeptide(slug: string) {
   const { data, error } = await supabase
     .from('peptides')
-    .select('*, category:categories(*), prices(*, supplier:suppliers(*)), research_studies(*)')
+    .select(`
+      *,
+      category:categories(*),
+      prices(*, supplier:suppliers(*)),
+      research_studies(*)
+    `)
     .eq('slug', slug)
     .single()
   if (error || !data) return null
@@ -52,22 +68,6 @@ async function getRelatedPeptides(categoryId: string, currentSlug: string) {
   return data || []
 }
 
-const studyTypeColors: Record<string, string> = {
-  clinical_trial: 'bg-blue-500/10 text-blue-400 border-blue-500/20',
-  human: 'bg-emerald-500/10 text-emerald-400 border-emerald-500/20',
-  animal: 'bg-amber-500/10 text-amber-400 border-amber-500/20',
-  in_vitro: 'bg-purple-500/10 text-purple-400 border-purple-500/20',
-  review: 'bg-zinc-500/10 text-zinc-400 border-zinc-500/20',
-}
-
-const studyTypeLabels: Record<string, string> = {
-  clinical_trial: 'Clinical Trial',
-  human: 'Human Study',
-  animal: 'Animal Study',
-  in_vitro: 'In Vitro',
-  review: 'Review',
-}
-
 export default async function PeptideDetailPage({
   params,
 }: {
@@ -75,15 +75,14 @@ export default async function PeptideDetailPage({
 }) {
   const { slug } = await params
   const peptide = await getPeptide(slug)
-
   if (!peptide) notFound()
 
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const related: any[] = await getRelatedPeptides(peptide.category_id, slug)
+
   const lowestPrice = peptide.prices?.length
     ? Math.min(...peptide.prices.map((p: Price) => p.price))
     : null
-
   const sortedPrices = [...(peptide.prices || [])].sort((a: Price, b: Price) => a.price - b.price)
   const dosage = peptide.dosage_info as {
     min_dose?: number | null
@@ -94,8 +93,23 @@ export default async function PeptideDetailPage({
     weight_based?: boolean
   }
 
+  // Sort research studies: clinical trials first, then by year descending
+  const sortedStudies = [...(peptide.research_studies || [])].sort((a: ResearchStudy, b: ResearchStudy) => {
+    const typeOrder: Record<string, number> = { clinical_trial: 0, human: 1, animal: 2, in_vitro: 3, review: 4 }
+    const aOrder = typeOrder[a.study_type] ?? 5
+    const bOrder = typeOrder[b.study_type] ?? 5
+    if (aOrder !== bOrder) return aOrder - bOrder
+    return (b.year || 0) - (a.year || 0)
+  })
+
+  const clinicalTrials = sortedStudies.filter(s => s.study_type === 'clinical_trial')
+  const otherStudies = sortedStudies.filter(s => s.study_type !== 'clinical_trial')
+
+  const statusColor = getResearchStatusColor(peptide.research_status)
+  const statusLabel = getResearchStatusLabel(peptide.research_status)
+
   return (
-    <div className="container mx-auto px-4 py-10 max-w-6xl">
+    <div className="container mx-auto px-4 py-10 max-w-7xl">
       {/* Breadcrumb */}
       <div className="flex items-center gap-2 text-sm text-zinc-500 mb-6">
         <Link href="/peptides" className="hover:text-zinc-300 flex items-center gap-1 transition-colors">
@@ -104,7 +118,10 @@ export default async function PeptideDetailPage({
         <span>/</span>
         {peptide.category && (
           <>
-            <Link href={`/peptides?category=${peptide.category.slug}`} className="hover:text-zinc-300 transition-colors">
+            <Link
+              href={`/peptides?category=${peptide.category.slug}`}
+              className="hover:text-zinc-300 transition-colors"
+            >
               {peptide.category.name}
             </Link>
             <span>/</span>
@@ -114,67 +131,81 @@ export default async function PeptideDetailPage({
       </div>
 
       {/* Header */}
-      <div className="flex flex-col md:flex-row md:items-start justify-between gap-6 mb-10">
+      <div className="flex flex-col lg:flex-row lg:items-start justify-between gap-6 mb-8">
         <div className="flex-1">
           <div className="flex items-center gap-3 mb-3">
             <div className="p-3 bg-zinc-900 rounded-xl border border-zinc-800">
-              <FlaskConical className="h-6 w-6 text-blue-400" />
+              <FlaskConical className="h-7 w-7 text-blue-400" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-white">{peptide.name}</h1>
+              <h1 className="text-3xl md:text-4xl font-bold text-white">{peptide.name}</h1>
               {peptide.aliases?.length > 0 && (
-                <p className="text-sm text-zinc-500">
+                <p className="text-sm text-zinc-500 mt-0.5">
                   Also known as: {peptide.aliases.join(', ')}
                 </p>
               )}
             </div>
           </div>
-          <p className="text-zinc-300 text-lg leading-relaxed max-w-3xl">{peptide.summary}</p>
-        </div>
-        <div className="flex flex-col gap-3 md:min-w-48">
-          <span className={`inline-flex items-center justify-center px-3 py-1.5 rounded-full border text-sm font-medium ${getResearchStatusColor(peptide.research_status)}`}>
-            {getResearchStatusLabel(peptide.research_status)}
-          </span>
-          {lowestPrice && (
-            <div className="p-3 bg-zinc-900 border border-zinc-800 rounded-xl text-center">
-              <div className="text-xs text-zinc-500 mb-0.5">From</div>
-              <div className="text-xl font-bold text-white">{formatPrice(lowestPrice)}</div>
-              <div className="text-xs text-zinc-500">{sortedPrices.length} vendors</div>
-            </div>
-          )}
-          {peptide.category && (
-            <Link
-              href={`/peptides?category=${peptide.category.slug}`}
-              className="flex items-center gap-2 p-3 bg-zinc-900 border border-zinc-800 rounded-xl hover:border-zinc-600 transition-colors"
-            >
-              <span className="text-lg">{peptide.category.icon}</span>
-              <span className="text-sm text-zinc-300">{peptide.category.name}</span>
-            </Link>
-          )}
+
+          <p className="text-zinc-300 text-lg leading-relaxed max-w-3xl mb-4">{peptide.summary}</p>
+
+          {/* Quick stats row */}
+          <div className="flex flex-wrap gap-3">
+            <span className={`inline-flex items-center px-3 py-1.5 rounded-full border text-sm font-medium ${statusColor}`}>
+              <Shield className="h-3.5 w-3.5 mr-1.5" />
+              {statusLabel}
+            </span>
+            {peptide.category && (
+              <Link
+                href={`/peptides?category=${peptide.category.slug}`}
+                className="inline-flex items-center gap-1.5 px-3 py-1.5 bg-zinc-900 border border-zinc-800 rounded-full text-sm text-zinc-300 hover:border-zinc-600 hover:text-white transition-colors"
+              >
+                <span>{peptide.category.icon}</span>
+                {peptide.category.name}
+              </Link>
+            )}
+            {peptide.amino_acid_count != null && peptide.amino_acid_count > 0 && (
+              <span className="inline-flex items-center px-3 py-1.5 bg-zinc-900 border border-zinc-800 rounded-full text-sm text-zinc-400">
+                {peptide.amino_acid_count}-amino acid peptide
+              </span>
+            )}
+            {peptide.molecular_weight && (
+              <span className="inline-flex items-center px-3 py-1.5 bg-zinc-900 border border-zinc-800 rounded-full text-sm text-zinc-400 font-mono">
+                MW: {peptide.molecular_weight}
+              </span>
+            )}
+            {lowestPrice && (
+              <span className="inline-flex items-center gap-1 px-3 py-1.5 bg-zinc-900 border border-zinc-800 rounded-full text-sm text-zinc-300">
+                From <strong className="text-white">{formatPrice(lowestPrice)}</strong>
+              </span>
+            )}
+          </div>
         </div>
       </div>
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
-        {/* Main content */}
-        <div className="lg:col-span-2 space-y-6">
-          {/* Mechanism */}
+      {/* Main content grid */}
+      <div className="grid grid-cols-1 xl:grid-cols-4 gap-6">
+
+        {/* Main column (3/4 width) */}
+        <div className="xl:col-span-3 space-y-6">
+
+          {/* Mechanism of Action */}
           <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
             <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
-              <FlaskConical className="h-5 w-5 text-blue-400" />
+              <Microscope className="h-5 w-5 text-blue-400" />
               Mechanism of Action
             </h2>
             <p className="text-zinc-300 leading-relaxed">{peptide.mechanism}</p>
           </section>
 
           {/* Benefits & Side Effects */}
-          <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-            {/* Benefits */}
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
             <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
               <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
                 <CheckCircle className="h-5 w-5 text-emerald-400" />
                 Benefits
               </h2>
-              <ul className="space-y-2">
+              <ul className="space-y-2.5">
                 {peptide.benefits?.map((benefit: string, i: number) => (
                   <li key={i} className="flex items-start gap-2 text-sm text-zinc-300">
                     <CheckCircle className="h-4 w-4 text-emerald-400 flex-shrink-0 mt-0.5" />
@@ -184,13 +215,12 @@ export default async function PeptideDetailPage({
               </ul>
             </section>
 
-            {/* Side Effects */}
             <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
               <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
                 <AlertTriangle className="h-5 w-5 text-amber-400" />
-                Side Effects
+                Side Effects & Risks
               </h2>
-              <ul className="space-y-2">
+              <ul className="space-y-2.5">
                 {peptide.side_effects?.map((effect: string, i: number) => (
                   <li key={i} className="flex items-start gap-2 text-sm text-zinc-300">
                     <AlertTriangle className="h-4 w-4 text-amber-400 flex-shrink-0 mt-0.5" />
@@ -201,106 +231,198 @@ export default async function PeptideDetailPage({
             </section>
           </div>
 
-          {/* Research Studies */}
-          {peptide.research_studies?.length > 0 && (
-            <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
+          {/* Clinical Trials Section */}
+          {clinicalTrials.length > 0 && (
+            <section>
               <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
-                <BookOpen className="h-5 w-5 text-blue-400" />
-                Research Studies
+                <BarChart3 className="h-5 w-5 text-blue-400" />
+                Clinical Trials & Human Studies
+                <span className="text-xs font-normal text-zinc-500 bg-zinc-800 border border-zinc-700 px-2 py-0.5 rounded-full">
+                  {clinicalTrials.length} {clinicalTrials.length === 1 ? 'trial' : 'trials'}
+                </span>
               </h2>
               <div className="space-y-4">
-                {peptide.research_studies.map((study: ResearchStudy) => (
-                  <div key={study.id} className="p-4 bg-zinc-800/50 rounded-lg border border-zinc-700">
-                    <div className="flex items-start justify-between gap-3 mb-2">
-                      <h3 className="font-medium text-white text-sm leading-snug flex-1">{study.title}</h3>
-                      <span className={`flex-shrink-0 text-xs px-2 py-0.5 rounded-full border ${studyTypeColors[study.study_type] || studyTypeColors.review}`}>
-                        {studyTypeLabels[study.study_type] || study.study_type}
-                      </span>
-                    </div>
-                    <p className="text-xs text-zinc-500 mb-2">
-                      {study.authors} · {study.journal} ({study.year})
-                    </p>
-                    <p className="text-sm text-zinc-400">{study.summary}</p>
-                    {study.doi && (
-                      <a
-                        href={`https://doi.org/${study.doi}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="inline-flex items-center gap-1 mt-2 text-xs text-blue-400 hover:text-blue-300"
-                      >
-                        View paper <ExternalLink className="h-3 w-3" />
-                      </a>
-                    )}
-                  </div>
+                {clinicalTrials.map((study: ResearchStudy) => (
+                  <ClinicalTrialCard key={study.id} study={study} />
                 ))}
               </div>
             </section>
           )}
 
-          {/* Prices */}
+          {/* Other Research Studies */}
+          {otherStudies.length > 0 && (
+            <section>
+              <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
+                <BookOpen className="h-5 w-5 text-blue-400" />
+                Preclinical Research & Reviews
+                <span className="text-xs font-normal text-zinc-500 bg-zinc-800 border border-zinc-700 px-2 py-0.5 rounded-full">
+                  {otherStudies.length}
+                </span>
+              </h2>
+              <div className="space-y-4">
+                {otherStudies.map((study: ResearchStudy) => (
+                  <ClinicalTrialCard key={study.id} study={study} />
+                ))}
+              </div>
+            </section>
+          )}
+
+          {/* Price Comparison */}
           {sortedPrices.length > 0 && (
             <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-6">
               <h2 className="text-lg font-semibold text-white mb-4 flex items-center gap-2">
                 <DollarSign className="h-5 w-5 text-blue-400" />
                 Price Comparison
+                <span className="text-xs font-normal text-zinc-500 ml-1">
+                  {sortedPrices.length} vendor{sortedPrices.length !== 1 ? 's' : ''}
+                </span>
               </h2>
               <div className="overflow-x-auto">
                 <table className="w-full text-sm">
                   <thead>
-                    <tr className="text-left text-xs text-zinc-500 border-b border-zinc-800">
-                      <th className="pb-2 pr-4">Vendor</th>
-                      <th className="pb-2 pr-4">Form</th>
-                      <th className="pb-2 pr-4">Quantity</th>
-                      <th className="pb-2 pr-4">Price</th>
-                      <th className="pb-2">COA</th>
+                    <tr className="text-left text-xs text-zinc-500 border-b border-zinc-800 uppercase tracking-wider">
+                      <th className="pb-3 pr-4">Vendor</th>
+                      <th className="pb-3 pr-4">Form</th>
+                      <th className="pb-3 pr-4">Quantity</th>
+                      <th className="pb-3 pr-4">Price</th>
+                      <th className="pb-3 pr-4">Per mg</th>
+                      <th className="pb-3">COA</th>
                     </tr>
                   </thead>
                   <tbody className="divide-y divide-zinc-800">
-                    {sortedPrices.map((price: Price) => (
-                      <tr key={price.id} className="hover:bg-zinc-800/30 transition-colors">
-                        <td className="py-3 pr-4">
-                          <a
-                            href={price.url}
-                            target="_blank"
-                            rel="noopener noreferrer"
-                            className="text-blue-400 hover:text-blue-300 flex items-center gap-1"
-                          >
-                            {price.supplier?.name}
-                            <ExternalLink className="h-3 w-3" />
-                          </a>
-                        </td>
-                        <td className="py-3 pr-4 text-zinc-400 capitalize">{price.form?.replace('_', ' ')}</td>
-                        <td className="py-3 pr-4 text-zinc-400">{price.quantity_mg}mg</td>
-                        <td className="py-3 pr-4 font-semibold text-white">{formatPrice(price.price)}</td>
-                        <td className="py-3 text-xs">
-                          {price.supplier?.has_coa ? (
-                            <span className="text-emerald-400">✓ COA</span>
-                          ) : (
-                            <span className="text-zinc-600">—</span>
-                          )}
-                        </td>
-                      </tr>
-                    ))}
+                    {sortedPrices.map((price: Price, i: number) => {
+                      const perMg = price.quantity_mg > 0 ? price.price / price.quantity_mg : null
+                      const isBest = i === 0
+                      return (
+                        <tr
+                          key={price.id}
+                          className={`hover:bg-zinc-800/30 transition-colors ${isBest ? 'bg-emerald-500/3' : ''}`}
+                        >
+                          <td className="py-3 pr-4">
+                            <a
+                              href={price.url}
+                              target="_blank"
+                              rel="noopener noreferrer"
+                              className="text-blue-400 hover:text-blue-300 flex items-center gap-1 transition-colors"
+                            >
+                              {price.supplier?.name}
+                              <ExternalLink className="h-3 w-3 flex-shrink-0" />
+                            </a>
+                          </td>
+                          <td className="py-3 pr-4 text-zinc-400 capitalize text-xs">{price.form?.replace('_', ' ')}</td>
+                          <td className="py-3 pr-4 text-zinc-300">{price.quantity_mg}mg</td>
+                          <td className="py-3 pr-4">
+                            <span className="font-semibold text-white">{formatPrice(price.price)}</span>
+                            {isBest && (
+                              <span className="ml-1.5 text-xs text-emerald-400 font-medium">Best</span>
+                            )}
+                          </td>
+                          <td className="py-3 pr-4 text-zinc-400 text-xs">
+                            {perMg ? `${formatPrice(perMg)}/mg` : '—'}
+                          </td>
+                          <td className="py-3 text-xs">
+                            {price.supplier?.has_coa ? (
+                              <span className="text-emerald-400 flex items-center gap-1">
+                                <CheckCircle className="h-3 w-3" /> COA
+                              </span>
+                            ) : (
+                              <span className="text-zinc-600">—</span>
+                            )}
+                          </td>
+                        </tr>
+                      )
+                    })}
                   </tbody>
                 </table>
+              </div>
+              <div className="mt-4 text-center">
+                <Link href="/vendors" className="text-xs text-zinc-500 hover:text-zinc-300 transition-colors">
+                  Compare all vendors → /vendors
+                </Link>
               </div>
             </section>
           )}
         </div>
 
-        {/* Sidebar */}
+        {/* Sidebar (1/4 width) */}
         <div className="space-y-4">
-          {/* Dosage Info */}
+
+          {/* Molecular Structure Viewer */}
+          {peptide.pubchem_cid && (
+            <MoleculeViewer
+              pubchemCid={peptide.pubchem_cid}
+              peptideName={peptide.name}
+              molecularFormula={peptide.molecular_formula}
+              molecularWeight={peptide.molecular_weight}
+              casNumber={peptide.cas_number}
+              iupacName={peptide.iupac_name}
+              aminoAcidCount={peptide.amino_acid_count}
+              wikipediaUrl={peptide.wikipedia_url}
+            />
+          )}
+
+          {/* For peptides without PubChem CID, still show scientific properties */}
+          {!peptide.pubchem_cid && (peptide.cas_number || peptide.molecular_weight || peptide.wikipedia_url) && (
+            <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
+              <h2 className="font-semibold text-white mb-4 flex items-center gap-2">
+                <FlaskConical className="h-4 w-4 text-blue-400" />
+                Scientific Properties
+              </h2>
+              <dl className="space-y-3 text-sm">
+                {peptide.cas_number && (
+                  <div className="py-2 border-b border-zinc-800">
+                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">CAS Number</dt>
+                    <dd className="text-zinc-200 font-mono text-xs">{peptide.cas_number}</dd>
+                  </div>
+                )}
+                {peptide.molecular_weight && (
+                  <div className="py-2 border-b border-zinc-800">
+                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Molecular Weight</dt>
+                    <dd className="text-zinc-200 text-xs">{peptide.molecular_weight}</dd>
+                  </div>
+                )}
+                {peptide.molecular_formula && (
+                  <div className="py-2 border-b border-zinc-800">
+                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Mol. Formula</dt>
+                    <dd className="text-zinc-200 font-mono text-xs break-all">{peptide.molecular_formula}</dd>
+                  </div>
+                )}
+                {peptide.amino_acid_count != null && peptide.amino_acid_count > 0 && (
+                  <div className="py-2 border-b border-zinc-800">
+                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Amino Acids</dt>
+                    <dd className="text-zinc-200 text-xs">{peptide.amino_acid_count} amino acids</dd>
+                  </div>
+                )}
+                {peptide.wikipedia_url && (
+                  <div className="py-2">
+                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-1">Wikipedia</dt>
+                    <dd>
+                      <a
+                        href={peptide.wikipedia_url}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-blue-400 hover:text-blue-300 text-xs flex items-center gap-1"
+                      >
+                        <Globe className="h-3 w-3" /> View article <ExternalLink className="h-2.5 w-2.5" />
+                      </a>
+                    </dd>
+                  </div>
+                )}
+              </dl>
+            </section>
+          )}
+
+          {/* Dosage Protocol */}
           <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
             <h2 className="font-semibold text-white mb-4 flex items-center gap-2">
               <Clock className="h-4 w-4 text-blue-400" />
-              Dosage Protocol
+              Research Protocol
             </h2>
             <dl className="space-y-3">
               {dosage?.min_dose != null && (
-                <div>
+                <div className="py-2 border-b border-zinc-800">
                   <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Dose Range</dt>
-                  <dd className="text-sm text-zinc-200">
+                  <dd className="text-sm text-zinc-200 font-medium">
                     {dosage.min_dose}
                     {dosage.max_dose && dosage.max_dose !== dosage.min_dose && `–${dosage.max_dose}`}{' '}
                     {dosage.unit}
@@ -309,29 +431,32 @@ export default async function PeptideDetailPage({
                 </div>
               )}
               {dosage?.frequency && (
-                <div>
+                <div className="py-2 border-b border-zinc-800">
                   <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Frequency</dt>
                   <dd className="text-sm text-zinc-200">{dosage.frequency}</dd>
                 </div>
               )}
               {peptide.cycle_length && (
-                <div>
+                <div className="py-2 border-b border-zinc-800">
                   <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Cycle Length</dt>
                   <dd className="text-sm text-zinc-200">{peptide.cycle_length}</dd>
                 </div>
               )}
               {peptide.half_life && (
-                <div>
+                <div className="py-2 border-b border-zinc-800">
                   <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Half-Life</dt>
                   <dd className="text-sm text-zinc-200">{peptide.half_life}</dd>
                 </div>
               )}
               {peptide.administration_routes?.length > 0 && (
-                <div>
-                  <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-1">Administration</dt>
+                <div className="py-2 border-b border-zinc-800">
+                  <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-1.5">Administration</dt>
                   <dd className="flex flex-wrap gap-1.5">
                     {peptide.administration_routes.map((route: string) => (
-                      <span key={route} className="text-xs bg-zinc-800 border border-zinc-700 rounded px-2 py-0.5 text-zinc-300 capitalize">
+                      <span
+                        key={route}
+                        className="text-xs bg-zinc-800 border border-zinc-700 rounded-full px-2.5 py-1 text-zinc-300 capitalize"
+                      >
                         {route}
                       </span>
                     ))}
@@ -339,28 +464,21 @@ export default async function PeptideDetailPage({
                 </div>
               )}
               {dosage?.notes && (
-                <div>
+                <div className="py-2">
                   <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Notes</dt>
                   <dd className="text-xs text-zinc-400 leading-relaxed">{dosage.notes}</dd>
                 </div>
               )}
             </dl>
+            <div className="mt-4">
+              <Link
+                href={`/calculator`}
+                className="flex items-center justify-center gap-1.5 w-full py-2 bg-zinc-800 hover:bg-zinc-700 border border-zinc-700 hover:border-zinc-600 text-zinc-300 text-xs font-medium rounded-lg transition-colors"
+              >
+                Open Dosage Calculator →
+              </Link>
+            </div>
           </section>
-
-          {/* Molecular Info */}
-          {(peptide.molecular_formula || peptide.half_life) && (
-            <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
-              <h2 className="font-semibold text-white mb-4 text-sm">Molecular Information</h2>
-              <dl className="space-y-2">
-                {peptide.molecular_formula && (
-                  <div>
-                    <dt className="text-xs text-zinc-500 uppercase tracking-wider mb-0.5">Molecular Formula</dt>
-                    <dd className="text-sm text-zinc-200 font-mono">{peptide.molecular_formula}</dd>
-                  </div>
-                )}
-              </dl>
-            </section>
-          )}
 
           {/* Stack With */}
           {peptide.stack_with?.length > 0 && (
@@ -386,10 +504,76 @@ export default async function PeptideDetailPage({
             </section>
           )}
 
+          {/* External Resources */}
+          <section className="bg-zinc-900 border border-zinc-800 rounded-xl p-5">
+            <h2 className="font-semibold text-white mb-3 flex items-center gap-2 text-sm">
+              <Globe className="h-4 w-4 text-blue-400" />
+              External Resources
+            </h2>
+            <div className="space-y-2">
+              {peptide.pubchem_cid && (
+                <a
+                  href={`https://pubchem.ncbi.nlm.nih.gov/compound/${peptide.pubchem_cid}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 text-xs text-zinc-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-zinc-800"
+                >
+                  <span className="text-base">🔬</span>
+                  PubChem Database
+                  <ExternalLink className="h-3 w-3 ml-auto" />
+                </a>
+              )}
+              {peptide.cas_number && (
+                <a
+                  href={`https://commonchemistry.cas.org/detail?cas_rn=${peptide.cas_number}`}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 text-xs text-zinc-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-zinc-800"
+                >
+                  <span className="text-base">🧪</span>
+                  CAS Registry
+                  <ExternalLink className="h-3 w-3 ml-auto" />
+                </a>
+              )}
+              {peptide.wikipedia_url && (
+                <a
+                  href={peptide.wikipedia_url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center gap-2 text-xs text-zinc-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-zinc-800"
+                >
+                  <span className="text-base">📖</span>
+                  Wikipedia
+                  <ExternalLink className="h-3 w-3 ml-auto" />
+                </a>
+              )}
+              <a
+                href={`https://pubmed.ncbi.nlm.nih.gov/?term=${encodeURIComponent(peptide.name)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-xs text-zinc-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-zinc-800"
+              >
+                <span className="text-base">📚</span>
+                PubMed Search
+                <ExternalLink className="h-3 w-3 ml-auto" />
+              </a>
+              <a
+                href={`https://clinicaltrials.gov/search?term=${encodeURIComponent(peptide.name)}`}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="flex items-center gap-2 text-xs text-zinc-400 hover:text-white transition-colors p-2 rounded-lg hover:bg-zinc-800"
+              >
+                <span className="text-base">🏥</span>
+                ClinicalTrials.gov
+                <ExternalLink className="h-3 w-3 ml-auto" />
+              </a>
+            </div>
+          </section>
+
           {/* Disclaimer */}
           <div className="p-4 bg-amber-500/5 border border-amber-500/20 rounded-xl">
             <p className="text-xs text-amber-400/80 leading-relaxed">
-              <strong>Research Use Only.</strong> This information is for educational purposes. Not medical advice. Consult a healthcare professional before using any peptide.
+              <strong>Research Use Only.</strong> All information is for educational purposes only. Not medical advice. Consult a healthcare professional before using any peptide.
             </p>
           </div>
         </div>
@@ -397,13 +581,13 @@ export default async function PeptideDetailPage({
 
       {/* Related Peptides */}
       {related.length > 0 && (
-        <section className="mt-10">
+        <section className="mt-12 pt-8 border-t border-zinc-800">
           <h2 className="text-xl font-bold text-white mb-5 flex items-center gap-2">
             <FlaskConical className="h-5 w-5 text-blue-400" />
-            Related Peptides in {peptide.category?.name}
+            More in {peptide.category?.name}
           </h2>
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {related.map((p) => (
+            {related.map((p: Peptide) => (
               <PeptideCard key={p.id} peptide={p} />
             ))}
           </div>
@@ -412,6 +596,3 @@ export default async function PeptideDetailPage({
     </div>
   )
 }
-
-// Import needed for related peptide cards
-import PeptideCard from '@/components/PeptideCard'

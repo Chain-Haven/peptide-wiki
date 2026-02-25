@@ -26,6 +26,13 @@ export interface Peptide {
   administration_routes: string[]
   molecular_formula: string | null
   half_life: string | null
+  // Scientific data
+  cas_number: string | null
+  pubchem_cid: string | null
+  molecular_weight: string | null
+  amino_acid_count: number | null
+  wikipedia_url: string | null
+  iupac_name: string | null
   created_at: string
   updated_at: string
   prices?: Price[]
@@ -77,6 +84,10 @@ export interface ResearchStudy {
   url: string | null
   summary: string
   study_type: 'animal' | 'human' | 'in_vitro' | 'clinical_trial' | 'review'
+  sample_size: number | null
+  trial_phase: string | null
+  outcome_data: Record<string, string> | null
+  publication_url: string | null
 }
 
 export interface Stack {
