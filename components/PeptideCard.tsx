@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import { useState } from 'react'
-import { getResearchStatusLabel, getResearchStatusColor, formatPrice, buildBuyUrl, cn } from '@/lib/utils'
+import { getResearchStatusLabel, getResearchStatusColor, formatPrice, formatPricePerMg, buildBuyUrl, cn } from '@/lib/utils'
 import type { Peptide } from '@/lib/types'
 import {
   ChevronDown, ChevronUp, FlaskConical, ExternalLink,
@@ -48,9 +48,10 @@ interface PeptideCardProps {
   }
   onAddToCart?: (item: CartItem) => void
   cartItems?: CartItem[]
+  priceDisplay?: 'total' | 'per_mg'
 }
 
-export default function PeptideCard({ peptide, onAddToCart, cartItems = [] }: PeptideCardProps) {
+export default function PeptideCard({ peptide, onAddToCart, cartItems = [], priceDisplay = 'total' }: PeptideCardProps) {
   const [vendorsOpen, setVendorsOpen] = useState(true)
   const statusColor = getResearchStatusColor(peptide.research_status)
   const statusLabel = getResearchStatusLabel(peptide.research_status)
@@ -90,7 +91,9 @@ export default function PeptideCard({ peptide, onAddToCart, cartItems = [] }: Pe
           <div className="flex items-center gap-1.5 flex-shrink-0">
             {lowestPrice && (
               <span className="text-xs font-bold text-emerald-400">
-                from {formatPrice(lowestPrice)}
+                from {priceDisplay === 'per_mg' && sortedPrices[0]
+                  ? formatPricePerMg(sortedPrices[0].price, sortedPrices[0].quantity_mg)
+                  : formatPrice(lowestPrice)}
               </span>
             )}
             <Link
@@ -111,6 +114,11 @@ export default function PeptideCard({ peptide, onAddToCart, cartItems = [] }: Pe
           <span className={`text-xs px-2 py-0.5 rounded-full border ${statusColor}`}>
             {statusLabel}
           </span>
+          {sortedPrices.length >= 4 && (
+            <span className="text-xs px-2 py-0.5 rounded-full border bg-pink-500/15 text-pink-400 border-pink-500/25 font-medium">
+              Popular
+            </span>
+          )}
           {peptide.administration_routes?.slice(0, 2).map(route => (
             <span key={route} className="text-xs text-zinc-500">
               {routeIcons[route] || '💊'}{' '}
@@ -172,15 +180,21 @@ export default function PeptideCard({ peptide, onAddToCart, cartItems = [] }: Pe
                     )}
                   >
                     {/* Price */}
-                    <div className="w-20 flex-shrink-0">
+                    <div className="w-24 flex-shrink-0">
                       <div className="flex flex-col">
                         {isBest && (
                           <span className="text-xs text-emerald-400 font-semibold leading-tight">Best</span>
                         )}
                         <span className={cn('font-bold text-sm', isBest ? 'text-emerald-400' : 'text-white')}>
-                          {formatPrice(price.price)}
+                          {priceDisplay === 'per_mg'
+                            ? formatPricePerMg(price.price, price.quantity_mg)
+                            : formatPrice(price.price)}
                         </span>
-                        <span className="text-xs text-zinc-600">{price.quantity_mg}mg</span>
+                        <span className="text-xs text-zinc-600">
+                          {priceDisplay === 'per_mg'
+                            ? `${price.quantity_mg}mg vial`
+                            : `${price.quantity_mg}mg`}
+                        </span>
                       </div>
                     </div>
 

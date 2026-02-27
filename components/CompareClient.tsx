@@ -2,12 +2,15 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
-import { FlaskConical, X, CheckCircle, AlertTriangle } from 'lucide-react'
-import { getResearchStatusLabel, getResearchStatusColor, formatPrice } from '@/lib/utils'
+import { FlaskConical, X, CheckCircle, AlertTriangle, ExternalLink, Tag } from 'lucide-react'
+import { getResearchStatusLabel, getResearchStatusColor, formatPrice, formatPricePerMg, buildBuyUrl, cn } from '@/lib/utils'
 import type { Peptide, Price } from '@/lib/types'
+
+type PriceDisplay = 'total' | 'per_mg'
 
 export default function CompareClient({ peptides }: { peptides: Peptide[] }) {
   const [selected, setSelected] = useState<string[]>([])
+  const [priceDisplay, setPriceDisplay] = useState<PriceDisplay>('total')
 
   const toggle = (slug: string) => {
     setSelected(prev =>
@@ -23,9 +26,40 @@ export default function CompareClient({ peptides }: { peptides: Peptide[] }) {
 
   return (
     <div className="container mx-auto px-4 py-10 max-w-7xl">
-      <div className="mb-8">
-        <h1 className="text-3xl font-bold text-white mb-2">Compare Peptides</h1>
-        <p className="text-zinc-400">Select up to 3 peptides to compare side-by-side.</p>
+      <div className="mb-8 flex flex-col sm:flex-row sm:items-end justify-between gap-4">
+        <div>
+          <h1 className="text-3xl font-bold text-white mb-2">Compare Peptides</h1>
+          <p className="text-zinc-400">Select up to 3 peptides to compare side-by-side.</p>
+        </div>
+
+        {/* Price display toggle */}
+        <div className="flex items-center gap-2">
+          <span className="text-xs text-zinc-500">Show prices as:</span>
+          <div className="flex rounded-lg overflow-hidden border border-zinc-800">
+            <button
+              onClick={() => setPriceDisplay('total')}
+              className={cn(
+                'px-3 py-1.5 text-xs font-medium transition-colors',
+                priceDisplay === 'total'
+                  ? 'bg-zinc-700 text-white'
+                  : 'bg-zinc-900 text-zinc-400 hover:text-white'
+              )}
+            >
+              Total
+            </button>
+            <button
+              onClick={() => setPriceDisplay('per_mg')}
+              className={cn(
+                'px-3 py-1.5 text-xs font-medium transition-colors border-l border-zinc-800',
+                priceDisplay === 'per_mg'
+                  ? 'bg-zinc-700 text-white'
+                  : 'bg-zinc-900 text-zinc-400 hover:text-white'
+              )}
+            >
+              Per mg
+            </button>
+          </div>
+        </div>
       </div>
 
       {/* Selector */}
@@ -152,18 +186,85 @@ export default function CompareClient({ peptides }: { peptides: Peptide[] }) {
                   </td>
                 ))}
               </tr>
+
+              {/* Best price summary */}
               <tr>
-                <td className="py-4 pr-4 text-zinc-500">Lowest Price</td>
+                <td className="py-4 pr-4 text-zinc-500">Best Price</td>
                 {comparePeptides.map(p => {
-                  const prices = p.prices || []
-                  const lowest = prices.length ? Math.min(...prices.map((pr: Price) => pr.price)) : null
+                  const prices = (p.prices || []) as Price[]
+                  const sortedPrices = [...prices].sort((a, b) => a.price - b.price)
+                  const best = sortedPrices[0]
+                  const display = best
+                    ? priceDisplay === 'per_mg'
+                      ? formatPricePerMg(best.price, best.quantity_mg)
+                      : formatPrice(best.price)
+                    : '—'
                   return (
-                    <td key={p.slug} className="py-4 px-4 font-semibold text-white">
-                      {lowest ? formatPrice(lowest) : '—'}
+                    <td key={p.slug} className="py-4 px-4 font-semibold text-emerald-400 text-sm">
+                      {display}
                     </td>
                   )
                 })}
               </tr>
+
+              {/* Per-vendor price breakdown */}
+              <tr className="bg-zinc-900/30">
+                <td className="py-4 pr-4 text-zinc-500 align-top">
+                  <div>Prices by Vendor</div>
+                  <div className="text-xs text-zinc-600 mt-0.5">All 5 vendors</div>
+                </td>
+                {comparePeptides.map(p => {
+                  const prices = [...(p.prices || [])].sort((a, b) => a.price - b.price)
+                  return (
+                    <td key={p.slug} className="py-4 px-4 align-top">
+                      {prices.length === 0 ? (
+                        <span className="text-zinc-600 text-xs">No prices available</span>
+                      ) : (
+                        <div className="space-y-1.5">
+                          {/* eslint-disable-next-line @typescript-eslint/no-explicit-any */}
+                          {prices.map((pr: any) => {
+                            const supplierSlug = pr.supplier?.slug || ''
+                            const affiliateUrl = pr.supplier?.affiliate_url || '#'
+                            const buyUrl = buildBuyUrl(pr.product_url || null, supplierSlug, affiliateUrl)
+                            const discountCode = pr.supplier?.discount_code
+                            const displayPrice = priceDisplay === 'per_mg'
+                              ? formatPricePerMg(pr.price, pr.quantity_mg)
+                              : formatPrice(pr.price)
+                            return (
+                              <a
+                                key={pr.id}
+                                href={buyUrl}
+                                target="_blank"
+                                rel="noopener noreferrer"
+                                className="flex items-center justify-between gap-2 text-xs px-2 py-1.5 rounded-lg hover:bg-zinc-800 transition-colors group"
+                              >
+                                <div className="flex flex-col">
+                                  <span className="text-zinc-300 group-hover:text-white transition-colors">
+                                    {pr.supplier?.name || supplierSlug}
+                                  </span>
+                                  {discountCode && (
+                                    <span className="flex items-center gap-0.5 text-blue-400 text-xs">
+                                      <Tag className="h-2.5 w-2.5" /> {discountCode}
+                                    </span>
+                                  )}
+                                </div>
+                                <div className="flex items-center gap-1.5 flex-shrink-0">
+                                  <div className="text-right">
+                                    <span className="font-semibold text-white">{displayPrice}</span>
+                                    <span className="text-zinc-600 ml-1">{pr.quantity_mg}mg</span>
+                                  </div>
+                                  <ExternalLink className="h-3 w-3 text-zinc-600 group-hover:text-blue-400 transition-colors" />
+                                </div>
+                              </a>
+                            )
+                          })}
+                        </div>
+                      )}
+                    </td>
+                  )
+                })}
+              </tr>
+
               <tr>
                 <td className="py-4 pr-4 text-zinc-500">Top Benefits</td>
                 {comparePeptides.map(p => (

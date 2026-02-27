@@ -38,6 +38,11 @@ export function buildBuyUrl(
   return suffix ? `${clean}${suffix}` : affiliateUrl
 }
 
+export function formatPricePerMg(price: number, quantityMg: number): string {
+  if (!quantityMg || quantityMg <= 0) return '—'
+  return `${formatPrice(price / quantityMg)}/mg`
+}
+
 export function getResearchStatusLabel(status: string): string {
   const labels: Record<string, string> = {
     fda_approved: 'FDA Approved',

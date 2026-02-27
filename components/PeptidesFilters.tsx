@@ -2,10 +2,11 @@
 
 import { useState, useMemo, useCallback } from 'react'
 import PeptideCard, { type CartItem } from '@/components/PeptideCard'
+import PriceComparisonTable from '@/components/PriceComparisonTable'
 import CartSidebar from '@/components/CartSidebar'
-import { Search, X } from 'lucide-react'
+import { Search, X, LayoutGrid, Table2, ArrowUpDown, Tag, Store } from 'lucide-react'
 import type { Category, Peptide } from '@/lib/types'
-import { getResearchStatusLabel } from '@/lib/utils'
+import { cn } from '@/lib/utils'
 
 interface PeptidesFiltersProps {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
@@ -23,6 +24,10 @@ const STATUS_OPTIONS = [
   { value: 'research_only', label: 'Research Only' },
 ]
 
+type SortBy = 'name' | 'lowest_price' | 'most_vendors'
+type ViewMode = 'cards' | 'prices'
+type PriceDisplay = 'total' | 'per_mg'
+
 export default function PeptidesFilters({
   peptides,
   categories,
@@ -33,13 +38,18 @@ export default function PeptidesFilters({
   const [search, setSearch] = useState('')
   const [category, setCategory] = useState(initialCategory)
   const [status, setStatus] = useState(initialStatus)
+  const [vendorFilter, setVendorFilter] = useState('')
+
+  // ─── View / sort / display state ─────────────────────────────────────────
+  const [viewMode, setViewMode] = useState<ViewMode>('cards')
+  const [sortBy, setSortBy] = useState<SortBy>('name')
+  const [priceDisplay, setPriceDisplay] = useState<PriceDisplay>('total')
 
   // ─── Cart state ───────────────────────────────────────────────────────────
   const [cartItems, setCartItems] = useState<CartItem[]>([])
 
   const addToCart = useCallback((item: CartItem) => {
     setCartItems(prev => {
-      // Prevent exact duplicates
       if (prev.some(c => c.cartId === item.cartId)) return prev
       return [...prev, item]
     })
@@ -51,7 +61,21 @@ export default function PeptidesFilters({
 
   const clearCart = useCallback(() => setCartItems([]), [])
 
-  // ─── Filtering ────────────────────────────────────────────────────────────
+  // ─── Derive vendor list from price data ───────────────────────────────────
+  const allVendors = useMemo(() => {
+    const seen = new Map<string, string>()
+    peptides.forEach(p =>
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      p.prices?.forEach((pr: any) => {
+        if (pr.supplier?.slug) seen.set(pr.supplier.slug, pr.supplier.name)
+      })
+    )
+    return [...seen.entries()]
+      .map(([slug, name]) => ({ slug, name }))
+      .sort((a, b) => a.name.localeCompare(b.name))
+  }, [peptides])
+
+  // ─── Filter ───────────────────────────────────────────────────────────────
   const filtered = useMemo(() => {
     return peptides.filter(p => {
       const matchesSearch =
@@ -62,21 +86,127 @@ export default function PeptidesFilters({
 
       const matchesCategory = !category || p.category?.slug === category
       const matchesStatus = !status || p.research_status === status
+      const matchesVendor =
+        !vendorFilter ||
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        p.prices?.some((pr: any) => pr.supplier?.slug === vendorFilter)
 
-      return matchesSearch && matchesCategory && matchesStatus
+      return matchesSearch && matchesCategory && matchesStatus && matchesVendor
     })
-  }, [peptides, search, category, status])
+  }, [peptides, search, category, status, vendorFilter])
+
+  // ─── Sort ─────────────────────────────────────────────────────────────────
+  const sorted = useMemo(() => {
+    return [...filtered].sort((a, b) => {
+      if (sortBy === 'lowest_price') {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const aMin = a.prices?.length ? Math.min(...a.prices.map((p: any) => p.price)) : Infinity
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        const bMin = b.prices?.length ? Math.min(...b.prices.map((p: any) => p.price)) : Infinity
+        return aMin - bMin
+      }
+      if (sortBy === 'most_vendors') {
+        return (b.prices?.length || 0) - (a.prices?.length || 0)
+      }
+      return a.name.localeCompare(b.name)
+    })
+  }, [filtered, sortBy])
 
   const clearFilters = () => {
     setSearch('')
     setCategory('')
     setStatus('')
+    setVendorFilter('')
   }
 
-  const hasActiveFilters = search || category || status
+  const hasActiveFilters = search || category || status || vendorFilter
 
   return (
     <div>
+      {/* ─── Control bar ─── */}
+      <div className="flex flex-wrap gap-2 mb-4">
+        {/* View mode toggle */}
+        <div className="flex rounded-lg overflow-hidden border border-zinc-800">
+          <button
+            onClick={() => setViewMode('cards')}
+            className={cn(
+              'flex items-center gap-1.5 px-3 py-2 text-xs font-medium transition-colors',
+              viewMode === 'cards'
+                ? 'bg-blue-600 text-white'
+                : 'bg-zinc-900 text-zinc-400 hover:text-white'
+            )}
+          >
+            <LayoutGrid className="h-3.5 w-3.5" /> Cards
+          </button>
+          <button
+            onClick={() => setViewMode('prices')}
+            className={cn(
+              'flex items-center gap-1.5 px-3 py-2 text-xs font-medium transition-colors border-l border-zinc-800',
+              viewMode === 'prices'
+                ? 'bg-blue-600 text-white'
+                : 'bg-zinc-900 text-zinc-400 hover:text-white'
+            )}
+          >
+            <Table2 className="h-3.5 w-3.5" /> Price Table
+          </button>
+        </div>
+
+        {/* Price display toggle */}
+        <div className="flex rounded-lg overflow-hidden border border-zinc-800">
+          <button
+            onClick={() => setPriceDisplay('total')}
+            className={cn(
+              'flex items-center gap-1.5 px-3 py-2 text-xs font-medium transition-colors',
+              priceDisplay === 'total'
+                ? 'bg-zinc-700 text-white'
+                : 'bg-zinc-900 text-zinc-400 hover:text-white'
+            )}
+          >
+            <Tag className="h-3 w-3" /> Total
+          </button>
+          <button
+            onClick={() => setPriceDisplay('per_mg')}
+            className={cn(
+              'flex items-center gap-1.5 px-3 py-2 text-xs font-medium transition-colors border-l border-zinc-800',
+              priceDisplay === 'per_mg'
+                ? 'bg-zinc-700 text-white'
+                : 'bg-zinc-900 text-zinc-400 hover:text-white'
+            )}
+          >
+            /mg
+          </button>
+        </div>
+
+        {/* Sort dropdown */}
+        <div className="flex items-center gap-1.5">
+          <ArrowUpDown className="h-3.5 w-3.5 text-zinc-500" />
+          <select
+            value={sortBy}
+            onChange={e => setSortBy(e.target.value as SortBy)}
+            className="bg-zinc-900 border border-zinc-800 rounded-lg px-2.5 py-2 text-xs text-zinc-300 focus:outline-none focus:border-zinc-600"
+          >
+            <option value="name">Sort: Name A–Z</option>
+            <option value="lowest_price">Sort: Lowest Price</option>
+            <option value="most_vendors">Sort: Most Vendors</option>
+          </select>
+        </div>
+
+        {/* Vendor filter */}
+        <div className="flex items-center gap-1.5">
+          <Store className="h-3.5 w-3.5 text-zinc-500" />
+          <select
+            value={vendorFilter}
+            onChange={e => setVendorFilter(e.target.value)}
+            className="bg-zinc-900 border border-zinc-800 rounded-lg px-2.5 py-2 text-xs text-zinc-300 focus:outline-none focus:border-zinc-600"
+          >
+            <option value="">All Vendors</option>
+            {allVendors.map(v => (
+              <option key={v.slug} value={v.slug}>{v.name}</option>
+            ))}
+          </select>
+        </div>
+      </div>
+
       {/* ─── Search + filter bar ─── */}
       <div className="flex flex-col sm:flex-row gap-3 mb-6">
         <div className="relative flex-1">
@@ -131,11 +261,12 @@ export default function PeptidesFilters({
       <div className="flex gap-2 mb-6 overflow-x-auto pb-1 scrollbar-none">
         <button
           onClick={() => setCategory('')}
-          className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium border transition-colors ${
+          className={cn(
+            'flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium border transition-colors',
             !category
               ? 'bg-blue-600 border-blue-600 text-white'
               : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600'
-          }`}
+          )}
         >
           All ({peptides.length})
         </button>
@@ -145,11 +276,12 @@ export default function PeptidesFilters({
             <button
               key={cat.slug}
               onClick={() => setCategory(cat.slug)}
-              className={`flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium border transition-colors ${
+              className={cn(
+                'flex-shrink-0 px-3 py-1.5 rounded-full text-xs font-medium border transition-colors',
                 category === cat.slug
                   ? 'bg-blue-600 border-blue-600 text-white'
                   : 'bg-zinc-900 border-zinc-800 text-zinc-400 hover:text-white hover:border-zinc-600'
-              }`}
+              )}
             >
               {cat.icon} {cat.name} ({count})
             </button>
@@ -160,8 +292,13 @@ export default function PeptidesFilters({
       {/* ─── Results count ─── */}
       <div className="flex items-center justify-between mb-4">
         <p className="text-sm text-zinc-500">
-          Showing {filtered.length} of {peptides.length} peptides
+          Showing {sorted.length} of {peptides.length} peptides
           {hasActiveFilters && ' (filtered)'}
+          {sortBy !== 'name' && (
+            <span className="ml-2 text-xs text-blue-400">
+              · sorted by {sortBy === 'lowest_price' ? 'lowest price' : 'most vendors'}
+            </span>
+          )}
         </p>
         {cartItems.length > 0 && (
           <p className="text-xs text-blue-400">
@@ -170,18 +307,28 @@ export default function PeptidesFilters({
         )}
       </div>
 
-      {/* ─── Peptide grid ─── */}
-      {filtered.length > 0 ? (
-        <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
-          {filtered.map(peptide => (
-            <PeptideCard
-              key={peptide.id}
-              peptide={peptide}
-              onAddToCart={addToCart}
-              cartItems={cartItems}
-            />
-          ))}
-        </div>
+      {/* ─── Main content ─── */}
+      {sorted.length > 0 ? (
+        viewMode === 'cards' ? (
+          <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-4">
+            {sorted.map(peptide => (
+              <PeptideCard
+                key={peptide.id}
+                peptide={peptide}
+                onAddToCart={addToCart}
+                cartItems={cartItems}
+                priceDisplay={priceDisplay}
+              />
+            ))}
+          </div>
+        ) : (
+          <PriceComparisonTable
+            peptides={sorted}
+            priceDisplay={priceDisplay}
+            onAddToCart={addToCart}
+            cartItems={cartItems}
+          />
+        )
       ) : (
         <div className="text-center py-20">
           <p className="text-zinc-500 text-lg">No peptides match your filters.</p>
@@ -191,7 +338,7 @@ export default function PeptidesFilters({
         </div>
       )}
 
-      {/* ─── Cart sidebar (floating) ─── */}
+      {/* ─── Cart sidebar ─── */}
       <CartSidebar
         items={cartItems}
         onRemove={removeFromCart}
