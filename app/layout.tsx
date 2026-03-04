@@ -23,9 +23,14 @@ export const metadata: Metadata = {
   description:
     'The most comprehensive peptide research database. Explore 61+ peptides with detailed mechanism of action, dosage protocols, vendor prices, research studies, stack recommendations, and AI-powered chat.',
   keywords: ['peptides', 'BPC-157', 'TB-500', 'semaglutide', 'research peptides', 'peptide database'],
+  icons: {
+    icon: '/icon',
+    apple: '/apple-icon',
+    shortcut: '/icon',
+  },
   openGraph: {
     title: 'PeptideWiki — Comprehensive Peptide Research Database',
-    description: 'Explore 40+ peptides with mechanisms, dosages, vendors, and research.',
+    description: 'Explore 61+ peptides with mechanisms, dosages, vendors, and research.',
     url: 'https://peptide-wiki.org',
     siteName: 'PeptideWiki',
     type: 'website',
