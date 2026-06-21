@@ -21,6 +21,7 @@ export default function Footer() {
               {[
                 { href: '/peptides', label: 'All Peptides' },
                 { href: '/stacks', label: 'Peptide Stacks' },
+                { href: '/blog', label: 'Research Blog' },
                 { href: '/vendors', label: 'Vendors' },
                 { href: '/calculator', label: 'Dosage Calculator' },
                 { href: '/compare', label: 'Compare Peptides' },
