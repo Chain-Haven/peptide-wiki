@@ -2051,6 +2051,814 @@ The 0.9% benzyl alcohol in **bacteriostatic water** inhibits bacterial growth wh
 - [How to inject peptides](/guides/how-to-inject-peptides)
 - [Dosage calculator](/calculator)`,
   },
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'retatrutide-guide',
+    title: 'Retatrutide: The Triple Agonist Explained',
+    metaTitle: 'Retatrutide Guide: Triple Agonist Dosage & Trials (2026)',
+    description:
+      'A complete research guide to Retatrutide — the triple GIP/GLP-1/glucagon receptor agonist in late-stage trials, its record-breaking trial results, mechanism, dosing, and how it compares to tirzepatide.',
+    category: 'Dosage',
+    keywords: [
+      'retatrutide', 'retatrutide guide', 'retatrutide dosage', 'retatrutide vs tirzepatide',
+      'triple agonist peptide', 'retatrutide trials',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/glp-1.webp',
+    relatedPeptides: ['tirzepatide', 'semaglutide'],
+    faqs: [
+      {
+        q: 'What is Retatrutide?',
+        a: 'Retatrutide (LY3437943) is an investigational once-weekly injectable peptide developed by Eli Lilly. It is a triple receptor agonist — activating GIP, GLP-1, and glucagon receptors simultaneously — making it mechanistically distinct from tirzepatide (dual GIP/GLP-1) and semaglutide (single GLP-1).',
+      },
+      {
+        q: 'How much weight loss did Retatrutide produce in trials?',
+        a: 'In the Phase 2 trial published in NEJM in 2023 (n=338), the highest dose (12 mg) produced a mean weight loss of approximately 24.2% at 48 weeks — the largest weight loss ever observed in a clinical trial for an anti-obesity medication at that time.',
+      },
+      {
+        q: 'Is Retatrutide FDA-approved?',
+        a: 'As of mid-2026, Retatrutide is in Phase 3 clinical trials (TRIUMPH program). It is not yet FDA-approved. It is not available as a prescription drug or a research chemical in any standard context — references to "research retatrutide" should be treated with significant skepticism.',
+      },
+    ],
+    content: `**Retatrutide** (LY3437943, Eli Lilly) represents the next generation of weight-loss pharmacology — a **triple receptor agonist** that activates GIP, GLP-1, and glucagon receptors simultaneously. Its Phase 2 results generated significant excitement because of unprecedented weight loss numbers.
+
+> **Investigational compound.** Retatrutide is not FDA-approved. As of mid-2026, it is in Phase 3 trials. It is not legitimately available for purchase as a research peptide. This guide is for research and educational awareness only. See our [Medical Disclaimer](/medical-disclaimer).
+
+## What makes it a "triple agonist"?
+
+Each receptor adds a distinct mechanism:
+
+| Receptor | What it does |
+| --- | --- |
+| **GLP-1** | Reduces appetite, slows gastric emptying, improves insulin secretion |
+| **GIP** | Enhances GLP-1 effects; may also act on adipose tissue directly |
+| **Glucagon** | Increases energy expenditure; promotes fat oxidation in the liver |
+
+The glucagon component is the key addition over tirzepatide. It increases metabolic rate and fat burning — but historically, pure glucagon receptor agonists raised blood sugar. The GLP-1 activity in retatrutide counteracts this glycemic effect, allowing the metabolic benefit without the glucose downside.
+
+## Phase 2 trial results (NEJM 2023)
+
+The landmark Phase 2 study (n=338, 48 weeks) tested four dose levels:
+
+| Dose | Mean weight loss |
+| --- | --- |
+| 1 mg/week | ~8.7% |
+| 4 mg/week | ~17.1% |
+| 8 mg/week | ~22.8% |
+| **12 mg/week** | **~24.2%** |
+
+The 12 mg result — **~24% mean weight loss at 48 weeks** — was the highest ever recorded for an anti-obesity pharmacotherapy in a controlled trial at that point. Over 26% of participants at the highest dose lost ≥30% of body weight.
+
+## Phase 3: The TRIUMPH program
+
+Retatrutide entered Phase 3 trials (the TRIUMPH program) with multiple studies evaluating:
+- Weight management in adults with obesity (TRIUMPH-1, TRIUMPH-2)
+- Type 2 diabetes (TRIUMPH-3)
+- Cardiovascular outcomes (TRIUMPH-4)
+
+Results are expected through 2025–2026, with potential FDA submission thereafter.
+
+## Dosing in trials
+
+The Phase 2 protocol used a slow titration:
+- Starting at **2 mg/week** and escalating over approximately **24 weeks** to the target dose (4, 8, or 12 mg/week)
+- Slow escalation was critical — the glucagon activity can cause nausea and GI effects similar to GLP-1 class
+
+## How it compares to tirzepatide
+
+| | Tirzepatide | Retatrutide |
+| --- | --- | --- |
+| Receptors | GIP + GLP-1 | GIP + GLP-1 + Glucagon |
+| Phase 2 weight loss | ~17% | ~24% (12 mg) |
+| Approval status | FDA-approved | Phase 3 |
+| Availability | Prescription (Zepbound/Mounjaro) | Not available |
+
+See the dedicated [Retatrutide vs Tirzepatide comparison](/guides/retatrutide-vs-tirzepatide).
+
+## Availability warning
+
+Because retatrutide's trial results are well-publicized, some research chemical vendors have begun marketing compounds labeled "retatrutide." **These should not be trusted** — the synthesis of the actual retatrutide peptide sequence is complex, and the likelihood of receiving the genuine compound at clinical purity from a research vendor is very low. This is a category where counterfeits and mislabeled products are particularly prevalent.
+
+## Related
+
+- [Retatrutide vs Tirzepatide](/guides/retatrutide-vs-tirzepatide)
+- [Tirzepatide dosage guide](/guides/tirzepatide-dosage-guide)
+- [Semaglutide vs Tirzepatide](/guides/semaglutide-vs-tirzepatide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'retatrutide-vs-tirzepatide',
+    title: 'Retatrutide vs Tirzepatide: What the Trials Show',
+    metaTitle: 'Retatrutide vs Tirzepatide: Trial Data Compared (2026)',
+    description:
+      'A data-driven comparison of Retatrutide and Tirzepatide — mechanisms, Phase 2 vs Phase 3 trial weight loss results, side-effect profiles, and availability status.',
+    category: 'Comparison',
+    keywords: [
+      'retatrutide vs tirzepatide', 'tirzepatide vs retatrutide',
+      'triple agonist vs dual agonist', 'retatrutide comparison', 'best obesity drug',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/glp-1.webp',
+    relatedPeptides: ['tirzepatide', 'semaglutide'],
+    faqs: [
+      {
+        q: 'Is Retatrutide stronger than Tirzepatide?',
+        a: 'In Phase 2 trial data, retatrutide at its highest dose (~24% weight loss at 48 weeks) outperformed tirzepatide at its highest dose (~22.5% at 72 weeks in SURMOUNT-1). However, the trials differ in design, duration, and populations — a direct head-to-head comparison has not yet been published.',
+      },
+      {
+        q: 'When will Retatrutide be available?',
+        a: 'Retatrutide is in Phase 3 trials as of mid-2026. If trials succeed, an FDA submission could come in 2026–2027, with potential approval thereafter. It is not currently available as a prescription or research compound.',
+      },
+      {
+        q: 'Do they have different side effects?',
+        a: 'Both share the GLP-1 class GI side effects. Retatrutide may additionally cause effects related to glucagon receptor activation, including nausea and potentially greater cardiovascular impact. The full Phase 3 safety profile is not yet established.',
+      },
+    ],
+    content: `**[Tirzepatide](/peptides/tirzepatide)** is currently the most effective approved weight-loss drug. **Retatrutide** is its most likely successor, with Phase 2 data showing even larger weight loss. Here is what the evidence shows and what separates them.
+
+> **Education only.** Tirzepatide is prescription-only. Retatrutide is not yet approved. Neither should be self-administered without medical supervision. See our [Medical Disclaimer](/medical-disclaimer).
+
+## The core difference: dual vs triple agonism
+
+| | Tirzepatide | Retatrutide |
+| --- | --- | --- |
+| Mechanism | GIP + GLP-1 dual agonist | GIP + GLP-1 + Glucagon triple agonist |
+| Developer | Eli Lilly | Eli Lilly |
+| Status | FDA-approved (Mounjaro, Zepbound) | Phase 3 trials |
+| Dosing | Once weekly | Once weekly |
+
+The **glucagon receptor** activation in retatrutide is the additional lever. Glucagon raises metabolic rate and promotes fat oxidation — but in isolation, pure glucagon agonists raise blood sugar. The GLP-1 component of retatrutide counteracts the glucose elevation, allowing the metabolic benefit to express without glycemic risk.
+
+## Head-to-head trial data (indirect comparison)
+
+| Trial | Drug | Duration | Mean weight loss | Max dose |
+| --- | --- | --- | --- | --- |
+| SURMOUNT-1 (Phase 3) | Tirzepatide | 72 weeks | ~22.5% | 15 mg/week |
+| Phase 2 (NEJM 2023) | Retatrutide | 48 weeks | ~24.2% | 12 mg/week |
+
+**Important caveats:** These are different trials with different designs, populations, and durations. A formal head-to-head comparison trial has not been published. The retatrutide Phase 2 was smaller (n=338) and shorter. Phase 3 results may show somewhat different numbers.
+
+That said, the direction is consistent: retatrutide is producing more weight loss than tirzepatide in comparable trial contexts, which the glucagon mechanism likely explains.
+
+## Side effects: shared profile plus glucagon effects
+
+Both share the GLP-1 class profile: nausea, diarrhea, constipation, decreased appetite. For tirzepatide, this is well-characterized across thousands of Phase 3 patients.
+
+For retatrutide, the additional glucagon receptor activation may add:
+- Potentially more pronounced nausea (glucagon itself can cause GI effects)
+- Greater heart rate increase (glucagon raises heart rate)
+- Cardiovascular outcomes data pending in Phase 3 (TRIUMPH-4)
+
+The Phase 2 retatrutide trial required an especially slow titration — over ~24 weeks — to manage tolerability. This suggests the GI profile may be more demanding than tirzepatide.
+
+## What this means in practice
+
+**Right now (mid-2026):**
+- **Tirzepatide (Zepbound/Mounjaro)** is the standard of care — the most effective approved obesity drug, prescribed by physicians, covered by some insurance plans.
+- **Retatrutide** is investigational. Phase 3 results expected soon. Not available via legitimate channels.
+
+**If Phase 3 succeeds:**
+- Retatrutide may become the next-line option — particularly for patients who do not achieve adequate response with tirzepatide.
+- The glucagon component could provide additional benefit for patients with significant liver fat (MASLD/NASH), where glucagon receptor activation is particularly relevant.
+
+## Related
+
+- [Retatrutide guide](/guides/retatrutide-guide)
+- [Tirzepatide dosage guide](/guides/tirzepatide-dosage-guide)
+- [Semaglutide vs Tirzepatide](/guides/semaglutide-vs-tirzepatide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'tesamorelin-dosage-guide',
+    title: 'Tesamorelin Dosage Guide (Egrifta)',
+    metaTitle: 'Tesamorelin Dosage Guide: Protocol & Evidence (2026)',
+    description:
+      'A research-based Tesamorelin dosage guide — the FDA-approved GHRH analog, its clinical protocol for visceral fat reduction, dosing, administration, what to expect, and the evidence base.',
+    category: 'Dosage',
+    keywords: [
+      'tesamorelin dosage', 'egrifta dosage', 'tesamorelin protocol',
+      'tesamorelin dose', 'tesamorelin visceral fat',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/dosage-vial.webp',
+    relatedPeptides: ['tesamorelin', 'cjc-1295', 'ipamorelin'],
+    faqs: [
+      {
+        q: 'What is the standard Tesamorelin dose?',
+        a: 'The FDA-approved dose for Tesamorelin (Egrifta) is 2 mg once daily by subcutaneous injection. This is both the starting and the maintenance dose — there is no titration schedule as with GLP-1 agents. Clinical trials used this fixed dose.',
+      },
+      {
+        q: 'How long does Tesamorelin take to work for visceral fat?',
+        a: 'In the Phase 3 trials that led to FDA approval, significant reduction in visceral adipose tissue (VAT) was measurable at 26 weeks. The approved treatment duration is 26 weeks, with re-evaluation at that point. Unlike GLP-1 agents, effects on body weight are modest.',
+      },
+      {
+        q: 'Is Tesamorelin available for off-label use?',
+        a: 'Tesamorelin (Egrifta) is FDA-approved specifically for HIV-associated lipodystrophy. Off-label prescribing for other indications (e.g., general visceral fat in aging) occurs but is not FDA-approved. Research-chemical versions are also sold for non-clinical research, but these are not pharmaceutical grade.',
+      },
+    ],
+    content: `**Tesamorelin** (brand name Egrifta) is an FDA-approved **GHRH analog** — the only growth hormone-releasing hormone analog with full regulatory approval. Unlike most peptides in the research space, it has Phase 3 clinical trials and a well-established evidence base for a specific indication: **visceral fat reduction in HIV-associated lipodystrophy**.
+
+> **Prescription medication.** Tesamorelin is FDA-approved as a prescription drug. Off-label use and research-compound versions exist. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## What makes Tesamorelin unique
+
+Tesamorelin stands apart from research GHRH analogs like CJC-1295 in two key ways:
+
+1. **FDA approval** — it has completed Phase 3 trials and received regulatory clearance, giving it a documented safety and efficacy profile lacking for most GH secretagogues.
+2. **Visceral fat specificity** — unlike general GH secretagogues, tesamorelin's clinical evidence is specifically for **visceral adipose tissue (VAT) reduction**, not overall body weight or general recomposition.
+
+## Standard clinical dosage
+
+The FDA-approved protocol is simple — no titration required:
+
+| Parameter | Detail |
+| --- | --- |
+| Dose | **2 mg once daily** |
+| Route | Subcutaneous injection |
+| Timing | Flexible; consistent daily administration |
+| Approved duration | **26 weeks**, then reassess |
+
+Unlike GLP-1 agents, tesamorelin uses a fixed dose from day one. The 2 mg once-daily dose was established in Phase 3 trials.
+
+## What the trials showed
+
+The two pivotal Phase 3 trials (NEJM 2010, Falutz et al.) enrolled HIV-positive patients with lipodystrophy and showed:
+
+- **~13–15% reduction in VAT** at 26 weeks vs placebo
+- Significant improvements in triglycerides and the triglyceride/HDL ratio
+- **No significant change in overall body weight** — the effect is specific to visceral fat, not general weight loss
+- IGF-1 levels increased as expected with GHRH stimulation
+
+Effects are sustained with continued treatment and reverse within weeks of stopping — VAT returns to baseline in most patients.
+
+## Off-label and research use
+
+Tesamorelin is increasingly studied and used off-label for:
+- **Age-related visceral fat accumulation** (not HIV-specific)
+- **Metabolic syndrome** with elevated VAT
+- **General GH restoration** in aging adults
+
+Off-label prescribing is legal but not covered by most insurance outside the approved indication. Research-chemical vendors also sell tesamorelin, but purity and sequence accuracy vary significantly.
+
+## How it compares to CJC-1295
+
+| | Tesamorelin | CJC-1295 (without DAC) |
+| --- | --- | --- |
+| Type | GHRH analog | GHRH analog |
+| Approval | FDA-approved (lipodystrophy) | Research compound |
+| Half-life | ~26–38 min | ~25–30 min |
+| Dosing | 2 mg once daily | 100–200 mcg 2–3x daily |
+| Evidence quality | Phase 3 RCTs | Limited human data |
+| Primary evidence | Visceral fat reduction | General GH elevation |
+
+Tesamorelin's longer structure (44 amino acids vs CJC-1295's 29) may contribute to its strong VAT-specific effects. Both stimulate GH via the GHRH receptor.
+
+## Reconstitution
+
+Tesamorelin requires reconstitution with sterile diluent (provided with the Egrifta kit). For research-compound versions, bacteriostatic water is used. Walk through the process at the [reconstitution guide](/guides/how-to-reconstitute-peptides).
+
+## Related
+
+- [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)
+- [Best peptides for anti-aging](/guides/best-peptides-for-anti-aging)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'best-glp-1-peptides',
+    title: 'Best GLP-1 Peptides Compared: Semaglutide, Tirzepatide, Liraglutide & More',
+    metaTitle: 'Best GLP-1 Peptides Compared (2026): Full Guide',
+    description:
+      'A complete comparison of all GLP-1 and incretin-based peptides — semaglutide, tirzepatide, retatrutide, liraglutide, exenatide — ranked by weight loss efficacy, dosing convenience, and approval status.',
+    category: 'Comparison',
+    keywords: [
+      'best glp-1 peptide', 'glp-1 peptides compared', 'semaglutide vs liraglutide',
+      'glp-1 agonist comparison', 'best weight loss injection', 'glp-1 drugs ranked',
+    ],
+    readingTime: '8 min',
+    updated: 'June 2026',
+    image: '/guides/glp-1.webp',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'liraglutide'],
+    faqs: [
+      {
+        q: 'Which GLP-1 is most effective for weight loss?',
+        a: 'Among currently approved agents, tirzepatide (Zepbound) produces the greatest average weight loss — about 22.5% in SURMOUNT-1. Semaglutide (Wegovy) follows at about 14.9%. The investigational triple agonist retatrutide has shown ~24% in Phase 2 but is not yet approved.',
+      },
+      {
+        q: 'What is the difference between GLP-1, dual, and triple agonists?',
+        a: 'GLP-1 agonists (semaglutide, liraglutide) activate only the GLP-1 receptor. Dual agonists (tirzepatide) add GIP receptor activation. Triple agonists (retatrutide, investigational) add glucagon receptor activation. Each additional receptor contributes additional mechanisms that appear to enhance weight loss.',
+      },
+      {
+        q: 'Are daily GLP-1 injections still used?',
+        a: 'Liraglutide (Saxenda) requires daily injection and is generally considered first-generation. Once-weekly semaglutide and tirzepatide have largely supplanted daily agents for new prescriptions due to superior convenience and efficacy.',
+      },
+    ],
+    content: `The GLP-1 and incretin drug class has expanded rapidly. Choosing the right agent requires understanding the differences in mechanism, efficacy, dosing schedule, and availability. This guide ranks and compares all the major options.
+
+> **Education only.** All approved compounds listed here are prescription medications. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer). See also our [comparison tool](/compare) for interactive side-by-side analysis.
+
+## The hierarchy of incretin mechanisms
+
+| Generation | Receptors | Examples |
+| --- | --- | --- |
+| GLP-1 only | GLP-1 | Semaglutide, Liraglutide, Exenatide |
+| Dual agonist | GIP + GLP-1 | Tirzepatide |
+| Triple agonist | GIP + GLP-1 + Glucagon | Retatrutide (investigational) |
+
+More receptor activation generally produces greater weight loss — each additional mechanism adds a complementary effect.
+
+## Head-to-head efficacy ranking
+
+| Agent | Mechanism | Trial | Duration | Mean weight loss | Status |
+| --- | --- | --- | --- | --- | --- |
+| **Retatrutide 12 mg** | Triple | Phase 2 | 48 wks | ~24.2% | Investigational |
+| **Tirzepatide 15 mg** | Dual | SURMOUNT-1 | 72 wks | ~22.5% | FDA-approved |
+| **Semaglutide 2.4 mg** | GLP-1 | STEP 1 | 68 wks | ~14.9% | FDA-approved |
+| **Liraglutide 3 mg** | GLP-1 | SCALE | 56 wks | ~8.0% | FDA-approved |
+| **Exenatide ER** | GLP-1 | DURATION-6 | 26 wks | ~4.1% (vs placebo) | FDA-approved |
+
+*Note: Retatrutide Phase 2 and other approved agents are not directly comparable across these trials; direct head-to-head data is limited.*
+
+## Agent profiles
+
+### Semaglutide (Ozempic / Wegovy / Rybelsus)
+The most widely prescribed GLP-1 agent. **Weekly injection** (Ozempic/Wegovy) or **daily oral tablet** (Rybelsus, lower efficacy). Proven cardiovascular benefit (SELECT trial: 20% reduction in MACE). Excellent long-term safety data. See the [Semaglutide dosage guide](/guides/semaglutide-dosage-guide).
+
+### Tirzepatide (Mounjaro / Zepbound)
+Currently the **most effective approved weight-loss drug**. Once-weekly injection. SURMOUNT-1 showed ~22.5% weight loss at 72 weeks; ~63% of participants lost ≥20%. Cardiovascular trial (SURMOUNT-MMO) underway. See the [Tirzepatide dosage guide](/guides/tirzepatide-dosage-guide) and the [Semaglutide vs Tirzepatide comparison](/guides/semaglutide-vs-tirzepatide).
+
+### Liraglutide (Saxenda / Victoza)
+**First-generation daily GLP-1 agonist**. Effective but requires daily injection and produces less weight loss than weekly agents. Remains an option when newer agents are unavailable or not tolerated. SCALE trial showed ~8% weight loss vs placebo at 56 weeks.
+
+### Exenatide (Byetta / Bydureon)
+Exenatide was among the first GLP-1 agonists approved. Byetta (twice-daily) is largely discontinued for obesity; Bydureon (weekly) is used primarily for T2DM. Less potent for weight loss than newer agents.
+
+### Retatrutide (investigational)
+Phase 2 showed ~24% weight loss at 48 weeks at the 12 mg dose. Phase 3 (TRIUMPH program) ongoing. Not available as a prescription or research compound. See the [Retatrutide guide](/guides/retatrutide-guide).
+
+## How to choose
+
+| Priority | Best option |
+| --- | --- |
+| Maximum weight loss (approved) | Tirzepatide |
+| Best cardiovascular evidence | Semaglutide |
+| Oral administration | Semaglutide (Rybelsus) — lower efficacy |
+| Daily injection acceptable, cost-sensitive | Liraglutide |
+| Not yet available, watching trials | Retatrutide |
+
+## Related
+
+- [Semaglutide vs Tirzepatide](/guides/semaglutide-vs-tirzepatide)
+- [Retatrutide vs Tirzepatide](/guides/retatrutide-vs-tirzepatide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)
+- [Compare peptides side by side](/compare)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'how-to-read-a-coa',
+    title: 'How to Read a Peptide Certificate of Analysis (COA)',
+    metaTitle: 'How to Read a Peptide COA: Complete Guide (2026)',
+    description:
+      'A step-by-step guide to reading and interpreting a peptide Certificate of Analysis — what tests it should include, what the numbers mean, red flags to watch for, and how to verify the lab.',
+    category: 'How-To',
+    keywords: [
+      'how to read a coa', 'peptide certificate of analysis', 'coa peptide',
+      'peptide purity test', 'verify peptide quality', 'peptide lab testing',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/coa.webp',
+    relatedPeptides: ['bpc-157', 'tb-500', 'ipamorelin'],
+    faqs: [
+      {
+        q: 'What is a COA for peptides?',
+        a: 'A Certificate of Analysis (COA) is a document from a testing laboratory that certifies the results of analytical testing on a specific batch of peptide. It should include purity (typically measured by HPLC), identity verification (mass spectrometry), and ideally testing for endotoxins and microbial contamination.',
+      },
+      {
+        q: 'What purity should a research peptide have?',
+        a: 'Research-grade peptides are typically ≥98% pure by HPLC. Pharmaceutical-grade is ≥99%. Anything below 95% should raise questions about the vendor. The COA should specify purity as a percentage and list the test method (HPLC).',
+      },
+      {
+        q: 'Can I trust a COA on a vendor\'s website?',
+        a: 'Not automatically. Some vendors fabricate or modify COAs. Key verification steps: check that the COA names a real, independent laboratory (not an in-house lab); verify the lot number matches what you received; consider contacting the lab directly to confirm the document is genuine.',
+      },
+    ],
+    content: `A **Certificate of Analysis (COA)** is the single most important document for verifying peptide quality. Every reputable research peptide vendor provides one. But a COA is only useful if you know how to read it — and how to spot a fake or inadequate one.
+
+> **Research use only.** This guide focuses on research peptide quality verification. For pharmaceutical compounds, COAs are provided by the manufacturer and regulated by the FDA. See our [Medical Disclaimer](/medical-disclaimer).
+
+## What a COA should contain
+
+A legitimate COA from an independent third-party lab will include at minimum:
+
+1. **Compound name and lot/batch number** — must match the product you received
+2. **HPLC purity result** — the core quality metric (see below)
+3. **Mass spectrometry (MS) identity confirmation** — confirms the compound is what it claims to be
+4. **Lab name and contact information** — must be a real, verifiable independent lab
+5. **Test date** — should be recent (within the past year for the batch in question)
+
+Premium COAs additionally include:
+- **Endotoxin testing** (LAL test) — critical for injectables; endotoxins cause inflammatory reactions
+- **Microbial contamination testing** — sterility verification
+- **Heavy metals / solvent residues** — particularly important for synthetically produced peptides
+
+## HPLC purity: the core metric
+
+**HPLC (High-Performance Liquid Chromatography)** separates the components of the peptide sample and quantifies the percentage that is the desired compound.
+
+| Purity % | Interpretation |
+| --- | --- |
+| ≥99% | Pharmaceutical grade |
+| ≥98% | Research grade — standard expectation |
+| 95–97% | Acceptable minimum; lower vendors |
+| Below 95% | Questionable; avoid unless context is clear |
+
+The HPLC chromatogram (the graph) should show a dominant peak for the target peptide. Multiple similar-sized peaks indicate impurities or degradation products. A COA that only lists a purity number without the actual chromatogram data should be treated skeptically.
+
+## Mass spectrometry: identity verification
+
+HPLC confirms purity but not identity — a sample could be 99% pure and still be the wrong peptide. **Mass spectrometry (MS)** confirms the molecular weight of the compound matches the expected value for the peptide.
+
+What to check:
+- The **observed molecular weight** (typically listed as [M+H]+, [M+2H]2+, etc.) should match the **theoretical molecular weight** of the peptide
+- Molecular weights for common peptides are well-documented — BPC-157 is 1419.5 Da, TB-500 is 839.0 Da (as the fragment), Ipamorelin is 711.9 Da
+
+If the COA provides mass spec data and it does not match the published molecular weight for that peptide, the compound is not what it claims.
+
+## Verifying the lab
+
+Many vendors include COAs from labs with vague or unverifiable names. Legitimate labs used for peptide testing include:
+
+- **Janoshik** (Czechia) — most commonly used for research peptides; results can be searched on their public database
+- **LabCorp, Eurofins, SGS** — major commercial labs
+- **University labs** — occasionally used
+
+For **Janoshik specifically**, you can search the COA number directly on their website to verify authenticity. If a vendor uses Janoshik, this is checkable.
+
+Signs of a potentially fake COA:
+- Lab name is vague ("USA Lab" or "Quality Testing Inc.")
+- No contact information or web presence for the lab
+- The lot number on the COA differs from your product
+- The purity is suspiciously high (99.9%+) with no chromatogram
+
+## Endotoxin testing: the often-missing test
+
+**Endotoxins** (lipopolysaccharides from gram-negative bacteria) are the most dangerous contamination risk for injectable research peptides. They cause severe inflammatory responses — fever, chills, rigors — even at very low concentrations.
+
+The **LAL (Limulus Amebocyte Lysate) test** quantifies endotoxins. Acceptable limits for parenteral use are generally below 5 EU/kg body weight per dose.
+
+Many research peptide COAs do **not** include endotoxin testing — this is a real gap in quality assurance. Vendors that provide endotoxin-tested products are providing a meaningfully higher level of safety assurance.
+
+## Red flags summary
+
+- No third-party COA at all
+- In-house lab only (vendor tests their own products)
+- No mass spectrometry (purity only)
+- No endotoxin testing for injectable products
+- Lab name is not verifiable
+- Lot number discrepancy
+- Very recent test date on a batch that has been in stock for over a year
+
+## Related
+
+- [Compare verified vendors](/vendors)
+- [What are research peptides?](/guides/what-are-research-peptides)
+- [Peptide side effects](/guides/peptide-side-effects)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'mk-677-vs-ipamorelin',
+    title: 'MK-677 vs Ipamorelin: Oral vs Injectable GH Secretagogue',
+    metaTitle: 'MK-677 vs Ipamorelin: Which Is Better? (2026)',
+    description:
+      'A head-to-head comparison of MK-677 (Ibutamoren) and Ipamorelin — mechanism, dosing, selectivity, side effects, and when to choose each or combine them.',
+    category: 'Comparison',
+    keywords: [
+      'mk-677 vs ipamorelin', 'ipamorelin vs mk677', 'mk-677 or ipamorelin',
+      'best gh secretagogue', 'oral vs injectable gh peptide',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/dosage-vial.webp',
+    relatedPeptides: ['ipamorelin', 'cjc-1295'],
+    faqs: [
+      {
+        q: 'Is MK-677 better than Ipamorelin?',
+        a: 'They have different profiles that make each better in different contexts. MK-677 is oral, longer-acting, and simpler to use; Ipamorelin is injectable, produces cleaner pulsatile GH release with no appetite stimulation, and is always stacked with a GHRH analog for synergistic effect.',
+      },
+      {
+        q: 'Can MK-677 and Ipamorelin be combined?',
+        a: 'Yes — they act on the same receptor (ghrelin/GHS-R1a) so combining them is largely redundant in that respect. A more effective stack for MK-677 is to add a GHRH analog (CJC-1295) to also activate the GHRH receptor. Ipamorelin + CJC-1295 is the preferred injectable pairing.',
+      },
+      {
+        q: 'Does MK-677 cause more water retention than Ipamorelin?',
+        a: 'Generally yes — MK-677 produces more pronounced water retention, particularly in the first few weeks. This is related to its stronger and more sustained IGF-1 elevation and possibly aldosterone effects. Ipamorelin, producing more subtle pulsatile GH increases, typically causes less fluid retention.',
+      },
+    ],
+    content: `**MK-677 (Ibutamoren)** and **Ipamorelin** are both ghrelin receptor agonists that stimulate GH release — but they differ fundamentally in route of administration, half-life, and side-effect profile. Understanding the distinction helps in choosing the right tool for a given research context.
+
+> **Research use only.** MK-677 and Ipamorelin are not FDA-approved. Human clinical data is limited. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## The shared mechanism — and where they diverge
+
+Both MK-677 and Ipamorelin activate the **ghrelin receptor (GHS-R1a)**, which signals the pituitary to release growth hormone.
+
+| | MK-677 (Ibutamoren) | Ipamorelin |
+| --- | --- | --- |
+| Type | Non-peptide small molecule | Peptide (GHRP) |
+| Administration | **Oral** | Injectable (subcutaneous) |
+| Half-life | **~24 hours** | ~2 hours |
+| GH effect | Sustained elevation | **Pulsatile** |
+| Appetite stimulation | **Significant** | Minimal |
+| Water retention | Moderate–significant | Mild |
+| Cortisol / prolactin effect | Moderate | Minimal |
+| Always stacked with GHRH? | No (works alone) | Yes (most effective with CJC-1295) |
+
+The **oral availability** of MK-677 is its defining advantage — no needles, no reconstitution, simpler logistics. Ipamorelin's advantage is **selectivity**: it stimulates GH without meaningfully raising cortisol, prolactin, or appetite.
+
+## GH release pattern: pulsatile vs sustained
+
+This distinction matters biologically:
+
+- **Pulsatile GH** (Ipamorelin + CJC-1295): Mimics the natural pattern of GH release — discrete peaks followed by troughs. The GH receptor responds most strongly to these peaks. Most researchers believe pulsatile release is more physiologically appropriate and may reduce receptor downregulation.
+- **Sustained GH elevation** (MK-677): More constant suppression of GH troughs. Simpler, but may be less aligned with natural GH physiology. The sustained IGF-1 elevation is one reason for greater water retention and glucose impact.
+
+## Side-effect comparison
+
+| Side effect | MK-677 | Ipamorelin |
+| --- | --- | --- |
+| Increased appetite | **Yes — often significant** | Minimal |
+| Water retention | **Moderate–significant early** | Mild |
+| Fatigue/lethargy | Possible; mitigated by night dosing | Minimal |
+| Glucose / insulin sensitivity | **Monitor on extended use** | Less concern |
+| Carpal tunnel symptoms | Possible at high doses | Less likely |
+
+**Verdict:** Ipamorelin is the more selective and cleaner option. MK-677 causes more side effects but eliminates the need for injections.
+
+## When to choose each
+
+**Choose MK-677 when:**
+- Oral convenience is a priority
+- The research context calls for sustained IGF-1 elevation
+- Appetite increase is acceptable (e.g., deliberate caloric surplus)
+- Needles are not feasible
+
+**Choose Ipamorelin (+ CJC-1295) when:**
+- Pulsatile, physiologically aligned GH release is preferred
+- Side-effect profile is a priority (cortisol, appetite)
+- Precise dosing timing around sleep and training is possible
+- Stacking with a GHRH analog for maximum GH output
+
+**Combine them (MK-677 + CJC-1295):**
+- An effective alternative to the Ipamorelin + CJC-1295 stack
+- Uses the oral convenience of MK-677 with the GHRH receptor activation of CJC-1295
+- More pronounced appetite effects than the injectable stack
+
+## Related
+
+- [MK-677 dosage guide](/guides/mk-677-dosage-guide)
+- [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide)
+- [Best peptides for muscle growth](/guides/best-peptides-for-muscle-growth)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'recomp-peptide-stack',
+    title: 'Peptide Stack for Body Recomposition (Fat Loss + Muscle)',
+    metaTitle: 'Best Peptide Stack for Body Recomposition (2026)',
+    description:
+      'A research-based recomposition peptide stack — the best combination of GH secretagogues and recovery peptides for simultaneous fat loss and lean-mass preservation, with full protocol details.',
+    category: 'Stacks',
+    keywords: [
+      'recomp peptide stack', 'body recomposition peptides', 'peptides for recomposition',
+      'fat loss muscle gain peptides', 'best peptide stack recomp',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/muscle-growth.webp',
+    relatedPeptides: ['cjc-1295', 'ipamorelin', 'bpc-157'],
+    faqs: [
+      {
+        q: 'What is the best peptide stack for body recomposition?',
+        a: 'The most commonly researched recomposition stack is CJC-1295 + Ipamorelin (GH secretagogues for fat metabolism and lean mass support) combined with BPC-157 (for recovery from high-volume training). This stack addresses both the anabolic/metabolic and recovery sides of recomposition.',
+      },
+      {
+        q: 'How long does a recomposition peptide stack take to show results?',
+        a: 'Most researchers report the first noticeable effects at 4–6 weeks (improved sleep, better recovery), with visible body composition changes appearing at 8–12 weeks. Recomposition is slower and more subtle than bulking with anabolic compounds — expect gradual rather than dramatic changes.',
+      },
+      {
+        q: 'Can I stack GH secretagogues with GLP-1 peptides for recomposition?',
+        a: 'In principle, combining GH secretagogues (for lean mass and recovery) with a GLP-1 agent (for appetite suppression and fat loss) could address multiple recomposition mechanisms simultaneously. However, combining them increases complexity and potential side effects. This is outside standard research protocols.',
+      },
+    ],
+    content: `Body recomposition — reducing fat while maintaining or gaining lean mass — is one of the most sought-after outcomes in peptide research. No single peptide accomplishes this alone; the most effective approach combines compounds targeting different mechanisms.
+
+> **Research use only.** The compounds discussed are sold for research purposes. This is not medical advice. See our [Medical Disclaimer](/medical-disclaimer).
+
+## The recomposition challenge
+
+Recomposition is biochemically demanding: fat loss requires a caloric deficit, while muscle preservation or gain favors a surplus. Peptides help navigate this tension by:
+
+1. **Elevating GH and IGF-1** — promoting fat metabolism (particularly visceral fat) while protecting lean mass, even in a mild deficit
+2. **Accelerating recovery** — allowing higher training volume without injury, maximizing the anabolic stimulus
+3. **Improving sleep** — GH is primarily released during deep sleep; better sleep quality improves both recovery and GH output
+
+## The core recomp stack
+
+### CJC-1295 + Ipamorelin — the GH foundation
+
+The primary engine of the stack. CJC-1295 (GHRH analog) + Ipamorelin (GHRP) produce synergistic GH pulses that support:
+
+- **Fat oxidation** — elevated GH promotes lipolysis, particularly visceral fat
+- **Lean mass preservation** — IGF-1 is a key anabolic signal for muscle protein synthesis
+- **Sleep architecture** — deeper sleep improves recovery and natural GH output
+
+| Peptide | Dose | Timing |
+| --- | --- | --- |
+| CJC-1295 without DAC | 100–200 mcg | Pre-sleep + morning, fasted |
+| Ipamorelin | 200–300 mcg | Co-inject with CJC-1295 |
+
+See the [CJC-1295 + Ipamorelin GH stack guide](/guides/cjc-1295-ipamorelin-gh-stack) for the full dosing protocol.
+
+### BPC-157 — recovery enabler
+
+**[BPC-157](/peptides/bpc-157)** does not directly cause fat loss or muscle gain. Its role in the recomp stack is to **enable higher training volume** by accelerating recovery from connective tissue stress. In a recomposition context where training intensity is high, BPC-157 keeps you training consistently.
+
+| Peptide | Dose | Timing |
+| --- | --- | --- |
+| BPC-157 | 250–500 mcg | Once or twice daily |
+
+See the [BPC-157 dosage guide](/guides/bpc-157-dosage-guide).
+
+## Full recomp stack protocol
+
+| Peptide | Dose | Frequency | Route |
+| --- | --- | --- | --- |
+| CJC-1295 (without DAC) | 100–200 mcg | 2x daily (AM + pre-sleep) | Sub-q |
+| Ipamorelin | 200–300 mcg | 2x daily with CJC-1295 | Sub-q |
+| BPC-157 | 250–500 mcg | 1–2x daily | Sub-q |
+
+**Cycle:** 10–12 weeks, followed by 4 weeks off. Reassess results and adjust dose before the next cycle.
+
+## Optional additions
+
+For those seeking to optimize further within a research context:
+
+- **TB-500 (2 mg twice weekly)** — if widespread recovery issues exist alongside BPC-157
+- **Tesamorelin (2 mg daily)** — if visceral fat is a specific target, substituting for or adding to the GHRH component
+
+## What to expect
+
+| Timeframe | Expected changes |
+| --- | --- |
+| Weeks 1–2 | Improved sleep quality; mild water retention |
+| Weeks 3–6 | Better workout recovery; less joint/tendon soreness |
+| Weeks 6–10 | Noticeable body composition shift — clothes fitting differently; leaner appearance |
+| Weeks 10–12 | Cumulative recomposition — reduced body fat, maintained or improved lean mass |
+
+These changes are real but subtle. This is not a dramatic transformation protocol — it is a precision optimization tool that works best alongside appropriate training and nutrition.
+
+## Nutrition context
+
+No peptide stack overcomes a poor diet. Recomposition works best with:
+- **High protein** (1.6–2.2 g/kg body weight) to support muscle protein synthesis
+- **Moderate caloric deficit** (200–400 kcal) to support fat loss without compromising recovery
+- **High-quality sleep** — this is where most GH is released and when the stack does its primary work
+
+## Related
+
+- [CJC-1295 + Ipamorelin GH stack guide](/guides/cjc-1295-ipamorelin-gh-stack)
+- [BPC-157 dosage guide](/guides/bpc-157-dosage-guide)
+- [Best peptides for muscle growth](/guides/best-peptides-for-muscle-growth)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'peptides-wada-drug-testing',
+    title: 'Peptides and Drug Testing: WADA Prohibited List Explained',
+    metaTitle: 'Peptides & WADA Drug Testing: What Athletes Need to Know',
+    description:
+      'Which peptides are banned under the WADA Prohibited List, how they are detected, the difference between in-competition and out-of-competition bans, and what athletes need to know before using any peptide.',
+    category: 'Explainer',
+    keywords: [
+      'peptides wada', 'peptides drug testing', 'wada prohibited peptides',
+      'peptides banned sports', 'are peptides detectable', 'ghrp wada banned',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/wada-sport.webp',
+    relatedPeptides: ['ipamorelin', 'cjc-1295', 'bpc-157'],
+    faqs: [
+      {
+        q: 'Are GH secretagogues banned in sport?',
+        a: 'Yes. Growth hormone releasing peptides (GHRPs) and GHRH analogs are explicitly listed under the WADA Prohibited List in category S2 (Peptide Hormones, Growth Factors, Related Substances and Mimetics). This includes Ipamorelin, GHRP-2, GHRP-6, CJC-1295, Sermorelin, and similar compounds.',
+      },
+      {
+        q: 'Is BPC-157 banned by WADA?',
+        a: 'BPC-157 is not explicitly named on the WADA Prohibited List. However, WADA prohibits substances "not approved by any governmental regulatory health authority" if they have evidence of performance-enhancing effects — a catch-all that BPC-157 could fall under. Athletes should treat it as potentially prohibited and seek confirmation from their sport\'s anti-doping authority.',
+      },
+      {
+        q: 'Can peptide drug tests be beaten?',
+        a: 'Detection windows for peptides are generally shorter than for steroids. Some peptides (particularly shorter-acting ones) may only be detectable for hours to days. However, anti-doping science is advancing rapidly, and relying on detection windows to beat tests is both unethical and increasingly unreliable.',
+      },
+    ],
+    content: `Athletes subject to anti-doping rules need to understand exactly which peptides are prohibited, whether that prohibition applies in and out of competition, and what the detection landscape looks like. This guide covers the key facts.
+
+> **Not legal advice.** Anti-doping rules vary by sport, federation, and country. Always consult your sport's anti-doping authority or a qualified anti-doping lawyer for specific situations. See our [Medical Disclaimer](/medical-disclaimer).
+
+## The WADA Prohibited List: the master reference
+
+The **WADA Prohibited List** (updated annually, effective January 1 each year) is the authoritative reference for banned substances in sport. It applies to all signatories of the World Anti-Doping Code, covering most Olympic and Paralympic sports, and many professional leagues.
+
+There is one fundamental rule athletes must understand:
+
+> **"I didn't know" is not a defense.** Athletes bear strict liability for what is in their body, regardless of intent, knowledge, or source.
+
+## Section S2: where most peptides appear
+
+The relevant section for peptides is **S2: Peptide Hormones, Growth Factors, Related Substances and Mimetics**, which is prohibited **at all times** (in- and out-of-competition).
+
+### Explicitly prohibited categories in S2:
+
+**Growth hormone releasing peptides (GHRPs):**
+- GHRP-2 (Pralmorelin)
+- GHRP-6
+- **Ipamorelin**
+- Hexarelin
+- All other compounds with similar structure/action
+
+**GHRH analogs:**
+- **Sermorelin**
+- **CJC-1295** (with and without DAC)
+- Modified GRF 1-29 (Mod-GRF 1-29)
+- All other GHRH analogs
+
+**Growth hormone (GH) itself** and **IGF-1** are also S2 prohibited (not peptide secretagogues, but the actual hormones they stimulate).
+
+**Selective Androgen Receptor Modulators (SARMs)** — often stacked with peptides — appear in **S1** and are also prohibited at all times.
+
+## GLP-1 peptides: the exception
+
+**Semaglutide, tirzepatide, and liraglutide** are **NOT currently on the WADA Prohibited List**. WADA has considered adding semaglutide given its widespread use and potential performance-adjacent effects (body composition changes), but as of 2026 it remains permitted.
+
+This could change. Athletes using GLP-1 agents should monitor annual WADA List updates.
+
+## BPC-157 and TB-500: the gray zone
+
+Neither **BPC-157** nor **TB-500** are explicitly named on the WADA Prohibited List.
+
+However, WADA's catch-all provision in S2 states that the following are prohibited:
+
+> "Any other substance with similar chemical structure or similar biological effect(s)"
+
+Additionally, WADA prohibits substances "with no current approval by any governmental regulatory health authority" that show evidence of performance-enhancing effects or are being misused by athletes. BPC-157 and TB-500 could theoretically be prohibited under this language.
+
+The practical situation: neither has been the subject of high-profile anti-doping cases, but athletes should:
+- Treat BPC-157 and TB-500 as **potentially prohibited**
+- Consult their sport's national anti-doping organization (e.g., USADA in the US)
+- File a **Therapeutic Use Exemption (TUE)** if they have a legitimate medical need
+
+## Detection methods and windows
+
+Peptide detection has historically been more difficult than steroid detection — peptides degrade rapidly and exist at very low concentrations. However, anti-doping science has advanced substantially:
+
+- **HPLC-MS/MS** (high-performance liquid chromatography with tandem mass spectrometry) can now detect many peptides at nanogram-per-milliliter concentrations in urine
+- **Ipamorelin** has an estimated urinary detection window of approximately **12–24 hours**
+- **GHRP-6** is similarly short-lived
+- **Longer-acting compounds** (e.g., CJC-1295 with DAC) may be detectable for several days
+- **Dried blood spot** testing is expanding, potentially catching compounds missed by urine
+
+Athletes who rely on short detection windows as a strategy should understand that this is unreliable and constitutes an anti-doping rule violation regardless of test result.
+
+## TUEs: the legitimate path
+
+A **Therapeutic Use Exemption (TUE)** allows an athlete to use a prohibited substance for a genuine medical need (e.g., GH deficiency treated with a GHRH analog). TUEs must be applied for in advance through the relevant anti-doping authority and require medical documentation.
+
+## Key takeaways for athletes
+
+1. GH secretagogues (Ipamorelin, CJC-1295, Sermorelin, GHRPs) are **explicitly banned at all times**.
+2. GLP-1 agents (semaglutide, tirzepatide) are **currently permitted** — but monitor annual WADA List updates.
+3. BPC-157 and TB-500 are in a gray zone — treat as **potentially prohibited**.
+4. Detection science is improving rapidly — short windows are not a reliable loophole.
+5. Consult USADA (usada.org) or your national anti-doping organization before using any peptide.
+
+## Related
+
+- [Are peptides legal?](/guides/are-peptides-legal)
+- [What are research peptides?](/guides/what-are-research-peptides)
+- [Peptide side effects](/guides/peptide-side-effects)`,
+  },
 ]
 
 export function getGuide(slug: string): Guide | undefined {

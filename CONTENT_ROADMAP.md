@@ -22,8 +22,8 @@ site can outrank.
 Searchers want steps; SERPs are vendor blogs. We have the calculators.
 - ✅ How to Reconstitute Peptides (Step-by-Step) — `/guides/how-to-reconstitute-peptides`
 - ✅ How to Inject Peptides Subcutaneously — `/guides/how-to-inject-peptides`
-- How to Store Peptides (lyophilized vs reconstituted, travel)
-- Reading a Certificate of Analysis (COA) for Peptides
+- ✅ How to Store Peptides (lyophilized vs reconstituted, travel) — `/guides/how-to-store-peptides`
+- ✅ Reading a Certificate of Analysis (COA) for Peptides — `/guides/how-to-read-a-coa`
 - Bacteriostatic Water vs Sterile Water: What's the Difference
 
 ### 2. Per-peptide dosage guides — HIGH priority, recurring template
@@ -34,7 +34,9 @@ Searchers want steps; SERPs are vendor blogs. We have the calculators.
 - ✅ Semaglutide Dosage & Titration Schedule — `/guides/semaglutide-dosage-guide`
 - ✅ Tirzepatide Dosage & Titration Schedule — `/guides/tirzepatide-dosage-guide`
 - ✅ MK-677 Dosage Guide — `/guides/mk-677-dosage-guide`
-- Tesamorelin, Retatrutide, AOD-9604 dosage guides
+- ✅ Tesamorelin Dosage Guide — `/guides/tesamorelin-dosage-guide`
+- ✅ Retatrutide Guide — `/guides/retatrutide-guide`
+- AOD-9604 dosage guide
 
 ### 3. "Best peptides for [goal]" listicles — HIGH priority, monetizes
 Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
@@ -43,21 +45,21 @@ Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
 - ✅ Best Peptides for Muscle Growth — `/guides/best-peptides-for-muscle-growth`
 - ✅ Best Peptides for Anti-Aging & Longevity — `/guides/best-peptides-for-anti-aging`
 - ✅ Best Peptides for Skin & Hair — `/guides/best-peptides-for-skin-hair`
-- Best GLP-1 Peptides Compared
+- ✅ Best GLP-1 Peptides Compared — `/guides/best-glp-1-peptides`
 
 ### 4. Comparison pages — MEDIUM priority, strong long-tail
 "[A] vs [B]" — we have the comparison tool + trial data.
 - ✅ Semaglutide vs Tirzepatide — `/guides/semaglutide-vs-tirzepatide`
 - ✅ BPC-157 vs TB-500 — `/guides/bpc-157-vs-tb-500`
 - ✅ Ipamorelin vs Sermorelin vs CJC-1295 — `/guides/ipamorelin-vs-sermorelin-vs-cjc-1295`
-- Retatrutide vs Tirzepatide
-- MK-677 vs Ipamorelin
+- ✅ Retatrutide vs Tirzepatide — `/guides/retatrutide-vs-tirzepatide`
+- ✅ MK-677 vs Ipamorelin — `/guides/mk-677-vs-ipamorelin`
 
 ### 5. Stack guides — MEDIUM priority
 "[stack] protocol" has dedicated demand (e.g. "wolverine stack").
 - ✅ BPC-157 + TB-500 "Wolverine" Stack — `/guides/bpc-157-tb-500-wolverine-stack`
 - ✅ GH stack: CJC-1295 + Ipamorelin — `/guides/cjc-1295-ipamorelin-gh-stack`
-- Recomp / body composition stack
+- ✅ Recomp / body composition stack — `/guides/recomp-peptide-stack`
 - Anti-aging / longevity stack
 
 ### 6. Safety / explainer content — supports E-E-A-T
@@ -65,7 +67,7 @@ Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
 - ✅ What Are Research Peptides? — `/guides/what-are-research-peptides`
 - ✅ Peptide Side Effects: What the Research Shows — `/guides/peptide-side-effects`
 - ✅ How to Store Peptides — `/guides/how-to-store-peptides`
-- Peptides and WADA / Drug Testing
+- ✅ Peptides and WADA / Drug Testing — `/guides/peptides-wada-drug-testing`
 
 ## Cadence & measurement
 - Target 2–4 new guides/week; refresh top performers quarterly.
