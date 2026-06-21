@@ -12,14 +12,6 @@ import type { Metadata } from 'next'
 
 export const revalidate = 3600
 
-export async function generateStaticParams() {
-  const { data } = await supabase
-    .from('blog_posts')
-    .select('slug')
-    .eq('status', 'published')
-  return (data || []).map((p) => ({ slug: p.slug }))
-}
-
 export async function generateMetadata({
   params,
 }: {
