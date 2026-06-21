@@ -10,6 +10,7 @@ const navLinks = [
   { href: '/peptides', label: 'Peptides' },
   { href: '/stacks', label: 'Stacks' },
   { href: '/vendors', label: 'Vendors' },
+  { href: '/blog', label: 'Blog' },
   { href: '/calculator', label: 'Calculator' },
   { href: '/compare', label: 'Compare' },
 ]

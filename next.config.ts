@@ -16,6 +16,14 @@ const nextConfig: NextConfig = {
         hostname: 'pubchem.ncbi.nlm.nih.gov',
         pathname: '/image/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'd8j0ntlcm91z4.cloudfront.net',
+      },
+      {
+        protocol: 'https',
+        hostname: 'images.unsplash.com',
+      },
     ],
   },
 }
