@@ -85,6 +85,473 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'cjc-1295-ipamorelin-stack-guide',
+    title: 'CJC-1295 + Ipamorelin: The 2026 Complete Guide to GH Secretagogue Stacking',
+    excerpt:
+      'The most searched peptide stack in 2026. CJC-1295 and Ipamorelin work through two distinct pathways to produce synergistic growth hormone pulses — here\'s how they work, what the clinical data shows, the optimal protocol, and where to source verified material.',
+    publishedAt: '2026-06-21',
+    updatedAt: '2026-06-21',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Growth Hormone & Anti-Aging',
+    tags: ['CJC-1295', 'Ipamorelin', 'GH Secretagogue', 'Growth Hormone', 'Anti-Aging', 'Peptide Stack', 'Body Composition', 'GHRH', 'Ghrelin'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_220616_85fb77e5-3278-4a9f-a0c3-03ca88c59d4f.png',
+    heroImageAlt: 'CJC-1295 and Ipamorelin peptide vials with molecular helix structures — growth hormone secretagogue stack',
+    metaTitle: 'CJC-1295 + Ipamorelin Stack Guide 2026 — Protocol, Research & Where to Buy',
+    metaDescription:
+      'CJC-1295 + Ipamorelin is the most popular GH secretagogue stack in 2026. Our complete guide covers how both peptides work, the clinical evidence, optimal dosage protocol, safety profile, and verified sources with COAs.',
+    keywords: [
+      'CJC-1295 ipamorelin stack',
+      'CJC-1295 ipamorelin protocol',
+      'CJC-1295 dosage',
+      'ipamorelin CJC-1295',
+      'growth hormone secretagogue',
+      'GH peptide stack',
+      'CJC-1295 ipamorelin benefits',
+      'best growth hormone peptides',
+      'peptides for anti-aging',
+      'GHRH peptide',
+      'ghrelin receptor agonist',
+      'CJC-1295 results',
+      'ipamorelin side effects',
+      'peptides for muscle growth',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/cjc-1295-ipamorelin-stack-guide',
+    relatedPeptides: ['cjc-1295', 'ipamorelin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2800,
+      primaryKeyword: 'CJC-1295 ipamorelin stack',
+      secondaryKeywords: ['growth hormone secretagogue', 'CJC-1295 ipamorelin protocol', 'GH peptide stack'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA',
+        title: 'Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16352683/',
+        doi: '10.1210/jc.2005-1597',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Ionescu M, Frohman LA',
+        title: 'Pulsatile secretion of growth hormone (GH) persists during continuous stimulation by CJC-1295, a long-acting GH-releasing hormone analog',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16940445/',
+        doi: '10.1210/jc.2006-1702',
+        type: 'human_study',
+      },
+      {
+        id: 3,
+        authors: 'Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH',
+        title: 'Ipamorelin, the first selective growth hormone secretagogue',
+        journal: 'European Journal of Endocrinology',
+        year: 1998,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9849822/',
+        doi: '10.1530/eje.0.1390552',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Johansen PB, Segev Y, Landau D, Phillip M, Flyvbjerg A',
+        title: 'Ipamorelin, a new growth-hormone-releasing peptide, induces longitudinal bone growth in rats',
+        journal: 'Growth Hormone & IGF Research',
+        year: 1999,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/10373343/',
+        doi: '10.1054/ghir.1999.9972',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Smith RG, Van der Ploeg LH, Howard AD, Feighner SD, Cheng K, Hickey GJ, Wyvratt MJ Jr, Fisher MH, Nargund RP, Patchett AA',
+        title: 'Peptidomimetic regulation of growth hormone secretion',
+        journal: 'Endocrine Reviews',
+        year: 1997,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9101387/',
+        doi: '10.1210/edrv.18.5.0316',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of CJC-1295 in Subjects with HIV-Associated Adipose Redistribution Syndrome (HARS)',
+        journal: 'ClinicalTrials.gov',
+        year: 2007,
+        url: 'https://clinicaltrials.gov/study/NCT00431431',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Alba M, Fintini D, Sagazio A, Lawrence B, Castaigne JP, Frohman LA, Salvatori R',
+        title: 'Once-daily administration of CJC-1295, a long-acting growth hormone-releasing hormone (GHRH) analog, normalizes growth in the GHRH knockout mouse',
+        journal: 'American Journal of Physiology – Endocrinology and Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16940444/',
+        doi: '10.1152/ajpendo.00354.2006',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Bowers CY',
+        title: 'Growth hormone-releasing peptides: history and background',
+        journal: 'Frontiers in Neuroendocrinology',
+        year: 1990,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/2191755/',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Your pituitary gland doesn't stop making growth hormone when you hit 30. It stops making it <em>efficiently</em>. The pulses get smaller, the intervals longer, and the IGF-1 levels that drive muscle repair, fat metabolism, and cellular regeneration quietly decline — a process that accelerates every decade.</p>
+<p>The CJC-1295 + Ipamorelin stack is built on a simple but powerful idea: what if you could restore those GH pulses to something closer to what your body produced at 22? Not by injecting synthetic GH and overriding your natural axis — but by sending two complementary signals to your own pituitary and letting it do the work?</p>
+<p>That's exactly what this combination does. And in 2026, it's the most searched peptide stack on the internet — for good reason. This guide covers everything: how each peptide works at the receptor level, what the published clinical trials actually show, the optimal dosage and timing protocol, safety data, and where to source verified material.</p>`,
+      },
+      {
+        id: 'gh-secretagogues-explainer',
+        type: 'h2',
+        heading: 'What Are GH Secretagogues? The Basics',
+        content: `<p>Growth hormone (GH) is released from the anterior pituitary gland in pulses — typically 8–12 surges per day in young adults, with the largest happening in the first few hours of deep sleep. This pulsatile pattern is essential: continuous GH exposure would desensitize receptors and lose effectiveness. Your body evolved to respond to bursts, not steady streams.</p>
+<p>Two distinct hypothalamic pathways regulate these pulses:</p>
+<ul>
+  <li><strong>GHRH pathway</strong> — Growth hormone-releasing hormone (GHRH) is secreted by the hypothalamus and binds GHRH receptors on pituitary somatotrophs (GH-producing cells). This is the "go" signal: it amplifies the size (amplitude) of GH pulses. <sup>[1,2]</sup></li>
+  <li><strong>Ghrelin/GHS pathway</strong> — Ghrelin (and its synthetic mimetics, called GH secretagogues or GHS) binds a separate receptor called GHSR-1a. It works synergistically with GHRH — not just adding to GH release, but dramatically multiplying it when both pathways fire simultaneously. <sup>[3,5]</sup></li>
+</ul>
+<p>Somatostatin, a third hormone, acts as the "stop" signal — it suppresses GH release and determines the rhythm of pulses. Natural GH surges happen when somatostatin is low and GHRH + ghrelin are high simultaneously.</p>
+<p><strong>GH secretagogues work by amplifying the natural system — not replacing it.</strong> This distinction matters enormously. Exogenous HGH (synthetic growth hormone injections) bypasses the hypothalamic-pituitary axis entirely and suppresses your own GH production. Secretagogues like CJC-1295 and Ipamorelin instead augment your pituitary's own output, preserving the feedback loops that protect you from receptor desensitization and maintain physiological IGF-1 signaling.</p>`,
+      },
+      {
+        id: 'cjc1295-deep-dive',
+        type: 'h2',
+        heading: 'CJC-1295: The Long-Acting GHRH Analog',
+        content: `<p>CJC-1295 is a synthetic analog of growth hormone-releasing hormone (GHRH). Native GHRH has a half-life of just 7–10 minutes in circulation — it's cleaved rapidly by the enzyme DPP-IV (dipeptidyl peptidase IV). CJC-1295 was engineered with modifications that make it resistant to this enzymatic cleavage, dramatically extending its functional lifespan.</p>
+<p>Two versions exist:</p>
+<ul>
+  <li><strong>CJC-1295 without DAC</strong> — Modified GHRH with approximately 30-minute half-life. Produces a sharp, pronounced GH pulse similar to natural GHRH. Often called "Mod GRF 1-29."</li>
+  <li><strong>CJC-1295 with DAC</strong> (Drug Affinity Complex) — Contains a lysine-maleimide linker that covalently bonds to albumin in the bloodstream, extending half-life to 6–8 days. Produces sustained GH elevation with maintained pulsatility.</li>
+</ul>`,
+      },
+      {
+        id: 'cjc1295-vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_220618_a5816ba7-5f1f-4a68-aed6-9bfcdb691c35.png',
+          alt: 'Scientist holding research peptide vial — CJC-1295 lyophilized research compound',
+          caption: 'CJC-1295 is sold as a lyophilized (freeze-dried) white powder that must be reconstituted with bacteriostatic water before subcutaneous injection.',
+        },
+      },
+      {
+        id: 'cjc1295-mechanism',
+        type: 'h3',
+        heading: 'How CJC-1295 Works at the Receptor Level',
+        content: `<p>CJC-1295 binds the GHRH receptor (GHRHR) on pituitary somatotroph cells — the same receptor that native GHRH activates. This triggers a cAMP-mediated signaling cascade:</p>
+<ul>
+  <li><strong>Adenylyl cyclase activation</strong> — Receptor binding activates adenylyl cyclase via Gs proteins, increasing intracellular cAMP levels in somatotrophs.</li>
+  <li><strong>PKA phosphorylation</strong> — Elevated cAMP activates protein kinase A (PKA), which phosphorylates multiple downstream targets including the transcription factor CREB.</li>
+  <li><strong>GH gene expression</strong> — CREB phosphorylation upregulates GH1 gene transcription, increasing the total GH available for release.</li>
+  <li><strong>Intracellular calcium mobilization</strong> — cAMP signaling also raises intracellular Ca²⁺, triggering exocytosis of GH-containing secretory granules.</li>
+</ul>
+<p>The landmark 2006 clinical trial by Teichman et al. in the <em>Journal of Clinical Endocrinology & Metabolism</em> — the foundational human study for CJC-1295 — enrolled 21 healthy adults aged 21–61 and administered single and multiple doses of CJC-1295 (with DAC). Key findings: <sup>[1]</sup></p>
+<ul>
+  <li>Mean GH plasma levels increased <strong>2–10 fold</strong> for 6 days after a single injection</li>
+  <li>IGF-1 levels increased <strong>1.5–3 fold</strong> and remained elevated for 9–11 days</li>
+  <li>Multiple injections maintained elevated GH and IGF-1 levels for up to 28 days in some subjects</li>
+  <li>No serious adverse events were observed</li>
+</ul>
+<p>Critically, a follow-up study by Ionescu and Frohman confirmed that even with continuous CJC-1295 stimulation, GH secretion remained pulsatile — the natural rhythm was preserved, not flattened. <sup>[2]</sup> This is exactly what you want: bigger pulses at the same times your body would naturally produce them.</p>`,
+      },
+      {
+        id: 'ipamorelin-deep-dive',
+        type: 'h2',
+        heading: 'Ipamorelin: The Clean, Selective GH Secretagogue',
+        content: `<p>Ipamorelin is a pentapeptide (5 amino acids: Aib-His-D-2-Nal-D-Phe-Lys-NH₂) and one of the most selective GH secretagogues ever developed. It was discovered at Novo Nordisk in the late 1990s and represented a significant advance over earlier compounds like GHRP-6 and GHRP-2 because of its remarkable selectivity — it releases GH without the cortisol and prolactin spikes that characterized first-generation GH secretagogues.</p>
+<p>In the 1998 study by Raun et al. that established Ipamorelin's profile: <sup>[3]</sup></p>
+<ul>
+  <li>Ipamorelin showed <strong>highly selective</strong> GH release with minimal impact on ACTH, cortisol, prolactin, LH, or FSH</li>
+  <li>Dose-dependent GH release was demonstrated in both rats and pigs</li>
+  <li>The selectivity profile was superior to GHRP-6, GHRP-2, and hexarelin at equivalent doses</li>
+  <li>Bone growth (IGF-1-mediated) was confirmed in subsequent studies <sup>[4]</sup></li>
+</ul>`,
+      },
+      {
+        id: 'gh-pulse-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_220634_8ca39e5d-743c-46c6-bb30-63995bc67f5a.png',
+          alt: 'Growth hormone pulse visualization — CJC-1295 and Ipamorelin amplifying pituitary GH release',
+          caption: 'GH is released in natural pulses from the pituitary. CJC-1295 amplifies pulse amplitude via the GHRH pathway; Ipamorelin amplifies pulse amplitude via the ghrelin receptor pathway. Together, the effect is multiplicative.',
+        },
+      },
+      {
+        id: 'ipamorelin-mechanism',
+        type: 'h3',
+        heading: 'How Ipamorelin Works: The Ghrelin Receptor Pathway',
+        content: `<p>Ipamorelin acts as an agonist at the growth hormone secretagogue receptor type 1a (GHSR-1a) — the same receptor that endogenous ghrelin (the "hunger hormone") activates. But unlike ghrelin, Ipamorelin doesn't trigger appetite signaling or cortisol release because it selectively activates only the GH-releasing function of GHSR-1a.</p>
+<p>The mechanism runs parallel to but distinct from GHRH/CJC-1295:</p>
+<ul>
+  <li><strong>GHSR-1a binding</strong> — Ipamorelin binds GHSR-1a on pituitary somatotrophs (and hypothalamic neurons), activating Gq protein signaling.</li>
+  <li><strong>PLC-IP3 cascade</strong> — Gq activates phospholipase C (PLC), generating inositol triphosphate (IP3), which releases Ca²⁺ from intracellular stores.</li>
+  <li><strong>Calcium-dependent GH release</strong> — The intracellular calcium surge triggers GH exocytosis from secretory granules.</li>
+  <li><strong>Somatostatin inhibition</strong> — Ipamorelin also acts at the hypothalamic level to reduce somatostatin (the GH "stop signal") tone, further opening the window for GH release. <sup>[5]</sup></li>
+</ul>
+<p>The selectivity advantage is real and practically significant. GHRP-6 (an older GH secretagogue) increases cortisol by 20–40% and prolactin by 5–15% in most users — effects that can blunt IGF-1 signaling and cause water retention and mood changes. Ipamorelin produces negligible cortisol and prolactin elevation at standard research doses, making it the cleanest GH secretagogue in current use.</p>`,
+      },
+      {
+        id: 'synergy-section',
+        type: 'h2',
+        heading: 'Why Stack Them? The Multiplicative Synergy',
+        content: `<p>CJC-1295 and Ipamorelin hit <em>completely different receptors</em> on the same target cell (the pituitary somatotroph). This isn't additive — it's synergistic. Here's why:</p>
+<p>CJC-1295's cAMP-PKA pathway and Ipamorelin's PLC-calcium pathway both converge on GH exocytosis but through independent second messenger systems. Research on GHRH + ghrelin co-administration shows that combining both pathways produces <strong>3–8× more GH release</strong> than either agent alone at equivalent doses. <sup>[5]</sup></p>
+<p>The clinical intuition maps to the mechanism: CJC-1295 "loads the gun" by upregulating GH gene expression and filling secretory granules. Ipamorelin "pulls the trigger" by driving calcium-mediated exocytosis and reducing the somatostatin brake. Each is meaningful alone; together they're operating at a fundamentally different level.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'CJC-1295 (with DAC)', 'Ipamorelin'],
+          rows: [
+            ['Peptide Class', 'GHRH analog', 'GH secretagogue (ghrelin mimetic)'],
+            ['Size', '30 amino acids (~4.5 kDa)', '5 amino acids (~0.8 kDa)'],
+            ['Receptor', 'GHRH receptor (GHRHR)', 'Ghrelin receptor (GHSR-1a)'],
+            ['Pathway', 'Gs-cAMP-PKA', 'Gq-PLC-IP3-Ca²⁺'],
+            ['Half-life', '6–8 days (with DAC)', '~2 hours'],
+            ['Dosing Frequency', '1–2× per week', '2–3× daily'],
+            ['GH Effect', 'Increases pulse amplitude + GH gene expression', 'Drives acute GH exocytosis, reduces somatostatin'],
+            ['Cortisol Impact', 'Minimal', 'Minimal (selectivity advantage vs GHRP-6)'],
+            ['Prolactin Impact', 'None', 'None at standard doses'],
+            ['Synergy with Partner', 'High (different pathway)', 'High (different pathway)'],
+            ['Form', 'Lyophilized powder, SubQ injection', 'Lyophilized powder, SubQ injection'],
+            ['Human Evidence', '2 published RCTs (JCEM 2006)', 'Preclinical + Phase II data'],
+          ],
+        },
+      },
+      {
+        id: 'gh-release-chart',
+        type: 'chart',
+        heading: 'Estimated GH Release: Solo vs. Combined Stack',
+        chartData: {
+          title: 'Relative GH Release: CJC-1295 Alone vs. Ipamorelin Alone vs. CJC-1295 + Ipamorelin',
+          type: 'bar',
+          labels: ['Baseline', 'CJC-1295 Alone', 'Ipamorelin Alone', 'CJC-1295 + Ipamorelin'],
+          datasets: [
+            {
+              label: 'Relative GH AUC (arbitrary units)',
+              values: [1, 4, 3.5, 10],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Relative GH Area Under Curve',
+          note: 'Illustrative estimates based on GHRH + GHS co-administration studies. Combination data specific to CJC-1295 + Ipamorelin not yet published in controlled RCTs. Source: Teichman 2006 (CJC-1295), Raun 1998 (Ipamorelin), Smith 1997 (synergy model).',
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'What the Clinical Evidence Actually Shows',
+        content: `<p>The evidence base for CJC-1295 in humans is stronger than most peptides in this space. The 2006 Teichman et al. double-blind, placebo-controlled trial in <em>JCEM</em> — the top journal in clinical endocrinology — enrolled healthy adults aged 21–61 and produced some of the most compelling GH-peptide data published. <sup>[1]</sup></p>
+<p><strong>CJC-1295 human trial highlights (Teichman 2006):</strong></p>
+<ul>
+  <li>Single-dose: mean GH levels increased 2–10x above baseline within 2 hours</li>
+  <li>IGF-1 increased 1.5–3x and remained elevated for 9–11 days after a single injection</li>
+  <li>Weekly dosing maintained persistently elevated IGF-1 for the duration of the study</li>
+  <li>No serious adverse events; mild headache and flushing in some subjects (transient)</li>
+  <li>Dose range studied: 30–120 mcg/kg; most subjects showed dose-dependent response</li>
+</ul>
+<p>A Phase 2 clinical trial (NCT00431431) also evaluated CJC-1295 in HIV-associated adipose redistribution syndrome (HARS), a condition characterized by abnormal fat distribution — which confirms interest in its body composition effects in a clinical population. <sup>[6]</sup></p>
+<p>For <strong>Ipamorelin</strong>, the human clinical data is more limited but the preclinical profile is exceptional. The Raun 1998 study established its selectivity profile in animal models, and a 1999 Johansen et al. study confirmed IGF-1-mediated bone growth in rats at doses translatable to human research protocols. <sup>[3,4]</sup> Critically, no concerning safety signals have emerged across research studies — Ipamorelin's selective receptor profile appears to translate into a clean safety profile.</p>
+<p>The combination specifically (CJC-1295 + Ipamorelin) has not been studied in a published controlled human trial as of June 2026. All stacking protocols in current use are practitioner-derived, based on mechanistic rationale and clinical observation. This is an important caveat — the synergy is theoretically well-grounded and supported by general GHRH + GHS combination research, but has not been directly quantified in an RCT.</p>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> CJC-1295 and Ipamorelin are research compounds — not FDA-approved medications. They are legal to purchase for research purposes in the United States but are not approved for human consumption. CJC-1295 is prohibited by WADA under the S2 (peptide hormones) category. This article is for educational purposes only and is not medical advice. Always consult a qualified healthcare provider before using any research peptide.`,
+      },
+      {
+        id: 'dosage-heading',
+        type: 'h2',
+        heading: 'CJC-1295 + Ipamorelin Dosage Protocol',
+        content: `<p>The following protocol frameworks are derived from practitioner use in research settings and reflect common approaches reported in the literature and clinical communities. They are not individualized medical recommendations.</p>
+<p><strong>Critical administration notes:</strong></p>
+<ul>
+  <li>Both peptides are administered via <strong>subcutaneous injection</strong> (SubQ, not intramuscular)</li>
+  <li>Inject on an empty stomach — food (especially carbohydrates and fat) raises insulin and glucose, which blunt GH release</li>
+  <li>Ideal timing: 30–60 minutes before bed to align with the natural nocturnal GH surge, or first thing in the morning pre-breakfast</li>
+  <li>Reconstitute with bacteriostatic water (BAC water) — not sterile water, which has no preservative</li>
+  <li>Store reconstituted peptides refrigerated; use within 28–30 days</li>
+</ul>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Experience Level', 'CJC-1295 (with DAC) Dose', 'CJC-1295 Frequency', 'Ipamorelin Dose', 'Ipamorelin Frequency', 'Cycle Length'],
+          rows: [
+            ['Beginner', '200–300 mcg', '1× per week', '100–200 mcg', '1–2× daily', '8–12 weeks'],
+            ['Intermediate', '300–500 mcg', '1–2× per week', '200–300 mcg', '2–3× daily', '12–16 weeks'],
+            ['Advanced', '500–1000 mcg', '2× per week', '300 mcg', '3× daily', '16–20 weeks then 4–8 wk off'],
+            ['Using No-DAC variant', 'N/A', 'N/A', '100–300 mcg', '2–3× daily', '12 weeks; inject both same syringe'],
+          ],
+        },
+      },
+      {
+        id: 'athlete-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_220636_01308f61-9e8b-4aab-b742-513b599383d3.png',
+          alt: 'Fit athletic person in their 40s at the gym — optimized growth hormone and peak performance through peptide research',
+          caption: 'Research subjects using GH secretagogue protocols typically report improved body composition, faster recovery, and enhanced sleep quality within 4–8 weeks of consistent use.',
+        },
+      },
+      {
+        id: 'dosage-note-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>CJC-1295 with DAC vs. Without DAC:</strong> The most common stack pairs <em>CJC-1295 without DAC</em> (Mod GRF 1-29) with Ipamorelin — both injected together at the same time, 2–3× daily. This mimics natural pulsatile GH more closely. CJC-1295 <em>with DAC</em> is used once or twice weekly for convenience. Both approaches have advocates in research communities; the "without DAC" version is considered more physiological by many practitioners.`,
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects and Safety Profile',
+        content: `<p>Of all the peptide stacks in common research use, CJC-1295 + Ipamorelin has one of the most favorable safety profiles. Here's what the data and research reports actually show:</p>
+<p><strong>CJC-1295 reported effects (from Teichman 2006 trial and subsequent reports):</strong></p>
+<ul>
+  <li><strong>Injection site redness or swelling</strong> — Most common, typically resolves within 24 hours</li>
+  <li><strong>Transient flushing or warmth</strong> — Reported in ~40% of trial participants, brief in duration</li>
+  <li><strong>Headache</strong> — Mild, transient; likely related to initial GH/IGF-1 rise</li>
+  <li><strong>Water retention</strong> — Most common ongoing effect; typically improves after the first 2 weeks as the body adapts</li>
+  <li><strong>Tingling or numbness in extremities</strong> — Carpal tunnel-like symptoms occur in some individuals at higher doses, related to IGF-1 elevation</li>
+</ul>
+<p><strong>Ipamorelin reported effects (from research studies):</strong></p>
+<ul>
+  <li>Minimal cortisol or prolactin elevation — this is the core advantage over GHRP-6</li>
+  <li>Mild injection site reactions</li>
+  <li>Occasional dizziness or lightheadedness post-injection (transient)</li>
+  <li>Increased appetite in some users (ghrelin receptor activity)</li>
+</ul>
+<p><strong>What to watch for at higher doses:</strong> Elevated GH/IGF-1 levels over extended periods have theoretical associations with increased cancer risk — though no clinical evidence links research peptide use to cancer in humans. Individuals with active malignancies or strong family history of hormone-sensitive cancers should exercise particular caution.</p>
+<p><strong>Drug interactions:</strong> Glucocorticoids (prednisone, cortisol) directly antagonize GH effects at the cellular level. Co-administration of insulin or insulin sensitizers may amplify GH response unpredictably. Avoid combining with exogenous HGH unless under direct physician supervision.</p>`,
+      },
+      {
+        id: 'expected-results',
+        type: 'h2',
+        heading: 'What to Expect: Timeline of Effects',
+        content: `<p>GH secretagogues are not fast-acting compounds like stimulants or acute pain relievers. Their effects build over weeks as elevated GH drives downstream IGF-1 production and IGF-1 drives tissue-level changes. Here's a general timeline based on aggregated research reports:</p>
+<ul>
+  <li><strong>Days 1–7:</strong> Improved sleep quality (particularly deeper slow-wave sleep, when natural GH peaks). Some users report vivid dreams. Water retention may begin.</li>
+  <li><strong>Weeks 2–4:</strong> Improved recovery from training, reduced muscle soreness, increased energy levels. Body composition changes are not yet visible.</li>
+  <li><strong>Weeks 4–8:</strong> Visible lean mass accumulation and/or fat loss (especially visceral fat, which is GH-sensitive). Skin and hair quality improvements reported in some users.</li>
+  <li><strong>Weeks 8–16:</strong> Continued body composition optimization, improved joint health (IGF-1 supports cartilage), and sustained energy improvements.</li>
+  <li><strong>After cycle:</strong> IGF-1 levels normalize over 2–3 weeks post-cessation. Gains in lean mass are generally maintained with continued training.</li>
+</ul>
+<p>Anabolic effects are enhanced when combined with resistance training and adequate protein intake (≥1.6g/kg/day). GH alone without training produces minimal muscle hypertrophy — it's a permissive, not sufficient, signal for muscle growth.</p>`,
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Buy: Verified Sources for CJC-1295 + Ipamorelin (2026)',
+        content: `<p>Peptide quality varies enormously across suppliers. For research purposes, the minimum standard you should accept is third-party HPLC purity testing and mass spectrometry identity confirmation, with certificates of analysis available per batch. Below are verified vendors that meet these standards and currently carry both CJC-1295 and Ipamorelin:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'CJC-1295 (with DAC) & Ipamorelin',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'QR-code COA on every product. Dual ISO 17025-accredited lab testing: HPLC, mass spectrometry, endotoxin, sterility, and heavy metals. US-manufactured.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'CJC-1295 & Ipamorelin',
+            productUrl: 'https://modifiedaminos.shop/product-category/peptides/',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured, same-day shipping on orders placed before 2 PM CST. COA on every batch with HPLC verification.',
+            badge: 'Fastest Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'CJC-1295 & Ipamorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'Third-party tested, detailed product pages with research references. Blended options available for convenience.',
+            badge: 'Research-Focused',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Ipamorelin',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Ipamorelin from $79.99',
+            purity: '≥98%',
+            highlight: 'Free BAC water on peptide orders over $200. Free shipping over $250. COAs from accredited third-party labs.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'buy-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Only:</strong> All vendors listed above sell CJC-1295 and Ipamorelin strictly for laboratory research purposes. These products are not intended for human consumption. Check PeptideWiki's live peptide database for real-time pricing, inventory status, and COA verification across all tracked vendors.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What\'s the difference between CJC-1295 with DAC and without DAC?',
+            answer: 'CJC-1295 with DAC (Drug Affinity Complex) has a 6–8 day half-life because it binds to albumin in the bloodstream. It\'s dosed 1–2× per week. CJC-1295 without DAC (also called Mod GRF 1-29) has a ~30-minute half-life and produces a sharper, more acute GH pulse when stacked with Ipamorelin at the same time. Most practitioners consider the "without DAC" version more physiological, but "with DAC" is more convenient for weekly dosing.',
+          },
+          {
+            question: 'Should I inject CJC-1295 and Ipamorelin in the same syringe?',
+            answer: 'Yes, when using CJC-1295 without DAC (Mod GRF 1-29), the standard protocol is to draw both peptides into the same syringe and inject together — this creates the simultaneous GHRH + ghrelin receptor stimulation that produces the synergistic GH pulse. When using CJC-1295 with DAC (weekly dosing), it\'s typically injected separately since Ipamorelin is dosed multiple times daily.',
+          },
+          {
+            question: 'How long before you see results from the CJC-1295 + Ipamorelin stack?',
+            answer: 'Sleep quality improvements are often the first noticeable effect, appearing within the first 1–2 weeks. Recovery and energy improvements typically follow in weeks 2–4. Visible body composition changes (increased lean mass, reduced body fat — especially visceral fat) generally become apparent at weeks 6–10, with the most dramatic changes in those who combine the stack with consistent resistance training and adequate protein intake.',
+          },
+          {
+            question: 'Do I need to cycle off CJC-1295 and Ipamorelin?',
+            answer: 'Yes. Standard research protocols run 12–20 weeks on, followed by 4–8 weeks off. The rationale is to prevent potential receptor desensitization and allow the hypothalamic-pituitary axis to normalize. Unlike exogenous HGH, GH secretagogues don\'t suppress your natural GH production (they stimulate it), but taking breaks is still considered best practice for maintaining sensitivity.',
+          },
+          {
+            question: 'Can you take CJC-1295 + Ipamorelin with other peptides like BPC-157 or TB-500?',
+            answer: 'There are no known chemical incompatibilities. Many researchers combine the GH secretagogue stack with tissue-repair peptides like BPC-157 and TB-500 for synergistic recovery benefits — elevated IGF-1 from CJC-1295/Ipamorelin supports tissue repair while BPC-157 and TB-500 address the injury site directly. These would be injected separately as they serve different purposes.',
+          },
+          {
+            question: 'What time of day should I inject CJC-1295 and Ipamorelin?',
+            answer: 'The most common protocol is bedtime injection (30–60 minutes before sleep) to align with the largest natural GH pulse that occurs during slow-wave sleep. A second injection is often done first thing in the morning before breakfast. The critical rule for both injections is to be in a fasted state — insulin from food significantly blunts GH release.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line',
+        content: `<p>CJC-1295 + Ipamorelin represents the most rational approach to GH optimization currently available in the research peptide space. It works with your body's own pituitary-hypothalamic axis rather than bypassing it — amplifying the GH pulses your body already produces through two complementary, synergistic receptor pathways.</p>
+<p>The clinical evidence for CJC-1295 is exceptionally strong for a research peptide, with peer-reviewed human trials in a top endocrinology journal showing 2–10× GH elevation and 1.5–3× IGF-1 increase after a single dose. Ipamorelin's selectivity advantage over earlier GH secretagogues — minimal cortisol and prolactin — makes it the cleanest partner compound available.</p>
+<p>The honest caveats: the specific combination as a stack hasn't been evaluated in a controlled human RCT, and long-term data on GH secretagogue use remains limited. Anyone researching this stack should work with measured protocols, take structured cycle breaks, and monitor relevant biomarkers (IGF-1 levels, fasting glucose, blood pressure).</p>
+<p>For live pricing across all verified vendors, use PeptideWiki's peptide comparison tools. For those also researching tissue-repair peptides, the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack guide (BPC-157 + TB-500)</a> is a useful companion resource — the two protocols are frequently combined by practitioners for comprehensive recovery and performance optimization.</p>`,
+      },
+    ],
+  },
+  {
     slug: 'wolverine-stack-bpc157-tb500-guide',
     title: 'The Wolverine Stack: Complete BPC-157 + TB-500 Guide for Injury Recovery (2026)',
     excerpt:
