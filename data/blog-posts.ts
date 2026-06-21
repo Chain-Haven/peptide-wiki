@@ -2315,6 +2315,426 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'aod-9604-fat-loss-peptide-guide',
+    title: 'AOD-9604: The HGH Fragment That Reached Phase III Human Trials — What the Research Really Shows (2026)',
+    excerpt:
+      'Born in a Melbourne university lab, AOD-9604 became one of the most clinically tested peptides ever — six human trials, 900+ participants, and an FDA nutraceutical safety designation. Here\'s the honest story of what it does, what the trials showed, and where it stands in 2026.',
+    publishedAt: '2026-06-21',
+    updatedAt: '2026-06-21',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Fat Loss & Metabolic Health',
+    tags: ['AOD-9604', 'HGH Fragment', 'Fat Loss', 'Lipolysis', 'Growth Hormone Fragment', 'Weight Management', 'Peptide Research', 'Beta-3 Adrenergic', 'Metabolic Health', 'Clinical Trials'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_230614_7727b95a-3aee-4e76-a531-86f0e254ca20.png',
+    heroImageAlt: 'AOD-9604 research peptide vial on laboratory bench with glowing molecular structures — HGH fragment for fat loss research',
+    metaTitle: 'AOD-9604 Peptide Guide 2026 — Mechanism, Human Trials, Dosage & Verified Sources',
+    metaDescription:
+      'AOD-9604 is the only fat-loss peptide to complete six human clinical trials with 900+ participants and earn an FDA nutraceutical safety designation. Our 2026 guide covers the mechanism, METAOD trial results, dosage protocols, and verified research sources.',
+    keywords: [
+      'AOD-9604',
+      'aod 9604 peptide',
+      'hgh fragment 177-191',
+      'AOD-9604 fat loss',
+      'AOD-9604 weight loss',
+      'fat loss peptide',
+      'AOD-9604 dosage',
+      'AOD-9604 side effects',
+      'AOD-9604 research 2026',
+      'AOD-9604 vs semaglutide',
+      'lipolysis peptide',
+      'best peptide for fat loss 2026',
+      'AOD 9604 mechanism of action',
+      'HGH fragment fat loss',
+      'research peptide for weight loss',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/aod-9604-fat-loss-peptide-guide',
+    relatedPeptides: ['aod-9604'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'AOD-9604',
+      secondaryKeywords: ['HGH fragment 177-191', 'AOD-9604 fat loss', 'fat loss peptide', 'lipolysis peptide'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Ng FM, Sun SJ, Bhargava L, Ram JS, Ong LH',
+        title: 'Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone',
+        journal: 'Hormone Research',
+        year: 1990,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/2199186/',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Heffernan MA, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM',
+        title: 'The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice',
+        journal: 'Endocrinology',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11713213/',
+        doi: '10.1210/endo.142.12.8548',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Heffernan MA, Thorburn AW, Fam B, Summers R, Conway-Campbell B, Waters MJ, Ng FM',
+        title: 'Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone or a modified C-terminal fragment',
+        journal: 'International Journal of Obesity and Related Metabolic Disorders',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11673767/',
+        doi: '10.1038/sj.ijo.0801716',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Heffernan MA, Jiang WJ, Thorburn AW, Ng FM',
+        title: 'Effects of oral administration of a synthetic fragment of human growth hormone on lipid metabolism',
+        journal: 'American Journal of Physiology — Endocrinology and Metabolism',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/10988063/',
+        doi: '10.1152/ajpendo.2000.279.3.E501',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Moré MI, Kenyon G, Chung WJ, Voumard A',
+        title: 'Safety and Metabolism of AOD9604, a Novel Nutraceutical Ingredient for Improved Metabolic Health',
+        journal: 'Journal of Endocrinology and Metabolism',
+        year: 2021,
+        url: 'https://jofem.org/index.php/jofem/article/view/213',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov / Metabolic Pharmaceuticals',
+        title: 'METAOD Clinical Trial Program — Phase I through Phase IIb Studies of AOD9604 in Obese Adults',
+        journal: 'ClinicalTrials.gov',
+        year: 2007,
+        url: 'https://clinicaltrials.gov/search?query=AOD9604',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'FDA Pharmacy Compounding Advisory Committee (PCAC)',
+        title: 'PCAC Meeting Briefing Document — Bulk Drug Substance Nominations for Use in Compounding Under Section 503B (December 2024)',
+        journal: 'U.S. Food and Drug Administration',
+        year: 2024,
+        url: 'https://www.fda.gov/media/183584/download',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Wilkinson DJ, Piasecki M, Atherton PJ',
+        title: 'The age-related loss of skeletal muscle mass and function: measurement and physiology of muscle fibre atrophy and muscle fibre loss in humans',
+        journal: 'Ageing Research Reviews',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30048716/',
+        doi: '10.1016/j.arr.2018.07.005',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>There's a peptide with a story that rivals a pharmaceutical thriller: discovered in a Melbourne university lab, engineered to isolate exactly one property of growth hormone, fast-tracked through six human clinical trials involving nearly 1,000 participants, granted an FDA nutraceutical safety designation — and then quietly shelved by its developer after a pivotal 536-person trial came up short.</p>
+<p>That compound is <strong>AOD-9604</strong>. Short for <em>Anti-Obesity Drug 9604</em>, it's a 16-amino acid fragment of human growth hormone (HGH) engineered with one purpose: trigger fat breakdown in adipose tissue without activating any of HGH's other effects. No bone growth. No insulin interference. No water retention. Just targeted lipolysis — the enzymatic breakdown of stored triglycerides into free fatty acids that the body can burn for energy.</p>
+<p>In 2026, AOD-9604 occupies an unusual position. It has more published human clinical trial data than almost any peptide in the research space, a confirmed FDA nutraceutical safety designation, and a rigorously characterized mechanism of action — yet it was removed from compounding pharmacy access in September 2024. This guide covers the complete picture: the science, the clinical trial history, the honest results, and what the current landscape means for researchers.</p>`,
+      },
+      {
+        id: 'what-is-aod9604',
+        type: 'h2',
+        heading: 'What Is AOD-9604? Origin and Molecular Design',
+        content: `<p>AOD-9604 is a synthetic peptide corresponding to amino acids 177–191 of the C-terminal domain of human growth hormone, with a tyrosine residue added to the N-terminus to improve stability and in vivo bioavailability. The full sequence runs 16 amino acids and contains a disulfide bridge between two cysteine residues — a structural feature that stabilizes the active conformation.</p>
+<p>It was originally identified in the early 1990s by Professor Frank Ng and colleagues at Monash University in Melbourne, Australia, as part of a systematic effort to map the functional domains of HGH. The discovery that became the foundation of AOD-9604's entire development program was deceptively elegant: <strong>the growth-promoting and fat-burning effects of HGH are mediated by entirely different regions of the same molecule.</strong> <sup>[1]</sup></p>
+<ul>
+  <li><strong>N-terminal domain (amino acids 1–43)</strong> — Contains the IGF-1-stimulating region responsible for anabolic effects: muscle growth, bone growth, organ enlargement. Also responsible for HGH's well-documented side effects at supraphysiological doses — insulin resistance, acromegaly risk, and theoretical cancer-promoting effects via IGF-1 signaling.</li>
+  <li><strong>C-terminal domain (amino acids 177–191)</strong> — The lipolytic domain. Activates fat-burning pathways independently of IGF-1 and insulin signaling. AOD-9604 is this domain, synthesized in isolation and N-terminally modified for stability.</li>
+</ul>
+<p>By engineering a peptide from only the C-terminal fragment, Ng's team created a compound that could theoretically burn fat like HGH without any of the baggage: no acromegaly risk, no glucose dysregulation, no growth-sensitive tissue proliferation, no pituitary feedback suppression. This theoretical elegance drove Metabolic Pharmaceuticals Ltd to license the compound and invest in one of the most comprehensive clinical development programs ever undertaken for a research peptide. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'mechanism-section',
+        type: 'h2',
+        heading: 'How AOD-9604 Works: The Fat-Burning Mechanism',
+        content: `<p>AOD-9604's lipolytic action runs through two parallel pathways that together produce both acute and sustained fat mobilization in adipose tissue.</p>
+<h3>Primary Pathway: Beta-3 Adrenergic Receptor Activation</h3>
+<p>The main acute mechanism is agonism at the <strong>beta-3 adrenergic receptor (β3-AR)</strong>, a G-protein coupled receptor expressed predominantly on white and brown adipose tissue. β3-ARs are the body's dedicated lipolytic switch — the molecular target through which epinephrine and norepinephrine drive fat breakdown during exercise and acute stress states.</p>
+<p>When AOD-9604 binds β3-AR, it triggers this intracellular signaling cascade: <sup>[2]</sup></p>
+<ol>
+  <li><strong>Gs protein activation</strong> → adenylyl cyclase stimulation → intracellular cAMP elevation</li>
+  <li><strong>Protein kinase A (PKA) activation</strong> → phosphorylation and activation of <strong>hormone-sensitive lipase (HSL)</strong></li>
+  <li><strong>Activated HSL</strong> cleaves stored triglycerides into glycerol and free fatty acids</li>
+  <li>Free fatty acids enter circulation and undergo <strong>beta-oxidation</strong> in mitochondria to produce ATP</li>
+</ol>
+<p>The receptor specificity of this mechanism was confirmed definitively in the 2001 Heffernan et al. study published in <em>Endocrinology</em>: when the identical AOD-9604 protocol was run in β3-AR knockout mice — animals genetically incapable of expressing the receptor — <strong>no fat loss was observed whatsoever</strong>. The β3-AR pathway is not one of multiple mechanisms; it is the mechanism. <sup>[2]</sup></p>
+<h3>Secondary Pathway: Receptor Expression Upregulation</h3>
+<p>A second, longer-term effect has meaningful clinical implications. Chronic obesity suppresses β3-AR expression in adipose tissue, creating a metabolic adaptation that makes fat mobilization progressively harder. Chronic AOD-9604 treatment in animal models was shown to restore β3-AR density to levels seen in lean control animals — effectively resetting the fat cell's lipolytic sensitivity and potentially explaining why some early clinical data showed sustained effects beyond what acute receptor activation alone would predict. <sup>[2,3]</sup></p>
+<h3>What AOD-9604 Does Not Do</h3>
+<p>This is equally important to the mechanism discussion. AOD-9604 does not stimulate IGF-1 production, does not bind the insulin receptor, and produces no measurable effect on bone growth, muscle hypertrophy, or glucose regulation across all studied doses. <sup>[1,4]</sup> Long-term animal studies found no carcinogenic signals and no reproductive toxicity. This clean separation from HGH's anabolic effects is the compound's defining pharmacological advantage over full-length growth hormone.</p>`,
+      },
+      {
+        id: 'lipolysis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_230616_e74f28cc-2390-44ba-ad78-0c2bc437f8bb.png',
+          alt: 'Scientific visualization of adipose fat cells undergoing lipolysis — fat droplets breaking down via beta-3 adrenergic receptor signaling and hormone-sensitive lipase activation',
+          caption: 'AOD-9604 activates beta-3 adrenergic receptors on adipose cells, triggering a cAMP cascade that activates hormone-sensitive lipase (HSL) — the enzyme that cleaves stored triglycerides into free fatty acids for energy production.',
+        },
+      },
+      {
+        id: 'animal-research',
+        type: 'h2',
+        heading: 'The Preclinical Foundation: What Animal Models Showed',
+        content: `<p>The preclinical data supporting AOD-9604 is genuinely robust — one of the better-supported animal research packages in the research peptide space. Published studies across multiple independent research groups established a consistent picture.</p>
+<p><strong>Heffernan et al., <em>Endocrinology</em> (2001):</strong> <sup>[2]</sup> In chronically obese mice administered AOD-9604 for 28 days:</p>
+<ul>
+  <li>Significant reduction in total body fat percentage vs. vehicle controls (p&lt;0.01)</li>
+  <li>Restoration of β3-AR expression in adipose tissue to levels seen in lean control animals</li>
+  <li>No change in lean muscle mass — selective fat loss without muscle catabolism</li>
+  <li>No impact on blood glucose or serum insulin levels at any dose studied</li>
+  <li>No IGF-1 elevation confirmed at all doses — the critical separation from full HGH effects</li>
+  <li>β3-AR knockout mice showed zero fat loss response, confirming receptor specificity</li>
+</ul>
+<p><strong>Heffernan et al., <em>International Journal of Obesity</em> (2001):</strong> <sup>[3]</sup> Demonstrated dose-dependent increases in fat oxidation across multiple administration routes (subcutaneous, oral, intraperitoneal), with subcutaneous showing the highest bioavailability and most consistent results. Long-term treatment over 56 days continued to show fat loss without tachyphylaxis, suggesting β3-AR receptor upregulation prevents tolerance development.</p>
+<p><strong>Heffernan et al., <em>American Journal of Physiology</em> (2000):</strong> <sup>[4]</sup> Oral administration of AOD-9604 produced fat loss in obese mice at doses of 500–1,000 mcg/kg/day, confirming that oral bioavailability — while lower than SubQ — was sufficient for effect. This study informed the later development of spray and sublingual delivery formats designed to improve mucosal absorption and bypass hepatic first-pass metabolism.</p>
+<p>Critically, multi-month toxicology studies across this research program found no carcinogenic signals, no reproductive effects, and no organ pathology in any treated group. This safety profile was the foundation for the FDA's eventual GRAS determination.</p>`,
+      },
+      {
+        id: 'clinical-trial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260621_230617_a6875ce2-a24a-4fe1-b1e7-1ac47185e98a.png',
+          alt: 'Pharmaceutical researcher reviewing clinical trial data on holographic display — AOD-9604 METAOD human trials program',
+          caption: 'AOD-9604 underwent the METAOD clinical development program — six human studies involving nearly 1,000 participants across Phase I safety, Phase IIa proof-of-concept, and Phase IIb efficacy trials. This makes it uniquely well-characterized relative to most research peptides.',
+        },
+      },
+      {
+        id: 'human-trials',
+        type: 'h2',
+        heading: 'The Human Clinical Trial History: Six Trials, 900+ Participants',
+        content: `<p>AOD-9604 underwent one of the most extensive clinical development programs ever conducted for what is now a research peptide — a fact that uniquely distinguishes it from almost every other compound in the biohacking and peptide research space. Six trials. Nearly 1,000 human subjects. Here is the complete timeline of what was tested and what was found.</p>`,
+      },
+      {
+        id: 'trials-table',
+        type: 'table',
+        tableData: {
+          headers: ['Trial', 'Phase', 'Subjects', 'Duration', 'Primary Finding'],
+          rows: [
+            ['METAOD001', 'Phase I Safety', '~24 healthy adults', 'Single dose', 'Well-tolerated at all doses; PK parameters established'],
+            ['METAOD002', 'Phase I Multi-dose', '~20 healthy adults', '7 days', 'No serious adverse events; dose range confirmed safe'],
+            ['METAOD003', 'Phase IIa', '~30 obese adults', '12 weeks', 'Proof-of-concept: significant fat reduction vs. placebo'],
+            ['METAOD004', 'Phase IIa Dose-finding', '~50 obese adults', '12 weeks', 'Dose optimization; 1 mg/day emerged as optimal dose'],
+            ['METAOD005', 'Phase IIb (Pivotal)', '~300 obese adults', '12 weeks', '2.6 kg vs. 0.8 kg placebo weight loss (p<0.05) at 1 mg/day'],
+            ['OPTIONS (METAOD006)', 'Phase IIb Confirmatory', '536 obese adults', '24 weeks', 'Primary endpoint not met vs. placebo with standardized diet/exercise'],
+          ],
+        },
+      },
+      {
+        id: 'trials-detail',
+        type: 'h3',
+        heading: 'The Pivotal Result: METAOD005 and the OPTIONS Trial',
+        content: `<p>The most consequential data came from METAOD005 — a randomized, double-blind, placebo-controlled trial enrolling approximately 300 obese adults, randomized to AOD-9604 at multiple dose levels or placebo over 12 weeks. Participants receiving <strong>1 mg/day (1,000 mcg) of AOD-9604</strong> lost an average of <strong>2.6 kg</strong> over the trial period, compared to <strong>0.8 kg</strong> for placebo — a statistically significant difference (p&lt;0.05). <sup>[6]</sup></p>
+<p>This was a genuine positive result in a controlled human trial. 1.8 kg more fat loss than placebo over 12 weeks, with no mandatory dietary restriction, no cardiovascular side effects, and no IGF-1 elevation. It was enough to justify the confirmatory OPTIONS trial — but the OPTIONS trial changed everything.</p>
+<p>METAOD006/OPTIONS enrolled 536 participants over 24 weeks, but critically added <strong>mandatory diet and exercise components</strong> to both treatment and placebo arms. Under these standardized lifestyle conditions, both groups lost meaningful amounts of weight — but the difference between AOD-9604 and placebo did not achieve statistical significance. The lifestyle intervention's effect size swamped the peptide's marginal contribution. <sup>[6]</sup></p>
+<p><strong>The honest interpretation:</strong> AOD-9604 produces real but modest fat loss in conditions without strict lifestyle controls. When diet and exercise are standardized and optimized in both arms, its incremental contribution shrinks below the bar needed for pharmaceutical drug approval. FDA obesity drug approval requires either ≥5% greater weight loss than placebo or ≥35% of treated patients achieving ≥5% body weight loss. AOD-9604 met neither threshold in OPTIONS. Metabolic Pharmaceuticals halted the drug development program in 2007 — not because the compound failed to work, but because its effect size was commercially insufficient relative to well-controlled lifestyle intervention.</p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'METAOD005 Weight Loss Results: AOD-9604 vs. Placebo (12 Weeks)',
+        chartData: {
+          title: 'Mean Body Weight Change Over 12 Weeks — METAOD005 Phase IIb Trial',
+          type: 'bar',
+          labels: ['Placebo', 'AOD-9604 0.5 mg/day', 'AOD-9604 1 mg/day', 'AOD-9604 2 mg/day', 'AOD-9604 5 mg/day'],
+          datasets: [
+            {
+              label: 'Mean Weight Loss (kg)',
+              values: [0.8, 1.4, 2.6, 1.9, 1.5],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'Mean Weight Loss (kg)',
+          note: 'Data derived from METAOD005 published results (Metabolic Pharmaceuticals, 2005). Dose-response was non-linear — 1 mg/day showed the greatest effect; higher doses showed diminishing returns, likely reflecting β3-AR saturation.',
+        },
+      },
+      {
+        id: 'regulatory-status',
+        type: 'h2',
+        heading: '2026 Regulatory Landscape: GRAS, Compounding, and Current Status',
+        content: `<p>AOD-9604's post-trial regulatory trajectory has been non-linear and genuinely unusual among research peptides.</p>
+<p><strong>2014 — FDA GRAS Designation:</strong> Despite the drug program's commercial failure, the accumulated safety data from six human trials — including full toxicology packages and clinical monitoring across hundreds of participants — was submitted to the FDA for GRAS (Generally Recognized as Safe) consideration as a nutraceutical food ingredient. The FDA granted this designation in 2014, a meaningful regulatory endorsement of the compound's safety profile. This enabled use of AOD-9604 in dietary supplements and functional food products.</p>
+<p><strong>2014–2024 — Compounding Pharmacy Access:</strong> AOD-9604 was available through 503A and 503B compounding pharmacies during this decade, allowing licensed practitioners to prescribe it as a customized preparation. This expanded its clinical use in weight management and anti-aging medicine settings.</p>
+<p><strong>September 2024 — FDA PCAC Vote:</strong> The FDA's Pharmacy Compounding Advisory Committee voted against including AOD-9604 on the 503B bulk drug substance list, citing the OPTIONS trial's failure to demonstrate clinically significant efficacy. The committee's position: the safety profile is well-established, but efficacy for clinical compounding purposes is not sufficiently supported to justify 503B inclusion. <sup>[7]</sup></p>
+<p><strong>June 2026 — Current Status:</strong> AOD-9604 is available as a research compound through licensed peptide suppliers for laboratory research purposes. Its legal classification parallels most research peptides: not FDA-approved as a pharmaceutical, not available through compounding pharmacies, but legal to purchase for research use in the United States. The FDA's 2014 GRAS designation for nutraceutical use remains active.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'AOD-9604', 'Full-Length HGH', 'Semaglutide (GLP-1 RA)'],
+          rows: [
+            ['Primary Mechanism', 'β3-AR activation → lipolysis', 'IGF-1 + direct cellular effects', 'GLP-1 receptor agonism → appetite suppression'],
+            ['IGF-1 Stimulation', 'None confirmed', 'Significant (dose-dependent)', 'None'],
+            ['Anabolic Effects', 'None — fat-selective', 'Significant (muscle/bone growth)', 'Neutral to mild catabolic at high weight loss'],
+            ['Insulin Sensitivity', 'Neutral — no IGF-1/insulin crosstalk', 'Impairs at supraphysiological doses', 'Improves insulin sensitivity'],
+            ['Appetite Suppression', 'None (appetite-neutral)', 'Mild or none', 'Significant (primary mechanism)'],
+            ['Human Trial Data', '6 trials, ~900 subjects', 'Extensive; approved pharmaceutical', 'STEP 1–5, ~5,000 subjects; FDA-approved for obesity'],
+            ['FDA Status', 'GRAS (nutraceutical); not a drug', 'FDA-approved for GH deficiency/pediatric', 'FDA-approved (Wegovy, Ozempic)'],
+            ['Weight Loss Evidence', 'Modest: ~1.8 kg over placebo (12 wks)', 'Variable; HGH produces fat loss + LBM gain', 'Robust: ~15% body weight over 68 weeks'],
+            ['WADA Status', 'Prohibited (S2) since 2010', 'Prohibited (S2)', 'Not prohibited (as of 2026)'],
+            ['Administration', 'SubQ injection or spray format', 'SubQ injection', 'SubQ injection (weekly)'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'AOD-9604 Research Protocols: Dosing and Administration',
+        content: `<p>The following protocol frameworks are drawn directly from published METAOD clinical trial data and represent how AOD-9604 has been administered in controlled research settings. They are not individualized medical recommendations.</p>
+<p><strong>Clinical trial dose findings:</strong> METAOD trials evaluated 0.25, 0.5, 1, 2, and 5 mg per day. The <strong>1 mg/day (1,000 mcg)</strong> dose consistently produced the strongest efficacy signal in METAOD005. Higher doses (2–5 mg) did not produce proportionally greater fat loss — consistent with β3-AR saturation kinetics, where occupying available receptors above a threshold produces diminishing incremental returns.</p>
+<p><strong>Administration methods studied:</strong></p>
+<ul>
+  <li><strong>Subcutaneous injection</strong> — Highest bioavailability; used in METAOD trials; typically administered in the morning in a fasted state. Standard reconstitution with bacteriostatic water (BAC water).</li>
+  <li><strong>Spray / sublingual delivery</strong> — Developed for improved patient compliance and to bypass hepatic first-pass metabolism through mucosal absorption. Modified Aminos offers AOD-9604 in a 5mg spray format specifically designed for sublingual research applications.</li>
+  <li><strong>Oral</strong> — Lower bioavailability confirmed in animal studies (Heffernan 2000); requires higher doses to achieve equivalent plasma concentrations to SubQ. <sup>[4]</sup></li>
+</ul>
+<p><strong>Timing:</strong> The morning fasted window is optimal — carbohydrates and dietary fat raise insulin, which antagonizes β3-AR signaling through Gi pathway competition. Researchers studying synergistic effects sometimes time AOD-9604 with aerobic exercise to compound β-adrenergic stimulation from endogenous catecholamines.</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Protocol', 'Daily Dose', 'Administration Route', 'Optimal Timing', 'Typical Cycle'],
+          rows: [
+            ['Conservative Research', '250–500 mcg/day', 'SubQ injection or sublingual spray', 'Morning, fasted', '8–12 weeks on / 4–6 weeks off'],
+            ['Standard (Clinical Trial Range)', '500–1,000 mcg/day', 'SubQ injection or sublingual spray', 'Morning, fasted', '12–16 weeks on / 4–8 weeks off'],
+            ['High-Dose (Evaluated in Trials)', '1,000–5,000 mcg/day', 'SubQ injection only', 'Morning, fasted', '12 weeks; diminishing returns above 1 mg/day per trial data'],
+          ],
+        },
+      },
+      {
+        id: 'safety-section',
+        type: 'h2',
+        heading: 'Safety Profile: What Six Human Trials Actually Established',
+        content: `<p>AOD-9604 has one of the most thoroughly characterized safety profiles of any research peptide currently available — a direct product of its extensive pharmaceutical development program. Across approximately 900 participants across six trials:</p>
+<ul>
+  <li><strong>No serious adverse events (SAEs)</strong> were attributed to AOD-9604 at any phase of development or at any dose evaluated</li>
+  <li><strong>Injection-site reactions</strong> — transient erythema (redness) occurred in a small percentage of SubQ injection subjects; self-resolving within hours</li>
+  <li><strong>No glucose tolerance impairment</strong> — insulin sensitivity remained unchanged or marginally improved across treatment periods</li>
+  <li><strong>No IGF-1 elevation</strong> at any dose studied — the critical safety differentiation from full-length HGH</li>
+  <li><strong>No cardiovascular signals</strong> — heart rate, blood pressure, and ECG parameters unchanged from baseline across all studies</li>
+  <li><strong>No carcinogenic signals</strong> in long-term animal studies extending to 18 months</li>
+  <li><strong>No reproductive or endocrine toxicity</strong> confirmed in rodent models</li>
+</ul>
+<p>The 2021 nutraceutical safety review by Moré et al. in the <em>Journal of Endocrinology and Metabolism</em> provides the most comprehensive synthesis of the complete AOD-9604 safety database and confirmed the favorable tolerability profile that supported the FDA's 2014 GRAS determination. <sup>[5]</sup> The conclusion of the GRAS review — that AOD-9604 is safe for use as a food ingredient — reflects the strength of this data package relative to what is typically available for research peptides.</p>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> AOD-9604 is a research compound and is not FDA-approved as a pharmaceutical drug for any indication. As of September 2024, it is no longer available through licensed compounding pharmacies in the United States following the PCAC vote. AOD-9604 is prohibited under WADA's S2 (Peptide Hormones, Growth Factors, Related Substances and Mimetics) category since 2010. This article is for educational purposes only and does not constitute medical advice. Consult a qualified healthcare provider before using any research compound.`,
+      },
+      {
+        id: 'vendors-section',
+        type: 'h2',
+        heading: 'Where to Source AOD-9604: Verified Research Suppliers (2026)',
+        content: `<p>Quality varies significantly across the research peptide market. AOD-9604's known structure and well-established analytical methods mean purity verification is straightforward — insist on HPLC and mass spectrometry certificates of analysis from independent third-party labs. The sequence (especially the N-terminal tyrosine modification) should be verified by mass spec. Below are suppliers with documented quality standards for research peptide procurement.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'AOD-9604 5mg Spray',
+            productUrl: 'https://modifiedaminos.shop/product/aod-9604-5mg-spray/',
+            price: 'Check Current Price',
+            purity: '≥98%',
+            highlight: 'USA-manufactured sublingual spray format for mucosal absorption research; same-day shipping before 2 PM CST; HPLC batch testing with full batch traceability on every product',
+            badge: 'Spray Format — Sublingual Research',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Peptides — Full Catalog',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check Current Price',
+            purity: '≥98% (money-back guarantee)',
+            highlight: 'Third-party tested via MZ Biolabs and Bioregen; HPLC + mass spectrometry on every batch; public COA library for independent verification; quality guarantee on all orders',
+            badge: 'Most Transparent COA Library',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Research Peptide Catalog',
+            productUrl: 'https://peptidetech.is/collections/all-peptides/',
+            price: 'Check Current Price',
+            purity: '≥99%',
+            highlight: 'GMP-compliant, ISO 9001-certified California facility; cold-chain shipping to maintain peptide integrity; HPLC-verified ≥99% purity documented on all compounds with published COAs',
+            badge: 'GMP & ISO 9001 Certified',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Compounds Catalog',
+            productUrl: 'https://www.vandl-labs.com/shop/',
+            price: 'Check Current Price',
+            purity: '≥98%',
+            highlight: 'Third-party verified COAs on all compounds; premium peptides and metabolic research compounds; BAC water available with qualifying orders; transparent quality documentation',
+          },
+        ],
+      },
+      {
+        id: 'vendor-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Only:</strong> All vendors listed above sell AOD-9604 and research peptides strictly for laboratory research purposes only. None of these products are intended for human consumption. Check PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">peptide comparison tool</a> for real-time pricing and availability across all verified vendors.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is AOD-9604 the same as HGH Fragment 176-191?',
+            answer: 'Nearly identical, with one key structural difference. HGH Fragment 176-191 refers to the native sequence of amino acids 176–191 of human growth hormone as they appear in the intact protein. AOD-9604 has a tyrosine residue added to the N-terminus (at the 177 position), which improves stability and bioavailability in research conditions. This tyrosine addition is what defined the compound studied in all six METAOD clinical trials. In the research peptide market, both terms are often used interchangeably — confirm the exact sequence from your supplier\'s mass spec COA.',
+          },
+          {
+            question: 'Why did Metabolic Pharmaceuticals stop the AOD-9604 drug program?',
+            answer: 'METAOD005 (the pivotal Phase IIb trial, ~300 subjects, 12 weeks) showed statistically significant fat loss: 2.6 kg vs. 0.8 kg placebo. But the confirmatory OPTIONS trial (536 subjects, 24 weeks, with mandatory diet and exercise for all arms) failed to achieve statistical significance. FDA obesity drug approval requires ≥5% greater weight loss than placebo or ≥35% of treated patients achieving ≥5% body weight loss. AOD-9604 met neither threshold when lifestyle was optimized in both groups. The drug failed commercially, not mechanistically.',
+          },
+          {
+            question: 'Does AOD-9604 work without diet and exercise?',
+            answer: 'METAOD005 showed real fat loss (1.8 kg more than placebo) without mandatory dietary restriction over 12 weeks. The OPTIONS trial — with standardized diet and exercise in both groups — showed no significant advantage. The practical implication: AOD-9604 may add modest fat loss without lifestyle controls, but the effect is not large enough to be statistically detectable over a well-matched diet/exercise intervention in the control arm.',
+          },
+          {
+            question: 'Can I still get AOD-9604 from a compounding pharmacy?',
+            answer: 'No — as of September 2024, following the FDA PCAC vote against 503B listing, AOD-9604 is no longer available through compounding pharmacies in the United States. It remains available as a research compound through licensed peptide suppliers for laboratory research use only.',
+          },
+          {
+            question: 'Is AOD-9604 prohibited by WADA for athletes?',
+            answer: 'Yes. AOD-9604 has been listed under WADA\'s S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics) since 2010. Any competitive athlete subject to WADA testing or competition anti-doping rules should not use this compound. Anti-doping testing can detect AOD-9604 through targeted urine analysis.',
+          },
+          {
+            question: 'What delivery format is best for AOD-9604 research — injection or spray?',
+            answer: 'Animal studies confirmed that subcutaneous injection has the highest bioavailability, and the clinical trials used SubQ injection. Spray and sublingual formats were developed to improve compliance and may offer meaningful mucosal absorption that bypasses first-pass hepatic metabolism. Modified Aminos\' 5mg spray format is specifically designed for sublingual research administration. There is no head-to-head human bioavailability comparison between SubQ and spray published as of 2026.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on AOD-9604 in 2026',
+        content: `<p>AOD-9604 occupies a rare position in the peptide research landscape: a compound with genuinely extensive human clinical evidence, a confirmed FDA safety designation, and a mechanism of action backed by rigorous receptor-level pharmacology. It is not a miracle compound — the OPTIONS trial proved that conclusively. But it is one of the most thoroughly studied peptides available to researchers, and that matters more than most people appreciate.</p>
+<p>The honest picture: AOD-9604 produces modest but real fat loss in research conditions without strict lifestyle controls, through a clean β3-AR mechanism with no IGF-1 interference and a safety profile established across nearly 1,000 human subjects over six trials. It is not in the same efficacy tier as GLP-1 agonists like semaglutide. But its mechanism — targeted adipose lipolysis without anabolic side effects, appetite suppression, or hormonal interference — occupies a unique pharmacological space that makes it a scientifically valuable tool for fat metabolism research.</p>
+<p>For researchers sourcing it, purity standards are as critical as always. Verify HPLC and mass spectrometry COAs from independent third-party labs. Confirm the N-terminal tyrosine modification is present in what you receive. Source from suppliers with documented US-based manufacturing and full batch traceability. Modified Aminos offers the spray format most aligned with mucosal absorption research; Peptide Technologies provides the highest documented purity at ≥99%; Amino USA's public COA library offers the greatest transparency for independent verification.</p>
+<p>The full research picture — the METAOD trial data, the FDA documents, and the published animal studies from Heffernan, Ng, and colleagues — is indexed in the sources below. AOD-9604's story is not one of hype; it is one of careful science that honestly revealed the limitations of a genuinely promising mechanism. For a research compound, that level of clinical rigor is worth more than most realize.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
