@@ -1,6 +1,7 @@
 import type { MetadataRoute } from 'next'
 import { supabase } from '@/lib/supabase'
 import { SITE_URL } from '@/lib/site'
+import { GUIDES } from '@/data/guides'
 
 // Regenerate hourly so newly added peptides are discoverable quickly.
 export const revalidate = 3600
@@ -11,6 +12,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const staticRoutes: MetadataRoute.Sitemap = [
     { url: `${SITE_URL}/`, lastModified: now, changeFrequency: 'daily', priority: 1 },
     { url: `${SITE_URL}/peptides`, lastModified: now, changeFrequency: 'daily', priority: 0.9 },
+    { url: `${SITE_URL}/guides`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${SITE_URL}/vendors`, lastModified: now, changeFrequency: 'daily', priority: 0.8 },
     { url: `${SITE_URL}/stacks`, lastModified: now, changeFrequency: 'weekly', priority: 0.8 },
     { url: `${SITE_URL}/calculator`, lastModified: now, changeFrequency: 'monthly', priority: 0.7 },
@@ -23,6 +25,13 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${SITE_URL}/terms`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
     { url: `${SITE_URL}/contact`, lastModified: now, changeFrequency: 'yearly', priority: 0.3 },
   ]
+
+  const guideRoutes: MetadataRoute.Sitemap = GUIDES.map(g => ({
+    url: `${SITE_URL}/guides/${g.slug}`,
+    lastModified: now,
+    changeFrequency: 'monthly' as const,
+    priority: 0.7,
+  }))
 
   let peptideRoutes: MetadataRoute.Sitemap = []
   try {
@@ -37,5 +46,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     // If the DB is briefly unreachable, still emit the static routes.
   }
 
-  return [...staticRoutes, ...peptideRoutes]
+  return [...staticRoutes, ...guideRoutes, ...peptideRoutes]
 }

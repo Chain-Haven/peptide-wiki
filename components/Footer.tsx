@@ -20,6 +20,7 @@ export default function Footer() {
             <nav className="flex flex-col gap-2">
               {[
                 { href: '/peptides', label: 'All Peptides' },
+                { href: '/guides', label: 'Guides' },
                 { href: '/stacks', label: 'Peptide Stacks' },
                 { href: '/vendors', label: 'Vendors' },
                 { href: '/calculator', label: 'Dosage Calculator' },
