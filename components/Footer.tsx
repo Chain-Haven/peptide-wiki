@@ -24,6 +24,7 @@ export default function Footer() {
                 { href: '/vendors', label: 'Vendors' },
                 { href: '/calculator', label: 'Dosage Calculator' },
                 { href: '/compare', label: 'Compare Peptides' },
+                { href: '/blog', label: 'Research Blog' },
               ].map(link => (
                 <Link key={link.href} href={link.href} className="text-zinc-400 hover:text-white text-sm transition-colors">
                   {link.label}
