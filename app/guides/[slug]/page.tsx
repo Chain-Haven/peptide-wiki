@@ -1,5 +1,6 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
+import Image from 'next/image'
 import Link from 'next/link'
 import ReactMarkdown from 'react-markdown'
 import remarkGfm from 'remark-gfm'
@@ -31,6 +32,7 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
       title: guide.title,
       description: guide.description,
       url: canonical,
+      ...(guide.image ? { images: [{ url: absoluteUrl(guide.image), width: 1376, height: 768 }] } : {}),
     },
     twitter: {
       card: 'summary_large_image',
@@ -132,6 +134,21 @@ export default async function GuidePage({ params }: { params: Promise<{ slug: st
             <span>By the {SITE_NAME} Research Team</span>
           </div>
         </header>
+
+        {/* Hero image */}
+        {guide.image && (
+          <div className="relative w-full h-56 md:h-72 rounded-xl overflow-hidden mb-8">
+            <Image
+              src={guide.image}
+              alt={guide.title}
+              fill
+              priority
+              className="object-cover"
+              sizes="(max-width: 768px) 100vw, 768px"
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950/60 to-transparent" />
+          </div>
+        )}
 
         {/* Body */}
         <div className="article-content">

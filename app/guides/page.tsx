@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import Image from 'next/image'
 import Link from 'next/link'
 import { BookOpen, ArrowRight, Clock } from 'lucide-react'
 import { GUIDES, GUIDE_CATEGORIES } from '@/data/guides'
@@ -24,6 +25,7 @@ const CATEGORY_BLURB: Record<string, string> = {
   'Best Peptides': 'Evidence-based roundups by goal',
   Comparison: 'Head-to-head breakdowns',
   Stacks: 'Combination protocols',
+  Explainer: 'Fundamentals and legal context',
 }
 
 export default function GuidesPage() {
@@ -71,21 +73,35 @@ export default function GuidesPage() {
                   <Link
                     key={guide.slug}
                     href={`/guides/${guide.slug}`}
-                    className="group flex flex-col bg-zinc-900 border border-zinc-800 rounded-xl p-5 hover:border-zinc-600 transition-all"
+                    className="group flex flex-col bg-zinc-900 border border-zinc-800 rounded-xl overflow-hidden hover:border-zinc-600 transition-all"
                   >
-                    <h3 className="font-semibold text-white mb-2 group-hover:text-blue-400 transition-colors leading-snug">
-                      {guide.title}
-                    </h3>
-                    <p className="text-sm text-zinc-400 leading-relaxed line-clamp-3 flex-1">
-                      {guide.description}
-                    </p>
-                    <div className="flex items-center justify-between mt-4 pt-3 border-t border-zinc-800">
-                      <span className="flex items-center gap-1 text-xs text-zinc-500">
-                        <Clock className="h-3 w-3" /> {guide.readingTime}
-                      </span>
-                      <span className="flex items-center gap-1 text-xs text-blue-400 group-hover:gap-2 transition-all">
-                        Read <ArrowRight className="h-3 w-3" />
-                      </span>
+                    {guide.image && (
+                      <div className="relative h-36 w-full overflow-hidden">
+                        <Image
+                          src={guide.image}
+                          alt={guide.title}
+                          fill
+                          className="object-cover group-hover:scale-105 transition-transform duration-300"
+                          sizes="(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw"
+                        />
+                        <div className="absolute inset-0 bg-gradient-to-t from-zinc-900/80 to-transparent" />
+                      </div>
+                    )}
+                    <div className="flex flex-col flex-1 p-5">
+                      <h3 className="font-semibold text-white mb-2 group-hover:text-blue-400 transition-colors leading-snug">
+                        {guide.title}
+                      </h3>
+                      <p className="text-sm text-zinc-400 leading-relaxed line-clamp-3 flex-1">
+                        {guide.description}
+                      </p>
+                      <div className="flex items-center justify-between mt-4 pt-3 border-t border-zinc-800">
+                        <span className="flex items-center gap-1 text-xs text-zinc-500">
+                          <Clock className="h-3 w-3" /> {guide.readingTime}
+                        </span>
+                        <span className="flex items-center gap-1 text-xs text-blue-400 group-hover:gap-2 transition-all">
+                          Read <ArrowRight className="h-3 w-3" />
+                        </span>
+                      </div>
                     </div>
                   </Link>
                 ))}

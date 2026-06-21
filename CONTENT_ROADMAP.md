@@ -21,7 +21,7 @@ site can outrank.
 ### 1. How-to / process guides — HIGH priority, very winnable
 Searchers want steps; SERPs are vendor blogs. We have the calculators.
 - ✅ How to Reconstitute Peptides (Step-by-Step) — `/guides/how-to-reconstitute-peptides`
-- How to Inject Peptides Subcutaneously (insulin syringe guide)
+- ✅ How to Inject Peptides Subcutaneously — `/guides/how-to-inject-peptides`
 - How to Store Peptides (lyophilized vs reconstituted, travel)
 - Reading a Certificate of Analysis (COA) for Peptides
 - Bacteriostatic Water vs Sterile Water: What's the Difference
@@ -29,8 +29,8 @@ Searchers want steps; SERPs are vendor blogs. We have the calculators.
 ### 2. Per-peptide dosage guides — HIGH priority, recurring template
 "[peptide] dosage" has demand for nearly every compound; SERPs are clinic blogs.
 - ✅ BPC-157 Dosage Guide — `/guides/bpc-157-dosage-guide`
-- TB-500 Dosage Guide
-- Ipamorelin / CJC-1295 Dosage Guide
+- ✅ TB-500 Dosage Guide — `/guides/tb-500-dosage-guide`
+- ✅ Ipamorelin / CJC-1295 Dosage Guide — `/guides/ipamorelin-cjc-1295-dosage-guide`
 - Semaglutide Dosage & Titration Schedule
 - Tirzepatide Dosage & Titration Schedule
 - Tesamorelin, MK-677, Retatrutide, AOD-9604 dosage guides
@@ -39,15 +39,15 @@ Searchers want steps; SERPs are vendor blogs. We have the calculators.
 Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
 - ✅ Best Peptides for Weight Loss — `/guides/best-peptides-for-weight-loss`
 - ✅ Best Peptides for Healing & Injury Recovery — `/guides/best-peptides-for-healing-recovery`
-- Best Peptides for Muscle Growth
-- Best Peptides for Anti-Aging & Longevity
+- ✅ Best Peptides for Muscle Growth — `/guides/best-peptides-for-muscle-growth`
+- ✅ Best Peptides for Anti-Aging & Longevity — `/guides/best-peptides-for-anti-aging`
 - Best Peptides for Skin / Hair
 - Best GLP-1 Peptides Compared
 
 ### 4. Comparison pages — MEDIUM priority, strong long-tail
 "[A] vs [B]" — we have the comparison tool + trial data.
 - ✅ Semaglutide vs Tirzepatide — `/guides/semaglutide-vs-tirzepatide`
-- BPC-157 vs TB-500
+- ✅ BPC-157 vs TB-500 — `/guides/bpc-157-vs-tb-500`
 - Ipamorelin vs Sermorelin vs CJC-1295
 - Retatrutide vs Tirzepatide
 - MK-677 vs Ipamorelin
@@ -60,9 +60,9 @@ Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
 - Anti-aging / longevity stack
 
 ### 6. Safety / explainer content — supports E-E-A-T
-- Are Peptides Legal? (US + international overview)
+- ✅ Are Peptides Legal? — `/guides/are-peptides-legal`
+- ✅ What Are Research Peptides? — `/guides/what-are-research-peptides`
 - Peptide Side Effects: What the Research Shows
-- What Are Research Peptides? (beginner primer)
 - Peptides and WADA / Drug Testing
 
 ## Cadence & measurement
