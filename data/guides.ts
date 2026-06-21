@@ -1268,6 +1268,789 @@ For the full combined protocol see the [BPC-157 + TB-500 Wolverine stack guide](
 - [BPC-157 + TB-500 "Wolverine" stack](/guides/bpc-157-tb-500-wolverine-stack)
 - [Best peptides for healing & recovery](/guides/best-peptides-for-healing-recovery)`,
   },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'semaglutide-dosage-guide',
+    title: 'Semaglutide Dosage & Titration Schedule (Ozempic / Wegovy)',
+    metaTitle: 'Semaglutide Dosage & Titration Schedule (2026)',
+    description:
+      'The complete semaglutide dosage and titration schedule — starting dose, weekly escalation steps for Ozempic and Wegovy, injection technique, missed-dose protocol, and managing side effects.',
+    category: 'Dosage',
+    keywords: [
+      'semaglutide dosage', 'ozempic dosage', 'wegovy dosage', 'semaglutide titration',
+      'semaglutide dose schedule', 'how much semaglutide',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/weight-loss.webp',
+    relatedPeptides: ['semaglutide', 'tirzepatide'],
+    faqs: [
+      {
+        q: 'What is the starting dose of semaglutide?',
+        a: 'The standard starting dose is 0.25 mg once weekly for the first four weeks. This is a tolerability dose, not a therapeutic dose — it is intended to let the body adjust before escalating.',
+      },
+      {
+        q: 'How long does it take to reach the full semaglutide dose?',
+        a: 'The standard Wegovy (obesity) titration reaches the 2.4 mg maintenance dose in approximately 16 weeks, assuming each escalation step is tolerated. Individual titration may be slower if side effects require staying at a lower dose longer.',
+      },
+      {
+        q: 'What happens if I miss a semaglutide dose?',
+        a: 'If fewer than 5 days have passed since the missed dose, take it as soon as possible. If more than 5 days have passed, skip the missed dose and resume on your regular schedule. Do not double-dose.',
+      },
+    ],
+    content: `**Semaglutide** is a once-weekly GLP-1 receptor agonist available as **Ozempic** (approved for type 2 diabetes) and **Wegovy** (approved for chronic weight management). Both use a slow titration schedule to minimize gastrointestinal side effects.
+
+> **Prescription medication.** Semaglutide is an FDA-approved drug requiring a valid prescription. This guide summarizes the prescribing information for educational purposes — it is not medical advice. See our [Medical Disclaimer](/medical-disclaimer) and consult your prescribing physician.
+
+## Standard titration schedules
+
+### Wegovy (obesity/weight management) — up to 2.4 mg
+
+| Weeks | Dose | Notes |
+| --- | --- | --- |
+| 1–4 | **0.25 mg** weekly | Tolerability phase — not therapeutic |
+| 5–8 | **0.5 mg** weekly | |
+| 9–12 | **1.0 mg** weekly | |
+| 13–16 | **1.7 mg** weekly | |
+| 17+ | **2.4 mg** weekly | Maintenance |
+
+### Ozempic (type 2 diabetes) — up to 2.0 mg
+
+| Weeks | Dose | Notes |
+| --- | --- | --- |
+| 1–4 | **0.25 mg** weekly | Tolerability phase |
+| 5+ | **0.5 mg** weekly | May remain here if effective |
+| After ≥4 weeks at 0.5 mg | **1.0 mg** weekly | If additional control needed |
+| After ≥4 weeks at 1.0 mg | **2.0 mg** weekly | Maximum dose |
+
+## Slowing the titration
+
+Titration steps are guidelines, not mandates. If nausea, vomiting, or other GI effects are poorly tolerated at a new dose level, **stay at the current dose for another 4 weeks** before attempting the next step. The goal is reaching a dose you can sustain — not the highest possible dose on the fastest schedule.
+
+## Administration
+
+- Inject **subcutaneously** once weekly on the same day each week.
+- Sites: abdomen (preferred), upper thigh, or upper arm.
+- Rotate sites to prevent lipohypertrophy.
+- Time of day does not matter significantly.
+- Semaglutide pens are pre-filled auto-injectors — needle insertion is automatic.
+
+For general subcutaneous injection technique, see [How to Inject Peptides](/guides/how-to-inject-peptides).
+
+## Managing side effects
+
+Gastrointestinal effects (nausea, vomiting, diarrhea, constipation) are the most common and the main reason people discontinue. Strategies that help:
+
+- Eat **small, frequent meals** rather than large ones.
+- Avoid **high-fat, spicy, or rich foods** during dose escalation weeks.
+- **Slow the titration** — there is no clinical requirement to escalate on schedule.
+- Stay well hydrated.
+
+## Missed dose
+
+- **Within 5 days of the missed dose:** Take it as soon as possible and resume the regular weekly schedule.
+- **More than 5 days:** Skip the missed dose. Resume on the original schedule the following week.
+
+## How it compares to tirzepatide
+
+See the head-to-head [Semaglutide vs Tirzepatide guide](/guides/semaglutide-vs-tirzepatide), or compare both compounds interactively with the [comparison tool](/compare).
+
+## Related
+
+- [Semaglutide full profile](/peptides/semaglutide)
+- [Tirzepatide dosage guide](/guides/tirzepatide-dosage-guide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'tirzepatide-dosage-guide',
+    title: 'Tirzepatide Dosage & Titration Schedule (Mounjaro / Zepbound)',
+    metaTitle: 'Tirzepatide Dosage & Titration Schedule (2026)',
+    description:
+      'The complete tirzepatide dosage and titration schedule — starting dose, escalation steps for Mounjaro and Zepbound, typical maintenance doses, injection technique, and side-effect management.',
+    category: 'Dosage',
+    keywords: [
+      'tirzepatide dosage', 'mounjaro dosage', 'zepbound dosage', 'tirzepatide titration',
+      'tirzepatide dose schedule', 'how much tirzepatide',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/weight-loss.webp',
+    relatedPeptides: ['tirzepatide', 'semaglutide'],
+    faqs: [
+      {
+        q: 'What is the starting dose of tirzepatide?',
+        a: 'The standard starting dose is 2.5 mg once weekly for the first four weeks. Like semaglutide, this is a tolerability dose — the intent is gradual adjustment, not immediate therapeutic effect.',
+      },
+      {
+        q: 'What is the maximum tirzepatide dose?',
+        a: 'The maximum approved dose is 15 mg once weekly. In clinical trials, doses of 5–15 mg/week were studied; the highest dose (15 mg) produced the greatest average weight loss (~22.5% in SURMOUNT-1).',
+      },
+      {
+        q: 'Does tirzepatide have the same side effects as semaglutide?',
+        a: 'Both share the GLP-1 class GI side effects (nausea, diarrhea, constipation) and the same boxed warning (thyroid C-cell tumors in rodents). Some comparative data suggests tirzepatide users report somewhat fewer GI events overall, though individual responses vary widely.',
+      },
+    ],
+    content: `**Tirzepatide** is a once-weekly **dual GIP/GLP-1 receptor agonist** available as **Mounjaro** (type 2 diabetes) and **Zepbound** (chronic weight management). Its dual mechanism distinguishes it from semaglutide and has produced the largest average weight loss in any approved obesity drug trial to date.
+
+> **Prescription medication.** Tirzepatide is an FDA-approved drug requiring a valid prescription. This summarizes the prescribing information for educational purposes — not medical advice. See our [Medical Disclaimer](/medical-disclaimer) and your prescribing physician.
+
+## Standard titration schedule
+
+Tirzepatide uses **2.5 mg escalation steps** every four weeks (slower per-step than semaglutide):
+
+| Weeks | Dose | Notes |
+| --- | --- | --- |
+| 1–4 | **2.5 mg** weekly | Tolerability phase |
+| 5–8 | **5.0 mg** weekly | Therapeutic range begins |
+| 9–12 | **7.5 mg** weekly | Optional — continue if needed |
+| 13–16 | **10 mg** weekly | Optional |
+| 17–20 | **12.5 mg** weekly | Optional |
+| 21+ | **15 mg** weekly | Maximum dose |
+
+Many patients reach their weight-loss goals at **5–10 mg/week** and do not need to escalate further. The maintenance dose is individualized.
+
+## Diabetes vs obesity formulations
+
+Both Mounjaro and Zepbound use the same molecule and the same titration steps. The key difference is approved indication and available pen strengths. Zepbound pens are available in 2.5, 5, 7.5, 10, 12.5, and 15 mg doses; Mounjaro in 2.5, 5, 7.5, 10, 12.5, and 15 mg.
+
+## Slowing the titration
+
+If GI side effects are significant at a new dose, **stay at the current dose for another 4 weeks** before escalating. There is no clinical requirement to follow the fastest titration schedule. Tolerability at a given dose is more important than speed.
+
+## Administration
+
+- Inject **subcutaneously** once weekly on the same day each week.
+- Sites: abdomen, upper thigh, or upper arm.
+- Tirzepatide also uses a pre-filled auto-injector pen.
+- Rotate injection sites to prevent buildup at any single location.
+
+For injection technique, see [How to Inject Peptides](/guides/how-to-inject-peptides).
+
+## Managing side effects
+
+The GI profile is similar to semaglutide:
+
+- Nausea and decreased appetite are most prominent during the first weeks at a new dose level.
+- Most people find that effects diminish after 2–4 weeks at any stable dose.
+- Small, low-fat meals; adequate hydration; and slower titration all help.
+
+## How it compares to semaglutide
+
+In both the SURMOUNT-1 trial (~22.5% average weight loss at 15 mg) and real-world comparative data, tirzepatide has outperformed semaglutide. See the [Semaglutide vs Tirzepatide comparison](/guides/semaglutide-vs-tirzepatide).
+
+## Related
+
+- [Tirzepatide full profile](/peptides/tirzepatide)
+- [Semaglutide dosage guide](/guides/semaglutide-dosage-guide)
+- [Semaglutide vs Tirzepatide](/guides/semaglutide-vs-tirzepatide)
+- [Best peptides for weight loss](/guides/best-peptides-for-weight-loss)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'mk-677-dosage-guide',
+    title: 'MK-677 (Ibutamoren) Dosage Guide',
+    metaTitle: 'MK-677 Dosage Guide: Protocol & Cycle (2026)',
+    description:
+      'A research-based MK-677 (Ibutamoren) dosage guide — typical oral doses, timing, cycle structure, what makes it unique among GH secretagogues, and key side effects to know.',
+    category: 'Dosage',
+    keywords: [
+      'mk-677 dosage', 'ibutamoren dosage', 'mk677 protocol', 'mk-677 cycle',
+      'mk-677 dose', 'ibutamoren dose',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/dosage-vial.webp',
+    relatedPeptides: ['ipamorelin', 'cjc-1295'],
+    faqs: [
+      {
+        q: 'What is a typical MK-677 dose?',
+        a: 'Most reported research protocols use 10–25 mg per day taken orally. 25 mg/day is the most common dose cited in both clinical studies and the research community. Some protocols start at 10 mg to assess tolerance before escalating.',
+      },
+      {
+        q: 'When should MK-677 be taken?',
+        a: 'Most researchers take MK-677 before sleep, since growth hormone is primarily released during deep sleep phases. Taking it at night also allows the increased appetite (a common side effect) to occur during sleeping hours when it is less disruptive.',
+      },
+      {
+        q: 'Is MK-677 a peptide?',
+        a: 'Technically, no. MK-677 (Ibutamoren) is a non-peptide small molecule that acts as a ghrelin receptor agonist — it activates the same receptor as peptide GHRPs like Ipamorelin. Its key distinction is oral bioavailability, unlike injectable peptide secretagogues.',
+      },
+    ],
+    content: `**MK-677 (Ibutamoren)** is a non-peptide growth hormone secretagogue that mimics ghrelin and stimulates GH and IGF-1 release. Its key advantage over injectable peptide secretagogues is that it is **orally bioavailable** — no reconstitution or injection required.
+
+> **Research use only.** MK-677 is not FDA-approved. It is sold as a research chemical. Human clinical data exists but is limited, and long-term safety is not well established. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## What makes MK-677 different
+
+MK-677 activates the **ghrelin receptor** (the same target as injectable GHRPs like Ipamorelin) and stimulates the pituitary to release GH in pulses. Unlike peptide GHRPs:
+
+- It is **taken orally** — no injection needed
+- It has a **longer half-life** (~24 hours), producing more sustained GH elevation rather than discrete pulses
+- It **significantly increases appetite** (the ghrelin receptor is also the hunger receptor)
+
+This sustained GH elevation profile is distinct from the pulse-based secretagogues like CJC-1295 + Ipamorelin.
+
+## Typical research dosage
+
+| Dose | Notes |
+| --- | --- |
+| 10 mg/day | Conservative starting point; lower appetite stimulation |
+| 25 mg/day | Most commonly reported dose in research protocols and clinical studies |
+
+The landmark Phase II clinical trial (Nass et al., 2008) used **25 mg/day for 2 years** in older adults and showed significant IGF-1 elevation alongside improvements in lean body mass.
+
+## Timing
+
+**Before sleep** is the most common timing for two reasons:
+1. GH is primarily released during deep sleep (stages 3–4). Taking MK-677 at night may synergize with this natural pattern.
+2. The appetite stimulation — often significant — occurs during sleeping hours when it is less disruptive.
+
+Some researchers split the dose (morning and evening) or take it in the morning; sleep timing is the most evidence-consistent approach.
+
+## Cycle structure
+
+| Approach | Duration | Notes |
+| --- | --- | --- |
+| Standard cycle | 8–16 weeks + break | Avoids prolonged insulin sensitivity effects |
+| Extended / continuous | 6–12 months | Used in some longevity protocols; IGF-1 monitoring recommended |
+
+Unlike most injectable peptides, MK-677 is sometimes used in longer continuous protocols because of its oral convenience. However, monitoring IGF-1 levels and fasting glucose is advisable on extended protocols.
+
+## Key side effects
+
+- **Increased appetite** — often significant; useful in a deliberate bulk, inconvenient otherwise
+- **Water retention** — common in the first few weeks; usually diminishes
+- **Elevated fasting glucose / reduced insulin sensitivity** — particularly relevant for those with pre-diabetic risk; monitor blood glucose on longer cycles
+- **Increased fatigue / lethargy** — particularly at higher doses; taking it before sleep largely mitigates this
+- **Carpal tunnel-like symptoms** — reported at higher GH levels; usually resolves on dose reduction
+
+## Stacking
+
+MK-677 is commonly combined with injectable CJC-1295 or Ipamorelin for enhanced GH output, though the appetite side effects compound. It is also frequently stacked with SARMs in recomposition protocols (research context only).
+
+## Related
+
+- [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide)
+- [Best peptides for muscle growth](/guides/best-peptides-for-muscle-growth)
+- [Best peptides for anti-aging](/guides/best-peptides-for-anti-aging)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'best-peptides-for-skin-hair',
+    title: 'Best Peptides for Skin and Hair (2026)',
+    metaTitle: 'Best Peptides for Skin & Hair (2026): Research Guide',
+    description:
+      'The peptides most studied for skin health and hair growth — GHK-Cu (collagen, wrinkles), BPC-157 (wound healing), TB-500 (hair follicles), and GH secretagogues — with the evidence behind each.',
+    category: 'Best Peptides',
+    keywords: [
+      'best peptides for skin', 'peptides for hair growth', 'skin peptides',
+      'peptides for wrinkles', 'ghk-cu skin', 'peptides collagen',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/skin-hair.webp',
+    relatedPeptides: ['bpc-157'],
+    faqs: [
+      {
+        q: 'What is the best peptide for skin anti-aging?',
+        a: 'GHK-Cu (copper peptide) has the strongest and broadest evidence for skin-related anti-aging outcomes — including collagen synthesis, skin remodeling, wound healing, and antioxidant effects. It is well-studied both topically and in injectable research contexts.',
+      },
+      {
+        q: 'Do peptides actually work for hair growth?',
+        a: 'GHK-Cu has the best evidence — multiple studies show it can stimulate hair follicle size and proliferation and reduce hair loss. Thymosin Beta-4 (the full molecule, not TB-500 fragment) also has documented hair follicle activation effects in research. Evidence is stronger than for most supplement-category "hair peptides."',
+      },
+      {
+        q: 'Can peptides be used topically for skin?',
+        a: 'Yes — topical peptides are a legitimate and well-researched cosmetic category. GHK-Cu, Matrixyl (Palmitoyl Pentapeptide), Argireline (SNAP-8), and others are used in skincare products. Topical delivery is generally more accessible and lower-risk than injectable research peptides.',
+      },
+    ],
+    content: `Peptides in the skin and hair space span two distinct worlds: **cosmetic-grade topical peptides** (well-studied, widely used in skincare) and **injectable research peptides** (more potent in theory, but less evidence and more risk). This guide covers both.
+
+> **Research/education only.** Injectable peptides are research compounds, not approved cosmetic or medical treatments. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## 1. GHK-Cu — the gold standard skin peptide
+
+**GHK-Cu** (copper tripeptide-1) is by far the most researched peptide for skin and hair. It occurs naturally in human plasma, saliva, and urine, and declines significantly with age.
+
+**Skin evidence:**
+- Stimulates **collagen and elastin synthesis** — the two structural proteins that determine skin firmness and elasticity
+- Promotes **wound healing** and skin remodeling; has been used in post-procedure skincare
+- **Antioxidant** and anti-inflammatory properties reduce oxidative skin damage
+- Reduces **fine lines and wrinkles** in multiple controlled cosmetic studies
+- Tightens loose skin and improves overall skin density
+
+**Hair evidence:**
+- Stimulates **hair follicle proliferation** and increases follicle size
+- Shown to reduce hair loss in some studies
+- Compared favorably to minoxidil in at least one pilot study
+
+GHK-Cu is available in **topical formulations** (serums, creams) — well-validated and accessible. It is also available as an injectable research peptide for those pursuing more intensive protocols.
+
+## 2. BPC-157 — skin repair and wound healing
+
+**[BPC-157](/peptides/bpc-157)** is primarily studied for musculoskeletal and gut healing, but its angiogenic and tissue-repair effects extend to skin. In wound-healing research, BPC-157 has accelerated skin closure and improved cosmetic outcomes in animal models. It is sometimes used in injectable protocols for scar tissue and wound recovery support.
+
+## 3. TB-500 / Thymosin Beta-4 — hair follicle activation
+
+**Thymosin Beta-4** (the full molecule, precursor to TB-500) has documented effects on hair follicle stem cell activation. The landmark research by Philpott and colleagues showed Thymosin Beta-4 could activate quiescent follicles and promote hair growth. TB-500 (the active fragment) is thought to share some of these properties, though direct hair-growth evidence for the fragment specifically is more limited.
+
+## 4. GH secretagogues — systemic skin quality
+
+**[CJC-1295](/peptides/cjc-1295) + [Ipamorelin](/peptides/ipamorelin)** and other GH-raising compounds improve skin quality as a systemic effect of elevated GH and IGF-1. Growth hormone plays a documented role in skin thickness, collagen content, and overall skin health. This is a secondary benefit of GH secretagogues rather than a targeted skin treatment.
+
+## 5. Topical peptides (cosmetic category)
+
+For those not pursuing injectable research peptides, the cosmetic topical peptide category has solid evidence:
+
+| Peptide | Mechanism | Evidence |
+| --- | --- | --- |
+| GHK-Cu (copper peptide) | Collagen, wound repair | Strong |
+| Matrixyl (Palmitoyl Pentapeptide) | Collagen signaling | Good |
+| Argireline / SNAP-8 | Neuromuscular relaxation | Moderate |
+| Syn-Ake | Snake-venom mimetic, relaxes muscle | Moderate |
+
+Topical peptides are typically far safer than injectables for cosmetic use — they are well-formulated, regulated as cosmetics, and have substantial clinical-study backing.
+
+## Summary
+
+| Goal | Best option(s) |
+| --- | --- |
+| Collagen / anti-wrinkle | GHK-Cu (topical first; injectable for deeper research) |
+| Hair growth | GHK-Cu, Thymosin Beta-4 |
+| Wound / scar healing | BPC-157, GHK-Cu |
+| Overall skin quality | GH secretagogues (systemic) |
+
+## Related
+
+- [Best peptides for anti-aging](/guides/best-peptides-for-anti-aging)
+- [Browse anti-aging peptides](/peptides?category=anti-aging)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'cjc-1295-ipamorelin-gh-stack',
+    title: 'CJC-1295 + Ipamorelin Growth Hormone Stack Guide',
+    metaTitle: 'CJC-1295 + Ipamorelin GH Stack: Full Protocol (2026)',
+    description:
+      'A complete protocol guide for the CJC-1295 + Ipamorelin growth hormone stack — dose, timing, cycle length, DAC vs non-DAC, what to expect, and how to add recovery peptides.',
+    category: 'Stacks',
+    keywords: [
+      'cjc-1295 ipamorelin stack', 'gh peptide stack', 'growth hormone peptide stack',
+      'cjc ipamorelin protocol', 'cjc 1295 ipamorelin dosage',
+    ],
+    readingTime: '8 min',
+    updated: 'June 2026',
+    image: '/guides/muscle-growth.webp',
+    relatedPeptides: ['cjc-1295', 'ipamorelin'],
+    faqs: [
+      {
+        q: 'Why are CJC-1295 and Ipamorelin always stacked together?',
+        a: 'CJC-1295 (GHRH analog) and Ipamorelin (GHRP) act on different receptors in the GH axis. Used together, they produce a significantly stronger GH pulse than either alone — roughly synergistic rather than merely additive. This is why they are almost never used solo in research protocols.',
+      },
+      {
+        q: 'What results can be expected from a CJC-1295 + Ipamorelin stack?',
+        a: 'Most researchers report gradual improvements over 8–12 weeks: better sleep quality and deeper sleep (often noticed first), improved recovery between training sessions, subtle body recomposition (slight fat reduction, lean mass support), and improved skin and hair quality. Effects are gradual and subtle compared with anabolic steroids.',
+      },
+      {
+        q: 'How long before bed should I inject for sleep benefits?',
+        a: 'Most protocols call for injection 30–60 minutes before sleep, in a fasted state (at least 2 hours after eating). This timing aligns the artificially elevated GH pulse with the natural GH surge that occurs during early deep sleep.',
+      },
+    ],
+    content: `The **CJC-1295 + Ipamorelin** stack is the most popular and well-structured growth hormone secretagogue protocol. This guide covers the full protocol: which form of each peptide to use, how much, when, what to expect, and how to enhance it.
+
+> **Research use only.** Neither CJC-1295 nor Ipamorelin is FDA-approved. Human data exists but is limited. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## Why this combination works
+
+The GH axis has two primary stimulatory inputs:
+
+- **GHRH** (growth hormone-releasing hormone) — released by the hypothalamus to tell the pituitary to release GH
+- **Ghrelin** — acts via a separate receptor to amplify GH release
+
+**CJC-1295** mimics GHRH. **Ipamorelin** mimics ghrelin. Together they activate both inputs simultaneously, producing a GH pulse that is **significantly larger** than either peptide alone. Ipamorelin is particularly valued because it is highly selective — it stimulates GH with minimal effect on cortisol or prolactin (unlike older GHRPs such as GHRP-2 or GHRP-6).
+
+## Choosing the right form of CJC-1295
+
+This decision shapes the entire protocol:
+
+| Form | Half-life | Dosing | Notes |
+| --- | --- | --- | --- |
+| CJC-1295 **without DAC** (Mod-GRF 1-29) | ~30 min | Multiple times daily, co-injected with Ipamorelin | Timed pulses; most common for recomposition |
+| CJC-1295 **with DAC** | ~6–8 days | Once or twice weekly | Continuous background GH elevation; not co-timed |
+
+Most recomposition and recovery protocols use **CJC-1295 without DAC** (Mod-GRF 1-29) to achieve timed GH pulses aligned with training and sleep.
+
+## Full protocol
+
+### Standard protocol (CJC-1295 without DAC + Ipamorelin)
+
+| Peptide | Dose | Frequency | Timing |
+| --- | --- | --- | --- |
+| CJC-1295 without DAC | 100–200 mcg | 2–3x daily | Co-inject with Ipamorelin |
+| Ipamorelin | 200–300 mcg | 2–3x daily | Co-inject with CJC-1295 |
+
+**Best injection windows (fasted state only):**
+1. **Before sleep** — most important; aligns with natural GH release
+2. **Upon waking** — fasted morning pulse
+3. **Pre-training** — 30–45 min before exercise (fasted)
+
+Both peptides can be drawn into the same insulin syringe for a single injection once each is reconstituted from its own vial.
+
+### Cycle length
+
+| Phase | Duration | Notes |
+| --- | --- | --- |
+| Initial cycle | 8–12 weeks | First cycle; assess response |
+| Break | 4 weeks | Allows receptor sensitivity to normalize |
+| Subsequent cycles | 12–16 weeks | Can extend with experience |
+
+Some long-term protocols run 6 months on / 6 weeks off or use lower maintenance doses between cycles.
+
+## What to expect (week by week)
+
+- **Weeks 1–2:** Improved sleep quality is often the first noticeable effect — deeper sleep, more vivid dreams. Some water retention is common early on.
+- **Weeks 3–6:** Recovery between training sessions improves. Some report a slight increase in hunger.
+- **Weeks 6–12:** Gradual body recomposition — subtle reduction in subcutaneous fat, improved muscle fullness. Skin and hair quality often improve. Effects are cumulative, not dramatic.
+
+Manage expectations: this is **not a fast-acting bulking protocol**. The effects are real but gradual and subtle.
+
+## Adding recovery peptides
+
+For athletes with active injuries or high training volumes, the CJC-1295 + Ipamorelin stack pairs well with recovery peptides:
+
+- Add **[BPC-157](/peptides/bpc-157)** (250–500 mcg/day) for specific tissue repair
+- Add **[TB-500](/peptides/tb-500)** (2 mg twice weekly during loading) for systemic recovery
+
+See the [BPC-157 + TB-500 Wolverine stack guide](/guides/bpc-157-tb-500-wolverine-stack) for the full combined protocol.
+
+## Reconstitution and dosing math
+
+Both peptides are reconstituted separately in bacteriostatic water. Use the [reconstitution guide](/guides/how-to-reconstitute-peptides) for the process and the [dosage calculator](/calculator) to convert mcg to insulin-syringe units.
+
+## Related
+
+- [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide)
+- [Best peptides for muscle growth](/guides/best-peptides-for-muscle-growth)
+- [Best peptides for anti-aging](/guides/best-peptides-for-anti-aging)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'ipamorelin-vs-sermorelin-vs-cjc-1295',
+    title: 'Ipamorelin vs Sermorelin vs CJC-1295: Which GH Peptide Is Best?',
+    metaTitle: 'Ipamorelin vs Sermorelin vs CJC-1295 (2026)',
+    description:
+      'A three-way comparison of Ipamorelin, Sermorelin, and CJC-1295 — mechanisms, half-lives, dosing schedules, selectivity profiles, and which to choose for different research goals.',
+    category: 'Comparison',
+    keywords: [
+      'ipamorelin vs sermorelin', 'sermorelin vs cjc-1295', 'ipamorelin vs cjc-1295',
+      'best gh peptide', 'sermorelin vs ipamorelin', 'growth hormone peptide comparison',
+    ],
+    readingTime: '7 min',
+    updated: 'June 2026',
+    image: '/guides/dosage-vial.webp',
+    relatedPeptides: ['ipamorelin', 'cjc-1295'],
+    faqs: [
+      {
+        q: 'What is the difference between Sermorelin and CJC-1295?',
+        a: 'Both are GHRH analogs (they mimic the same hormone), but CJC-1295 (specifically the without-DAC form, Mod-GRF 1-29) is more potent and has a slightly longer half-life than Sermorelin. CJC-1295 with DAC extends half-life dramatically to ~6–8 days through albumin binding.',
+      },
+      {
+        q: 'Is Ipamorelin better than Sermorelin?',
+        a: 'They work via different receptors, so the comparison is not direct. Ipamorelin (a GHRP) stimulates GH via the ghrelin receptor; Sermorelin (a GHRH analog) works via the GHRH receptor. They are more useful combined than compared, since pairing a GHRP with a GHRH analog produces a stronger GH pulse than either alone.',
+      },
+      {
+        q: 'Which GH peptide is most selective (fewest side effects)?',
+        a: 'Ipamorelin is considered the most selective GHRP — it stimulates GH release with minimal effect on cortisol, prolactin, or ACTH, unlike older GHRPs (GHRP-2, GHRP-6) which activate multiple hormones. Among GHRH analogs, Sermorelin and Mod-GRF 1-29 are both fairly selective.',
+      },
+    ],
+    content: `Three peptides dominate the growth-hormone secretagogue discussion: **Sermorelin**, **CJC-1295**, and **Ipamorelin**. Understanding how they differ — and why they are paired — clarifies both the research literature and practical protocol design.
+
+> **Research use only.** None of these compounds is FDA-approved for general GH enhancement; Sermorelin is approved only for pediatric GH deficiency. This is not medical advice — see our [Medical Disclaimer](/medical-disclaimer).
+
+## The fundamental split: GHRH vs GHRP
+
+These three peptides belong to **two different classes**:
+
+- **Sermorelin** and **CJC-1295** are **GHRH analogs** — they mimic growth hormone-releasing hormone, acting on the GHRH receptor in the pituitary to stimulate GH release.
+- **Ipamorelin** is a **GHRP** (growth hormone releasing peptide) — it acts on the ghrelin receptor (GHS-R1a), a completely different receptor.
+
+Because they work through different mechanisms, **combining a GHRH analog with a GHRP produces synergistic GH release** — roughly 3–5x the GH output of either alone. This is why Ipamorelin is almost always paired with CJC-1295 rather than compared against it.
+
+## Sermorelin vs CJC-1295 (within the GHRH class)
+
+| | Sermorelin | CJC-1295 without DAC (Mod-GRF 1-29) | CJC-1295 with DAC |
+| --- | --- | --- | --- |
+| Type | GHRH analog | GHRH analog | GHRH analog |
+| Amino acids | 29 | 29 (modified) | 29 + DAC complex |
+| Half-life | ~10–12 min | ~25–30 min | ~6–8 days |
+| Dosing | 2–3x daily | 2–3x daily | Once or twice weekly |
+| Relative potency | Baseline | Higher than Sermorelin | Sustained elevation |
+| Notes | First-generation; FDA-approved for pediatric GHD | Most popular GHRH in research protocols | Produces continuous (non-pulsatile) GH elevation |
+
+**Sermorelin** was the first approved peptide in this class and remains available as a prescription drug for pediatric growth hormone deficiency. Its short half-life and relatively lower potency mean it has largely been superseded by Mod-GRF 1-29 in research protocols.
+
+**CJC-1295 without DAC (Mod-GRF 1-29)** is the preferred GHRH analog in most modern research stacks. It is more potent than Sermorelin, has a slightly longer half-life enabling more practical dosing, and produces cleaner pulsatile GH output when co-dosed with Ipamorelin.
+
+**CJC-1295 with DAC** produces a different physiological pattern — a sustained, blunted GH elevation rather than discrete pulses. Some researchers prefer this for simplicity (once-weekly dosing). The tradeoff is loss of the pulsatile GH pattern that may be important for some effects.
+
+## Ipamorelin in context
+
+**Ipamorelin** stands out among GHRPs for its **selectivity**: it stimulates GH release without meaningfully raising cortisol, prolactin, or ACTH — a significant advantage over older GHRPs like GHRP-2 (which raises cortisol) and GHRP-6 (which raises cortisol and causes pronounced hunger).
+
+| GHRP | GH release | Cortisol | Hunger | Prolactin |
+| --- | --- | --- | --- | --- |
+| GHRP-2 | Strong | Elevated | Moderate | Elevated |
+| GHRP-6 | Strong | Moderate | Significant | Moderate |
+| **Ipamorelin** | Strong | Minimal | Minimal | Minimal |
+
+This selectivity is why Ipamorelin has become the GHRP of choice for most researchers.
+
+## Which to choose
+
+| Goal | Recommended approach |
+| --- | --- |
+| Pulsatile GH with minimal sides | CJC-1295 without DAC + Ipamorelin |
+| Simpler weekly dosing | CJC-1295 with DAC (weekly) + Ipamorelin 2x daily |
+| First-generation / clinic access | Sermorelin + Ipamorelin |
+| GHRH only, no GHRP | Mod-GRF 1-29 alone (less effective than stack) |
+
+**The standard recommendation for research:** CJC-1295 without DAC (Mod-GRF 1-29) + Ipamorelin, injected 2–3x daily fasted. See the [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide) and the [GH stack protocol](/guides/cjc-1295-ipamorelin-gh-stack).
+
+## Related
+
+- [Ipamorelin + CJC-1295 dosage guide](/guides/ipamorelin-cjc-1295-dosage-guide)
+- [CJC-1295 + Ipamorelin GH stack guide](/guides/cjc-1295-ipamorelin-gh-stack)
+- [Best peptides for muscle growth](/guides/best-peptides-for-muscle-growth)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'peptide-side-effects',
+    title: 'Peptide Side Effects: What the Research Shows',
+    metaTitle: 'Peptide Side Effects: What Research Shows (2026)',
+    description:
+      'An evidence-based overview of peptide side effects by class — GLP-1 agonists, GH secretagogues, healing peptides — plus universal risks and how to minimize them.',
+    category: 'Explainer',
+    keywords: [
+      'peptide side effects', 'research peptide side effects', 'bpc-157 side effects',
+      'semaglutide side effects', 'peptide risks', 'growth hormone peptide side effects',
+    ],
+    readingTime: '8 min',
+    updated: 'June 2026',
+    image: '/guides/safety.webp',
+    relatedPeptides: ['bpc-157', 'semaglutide', 'ipamorelin'],
+    faqs: [
+      {
+        q: 'What are the most common peptide side effects?',
+        a: 'Side effects vary significantly by peptide class. GLP-1 agonists (semaglutide, tirzepatide) most commonly cause nausea, diarrhea, and constipation. GH secretagogues can cause water retention, increased hunger, and at high doses, carpal tunnel symptoms. Healing peptides like BPC-157 have a generally mild profile in animal studies, but human safety data is limited.',
+      },
+      {
+        q: 'Are research peptides dangerous?',
+        a: 'The risk profile varies enormously by compound and source quality. FDA-approved peptide drugs have well-documented safety profiles from clinical trials. Unapproved research peptides carry additional risks from unknown purity, contamination, and limited human safety data. Sourcing from vendors with third-party COAs is critical.',
+      },
+      {
+        q: 'How do I minimize peptide side effects?',
+        a: 'Start at the lowest reported dose and titrate slowly. Source only from COA-verified vendors. Never exceed established research protocol ranges. Monitor for unexpected effects and discontinue if they occur. For GLP-1 agonists, follow the slow titration schedule and adjust diet.',
+      },
+    ],
+    content: `Side effects vary enormously across the peptide universe — an FDA-approved GLP-1 drug, a research GHRP, and an unapproved healing peptide have very different risk profiles. This guide organizes what is known by compound class.
+
+> **Research/education only.** This is not medical advice and should not substitute for physician oversight. See our [Medical Disclaimer](/medical-disclaimer).
+
+## Universal risks (all research peptides)
+
+Before class-specific effects, these risks apply to **all** unapproved research peptides regardless of compound:
+
+- **Injection-site reactions** — redness, swelling, or bruising at the injection site. Usually minor; proper technique and site rotation minimize these.
+- **Contamination risk** — research peptides are not manufactured to pharmaceutical GMP standards unless explicitly noted. Bacterial endotoxins, incorrect peptide sequences, or inaccurate concentrations are possible from low-quality sources. **Third-party COA verification is essential.**
+- **Unknown long-term effects** — for most unapproved peptides, human safety data beyond short-term use is essentially absent.
+- **Drug interactions** — limited data exists on how research peptides interact with medications.
+
+## GLP-1 agonists (Semaglutide, Tirzepatide, Liraglutide)
+
+These are the best-characterized class due to extensive Phase III clinical trials. Side effects are well-documented.
+
+**Common (>10% of patients):**
+- **Nausea** — most common; typically worst during dose escalation, diminishes at stable doses
+- **Diarrhea** and **constipation** — often alternating
+- **Vomiting** — less common than nausea but related
+- **Decreased appetite** — intended effect but can become problematic
+
+**Less common but important:**
+- **Injection-site reactions** — generally mild
+- **Headache, fatigue** — often early in treatment
+
+**Class boxed warnings (FDA):**
+- **Thyroid C-cell tumors** — observed in rodents at high doses; causality in humans not established; contraindicated with personal or family history of medullary thyroid cancer or MEN2
+- **Pancreatitis** — rare but reported; discontinue if symptoms arise
+- **Diabetic retinopathy** — reported in some semaglutide trials in patients with pre-existing retinopathy
+
+**How to minimize:** Slow titration (see [Semaglutide](/guides/semaglutide-dosage-guide) and [Tirzepatide](/guides/tirzepatide-dosage-guide) dosage guides), small low-fat meals, adequate hydration.
+
+## GH secretagogues (CJC-1295, Ipamorelin, MK-677, Sermorelin)
+
+**Ipamorelin** is the most selective GHRP and has the mildest side-effect profile of the class — minimal cortisol or prolactin elevation.
+
+**Common across the class:**
+- **Water retention** — particularly in the first few weeks; typically resolves
+- **Increased appetite** — especially with MK-677 and less-selective GHRPs (GHRP-6)
+- **Headache** — transient; often early on
+
+**At higher doses or with extended use:**
+- **Carpal tunnel-like symptoms** — paresthesia in hands/wrists; associated with high GH levels; resolves with dose reduction
+- **Elevated fasting glucose / reduced insulin sensitivity** — particularly with MK-677 on extended cycles; monitor glucose
+- **Fatigue or lethargy** — especially with MK-677 if not timed before sleep
+
+**How to minimize:** Use Ipamorelin over less-selective GHRPs; inject fasted; stay within reported protocol ranges; monitor IGF-1 and fasting glucose on longer cycles.
+
+## Healing peptides (BPC-157, TB-500)
+
+This class has the **least human safety data** — most evidence comes from animal studies.
+
+**BPC-157:**
+- Generally well-tolerated in animal studies at research doses
+- No serious adverse events documented in the limited human data available
+- The main risk is the **unknown** — long-term human safety is simply uncharacterized
+- Nausea has been reported anecdotally, particularly with oral forms
+
+**TB-500:**
+- Similarly limited human data; generally mild in animal studies
+- Injection-site reactions (transient redness/swelling) are the most commonly reported issue
+- Potential concern: Thymosin Beta-4 class compounds may theoretically affect inflammation in ways that could interact with autoimmune conditions
+
+**How to minimize:** Start at the lower end of reported ranges; use COA-verified sources; cycle rather than continuous use.
+
+## Sourcing and quality — the most underrated risk factor
+
+For unapproved research peptides, **the quality of the source may matter more than the compound itself**. Issues with low-quality sources include:
+
+- **Incorrect purity** — the vial may contain less (or more) than labeled
+- **Wrong peptide sequence** — particularly common for complex peptides
+- **Bacterial contamination** — endotoxins causing fever, chills, or worse
+- **Non-sterile preparation** — infection risk
+
+Always source from vendors that publish **third-party certificates of analysis (COA)** from independent labs. Compare vetted vendors on our [vendors page](/vendors).
+
+## Related
+
+- [What are research peptides?](/guides/what-are-research-peptides)
+- [Are peptides legal?](/guides/are-peptides-legal)
+- [Compare vetted vendors](/vendors)`,
+  },
+
+  // ───────────────────────────────────────────────────────────────────────────
+  {
+    slug: 'how-to-store-peptides',
+    title: 'How to Store Peptides: Lyophilized and Reconstituted',
+    metaTitle: 'How to Store Peptides: Complete Storage Guide (2026)',
+    description:
+      'A complete peptide storage guide — how to store lyophilized powder vs reconstituted solution, temperature requirements, shelf life, travel considerations, and signs of degradation.',
+    category: 'How-To',
+    keywords: [
+      'how to store peptides', 'peptide storage', 'reconstituted peptide storage',
+      'peptide shelf life', 'storing peptides', 'how long do peptides last',
+    ],
+    readingTime: '6 min',
+    updated: 'June 2026',
+    image: '/guides/storage.webp',
+    relatedPeptides: ['bpc-157', 'ipamorelin', 'semaglutide'],
+    faqs: [
+      {
+        q: 'How long does lyophilized peptide powder last?',
+        a: 'Stored correctly (cool, dark, and dry), lyophilized peptide powder is stable for 12–24+ months. Frozen storage at -20°C extends shelf life to several years for most compounds. Refrigerated storage (2–8°C) is suitable for months to a year.',
+      },
+      {
+        q: 'How long does a reconstituted peptide last in the fridge?',
+        a: 'Once reconstituted with bacteriostatic water and refrigerated (2–8°C), most peptides remain stable for 28–30 days. Some are more stable; some (particularly GLP-1 compounds) have specific manufacturer guidelines. Reconstituted solutions should never be frozen — this disrupts the peptide structure.',
+      },
+      {
+        q: 'Can I travel with peptides?',
+        a: 'Lyophilized powder is more travel-friendly than reconstituted solution — it can tolerate room temperature for several days without significant degradation. Reconstituted peptides require refrigeration and should not be allowed to reach room temperature repeatedly. A travel cooler or insulated medical pack is recommended for reconstituted solutions.',
+      },
+    ],
+    content: `Proper storage is one of the most overlooked variables in peptide research. A compound that is correctly sourced and reconstituted can still degrade if stored improperly. This guide covers both forms: **lyophilized powder** (how they ship) and **reconstituted solution** (after you mix them).
+
+> **Research use only.** This guide covers storage for research peptides and some pharmaceutical formulations. Always follow the manufacturer guidance for prescription compounds. See our [Medical Disclaimer](/medical-disclaimer).
+
+## The two storage states
+
+| State | Form | Storage requirements | Shelf life |
+| --- | --- | --- | --- |
+| **Lyophilized** | Freeze-dried powder | Cool, dark, dry; refrigerate or freeze for long-term | Months to years |
+| **Reconstituted** | Solution in BAC water | Refrigerated (2–8°C) only; never freeze | 28–30 days |
+
+Understanding this distinction is essential: **reconstituted solutions should not be frozen**. Freeze-thaw cycles form ice crystals that physically disrupt peptide structure, accelerating degradation.
+
+## Storing lyophilized powder
+
+Lyophilized peptide powder is significantly more stable than reconstituted solution.
+
+### Short-term (under 3 months)
+- **Room temperature** is generally acceptable, away from heat and direct light.
+- Keep vials in a cool, dark drawer or cabinet. A temperature below 25°C (77°F) is preferable.
+
+### Medium-term (3–12 months)
+- **Refrigerate** at 2–8°C (standard fridge temperature).
+- Keep vials in a sealed bag or small container to prevent moisture exposure when the fridge door opens.
+
+### Long-term (12+ months)
+- **Freeze** at -20°C (standard freezer) or -80°C for maximum longevity.
+- Use a desiccant packet in the container to absorb any moisture.
+- Allow frozen vials to reach room temperature before opening — this prevents condensation forming on the powder.
+
+## Storing reconstituted solution
+
+Once a peptide is dissolved in bacteriostatic water, the clock starts:
+
+- **Always refrigerate** at 2–8°C immediately after reconstitution.
+- **Never freeze** the reconstituted solution.
+- **Protect from light** — amber vials are ideal; if storing in clear vials, keep in a dark drawer.
+- **28–30 days** is the typical stable shelf life for most peptides reconstituted with bacteriostatic water. Plain sterile water provides no bacteriostatic protection and shortens this window significantly.
+- Some compounds (particularly certain GLP-1 drugs) have manufacturer-specified shelf lives that may differ — follow those guidelines.
+
+Discard reconstituted solution that:
+- Has **changed color** (should be clear and colorless for most peptides)
+- Has **visible particles** or cloudiness
+- Is past its use date
+- Has been **left unrefrigerated** for more than a few hours
+
+## Bacteriostatic vs sterile water: why it matters for storage
+
+The 0.9% benzyl alcohol in **bacteriostatic water** inhibits bacterial growth when you re-enter the vial with a needle across multiple doses. **Sterile water** has no such preservative and should only be used if you will use the entire vial in one session. For multi-dose vials — which is almost always the case — bacteriostatic water is required to achieve the 28-30 day shelf life.
+
+## Traveling with peptides
+
+**Lyophilized powder** is the best form to travel with:
+- Can tolerate several days at room temperature without significant degradation
+- Does not need a cooler for short trips
+- Reconstitute on arrival
+
+**Reconstituted solution** requires more care:
+- Keep refrigerated; use an insulated medical travel case with ice packs for transit
+- Avoid exposing it to temperature extremes (hot car, checked luggage in unpressurized holds)
+- TSA allows liquid medications in carry-on with documentation; research compounds occupy a gray area
+
+## Quick reference
+
+| Situation | Recommendation |
+| --- | --- |
+| Unopened powder, short-term | Cool, dark room temp |
+| Unopened powder, long-term | Freezer (-20°C) |
+| Reconstituted, in use | Refrigerator (2–8°C) |
+| Reconstituted, traveling | Insulated cooler, do not freeze |
+| Past use-by or changed appearance | Discard |
+
+## Related
+
+- [How to reconstitute peptides](/guides/how-to-reconstitute-peptides)
+- [How to inject peptides](/guides/how-to-inject-peptides)
+- [Dosage calculator](/calculator)`,
+  },
 ]
 
 export function getGuide(slug: string): Guide | undefined {

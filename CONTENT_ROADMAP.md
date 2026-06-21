@@ -31,9 +31,10 @@ Searchers want steps; SERPs are vendor blogs. We have the calculators.
 - ✅ BPC-157 Dosage Guide — `/guides/bpc-157-dosage-guide`
 - ✅ TB-500 Dosage Guide — `/guides/tb-500-dosage-guide`
 - ✅ Ipamorelin / CJC-1295 Dosage Guide — `/guides/ipamorelin-cjc-1295-dosage-guide`
-- Semaglutide Dosage & Titration Schedule
-- Tirzepatide Dosage & Titration Schedule
-- Tesamorelin, MK-677, Retatrutide, AOD-9604 dosage guides
+- ✅ Semaglutide Dosage & Titration Schedule — `/guides/semaglutide-dosage-guide`
+- ✅ Tirzepatide Dosage & Titration Schedule — `/guides/tirzepatide-dosage-guide`
+- ✅ MK-677 Dosage Guide — `/guides/mk-677-dosage-guide`
+- Tesamorelin, Retatrutide, AOD-9604 dosage guides
 
 ### 3. "Best peptides for [goal]" listicles — HIGH priority, monetizes
 Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
@@ -41,28 +42,29 @@ Commercial-investigation intent → affiliate. SERPs include Innerbody, GoodRx.
 - ✅ Best Peptides for Healing & Injury Recovery — `/guides/best-peptides-for-healing-recovery`
 - ✅ Best Peptides for Muscle Growth — `/guides/best-peptides-for-muscle-growth`
 - ✅ Best Peptides for Anti-Aging & Longevity — `/guides/best-peptides-for-anti-aging`
-- Best Peptides for Skin / Hair
+- ✅ Best Peptides for Skin & Hair — `/guides/best-peptides-for-skin-hair`
 - Best GLP-1 Peptides Compared
 
 ### 4. Comparison pages — MEDIUM priority, strong long-tail
 "[A] vs [B]" — we have the comparison tool + trial data.
 - ✅ Semaglutide vs Tirzepatide — `/guides/semaglutide-vs-tirzepatide`
 - ✅ BPC-157 vs TB-500 — `/guides/bpc-157-vs-tb-500`
-- Ipamorelin vs Sermorelin vs CJC-1295
+- ✅ Ipamorelin vs Sermorelin vs CJC-1295 — `/guides/ipamorelin-vs-sermorelin-vs-cjc-1295`
 - Retatrutide vs Tirzepatide
 - MK-677 vs Ipamorelin
 
 ### 5. Stack guides — MEDIUM priority
 "[stack] protocol" has dedicated demand (e.g. "wolverine stack").
 - ✅ BPC-157 + TB-500 "Wolverine" Stack — `/guides/bpc-157-tb-500-wolverine-stack`
-- GH stack: CJC-1295 + Ipamorelin
+- ✅ GH stack: CJC-1295 + Ipamorelin — `/guides/cjc-1295-ipamorelin-gh-stack`
 - Recomp / body composition stack
 - Anti-aging / longevity stack
 
 ### 6. Safety / explainer content — supports E-E-A-T
 - ✅ Are Peptides Legal? — `/guides/are-peptides-legal`
 - ✅ What Are Research Peptides? — `/guides/what-are-research-peptides`
-- Peptide Side Effects: What the Research Shows
+- ✅ Peptide Side Effects: What the Research Shows — `/guides/peptide-side-effects`
+- ✅ How to Store Peptides — `/guides/how-to-store-peptides`
 - Peptides and WADA / Drug Testing
 
 ## Cadence & measurement
