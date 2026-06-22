@@ -4754,6 +4754,490 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'retatrutide-triple-agonist-complete-guide',
+    title: 'Retatrutide (LY3437943): The Triple Agonist That Just Rewrote the Rules of Weight Loss — 2026 Complete Research Guide',
+    excerpt:
+      'Phase 3 data confirmed up to 25% body weight loss — more than any peptide ever tested. Retatrutide hits three metabolic receptors at once (GLP-1, GIP, and glucagon), and the clinical results speak for themselves. Here\'s the full 2026 breakdown: mechanism, TRIUMPH trial data, safety, dosing, and where to source verified material.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 16,
+    category: 'Weight Loss & Metabolic Health',
+    tags: ['Retatrutide', 'GLP-1', 'Triple Agonist', 'Weight Loss', 'GIP', 'Glucagon', 'Obesity', 'LY3437943', 'TRIUMPH Trials'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_170512_dcf59e03-584a-405d-bd69-6dfbc24f2d58.png',
+    heroImageAlt: 'Three bioluminescent peptide molecules representing GLP-1, GIP, and glucagon receptors merging — retatrutide triple agonist visualization',
+    metaTitle: 'Retatrutide Guide 2026: Triple Agonist Mechanism, Phase 3 Results & Dosing',
+    metaDescription:
+      'Retatrutide (LY3437943) Phase 3 results show up to 25% body weight loss — more than semaglutide or tirzepatide. Our 2026 guide covers the triple agonist mechanism, TRIUMPH trial data, safety profile, dosing schedule, and verified research sources.',
+    keywords: [
+      'retatrutide',
+      'retatrutide peptide',
+      'retatrutide vs tirzepatide',
+      'retatrutide vs semaglutide',
+      'retatrutide weight loss',
+      'triple agonist peptide',
+      'LY3437943',
+      'retatrutide dosage',
+      'retatrutide side effects',
+      'retatrutide results',
+      'TRIUMPH trials retatrutide',
+      'GLP-1 GIP glucagon agonist',
+      'best weight loss peptide 2026',
+      'retatrutide phase 3',
+      'retatrutide buy research',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/retatrutide-triple-agonist-complete-guide',
+    relatedPeptides: ['bpc-157', 'tb-500'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3200,
+      primaryKeyword: 'retatrutide',
+      secondaryKeywords: ['triple agonist peptide', 'retatrutide vs tirzepatide', 'LY3437943 weight loss', 'retatrutide TRIUMPH trials'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Jastreboff AM, Kaplan LM, Frías JP, Wu Q, Du Y, Gurbuz S, Coskun T, Haupt A, Milicevic Z, Hartman ML',
+        title: 'Triple-Hormone-Receptor Agonist Retatrutide for Obesity — A Phase 2 Trial',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37366315/',
+        doi: '10.1056/NEJMoa2301972',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Eli Lilly and Company',
+        title: 'Lilly\'s triple agonist, retatrutide, delivered weight loss of up to an average of 71.2 lbs — TRIUMPH-4 Phase 3 Results',
+        journal: 'PR Newswire / Eli Lilly Investor Relations',
+        year: 2025,
+        url: 'https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Eli Lilly and Company',
+        title: 'Lilly\'s triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial — TRIUMPH-1 Results',
+        journal: 'PR Newswire',
+        year: 2026,
+        url: 'https://www.prnewswire.com/news-releases/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss-in-pivotal-phase-3-obesity-trial-302778859.html',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Retatrutide (LY3437943) in Participants Without Type 2 Diabetes Who Have Obesity or Overweight — TRIUMPH-1',
+        journal: 'ClinicalTrials.gov',
+        year: 2024,
+        url: 'https://clinicaltrials.gov/study/NCT07357415',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'ClinicalTrials.gov',
+        title: 'The Effect of Retatrutide Once Weekly on Cardiovascular Outcomes and Kidney Outcomes in Adults Living With Obesity — TRIUMPH-Outcomes',
+        journal: 'ClinicalTrials.gov',
+        year: 2024,
+        url: 'https://clinicaltrials.gov/study/NCT06383390',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Coskun T, Urva S, Roell WC, Qu H, Loghin C, Moyers JS, et al.',
+        title: 'LY3437943, a novel triple glucagon, GIP, and GLP-1 receptor agonist for glycemic control and weight loss: From discovery to clinical proof of concept',
+        journal: 'Cell Metabolism',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35931029/',
+        doi: '10.1016/j.cmet.2022.07.009',
+        type: 'human_study',
+      },
+      {
+        id: 7,
+        authors: 'Tan TM, Field BC, McCullough KA, Troke RC, Chambers ES, Salem V, et al.',
+        title: 'Coadministration of glucagon-like peptide-1 during glucagon infusion in humans results in increased energy expenditure and amelioration of hyperglycemia',
+        journal: 'Diabetes',
+        year: 2013,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/23349495/',
+        doi: '10.2337/db12-0797',
+        type: 'human_study',
+      },
+      {
+        id: 8,
+        authors: 'Nauck MA, Quast DR, Wefers J, Meier JJ',
+        title: 'GLP-1 receptor agonists in the treatment of type 2 diabetes – state-of-the-art',
+        journal: 'Molecular Metabolism',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33600955/',
+        doi: '10.1016/j.molmet.2021.101102',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Frías JP, Davies MJ, Rosenstock J, Pérez Manghi FC, Fernández Landó L, Bergman BK, et al.',
+        title: 'Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34170647/',
+        doi: '10.1056/NEJMoa2107519',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, Davies M, Van Gaal LF, Lingvay I, et al.',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'Yin Y, Chen P, Li X, Zhang Y, Wang H, He Y, et al.',
+        title: 'Structural insights into the triple agonism at GLP-1R, GIPR and GCGR manifested by retatrutide',
+        journal: 'Nature Communications',
+        year: 2024,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11255275/',
+        doi: '10.1038/s41467-024-49907-3',
+        type: 'human_study',
+      },
+      {
+        id: 12,
+        authors: 'Harrison SA, Bedossa P, Guy CD, Schattenberg JM, Loomba R, Taub R, et al.',
+        title: 'Triple hormone receptor agonist retatrutide for metabolic dysfunction-associated steatotic liver disease: a randomized phase 2a trial',
+        journal: 'Nature Medicine',
+        year: 2024,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11271400/',
+        doi: '10.1038/s41591-024-03018-2',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>In May 2026, Eli Lilly published Phase 3 data that made every existing weight-loss drug look like a warmup act. Participants in the TRIUMPH-1 trial taking retatrutide lost up to <strong>25% of their body weight</strong> over 80 weeks — numbers that would have seemed fictional five years ago. <sup>[3]</sup></p>
+<p>Then consider this: the TRIUMPH-4 trial, which enrolled patients with knee osteoarthritis and obesity, produced an average loss of <strong>71.2 pounds (28.7% body weight)</strong> at 68 weeks. These aren't outliers from a cherry-picked cohort — they're primary endpoints from a pre-registered Phase 3 program involving thousands of patients across multiple countries. <sup>[2]</sup></p>
+<p>Retatrutide is not simply a "better semaglutide." It's a fundamentally different class of molecule — a first-in-class <em>triple agonist</em> that simultaneously activates three separate metabolic receptors. Understanding how it achieves these results, what the safety data actually shows, and what the current research-grade sourcing landscape looks like is the purpose of this guide. If you've heard the word "retatrutide" in a biohacking forum or a clinical setting and want the rigorous version — backed by published peer-reviewed data — this is it.</p>`,
+      },
+      {
+        id: 'what-is-retatrutide',
+        type: 'h2',
+        heading: 'What Is Retatrutide? The Molecular Overview',
+        content: `<p>Retatrutide (developmental code: <strong>LY3437943</strong>) is a 39-amino-acid synthetic peptide developed by Eli Lilly and Company. Structurally, it is derived from the glucose-dependent insulinotropic polypeptide (GIP) backbone — the same hormone your gut releases in response to eating. Lilly's scientists systematically modified this backbone by incorporating non-standard (non-coded) amino acid residues and attaching a C20 fatty diacid side chain via a hydrophilic linker. <sup>[6]</sup></p>
+<p>The fatty acid conjugation is the same engineering principle used in semaglutide and tirzepatide: it enables albumin binding in the bloodstream, dramatically extending the half-life from minutes (for native gut peptides) to approximately <strong>6 days</strong> — enabling once-weekly subcutaneous dosing. <sup>[6]</sup></p>
+<p>What makes retatrutide different from everything that came before it is not the delivery engineering — it's the receptor pharmacology. Semaglutide activates one receptor (GLP-1R). Tirzepatide activates two (GLP-1R and GIPR). Retatrutide activates <strong>three</strong>: GLP-1R, GIPR, <em>and</em> GCGR (the glucagon receptor). This triple agonism is why its efficacy exceeds its predecessors — but it also explains the more complex safety profile that requires careful dose titration. <sup>[1,11]</sup></p>`,
+      },
+      {
+        id: 'retatrutide-vial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_170556_332cfe92-a43b-4fe7-aac0-b5a79afdfb59.png',
+          alt: 'Research-grade lyophilized peptide vial in laboratory setting — retatrutide research compound',
+          caption: 'Retatrutide is available in research settings as a lyophilized (freeze-dried) powder. The Phase 3 trials used subcutaneous once-weekly injection in pre-filled pens; research-grade versions are reconstituted with bacteriostatic water.',
+        },
+      },
+      {
+        id: 'triple-agonist-mechanism',
+        type: 'h2',
+        heading: 'The Triple Agonist Mechanism: Three Receptors, One Molecule',
+        content: `<p>To understand why retatrutide outperforms everything before it, you need to understand what each of the three receptors actually does — and why activating all three simultaneously creates effects that can't be achieved by targeting any one or two of them alone. A landmark 2024 <em>Nature Communications</em> cryo-EM structural study mapped exactly how the retatrutide molecule docks across all three receptors, providing atomic-level insight into the pharmacodynamics. <sup>[11]</sup></p>`,
+      },
+      {
+        id: 'glp1-mechanism',
+        type: 'h3',
+        heading: 'GLP-1 Receptor (GLP-1R): Satiety, Insulin Secretion, and Gastric Braking',
+        content: `<p>The glucagon-like peptide-1 receptor is the core of every modern weight-loss drug. Activation of GLP-1R in the pancreas triggers glucose-dependent insulin secretion — meaning it stimulates insulin release only when blood glucose is elevated, making hypoglycemia mechanistically unlikely at therapeutic doses. Simultaneously, GLP-1R activation in the gut slows gastric emptying (the "gastric brake"), extending the sensation of fullness after eating. <sup>[8]</sup></p>
+<p>Critically, GLP-1R is also expressed throughout the central nervous system — particularly in the hypothalamic arcuate nucleus and the brainstem's area postrema. Activation of these brain receptors produces the central satiety signal that reduces overall caloric drive. This is why GLP-1 agonists work even in people whose diet doesn't change consciously: the appetite reduction is neurological, not just gastrointestinal. <sup>[8]</sup></p>`,
+      },
+      {
+        id: 'gipr-mechanism',
+        type: 'h3',
+        heading: 'GIP Receptor (GIPR): Potentiating Insulin and Modulating Adipose Metabolism',
+        content: `<p>The glucose-dependent insulinotropic polypeptide receptor was initially considered a target to <em>block</em> in obesity drugs — early research suggested GIP promoted fat storage. Tirzepatide's clinical success changed that paradigm entirely. GIPR activation turns out to be strongly weight-loss-promoting when paired with GLP-1R agonism, likely through several mechanisms: <sup>[6]</sup></p>
+<ul>
+  <li><strong>Insulin potentiation</strong> — GIPR co-stimulation enhances the insulin response to GLP-1R activation, improving postprandial glucose control beyond what GLP-1 alone achieves.</li>
+  <li><strong>Central appetite suppression</strong> — GIPR is expressed in hypothalamic neurons; agonism appears to add an independent satiety signal that compounds the GLP-1R effect.</li>
+  <li><strong>Adipose tissue remodeling</strong> — GIPR activation in adipocytes appears to modulate lipid handling and may reduce the compensatory energy-conservation response that normally counteracts caloric restriction.</li>
+</ul>`,
+      },
+      {
+        id: 'gcgr-mechanism',
+        type: 'h3',
+        heading: 'Glucagon Receptor (GCGR): The Thermogenic Multiplier',
+        content: `<p>Glucagon's classical role is glucose-raising — it's the counter-regulatory hormone that signals the liver to release stored glycogen during fasting. Activating its receptor in an obesity drug sounds counterintuitive. But the glucagon receptor in the liver, brown adipose tissue, and hypothalamus does something GLP-1R and GIPR cannot: it drives <strong>energy expenditure and thermogenesis</strong>. <sup>[7]</sup></p>
+<p>A landmark human crossover study (Tan et al., <em>Diabetes</em>, 2013) showed that co-administering GLP-1 during glucagon infusion in healthy subjects increased energy expenditure without causing hyperglycemia — the GLP-1 component neutralized glucagon's glucose-raising effect while preserving its metabolic-rate-boosting properties. <sup>[7]</sup> Retatrutide exploits this balance at all three receptors simultaneously:</p>
+<ul>
+  <li>GCGR activation ramps up resting metabolic rate and fat oxidation</li>
+  <li>GLP-1R activation prevents the hyperglycemia that pure glucagon would cause</li>
+  <li>GIPR activation potentiates the insulin response for tight glucose management</li>
+</ul>
+<p>The result is a molecule that reduces caloric intake (GLP-1R + GIPR centrally), slows caloric absorption (GLP-1R gastric brake), and increases caloric expenditure (GCGR thermogenesis) — three independent weight-loss vectors working simultaneously.</p>`,
+      },
+      {
+        id: 'triple-molecule-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_170512_dcf59e03-584a-405d-bd69-6dfbc24f2d58.png',
+          alt: 'Three bioluminescent peptide receptor molecules — GLP-1, GIP, and glucagon — representing retatrutide\'s triple agonist pharmacology',
+          caption: 'Retatrutide binds all three receptors from a single molecular scaffold. The 2024 cryo-EM structural study in Nature Communications confirmed the precise binding geometry across GLP-1R, GIPR, and GCGR simultaneously.',
+        },
+      },
+      {
+        id: 'triumph-trials',
+        type: 'h2',
+        heading: 'The TRIUMPH Trials: Phase 3 Data That Changed Everything',
+        content: `<p>Eli Lilly registered the TRIUMPH Phase 3 program as a comprehensive evaluation of retatrutide across eight separate trials — covering obesity without diabetes, obesity with type 2 diabetes, cardiovascular outcomes, obstructive sleep apnea, knee osteoarthritis, and chronic low back pain. The scale and ambition of the program signal the confidence Lilly has in the molecule. <sup>[4,5]</sup></p>
+<p>The first Phase 3 results arrived in late 2025 and accelerated through early 2026. Here's what the data shows:</p>`,
+      },
+      {
+        id: 'triumph-trials-table',
+        type: 'table',
+        tableData: {
+          headers: ['Trial', 'Population', 'Duration', 'Key Result', 'NCT Number'],
+          rows: [
+            ['TRIUMPH-4', 'Obesity + Knee Osteoarthritis', '68 weeks', '28.7% average body weight loss; 71.2 lbs average lost', 'NCT05931367'],
+            ['TRIUMPH-1', 'Obesity / Overweight (no T2D)', '80 weeks', 'Up to 25.0% body weight loss at 12mg; all doses met endpoints', 'NCT07357415'],
+            ['TRANSCEND-T2D-1', 'Type 2 Diabetes + Obesity', '40 weeks', '16.8% body weight loss at 12mg in T2D population', 'NCT06354660'],
+            ['TRIUMPH-Outcomes', 'Obesity + CV Risk Factors', 'Ongoing (~72 wks)', 'Primary: MACE; ongoing enrollment', 'NCT06383390'],
+            ['TRIUMPH-5', 'Head-to-Head vs. Tirzepatide', 'Ongoing', 'Primary: % weight change vs. tirzepatide', 'NCT06662383'],
+          ],
+        },
+      },
+      {
+        id: 'triumph-context',
+        type: 'h3',
+        heading: 'What These Numbers Actually Mean',
+        content: `<p>The 28.7% average body weight loss in TRIUMPH-4 requires context to appreciate fully. For a person starting at 250 lbs (113 kg), this represents losing more than 71 pounds. The trial enrolled over 800 participants with BMI ≥ 30 kg/m² and documented knee osteoarthritis — a population with significant metabolic burden. <sup>[2]</sup></p>
+<p>More striking: the TRIUMPH-4 results were achieved with a <em>tolerated, dose-escalated</em> protocol — not a pharmacologically extreme one. The titration starts at 2mg and escalates slowly to 12mg over 20 weeks, giving the body time to adapt to each receptor activation level. The weight loss continued to accumulate through week 68, suggesting the plateau seen in earlier GLP-1 drugs may not apply at the same timescale. <sup>[2,3]</sup></p>
+<p>The TRANSCEND-T2D-1 result — 16.8% in type 2 diabetics — is also notable. T2D patients typically lose less weight with GLP-1 drugs due to insulin resistance and altered gut hormone signaling. Retatrutide's GCGR component may partially overcome this resistance by directly driving hepatic energy metabolism independent of insulin signaling. <sup>[12]</sup></p>`,
+      },
+      {
+        id: 'weight-loss-comparison-chart',
+        type: 'chart',
+        heading: 'Weight Loss Comparison: Semaglutide vs. Tirzepatide vs. Retatrutide',
+        chartData: {
+          title: 'Peak % Body Weight Loss in Pivotal Trials (Phase 3, Highest Approved/Studied Dose)',
+          type: 'bar',
+          labels: ['Semaglutide 2.4mg\n(STEP-1, 68 wks)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72 wks)', 'Retatrutide 12mg\n(TRIUMPH-1, 80 wks)', 'Retatrutide 12mg\n(TRIUMPH-4, 68 wks)'],
+          datasets: [
+            {
+              label: '% Body Weight Loss',
+              values: [14.9, 20.9, 25.0, 28.7],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: '% Body Weight Reduction',
+          note: 'All values from pre-specified primary or key secondary endpoints in Phase 3 trials. Semaglutide: STEP-1 (Wilding 2021, NEJM). Tirzepatide: SURMOUNT-1 (Jastreboff 2022, NEJM). Retatrutide: TRIUMPH-1 and TRIUMPH-4 (Eli Lilly 2025–2026).',
+        },
+      },
+      {
+        id: 'vs-comparison',
+        type: 'h2',
+        heading: 'Retatrutide vs. Semaglutide vs. Tirzepatide: Head-to-Head Analysis',
+        content: `<p>The Phase 2 data already suggested retatrutide's superiority. In the 2023 <em>NEJM</em> Phase 2 trial, participants on the 12mg dose lost 24.2% of body weight at 48 weeks — approximately 2–3 percentage points more than tirzepatide's best result, and roughly 9 percentage points more than semaglutide at comparable timepoints. <sup>[1]</sup> The Phase 3 data has only widened that gap.</p>
+<p>The mechanistic difference is straightforward: retatrutide adds a third vector (GCGR-driven thermogenesis) that neither competitor can access. The TRIUMPH-5 trial — a direct head-to-head comparison with tirzepatide currently enrolling — will be the definitive answer on superiority magnitude. Until those results publish, the Phase 2 data and separate Phase 3 results strongly suggest a meaningful efficacy advantage. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'drug-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'Semaglutide (Ozempic/Wegovy)', 'Tirzepatide (Mounjaro/Zepbound)', 'Retatrutide (LY3437943)'],
+          rows: [
+            ['Receptor Targets', 'GLP-1R only', 'GLP-1R + GIPR (dual)', 'GLP-1R + GIPR + GCGR (triple)'],
+            ['Molecule Type', '31-aa peptide, GLP-1 analog', '39-aa peptide, GIP-based dual agonist', '39-aa peptide, GIP-based triple agonist'],
+            ['Half-Life', '~1 week', '~5 days', '~6 days'],
+            ['Dosing Frequency', 'Once weekly', 'Once weekly', 'Once weekly'],
+            ['Peak Phase 3 Weight Loss', '~14.9% (STEP-1)', '~20.9% (SURMOUNT-1)', '~28.7% (TRIUMPH-4)'],
+            ['FDA Approval (Obesity)', 'Approved (Wegovy, 2021)', 'Approved (Zepbound, 2023)', 'Under review (~2027 est.)'],
+            ['Thermogenic Component', 'No', 'Marginal (GIPR-mediated)', 'Yes (GCGR-mediated)'],
+            ['Heart Rate Effect', 'Mild increase (~1–2 BPM)', 'Mild increase (~2–3 BPM)', 'Moderate increase (~6.7 BPM at 12mg)'],
+            ['CV Outcomes Trial', 'SUSTAIN-6, SELECT (positive)', 'SURMOUNT-MMO (ongoing)', 'TRIUMPH-Outcomes (ongoing)'],
+          ],
+        },
+      },
+      {
+        id: 'safety-profile',
+        type: 'h2',
+        heading: 'Safety Profile: What the Clinical Data Actually Shows',
+        content: `<p>No drug that produces 25–28% weight loss is free of trade-offs. Retatrutide's safety profile from Phase 2 and early Phase 3 data is well-characterized for the GI effects — and requires transparent discussion for the cardiovascular signals that are still being formally evaluated. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'gi-side-effects',
+        type: 'h3',
+        heading: 'Gastrointestinal Side Effects',
+        content: `<p>The most common side effects are the same GI events seen across all GLP-1-based drugs, amplified somewhat by the triple-receptor mechanism:</p>
+<ul>
+  <li><strong>Nausea</strong> — Reported in up to 60% of participants at the 12mg dose in Phase 2. The majority of cases are mild-to-moderate and cluster around dose escalation windows. Following the prescribed titration schedule dramatically reduces incidence. <sup>[1]</sup></li>
+  <li><strong>Vomiting</strong> — Occurs in approximately 25–30% at 12mg, again predominantly during escalation. Anti-emetics are effective management.</li>
+  <li><strong>Diarrhea and Constipation</strong> — Both reported at meaningful frequencies; the GLP-1R gastric-braking effect shifts GI motility in ways that vary by individual.</li>
+  <li><strong>Decreased Appetite</strong> — Technically both a desired effect and a side effect. Some participants in Phase 2 reported appetite suppression so pronounced that adequate nutrition required active management.</li>
+</ul>`,
+      },
+      {
+        id: 'cardiovascular-signals',
+        type: 'h3',
+        heading: 'Cardiovascular Signals: The GCGR Heart Rate Effect',
+        content: `<p>The glucagon receptor component introduces a cardiovascular signal not seen with pure GLP-1 agonists. In the Phase 2 trial: <sup>[1]</sup></p>
+<ul>
+  <li>Mean resting heart rate increased dose-dependently, peaking at approximately <strong>+6.7 BPM</strong> at the 12mg dose around week 24</li>
+  <li>Heart rate increases gradually declined after week 24, trending toward baseline by weeks 36–48 — suggesting partial adaptation</li>
+  <li>Cardiac arrhythmias were reported in 2–11% of retatrutide recipients vs. 2% in placebo — a dose-dependent signal requiring attention</li>
+  <li><strong>No increase in major adverse cardiovascular events (MACE)</strong> was observed in Phase 2, but the trial was not powered or designed to detect CV outcomes</li>
+</ul>
+<p>The TRIUMPH-Outcomes trial (NCT06383390) is the dedicated cardiovascular outcomes study — it will provide the definitive safety data, but results are not expected until 2027–2028. Anyone with established cardiovascular disease should not use retatrutide (or any experimental compound) outside a medically supervised setting. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<p><strong>Research Use Only — Not for Human Self-Administration:</strong> Retatrutide does not have FDA approval for any indication as of June 2026. All Phase 3 trial material is investigational. Research-grade retatrutide sold by the vendors listed below is intended for <em>in vitro</em> and preclinical laboratory research only. The cardiovascular outcomes data from the TRIUMPH-Outcomes trial is not yet available. Consult a qualified physician before considering any off-label or experimental weight management protocol.</p>`,
+      },
+      {
+        id: 'fat-reduction-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_170514_02274d4f-ee9d-421a-b738-4e4951524118.png',
+          alt: 'Medical visualization of visceral adipose tissue reduction — retatrutide targets both subcutaneous and visceral fat compartments',
+          caption: 'Retatrutide\'s three-receptor mechanism targets both subcutaneous and visceral adipose tissue. The GCGR component in particular drives hepatic and visceral fat oxidation, which is associated with superior cardiometabolic outcomes beyond simple scale weight.',
+        },
+      },
+      {
+        id: 'liver-data',
+        type: 'h3',
+        heading: 'Liver and Metabolic Benefits: The MASH Phase 2a Data',
+        content: `<p>A 2024 <em>Nature Medicine</em> Phase 2a trial (Harrison et al.) evaluated retatrutide specifically in patients with metabolic dysfunction-associated steatotic liver disease (MASLD, formerly NAFLD) and the more severe MASH (formerly NASH). The results were striking: <sup>[12]</sup></p>
+<ul>
+  <li>Retatrutide produced resolution of MASH in <strong>62–80%</strong> of treated participants at the highest doses — compared to approximately 10–12% with placebo</li>
+  <li>Significant fibrosis improvement was observed, addressing one of the most difficult outcomes to achieve in liver disease</li>
+  <li>This extends retatrutide's potential clinical application well beyond weight management into a disease area (advanced liver disease) where surgical or pharmaceutical options are severely limited</li>
+</ul>
+<p>The GCGR component likely drives much of this liver benefit — glucagon receptor activation has known hepatic effects including increased fatty acid oxidation and reduced triglyceride synthesis. Combined with GLP-1R and GIPR effects on insulin sensitization and adipose remodeling, the three pathways converge on hepatic fat reduction from multiple angles simultaneously. <sup>[12]</sup></p>`,
+      },
+      {
+        id: 'dosing-protocol',
+        type: 'h2',
+        heading: 'Dosing & Titration Protocol: The Phase 3 Escalation Schedule',
+        content: `<p>Retatrutide's titration schedule is the most critical determinant of tolerability. The triple-receptor mechanism — especially the glucagon component — creates GI and cardiovascular effects that are almost entirely dose-escalation-dependent. Patients in Phase 3 who followed the prescribed schedule had dramatically lower discontinuation rates than those in Phase 2 who escalated more rapidly. <sup>[1,2,3]</sup></p>
+<p>The TRIUMPH Phase 3 trials used a refined escalation schedule developed from Phase 2 tolerability data. The key principle: <strong>four full weeks at each dose level before increasing</strong>. This allows both central nervous system adaptation (reducing nausea) and cardiovascular adaptation (heart rate stabilization) before adding further receptor activation.</p>`,
+      },
+      {
+        id: 'dosing-table',
+        type: 'table',
+        tableData: {
+          headers: ['Phase', 'Weeks', 'Dose', 'Route', 'Key Notes'],
+          rows: [
+            ['Initiation', 'Weeks 1–4', '2 mg once weekly', 'SubQ injection', 'Start on same day each week. Nausea peaks here — take with small meals.'],
+            ['Escalation 1', 'Weeks 5–8', '4 mg once weekly', 'SubQ injection', 'GI effects typically reduce. Monitor heart rate at this transition.'],
+            ['Escalation 2', 'Weeks 9–12', '6 mg once weekly', 'SubQ injection', 'Most participants reach meaningful appetite suppression at this dose.'],
+            ['Escalation 3', 'Weeks 13–16', '9 mg once weekly', 'SubQ injection', 'Heart rate increase typically peaks around this phase.'],
+            ['Escalation 4', 'Weeks 17–20', '12 mg once weekly', 'SubQ injection', 'Maximum dose. Phase 3 primary endpoints were measured at steady-state 12mg.'],
+            ['Maintenance', 'Week 20+', '8–12 mg once weekly', 'SubQ injection', 'Maintain lowest effective maintenance dose. Weight loss continues past week 48.'],
+          ],
+        },
+      },
+      {
+        id: 'dosing-notes',
+        type: 'h3',
+        heading: 'Reconstitution and Administration Notes',
+        content: `<p>Research-grade retatrutide is supplied as a lyophilized (freeze-dried) white powder. Reconstitution requires bacteriostatic water (BAC water) rather than standard sterile water — the preservative (benzyl alcohol) allows multi-dose use over 28–30 days from a single vial. Standard reconstitution: add BAC water along the vial wall slowly while rotating rather than shaking (peptides denature under mechanical shear). <sup>[1]</sup></p>
+<ul>
+  <li><strong>Storage before reconstitution</strong> — Lyophilized powder is stable at −20°C for extended periods; 4°C for shorter term. Avoid freeze-thaw cycles.</li>
+  <li><strong>Storage after reconstitution</strong> — Refrigerate at 4°C. Use within 28–30 days. Do not freeze reconstituted peptide.</li>
+  <li><strong>Injection site</strong> — Rotate subcutaneous injection sites (abdomen, thigh, upper arm). Abdomen typically produces fastest absorption.</li>
+  <li><strong>Timing</strong> — Once-weekly administration; same day each week produces the most stable plasma levels given the ~6-day half-life. No specific meal timing requirement, but taking the dose on an empty stomach morning may reduce nausea versus evening dosing in some research participants.</li>
+</ul>`,
+      },
+      {
+        id: 'vendor-section',
+        type: 'vendor-cards',
+        heading: 'Verified Research-Grade Sources (2026)',
+        vendors: [
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Retatrutide 5mg / 10mg',
+            productUrl: 'https://aminousa.com/products/retatrutide-5mg',
+            price: 'From $89 (5mg)',
+            purity: '>99% (HPLC + Mass Spec)',
+            highlight: 'US domestic shipping, third-party COA on every batch, both 5mg and 10mg vial sizes available. Clean lab with transparent testing protocol.',
+            badge: 'Recommended',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptides — 99%+ Purity',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Contact for pricing',
+            purity: '99%+ minimum (independent COA)',
+            highlight: 'All peptides manufactured, synthesized, tested, and shipped entirely within the continental USA. Same-day shipping on orders before 2PM CST. 24/7 customer support.',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Retatrutide (Wholesale / Custom Synthesis)',
+            productUrl: 'https://peptidetech.is/wholesale-b2b-peptide-custom-synthesis/',
+            price: 'Wholesale / B2B pricing',
+            purity: 'Custom synthesis — purity per spec',
+            highlight: 'B2B and wholesale option for researchers requiring larger quantities or custom synthesis runs. Retatrutide available in 5mg and 10mg formulations. US-sourced raw materials.',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Peptides — COA Verified',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'See site for current pricing',
+            purity: '99%+ (third-party verified)',
+            highlight: 'Comprehensive third-party certificates of analysis including purity, identity, and stability testing. Full transparency across all product batches.',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'How does retatrutide compare to tirzepatide for weight loss?',
+            answer: 'Retatrutide consistently outperforms tirzepatide in weight loss trials. In Phase 2, retatrutide at 12mg produced 24.2% body weight loss at 48 weeks versus approximately 20–21% for tirzepatide 15mg at a comparable timepoint. In Phase 3, the TRIUMPH-4 trial produced an average 28.7% weight loss at 68 weeks — a result that exceeds any tirzepatide Phase 3 data published to date. The TRIUMPH-5 head-to-head trial is currently enrolling and will provide direct comparative data. The mechanistic reason for the difference is the third receptor: retatrutide\'s GCGR activation drives thermogenesis (calorie burning) that tirzepatide cannot access.',
+          },
+          {
+            question: 'Is retatrutide FDA approved?',
+            answer: 'As of June 2026, retatrutide (LY3437943) does not have FDA approval for any indication. Eli Lilly has multiple Phase 3 trials in progress (the TRIUMPH program). FDA submission is estimated for Q4 2026 to Q1 2027, with approval possible in late 2027 if the regulatory review proceeds normally. Until approval, retatrutide is available only in clinical trials (for participants meeting enrollment criteria) or as research-grade material from specialized vendors for preclinical laboratory use.',
+          },
+          {
+            question: 'What are the most common side effects of retatrutide?',
+            answer: 'Gastrointestinal side effects are the most common: nausea (up to 60% at 12mg, predominantly during escalation), vomiting (~25–30% at 12mg), diarrhea, and constipation. These are almost entirely dose-escalation-related and are substantially reduced by following the 4-week-per-dose-level titration schedule. The GCGR component adds a cardiovascular signal: resting heart rate increases dose-dependently, averaging +6.7 BPM at the 12mg dose, peaking around week 24 then declining. Cardiac arrhythmias were reported in 2–11% versus 2% in placebo in Phase 2 — a signal being monitored carefully in the ongoing TRIUMPH-Outcomes cardiovascular trial.',
+          },
+          {
+            question: 'Why does retatrutide cause more weight loss than semaglutide?',
+            answer: 'Three reasons, corresponding to its three receptor targets. First, retatrutide activates GLP-1R (like semaglutide) producing satiety and gastric emptying reduction. Second, it adds GIPR activation, which provides an independent central satiety signal and potentiates the insulin response — both absent in semaglutide. Third, it activates GCGR, which drives thermogenesis (increased resting metabolic rate and fat oxidation) — a calorie-burning mechanism that neither semaglutide nor tirzepatide can access. These three effects stack multiplicatively rather than additively, producing weight loss percentages that were not achievable with single or dual receptor agonism.',
+          },
+          {
+            question: 'Can retatrutide be used for type 2 diabetes?',
+            answer: 'Phase 3 data suggests yes, though with moderately lower weight loss than in non-diabetic populations. The TRANSCEND-T2D-1 trial showed 16.8% body weight loss at 40 weeks in T2D patients — clinically significant, though lower than the 25–28% seen in obesity-only populations. The TRIUMPH Phase 3 program includes multiple diabetes-focused trials, and FDA submission for a T2D indication is expected alongside the obesity filing. Multiple ongoing trials are specifically evaluating T2D populations with retatrutide.',
+          },
+          {
+            question: 'What is the half-life of retatrutide and how often must it be injected?',
+            answer: 'Retatrutide has a plasma half-life of approximately 6 days, achieved through the C20 fatty diacid side chain that enables albumin binding in circulation. This supports once-weekly subcutaneous injection, which is the dosing regimen used in all Phase 2 and Phase 3 trials. Steady-state plasma levels are reached within approximately 4–5 weeks at any given dose. The once-weekly schedule is a practical convenience advantage over research compounds requiring daily injection.',
+          },
+          {
+            question: 'Does retatrutide cause muscle loss during weight loss?',
+            answer: 'Phase 2 body composition data shows that most weight lost on retatrutide is fat mass, with lean mass (muscle) changes proportional to the amount of weight lost — similar to what is seen with tirzepatide and semaglutide. No disproportionate muscle loss was observed. However, any large caloric deficit (regardless of mechanism) can accelerate muscle breakdown without adequate protein intake and resistance exercise. Research protocols evaluating weight loss peptides typically emphasize maintaining dietary protein above 1.6g/kg/day and continuing resistance training to preserve lean mass throughout the treatment period.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: Is Retatrutide the Best Weight Loss Peptide Ever Studied?',
+        content: `<p>On the pure efficacy metric — percentage of body weight lost in controlled trials — yes. No molecule tested in randomized controlled trials has produced 28.7% average weight loss. The mechanistic case is compelling: three receptors, three independent weight-loss vectors, one once-weekly injection. The Phase 3 data has validated what Phase 2 data predicted. <sup>[1,2,3]</sup></p>
+<p>The caveats are real. The TRIUMPH-Outcomes cardiovascular trial won't report until 2027–2028 — and the GCGR-driven heart rate elevation is a signal that requires formal evaluation, not dismissal. Retatrutide is not FDA-approved and won't be until late 2027 at the earliest. The GI side effect profile, while manageable with proper titration, is real and can be severe if the escalation schedule is compressed. <sup>[1,5]</sup></p>
+<p>For researchers tracking the peptide landscape, retatrutide represents the most important metabolic drug development of the decade. For anyone monitoring research-grade sourcing, the vendors listed above — <a href="https://aminousa.com" class="text-blue-400 hover:text-blue-300 underline">Amino USA</a>, <a href="https://modifiedaminos.shop" class="text-blue-400 hover:text-blue-300 underline">Modified Aminos</a>, <a href="https://peptidetech.is" class="text-blue-400 hover:text-blue-300 underline">Peptide Technologies</a>, and <a href="https://www.vandl-labs.com" class="text-blue-400 hover:text-blue-300 underline">VANDL Labs</a> — currently supply verified research-grade material with independent COAs. As the TRIUMPH program continues reporting through 2026–2027 and FDA submission approaches, the molecule's profile will only sharpen. For now, it is the most evidence-backed, aggressively-studied weight-loss peptide in the research landscape.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
