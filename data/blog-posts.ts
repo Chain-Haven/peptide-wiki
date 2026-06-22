@@ -4754,6 +4754,1769 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'retatrutide-triple-agonist-guide-2026',
+    title: 'Retatrutide 2026: The Triple Agonist Peptide That Achieved 30% Weight Loss in Phase 3 Trials',
+    excerpt:
+      'Retatrutide simultaneously activates GLP-1, GIP, and glucagon receptors — and its TRIUMPH-1 Phase 3 trial just delivered the most dramatic weight loss numbers ever recorded in a pharmaceutical study. Here is everything researchers need to know.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Metabolic & Weight Loss Peptides',
+    tags: ['Retatrutide', 'Triple Agonist', 'GLP-1', 'GIP', 'Glucagon', 'Weight Loss', 'Eli Lilly', 'TRIUMPH', 'Metabolic Peptides', 'Phase 3'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150558_93db200f-ac71-43e5-a6be-f5049b815dc4.png',
+    heroImageAlt: 'Triple receptor molecular signaling pathways — GLP-1, GIP, and glucagon receptor agonism illustrated',
+    metaTitle: 'Retatrutide 2026: Triple Agonist Peptide — Phase 3 Results, Dosage & Research Guide',
+    metaDescription:
+      'Retatrutide achieved 30.3% average weight loss in Phase 3 TRIUMPH-1 trials — the highest ever recorded. Our complete 2026 guide covers the triple agonist mechanism, clinical trial data, dosage, safety profile, and where researchers can source verified material.',
+    keywords: [
+      'retatrutide peptide',
+      'retatrutide weight loss',
+      'triple agonist peptide',
+      'retatrutide vs semaglutide',
+      'retatrutide phase 3',
+      'TRIUMPH-1 trial',
+      'GLP-1 GIP glucagon agonist',
+      'retatrutide dosage',
+      'retatrutide results',
+      'retatrutide 2026',
+      'LY3437943',
+      'best weight loss peptide 2026',
+      'GLP-1 peptide research',
+      'next gen weight loss peptide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/retatrutide-triple-agonist-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'cagrilintide'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'retatrutide peptide',
+      secondaryKeywords: ['triple agonist weight loss', 'retatrutide vs semaglutide', 'retatrutide phase 3 results'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Jastreboff AM, Kaplan LM, Frías JP, Yang W, Liu J, Bunck MC, Stefanski A; SURMOUNT-5 Investigators',
+        title: 'Triple–Hormone-Receptor Agonist Retatrutide for Obesity — A Phase 2 Trial',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37351564/',
+        doi: '10.1056/NEJMoa2301972',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Eli Lilly and Company',
+        title: 'Lilly\'s triple agonist, retatrutide, delivered powerful weight loss in pivotal Phase 3 obesity trial (TRIUMPH-1, NCT05929066)',
+        journal: 'Press Release — investor.lilly.com',
+        year: 2026,
+        url: 'https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-weight-loss-average',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Eli Lilly and Company',
+        title: 'Retatrutide for the treatment of obesity, obstructive sleep apnea and knee osteoarthritis: Rationale and design of the TRIUMPH registrational clinical trials',
+        journal: 'Obesity Reviews / PubMed',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/41090431/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Nauck MA, Quast DR, Wefers J, Meier JJ',
+        title: 'GLP-1 receptor agonists in the treatment of type 2 diabetes – state-of-the-art',
+        journal: 'Molecular Metabolism',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33667808/',
+        doi: '10.1016/j.molmet.2021.101102',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Frías JP, Davies MJ, Rosenstock J, et al.',
+        title: 'Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34170647/',
+        doi: '10.1056/NEJMoa2107519',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Retatrutide (LY3437943) in Participants With Obesity (TRIUMPH-1)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05929066',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Drucker DJ',
+        title: 'The biology of incretin hormones',
+        journal: 'Cell Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16459310/',
+        doi: '10.1016/j.cmet.2006.01.004',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Willard FS, Douros JD, Gabe MB, et al.',
+        title: 'Small molecule glucagon receptor agonists with anti-obesity effects in preclinical models',
+        journal: 'Science Translational Medicine',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/32376769/',
+        doi: '10.1126/scitranslmed.aay9517',
+        type: 'animal_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Semaglutide was supposed to be the endgame for obesity pharmacology. Then tirzepatide hit the market and outperformed it. Then, in May 2026, Eli Lilly announced TRIUMPH-1 — and the entire field had to recalibrate again.</p>
+<p>Retatrutide (LY3437943) achieved an average of <strong>28.3% body weight reduction</strong> at 80 weeks on the 12 mg dose. In a subgroup with severe obesity tracked to 104 weeks, the average reached <strong>30.3%</strong> — the equivalent of losing roughly 85 pounds from a 280-pound baseline. No pharmaceutical compound had ever come close to those numbers in a randomized controlled trial.</p>
+<p>The reason comes down to a single molecular innovation: retatrutide doesn't activate one receptor, or two — it activates three simultaneously. GLP-1, GIP, and glucagon receptors all at once, each contributing a distinct metabolic effect, each amplifying the others. This guide breaks down the mechanism, the clinical data, the current research landscape, and where to source verified material for research purposes.</p>`,
+      },
+      {
+        id: 'what-is-retatrutide',
+        type: 'h2',
+        heading: 'What Is Retatrutide? A First-in-Class Triple Agonist',
+        content: `<p>Retatrutide is a 34-amino acid acylated peptide developed by Eli Lilly and Company (research code LY3437943). It is classified as a unimolecular triple hormone receptor agonist — a single peptide molecule that activates three distinct G protein-coupled receptors with meaningful potency at each:</p>
+<ul>
+  <li><strong>GLP-1 receptor (GLP-1R)</strong> — glucagon-like peptide-1 receptor, the primary target of semaglutide</li>
+  <li><strong>GIP receptor (GIPR)</strong> — glucose-dependent insulinotropic polypeptide receptor, co-targeted by tirzepatide</li>
+  <li><strong>Glucagon receptor (GCGR)</strong> — the receptor that distinguishes retatrutide from every approved obesity drug on the market</li>
+</ul>
+<p>The peptide has been engineered with C18 fatty acid acylation at an internal lysine residue, which enables albumin binding and extends the plasma half-life to approximately 6 days — allowing once-weekly subcutaneous dosing, the same administration schedule as semaglutide and tirzepatide.</p>
+<p>Understanding why activating three receptors produces dramatically better weight loss than activating one or two requires understanding what each receptor actually does in metabolic tissue.</p>`,
+      },
+      {
+        id: 'triple-mechanism',
+        type: 'h2',
+        heading: 'The Triple Mechanism: Why Three Receptors Beat Two',
+        content: `<p>Each of the three receptors targeted by retatrutide contributes distinct and complementary effects on energy metabolism. The combination is not simply additive — there is evidence of genuine synergy between GIP receptor agonism and GLP-1 receptor agonism (as established by tirzepatide's superior weight loss vs semaglutide <sup>[5]</sup>), and the glucagon receptor component adds a third independent lever.</p>`,
+      },
+      {
+        id: 'pathways-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150743_f14a9382-b9f6-41fa-86b5-de6742960d4d.jpeg',
+          alt: 'Three metabolic signaling pathways — GLP-1, GIP, and glucagon receptors converging on adipose tissue',
+          caption: 'Retatrutide activates three independent receptor pathways simultaneously, each contributing distinct effects on appetite, insulin secretion, and hepatic fat metabolism.',
+        },
+      },
+      {
+        id: 'glp1-mechanism',
+        type: 'h3',
+        heading: 'GLP-1 Receptor: Appetite Suppression and Gastric Slowing',
+        content: `<p>GLP-1R agonism is the foundation of all modern obesity pharmacology. When activated, GLP-1 receptors in the hypothalamus, brainstem, and gut produce: reduced appetite signaling via the arcuate nucleus, delayed gastric emptying (slowing nutrient absorption and prolonging satiety), enhanced glucose-dependent insulin secretion from pancreatic beta cells, and reduced glucagon secretion from alpha cells. <sup>[4]</sup></p>
+<p>In semaglutide's pivotal STEP 1 trial, GLP-1R agonism alone produced 14.9% average weight loss at 68 weeks — unprecedented at the time. Retatrutide's GLP-1R component is the same mechanistic foundation.</p>`,
+      },
+      {
+        id: 'gip-mechanism',
+        type: 'h3',
+        heading: 'GIP Receptor: The Synergistic Amplifier',
+        content: `<p>GIP receptor agonism was considered a modest therapeutic target for decades — early GIPR agonists showed limited weight loss benefit alone. The discovery that co-agonizing GLP-1R and GIPR together produced synergistic, not merely additive, effects was the key insight behind tirzepatide. <sup>[5]</sup></p>
+<p>The mechanism appears to involve GIP receptor signaling in adipose tissue specifically, enhancing the fat mobilization effects of GLP-1R signaling in ways that remain under investigation. Tirzepatide's 20.9% weight loss in SURMOUNT-1 vs semaglutide's 14.9% in STEP 1 established the GIP co-agonism advantage convincingly.</p>`,
+      },
+      {
+        id: 'glucagon-mechanism',
+        type: 'h3',
+        heading: 'Glucagon Receptor: The Retatrutide Difference',
+        content: `<p>This is where retatrutide diverges from every approved drug. Glucagon receptor activation increases energy expenditure via hepatic glucose production and promotes fat oxidation in the liver — a direct thermogenic effect on metabolism that neither GLP-1R nor GIPR agonism provides. <sup>[7,8]</sup></p>
+<p>Glucagon agonism alone would raise blood glucose — a dangerous side effect. But when co-administered with GLP-1R agonism (which drives insulin secretion and suppresses glucagon), the hepatic and thermogenic benefits of GCGR activation are preserved while the hyperglycemic risk is neutralized. Retatrutide's GCGR component thus operates safely only because of the GLP-1R component — a molecular counterbalancing act that took years of optimization to achieve in a single peptide.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'Retatrutide vs. Semaglutide vs. Tirzepatide: Mechanism & Outcomes',
+        tableData: {
+          headers: ['Property', 'Semaglutide (Wegovy)', 'Tirzepatide (Zepbound)', 'Retatrutide (Investigational)'],
+          rows: [
+            ['Receptors Targeted', 'GLP-1R', 'GLP-1R + GIPR', 'GLP-1R + GIPR + GCGR'],
+            ['Mechanism Class', 'GLP-1 RA', 'Dual GIP/GLP-1 RA', 'Triple hormone agonist'],
+            ['Peak Trial Weight Loss', '~15% (STEP 1)', '~21% (SURMOUNT-1)', '~30% (TRIUMPH-1)'],
+            ['Dosing Frequency', 'Once weekly SubQ', 'Once weekly SubQ', 'Once weekly SubQ'],
+            ['Half-life', '~7 days', '~5 days', '~6 days'],
+            ['FDA Status', 'Approved (2021)', 'Approved (2023)', 'Phase 3 / NDA filing Q4 2026'],
+            ['Hepatic Fat Effect', 'Moderate', 'Moderate–High', 'High (GCGR component)'],
+            ['Thermogenic Effect', 'Minimal', 'Minimal', 'Significant (GCGR component)'],
+          ],
+        },
+      },
+      {
+        id: 'phase2-data',
+        type: 'h2',
+        heading: 'Phase 2 Data: The NEJM Study That Put Retatrutide on the Map',
+        content: `<p>The Phase 2 trial (NCT04881760) published by Jastreboff et al. in the <em>New England Journal of Medicine</em> in June 2023 was the first human evidence of retatrutide's weight loss magnitude. <sup>[1]</sup> Key findings from the 338-participant, 24-week randomized trial:</p>
+<ul>
+  <li><strong>1 mg dose:</strong> 7.9% average weight loss</li>
+  <li><strong>4 mg dose:</strong> 12.9% average weight loss</li>
+  <li><strong>8 mg dose:</strong> 17.3% average weight loss</li>
+  <li><strong>12 mg dose:</strong> 17.5% average weight loss at 24 weeks (still dose-escalating)</li>
+</ul>
+<p>The 17.5% at 24 weeks for the 12 mg group was notable — semaglutide's STEP 1 trial ran for 68 weeks to achieve 14.9%. The trajectory data suggested the 12 mg dose had not plateaued at week 24, indicating that longer-duration trials would produce substantially greater results.</p>
+<p>That prediction proved correct. The safety profile was consistent with GLP-1R agonist class effects: nausea (predominantly in the dose-escalation phase), vomiting, decreased appetite, and diarrhea were the most common adverse events. No unexpected safety signals related to the glucagon receptor component were observed.</p>`,
+      },
+      {
+        id: 'triumph1-data',
+        type: 'h2',
+        heading: 'TRIUMPH-1: The Phase 3 Data (NCT05929066)',
+        content: `<p>The TRIUMPH-1 Phase 3 trial enrolled 2,339 adults with obesity or overweight plus at least one weight-related comorbidity (excluding type 2 diabetes) in a randomized, double-blind, placebo-controlled design. Participants received once-weekly subcutaneous injections of retatrutide 4 mg, 9 mg, 12 mg, or placebo for 80 weeks. <sup>[2,3]</sup></p>
+<p>The primary endpoint (≥5% weight loss at week 80) and key secondary endpoints (mean percent weight change, ≥10%, ≥15%, ≥20%, ≥25% responder rates) were all met across all studied doses. The headline results:</p>
+<ul>
+  <li><strong>4 mg:</strong> 17.6% average weight loss (−16.1 kg)</li>
+  <li><strong>9 mg:</strong> 23.7% average weight loss (−22.9 kg)</li>
+  <li><strong>12 mg:</strong> 25.0% average weight loss (−25.2 kg) / <strong>28.3% in the primary analysis population</strong></li>
+  <li><strong>Placebo:</strong> 3.9% average weight loss</li>
+</ul>
+<p>In the 104-week extension subgroup (baseline BMI ≥35), the 12 mg dose achieved a mean of <strong>30.3% body weight reduction</strong> — approximately 85 pounds from a 280-pound starting weight. This is the highest average weight loss ever documented in a randomized pharmaceutical trial. <sup>[2]</sup></p>
+<p>Cardiometabolic improvements were consistent with the weight loss magnitude: reductions in waist circumference, blood pressure, triglycerides, and fasting glucose were all statistically significant vs placebo.</p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'Average Weight Loss: Retatrutide vs. Approved Competitors',
+        chartData: {
+          title: 'Average % Body Weight Loss at Peak Trial Timepoint',
+          type: 'bar',
+          labels: ['Semaglutide 2.4mg\n(STEP 1, 68wk)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72wk)', 'Retatrutide 9mg\n(TRIUMPH-1, 80wk)', 'Retatrutide 12mg\n(TRIUMPH-1, 80wk)', 'Retatrutide 12mg\n(TRIUMPH ext., 104wk)'],
+          datasets: [
+            {
+              label: 'Average % Body Weight Reduction',
+              values: [14.9, 20.9, 23.7, 25.0, 30.3],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: '% Body Weight Loss (average)',
+          note: 'Data from published Phase 3 RCTs. Cross-trial comparisons are indirect — populations, durations, and dose-escalation schedules differ. Sources: STEP 1 (NEJM 2021), SURMOUNT-1 (NEJM 2022), TRIUMPH-1 (Eli Lilly press release, May 2026).',
+        },
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'Retatrutide Dosage Protocol (Research Context)',
+        content: `<p>Retatrutide is not currently FDA-approved or commercially available as of June 2026. Eli Lilly has announced plans to file an NDA with the FDA in Q4 2026, with anticipated approval in late 2027 and commercial launch in early 2028. The following dosage information is derived from clinical trial protocols for research reference only.</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Dose Level', 'Starting Dose', 'Escalation Schedule', 'Maintenance Dose', 'Trial Context'],
+          rows: [
+            ['Low', '2 mg/week', 'Weeks 1–4: 2 mg', '4 mg/week', 'Phase 2, 4 mg arm'],
+            ['Moderate', '2 mg/week', 'Monthly 2→4→8 mg escalation', '8 mg/week', 'Phase 2/3 titration'],
+            ['High', '2 mg/week', 'Monthly escalation over 16–20 weeks', '12 mg/week', 'TRIUMPH-1 primary dose'],
+          ],
+        },
+      },
+      {
+        id: 'syringe-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150715_2cacb160-d272-4e5e-99a8-eb50bac0fdc5.jpeg',
+          alt: 'Research peptide syringe and molecular structure diagram — retatrutide subcutaneous administration protocol',
+          caption: 'Retatrutide is administered as a once-weekly subcutaneous injection in clinical trials. The gradual dose-escalation schedule over 16–20 weeks is critical for GI tolerability.',
+        },
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects and Safety Profile',
+        content: `<p>The adverse event profile of retatrutide in TRIUMPH-1 was consistent with the GLP-1R agonist drug class, with no unexpected safety signals from the glucagon receptor component: <sup>[2]</sup></p>
+<ul>
+  <li><strong>Nausea:</strong> Most common adverse event; predominantly occurs during dose escalation, resolves for most participants at steady-state dose</li>
+  <li><strong>Vomiting:</strong> Less common than nausea; managed by slower dose escalation</li>
+  <li><strong>Diarrhea / constipation:</strong> GI motility effects typical of GLP-1R class</li>
+  <li><strong>Decreased appetite:</strong> Intended pharmacological effect</li>
+  <li><strong>Heart rate increase:</strong> Mild increase (~2–4 bpm) consistent with GLP-1R class effects</li>
+  <li><strong>Injection site reactions:</strong> Mild; transient</li>
+</ul>
+<p>Discontinuation due to adverse events occurred in approximately 9–11% of participants across dose groups, vs 3% for placebo — within the range expected for this drug class. No cases of pancreatitis, thyroid C-cell tumors, or diabetic retinopathy complications were observed that changed the risk/benefit assessment.</p>`,
+      },
+      {
+        id: 'regulatory-timeline',
+        type: 'h2',
+        heading: 'Regulatory Timeline and Research Status (June 2026)',
+        content: `<p>Retatrutide's development timeline as of June 2026:</p>
+<ul>
+  <li><strong>2023:</strong> Phase 2 results published in NEJM — immediate landmark designation in the field</li>
+  <li><strong>2023–2025:</strong> TRIUMPH Phase 3 program enrollment across obesity, sleep apnea (TRIUMPH-2), and knee osteoarthritis (TRIUMPH-4) indications</li>
+  <li><strong>May 2026:</strong> TRIUMPH-1 Phase 3 topline results announced — 28.3–30.3% weight loss confirmed</li>
+  <li><strong>Q4 2026:</strong> Eli Lilly plans NDA submission to FDA</li>
+  <li><strong>Late 2027 (anticipated):</strong> FDA review completion and potential approval</li>
+  <li><strong>Early 2028 (anticipated):</strong> Commercial launch under a brand name not yet announced</li>
+</ul>
+<p>Retatrutide is currently available only through clinical trial participation (see ClinicalTrials.gov) or as a research compound from verified suppliers. It has not been approved by the FDA, EMA, or any other regulatory authority for any indication.</p>`,
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only.</strong> Retatrutide (LY3437943) is an investigational compound that has not received FDA approval. It is not approved for human use, self-administration, weight loss treatment, or any clinical indication. All information in this article is provided for educational and research purposes. Consult a licensed healthcare provider before using any pharmaceutical compound.',
+      },
+      {
+        id: 'vendors',
+        type: 'h2',
+        heading: 'Verified Research Sources for Retatrutide (2026)',
+        content: `<p>As an investigational compound still in Phase 3 trials, retatrutide has limited commercial availability. Researchers should verify third-party mass spectrometry COAs confirming sequence identity and purity before sourcing. The following vendors have been identified as carrying verified retatrutide for research use:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Tech (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'Retatrutide Research Peptide',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'QR-code COA on every batch with HPLC-MS confirmation. ISO 17025-accredited third-party lab testing. Cold-chain shipping with temperature logs. One of the most transparency-focused suppliers in the research peptide space for investigational compounds.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Retatrutide',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-manufactured, same-day shipping on orders placed before 2 PM CST. Independent third-party COA with every order. 24/7 customer support. Known for clean labeling and rigorous batch testing for investigational peptides.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Peptides — Retatrutide',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'ISO-certified US manufacturer partnership. Third-party testing via MZ Biolabs and BioRegen with publicly accessible COAs. ≥99% purity frequently achieved on HPLC-MS. Money-back purity guarantee.',
+            badge: 'ISO-Certified Manufacturing',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Peptides Catalog',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Ships to EU customers directly from within Europe. Free BAC water on orders over $200. Free shipping over $250. Third-party COA-verified with pharmaceutical-grade synthesis equipment. Known for comprehensive metabolic peptide catalog.',
+            badge: 'EU Shipping Available',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'How is retatrutide different from semaglutide and tirzepatide?',
+            answer: 'Semaglutide activates only the GLP-1 receptor. Tirzepatide activates both GLP-1 and GIP receptors. Retatrutide activates all three: GLP-1, GIP, and glucagon receptors simultaneously. The addition of glucagon receptor agonism adds a thermogenic and hepatic fat-burning mechanism that the other two drugs lack. This triple action appears to explain retatrutide\'s dramatically superior weight loss — 30.3% average vs approximately 21% for tirzepatide\'s highest dose.',
+          },
+          {
+            question: 'When will retatrutide be FDA-approved?',
+            answer: 'Eli Lilly plans to file a New Drug Application (NDA) with the FDA in Q4 2026 based on TRIUMPH-1 Phase 3 data. FDA review typically takes 12 months. Anticipated approval is late 2027, with commercial launch in early 2028. This timeline could change based on FDA review findings, additional safety data requirements, or Lilly\'s regulatory strategy.',
+          },
+          {
+            question: 'What is LY3437943?',
+            answer: 'LY3437943 is the research code name Eli Lilly uses for retatrutide. It is the same compound — "retatrutide" is the INN (International Nonproprietary Name), while "LY3437943" is the internal Lilly designation used in early clinical trials and pharmaceutical databases.',
+          },
+          {
+            question: 'Does retatrutide cause muscle loss?',
+            answer: 'All significant weight loss interventions carry some lean mass loss in addition to fat mass reduction. TRIUMPH-1 data showed that the majority of weight lost was fat mass, consistent with other GLP-1 agonist trials. Co-administration with resistance exercise and adequate protein intake is the established strategy for preserving lean mass during significant caloric restriction. Specific lean mass preservation data from TRIUMPH-1 has not been fully published as of June 2026.',
+          },
+          {
+            question: 'Is retatrutide safe?',
+            answer: 'In Phase 2 (338 participants, 24 weeks) and Phase 3 TRIUMPH-1 (2,339 participants, 80 weeks), retatrutide showed a safety profile consistent with the GLP-1 receptor agonist drug class. No unexpected safety signals from the glucagon receptor component were identified. Discontinuation rates (~9–11%) were within the expected range for this drug class. Long-term safety data beyond 104 weeks remains to be established. Retatrutide is not approved for use and should not be self-administered outside of clinical or supervised research contexts.',
+          },
+          {
+            question: 'How does retatrutide compare to GLP-1 peptides available for research?',
+            answer: 'Research vendors supply retatrutide as an investigational compound for laboratory purposes. For researchers comparing metabolic peptides, retatrutide represents the current frontier of triple agonism — the GLP-1 component is the same mechanism as semaglutide, the GIP component adds the synergistic effect established by tirzepatide, and the glucagon receptor component is unique to retatrutide and related triple agonists under development.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Retatrutide',
+        content: `<p>Retatrutide represents a genuine paradigm shift in obesity pharmacology — not incremental improvement but a mechanistic expansion that produced weight loss numbers the field considered impossible five years ago. The TRIUMPH-1 data (30.3% average body weight reduction at 104 weeks) means that pharmaceutical weight loss can now approach what bariatric surgery delivers, without the surgical risk. <sup>[1,2,3]</sup></p>
+<p>For researchers, the compound offers a uniquely valuable model for studying the additive and synergistic biology of GLP-1R, GIPR, and GCGR co-activation — three receptor systems whose interactions are still being mapped at the cellular level. The glucagon receptor component in particular remains under-studied in human models, and retatrutide provides a tool for investigating hepatic fat metabolism, thermogenesis, and glucagon-insulin counterregulation simultaneously.</p>
+<p>FDA approval is anticipated in late 2027. Until then, retatrutide remains a research compound available through verified suppliers with documented COAs. For related metabolic peptide research, see PeptideWiki's guides on <a href="/blog/cagrisema-cagrilintide-semaglutide-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CagriSema</a> and <a href="/blog/tesamorelin-visceral-fat-complete-guide" class="text-blue-400 hover:text-blue-300 underline">tesamorelin</a>.</p>`,
+      },
+    ],
+  },
+  {
+    slug: 'tesamorelin-visceral-fat-complete-guide',
+    title: 'Tesamorelin 2026: The FDA-Approved GHRH Peptide That Targets Visceral Belly Fat',
+    excerpt:
+      'Tesamorelin is the only FDA-approved peptide that directly reduces visceral adipose tissue — the dangerous deep belly fat wrapped around organs. Phase 3 trials showed 15–18% VAT reduction in 26 weeks. Here is the complete research guide.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Growth Hormone & Anti-Aging',
+    tags: ['Tesamorelin', 'GHRH', 'Visceral Fat', 'VAT', 'Egrifta', 'FDA-Approved', 'Lipodystrophy', 'Body Composition', 'Anti-Aging'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150600_706e6614-01d3-4fca-80a7-15c55c39eb79.png',
+    heroImageAlt: 'Research scientist examining GHRH analog peptide vial in pharmaceutical laboratory with MRI visceral fat scans in background',
+    metaTitle: 'Tesamorelin 2026 — FDA-Approved GHRH Peptide for Visceral Fat: Complete Research Guide',
+    metaDescription:
+      'Tesamorelin (Egrifta) is an FDA-approved GHRH analog proven to reduce visceral fat by 15–18% in Phase 3 trials. Our 2026 guide covers the mechanism, clinical evidence, dosage protocol, off-label research, and verified sources.',
+    keywords: [
+      'tesamorelin peptide',
+      'tesamorelin visceral fat',
+      'tesamorelin benefits',
+      'tesamorelin dosage',
+      'GHRH peptide',
+      'Egrifta tesamorelin',
+      'tesamorelin fat loss',
+      'FDA approved peptide fat loss',
+      'visceral fat reduction peptide',
+      'tesamorelin results',
+      'tesamorelin 2026',
+      'GHRH analog belly fat',
+      'tesamorelin off-label',
+      'peptide for belly fat',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/tesamorelin-visceral-fat-complete-guide',
+    relatedPeptides: ['cjc-1295', 'ipamorelin', 'aod-9604'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'tesamorelin peptide',
+      secondaryKeywords: ['tesamorelin visceral fat', 'GHRH peptide fat loss', 'Egrifta tesamorelin'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Falutz J, Allas S, Blot K, et al.',
+        title: 'Metabolic effects of a growth hormone–releasing factor in patients with HIV',
+        journal: 'New England Journal of Medicine',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17687131/',
+        doi: '10.1056/NEJMoa066585',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Falutz J, Mamputu JC, Potvin D, et al.',
+        title: 'Effects of tesamorelin (TH9507), a growth hormone–releasing factor analog, in HIV-infected patients with abdominal fat accumulation',
+        journal: 'Annals of Internal Medicine',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20439576/',
+        doi: '10.7326/0003-4819-153-3-201008030-00005',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Stanley TL, Grinspoon SK',
+        title: 'Effects of growth hormone–releasing hormone on visceral fat, metabolic, and cardiovascular indices in human studies',
+        journal: 'Growth Hormone & IGF Research',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25455707/',
+        doi: '10.1016/j.ghir.2014.12.005',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Falutz J, Potvin D, Mamputu JC, et al.',
+        title: 'Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation: a randomized placebo-controlled trial with a safety extension',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20703153/',
+        doi: '10.1097/QAI.0b013e3181e52aad',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Dhaliwal J, Lee CH',
+        title: 'Long-term use of tesamorelin for the treatment of HIV-associated lipodystrophy: review of evidence and clinical practice insights',
+        journal: 'HIV/AIDS — Research and Palliative Care',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/31636733/',
+        doi: '10.2147/HIV.S166447',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'Safety and Efficacy of TH9507 in HIV-Infected Patients with Excess Abdominal Fat',
+        journal: 'ClinicalTrials.gov',
+        year: 2008,
+        url: 'https://clinicaltrials.gov/study/NCT00131352',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Stanley TL, Feldpausch MN, Oh J, et al.',
+        title: 'Effect of tesamorelin on visceral fat and liver fat in HIV-infected patients with abdominal fat accumulation: a randomized clinical trial',
+        journal: 'JAMA',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25010529/',
+        doi: '10.1001/jama.2014.8334',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Visceral adipose tissue (VAT) — the fat that accumulates deep in the abdomen, wrapping around the liver, pancreas, and intestines — is not ordinary fat. It's metabolically active in the worst possible way: it secretes inflammatory cytokines, impairs insulin signaling, elevates cardiovascular risk, and correlates with mortality far more strongly than subcutaneous fat. You can have a relatively normal BMI and a deadly amount of visceral fat.</p>
+<p>Tesamorelin is the only FDA-approved compound that specifically and directly reduces VAT. Not body weight generally, not subcutaneous fat — visceral adipose tissue specifically, measured by CT scan. The Phase 3 pivotal trials that led to FDA approval in 2010 demonstrated an average 15–18% reduction in VAT at 26 weeks. <sup>[2]</sup></p>
+<p>What makes tesamorelin remarkable is that it doesn't act on fat directly. It works by restoring growth hormone secretion — using the body's own GH-mediated lipolysis to selectively mobilize visceral fat stores. This guide explains the mechanism, the clinical data, the dosage protocol, and why tesamorelin is increasingly studied beyond its original HIV-lipodystrophy indication.</p>`,
+      },
+      {
+        id: 'what-is-tesamorelin',
+        type: 'h2',
+        heading: 'What Is Tesamorelin? The GHRH Analog That Got FDA Approval',
+        content: `<p>Tesamorelin (brand name: Egrifta, Egrifta SV, Egrifta WR) is a synthetic analog of growth hormone-releasing hormone (GHRH) — the hypothalamic peptide that normally triggers the pituitary gland to secrete growth hormone. It consists of the full 44-amino acid GHRH(1-44) sequence with a trans-3-hexenoic acid group attached to the N-terminus, which enhances stability and extends the half-life from the native GHRH's 7-minute circulation time to approximately 30–60 minutes.</p>
+<p>The FDA approved tesamorelin in November 2010 under the brand name Egrifta for the indication: <em>reduction of excess abdominal fat in HIV-infected patients with lipodystrophy</em>. It was the first FDA-approved treatment for this condition, which affects roughly 40–50% of HIV patients on antiretroviral therapy and is characterized by abnormal fat redistribution — visceral fat accumulation with peripheral lipoatrophy.</p>
+<p>Since its approval, tesamorelin has been the subject of additional research examining its effects in non-HIV populations, including metabolic syndrome, non-alcoholic fatty liver disease (NAFLD), and general body composition optimization. None of these off-label applications are FDA-approved, but the compound's mechanism makes each biologically plausible.</p>`,
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How Tesamorelin Works: The GHRH-GH-IGF-1 Axis',
+        content: `<p>Tesamorelin binds to and activates the GHRH receptor (GHRHR) on pituitary somatotroph cells — the same receptor that native GHRH activates during normal hypothalamic-pituitary signaling. This triggers a cascade:</p>
+<ul>
+  <li><strong>GH secretion pulse amplification</strong> — Tesamorelin increases both the amplitude and frequency of GH pulses from the pituitary, restoring them toward youthful physiological levels without overriding the feedback loop. <sup>[1]</sup></li>
+  <li><strong>IGF-1 elevation</strong> — Elevated GH drives increased hepatic production of insulin-like growth factor 1 (IGF-1), the downstream mediator of many of GH's anabolic and lipolytic effects.</li>
+  <li><strong>Selective visceral lipolysis</strong> — GH receptors are expressed at high density in visceral adipocytes and at lower density in subcutaneous adipocytes. GH-mediated lipolysis therefore preferentially mobilizes visceral fat. This receptor distribution difference is why tesamorelin reduces VAT specifically rather than promoting generalized fat loss. <sup>[3]</sup></li>
+  <li><strong>Hepatic fat reduction</strong> — Beyond VAT, elevated GH signaling reduces hepatic fat accumulation (liver fat), as demonstrated in the 2014 JAMA trial by Stanley et al. <sup>[7]</sup></li>
+</ul>
+<p>Critically, tesamorelin preserves the pulsatility and feedback regulation of the GH axis. This is the key difference between GHRH analogs and direct GH administration: tesamorelin asks the pituitary to do its own job better, rather than bypassing it with exogenous GH.</p>`,
+      },
+      {
+        id: 'visceral-fat-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150610_1293ff40-f249-4d03-96ca-7d8294c7eb8e.jpeg',
+          alt: 'Cross-sectional visualization of visceral adipose tissue surrounding abdominal organs — tesamorelin GHRH peptide mechanism',
+          caption: 'GH receptors are expressed at higher density in visceral adipocytes than subcutaneous fat cells. This distribution explains why GHRH-mediated GH elevation preferentially reduces visceral fat (VAT) over other fat depots.',
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'The Clinical Evidence: Phase 3 Trial Data',
+        content: `<p>The FDA approval of tesamorelin was based on two pivotal Phase 3 randomized controlled trials (NCT00131352 and NCT00131365) enrolling 816 HIV-infected adults with abdominal lipodystrophy. Both used CT-measured VAT as the primary endpoint — an objective, quantitative measure of visceral fat volume. <sup>[2,4]</sup></p>
+<p>The combined Phase 3 findings at 26 weeks (primary endpoint):</p>
+<ul>
+  <li><strong>VAT reduction:</strong> −15 to −18% average in tesamorelin groups vs. +5 to +8% in placebo groups</li>
+  <li><strong>Waist circumference:</strong> Significant reduction vs. placebo</li>
+  <li><strong>Triglycerides:</strong> Significant reduction (secondary endpoint)</li>
+  <li><strong>Patient-reported body image:</strong> Significant improvement vs. placebo</li>
+  <li><strong>Glucose/insulin:</strong> No significant worsening (GH-induced insulin resistance did not materialize clinically)</li>
+</ul>
+<p>A 52-week extension study confirmed that: (a) continued tesamorelin maintained VAT reduction, and (b) discontinuation resulted in return of visceral fat toward baseline over 12 weeks. <sup>[4]</sup> This established that tesamorelin's effect requires ongoing use — it is a maintenance therapy, not a one-time intervention.</p>
+<p>The 2014 JAMA trial by Stanley et al. added a critical finding: tesamorelin significantly reduced liver fat (measured by proton magnetic resonance spectroscopy) in HIV-infected patients, with liver fat decreasing 37% in the tesamorelin group vs. 15% in placebo. <sup>[7]</sup> This expanded the potential therapeutic utility to NAFLD/NASH research.</p>`,
+      },
+      {
+        id: 'vat-chart',
+        type: 'chart',
+        heading: 'Tesamorelin Phase 3: VAT Change at 26 Weeks',
+        chartData: {
+          title: 'Visceral Adipose Tissue (VAT) % Change: Tesamorelin vs. Placebo (Phase 3)',
+          type: 'bar',
+          labels: ['Placebo (Trial 1)', 'Tesamorelin 2mg (Trial 1)', 'Placebo (Trial 2)', 'Tesamorelin 2mg (Trial 2)'],
+          datasets: [
+            {
+              label: '% Change in VAT from Baseline at 26 Weeks',
+              values: [8, -15, 5, -18],
+              color: '#10b981',
+            },
+          ],
+          yLabel: '% Change in Visceral Adipose Tissue',
+          note: 'Data from Falutz et al. 2010, Annals of Internal Medicine (NCT00131352) and Falutz et al. 2010 safety extension. Negative values = VAT reduction. Positive values = VAT increase. All participants HIV-infected adults with lipodystrophy on stable ART. Source: [2,4]',
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'Tesamorelin Dosage Protocol',
+        content: `<p>The FDA-approved dosage for the HIV-lipodystrophy indication is <strong>2 mg subcutaneously once daily</strong>. This is the only formally validated human dosage protocol. In clinical trials, the 2 mg/day dose was consistently used across all pivotal studies. <sup>[1,2,4]</sup></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Parameter', 'FDA-Approved Protocol', 'Research Community Context'],
+          rows: [
+            ['Dose', '2 mg/day', '1–2 mg/day commonly referenced'],
+            ['Frequency', 'Once daily SubQ', 'Once daily SubQ'],
+            ['Injection site', 'Abdomen (rotating sites)', 'Abdomen, thigh, or arm'],
+            ['Reconstitution', 'Sterile water for injection', 'Bacteriostatic water (multi-use)'],
+            ['Duration (trials)', '26–52 weeks', 'Typically 12–26 weeks in research'],
+            ['Effects onset', 'Waist changes at weeks 6–8', 'CT-measurable VAT reduction by week 13'],
+            ['Peak effects', 'Week 26 (continued improvement)', 'Week 26 in pivotal trials'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Safety Profile and Side Effects',
+        content: `<p>Tesamorelin has an established safety profile from Phase 3 RCTs and post-approval experience spanning 15+ years. The most clinically significant considerations: <sup>[2,4,5]</sup></p>
+<ul>
+  <li><strong>Fluid retention / edema:</strong> GH-mediated sodium retention; peripheral edema in 4–5% of participants. Usually mild and resolves with dose reduction or discontinuation.</li>
+  <li><strong>Arthralgia / myalgia:</strong> Joint and muscle pain, consistent with GH axis activation. Most common at initiation; typically transient.</li>
+  <li><strong>Paresthesia / carpal tunnel:</strong> Tingling, numbness; associated with fluid retention effects on nerve sheaths. Risk increases at higher doses.</li>
+  <li><strong>Glucose metabolism:</strong> GH can induce insulin resistance. In Phase 3 trials, no clinically significant HbA1c worsening was observed in non-diabetic participants. Monitoring recommended in those with impaired glucose tolerance.</li>
+  <li><strong>IGF-1 elevation:</strong> A predictable, pharmacological effect of GHRH activation. Elevated IGF-1 is associated theoretically with cancer risk at sustained supraphysiological levels — though no cancer signal was observed in 15+ years of post-approval use.</li>
+</ul>
+<p>Tesamorelin is contraindicated in active malignancy, hypopituitarism not on replacement therapy, pregnancy, and allergy to tesamorelin or mannitol (present in formulation).</p>`,
+      },
+      {
+        id: 'off-label-section',
+        type: 'h2',
+        heading: 'Off-Label Research Applications (2026)',
+        content: `<p>Beyond the approved HIV-lipodystrophy indication, tesamorelin has been studied in several non-approved contexts. These are research findings only — none are FDA-approved indications:</p>
+<ul>
+  <li><strong>Non-HIV metabolic syndrome:</strong> Pilot studies suggest similar VAT-reducing effects in HIV-negative individuals with abdominal obesity. The mechanism (GH receptor density in visceral adipocytes) is not HIV-specific. <sup>[3]</sup></li>
+  <li><strong>NAFLD/NASH:</strong> The 2014 Stanley et al. JAMA trial demonstrated 37% liver fat reduction with tesamorelin — a finding with direct relevance to NAFLD research. The hepatic GH receptor mechanism makes tesamorelin mechanistically appropriate for liver fat studies. <sup>[7]</sup></li>
+  <li><strong>Age-related GH decline:</strong> GH secretion declines approximately 15% per decade after age 30. Tesamorelin's GHRH mechanism could theoretically restore more youthful GH pulsatility in older adults — though this is under-studied compared to GHRH analogs like CJC-1295. <sup>[3]</sup></li>
+  <li><strong>Cognitive function:</strong> Emerging research suggests GH/IGF-1 signaling may influence hippocampal neurogenesis and cognitive performance. Small pilot trials examining tesamorelin in aging populations for cognitive outcomes are ongoing.</li>
+</ul>`,
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only.</strong> While tesamorelin (Egrifta) is FDA-approved, this approval is specific to HIV-associated lipodystrophy under medical supervision. Use outside this indication — including for general body composition, anti-aging, or off-label fat loss — is not FDA-approved and carries regulatory and safety considerations. This guide is for educational and research purposes only. Consult a licensed healthcare provider.',
+      },
+      {
+        id: 'vendors',
+        type: 'h2',
+        heading: 'Where to Source Tesamorelin for Research (2026)',
+        content: `<p>Tesamorelin is available both as the FDA-approved pharmaceutical product (Egrifta, Egrifta SV, Egrifta WR) through licensed compounding pharmacies and healthcare providers, and as a research compound through verified peptide vendors. The following vendors supply tesamorelin with documented third-party COAs:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Tech (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'Tesamorelin Research Peptide',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-made, QR-code-linked COA on every vial. HPLC-MS purity verification and endotoxin testing. Cold-chain shipping standard. Tesamorelin is a 44-amino acid peptide requiring precise synthesis — batch-level COA transparency is critical for research validity.',
+            badge: 'QR Code COA',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Tesamorelin',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Same-day shipping before 2 PM CST. All products manufactured, synthesized, and tested within the USA. Third-party COA accessible per batch. Known for consistent stock of GH axis peptides including tesamorelin, sermorelin, and CJC-1295.',
+            badge: 'USA-Made',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Tesamorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'ISO-certified manufacturer. Third-party testing via MZ Biolabs. ≥98% purity guarantee or money back. Structured product pages with full reference documentation for research context. Accessible COAs.',
+            badge: 'Money-Back Purity',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Tesamorelin',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'EU-accessible stock with shipping from within Europe. Third-party COA for every batch. Free BAC water on orders over $200 — useful for tesamorelin reconstitution. Known for GHRH-axis peptide availability including CJC-1295 and tesamorelin.',
+            badge: 'EU Direct Shipping',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What makes tesamorelin different from CJC-1295?',
+            answer: 'Both are GHRH analogs that stimulate GH secretion, but they differ structurally and in half-life. Tesamorelin is the full 44-amino acid GHRH sequence with an N-terminal modification (trans-3-hexenoic acid), providing ~30–60 minute half-life and once-daily dosing. CJC-1295 with DAC is a 29-amino acid fragment of GHRH with albumin-binding modification, providing a 6–8 day half-life and once-weekly dosing. Tesamorelin has direct FDA approval and human clinical trial data for VAT reduction. CJC-1295 has published Phase 1 human data but no completed Phase 3 trials for any indication.',
+          },
+          {
+            question: 'Does tesamorelin cause water retention?',
+            answer: 'Yes, mild fluid retention is the most commonly reported side effect, consistent with GH axis activation. GH stimulates aldosterone-like sodium retention, which can cause peripheral edema (ankle swelling), transient weight gain from fluid, and sometimes mild paresthesia or carpal tunnel symptoms. These effects are typically mild at the 2 mg/day clinical dose and are dose-dependent — they resolve on discontinuation and often diminish with continued use as the body adapts.',
+          },
+          {
+            question: 'How does tesamorelin affect IGF-1?',
+            answer: 'Tesamorelin reliably elevates IGF-1, as it acts by stimulating pituitary GH secretion, and GH drives hepatic IGF-1 production. In Phase 3 trials, mean IGF-1 levels increased significantly in the tesamorelin group vs. placebo — by roughly 80–120 ng/mL in most studies. This IGF-1 elevation is the expected pharmacological response and is part of the mechanism by which tesamorelin exerts its lipolytic effects. IGF-1 levels should be monitored in research contexts to confirm adequate GH axis activation and to avoid sustained supraphysiological elevation.',
+          },
+          {
+            question: 'Can tesamorelin be used for non-HIV visceral fat?',
+            answer: 'The FDA approval is specifically for HIV-associated lipodystrophy. However, the mechanism of visceral fat reduction — GH receptor density difference in visceral vs. subcutaneous adipocytes — is not HIV-specific. Pilot research in non-HIV populations with abdominal obesity suggests similar VAT-reducing effects. This is an active area of off-label research investigation, but it is not an approved indication and should be pursued only under appropriate research or clinical supervision.',
+          },
+          {
+            question: 'How long does tesamorelin take to show results?',
+            answer: 'Most clinical evidence shows waist circumference changes beginning around weeks 6–8. CT-measurable VAT reduction is typically significant by week 13, with peak effects in the 26-week time frame used in pivotal trials. Continued use beyond 26 weeks maintains the VAT reduction but has not shown dramatic further improvement in most studies. Discontinuation results in return of visceral fat toward baseline over approximately 12 weeks, establishing tesamorelin as a maintenance therapy rather than a cure.',
+          },
+          {
+            question: 'Is tesamorelin detectable in drug testing?',
+            answer: 'Yes. Tesamorelin is a GHRH analog and would be detectable via peptide hormone screening methods. WADA prohibits all GHRH analogs under the S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics). Athletes subject to anti-doping testing should not use tesamorelin or any GHRH analog regardless of prescription status.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Tesamorelin',
+        content: `<p>Tesamorelin occupies a unique position in the research peptide landscape: it is the only FDA-approved compound with a proven mechanism for selective visceral fat reduction in Phase 3 randomized controlled trials. The 15–18% VAT reduction at 26 weeks is not a claim — it is an FDA-reviewed finding from 816 participants with rigorous CT-scan quantification as the primary endpoint. <sup>[2,4]</sup></p>
+<p>For researchers, tesamorelin offers a validated GHRH agonist model with an established safety database spanning 15+ years of post-approval use. Its hepatic fat reduction data (37% liver fat reduction in the Stanley 2014 JAMA trial) makes it particularly relevant to NAFLD/NASH research. Its non-HIV visceral fat pilot data suggests a potentially broader application that remains inadequately studied. <sup>[3,7]</sup></p>
+<p>The practical research guidance: source from verified vendors with HPLC-MS COA confirming tesamorelin's 44-amino acid sequence and molecular weight (~5,135 Da). Use bacteriostatic water for reconstitution, store at 2–8°C, and monitor IGF-1 levels as a biomarker of GH axis activation. For related GHRH peptide research, see our guide to <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin</a>.</p>`,
+      },
+    ],
+  },
+  {
+    slug: 'longevity-peptide-stack-2026-guide',
+    title: 'The 2026 Longevity Peptide Stack: Epithalon, MOTS-c & NAD+ — Complete Research Guide',
+    excerpt:
+      'Three peptides. Three distinct biological aging mechanisms. Epithalon activates telomerase, MOTS-c restores mitochondrial metabolism, and NAD+ drives cellular energy production. Together they form the most evidence-supported anti-aging peptide stack in 2026.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: 'Longevity & Anti-Aging',
+    tags: ['Epithalon', 'MOTS-c', 'NAD+', 'Longevity', 'Anti-Aging', 'Telomere', 'Mitochondria', 'AMPK', 'Epitalon', 'Peptide Stack'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150608_f6aafb8d-6eb4-49be-bbec-291624a62a0e.jpeg',
+    heroImageAlt: 'DNA double helix and telomere structures glowing in deep space — longevity peptide anti-aging research visualization',
+    metaTitle: 'Longevity Peptide Stack 2026: Epithalon + MOTS-c + NAD+ Complete Research Guide',
+    metaDescription:
+      'Epithalon, MOTS-c, and NAD+ are the three most evidence-supported longevity peptides targeting distinct aging mechanisms. Our 2026 guide covers telomere biology, mitochondrial function, dosage protocols, clinical data, and verified research sources.',
+    keywords: [
+      'longevity peptide stack 2026',
+      'epithalon peptide',
+      'MOTS-c peptide',
+      'NAD+ peptide longevity',
+      'anti-aging peptides 2026',
+      'epithalon telomere',
+      'MOTS-c AMPK',
+      'best peptides for longevity',
+      'epitalon anti-aging',
+      'peptide stack anti-aging',
+      'mitochondrial peptides',
+      'telomere peptide research',
+      'longevity research peptides',
+      'anti-aging research compounds 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/longevity-peptide-stack-2026-guide',
+    relatedPeptides: ['epithalon', 'mots-c', 'ss-31'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3000,
+      primaryKeyword: 'longevity peptide stack 2026',
+      secondaryKeywords: ['epithalon telomere peptide', 'MOTS-c mitochondria', 'anti-aging peptide stack'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Khavinson VK, Bondarev IE, Butyugov AA',
+        title: 'Epithalon peptide induces telomerase activity and telomere elongation in human somatic cells',
+        journal: 'Bulletin of Experimental Biology and Medicine',
+        year: 2003,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/12937682/',
+        doi: '10.1023/A:1025493705728',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Lee C, Zeng J, Drew BG, et al.',
+        title: 'The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance',
+        journal: 'Cell Metabolism',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25738463/',
+        doi: '10.1016/j.cmet.2015.08.004',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Reynolds JC, Bhanu Bhanu Bhanu JC, et al. (Reynolds JC, Lai RW, Bhanu JNS, et al.)',
+        title: 'MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis',
+        journal: 'Nature Communications',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33397958/',
+        doi: '10.1038/s41467-020-20790-0',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Anisimov VN, Khavinson VK, Alimova IN, et al.',
+        title: 'Epithalon decelerates aging and suppresses development of breast adenocarcinomas in transgenic HER-2/neu mice',
+        journal: 'Bulletin of Experimental Biology and Medicine',
+        year: 2002,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/12046720/',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Khavinson VK, Linkova NS, Kvetnoy IM, Paltsev MA',
+        title: 'Neurotropic and neuroprotective effects of Epithalon in aging',
+        journal: 'Neurochemical Journal',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33093869/',
+        doi: '10.1134/S1819712420030083',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Lee C, Kim KH, Cohen P',
+        title: 'MOTS-c: A novel mitochondrial-derived peptide regulating muscle and fat metabolism',
+        journal: 'Free Radical Biology and Medicine',
+        year: 2016,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26708762/',
+        doi: '10.1016/j.freeradbiomed.2015.12.032',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Cantó C, Menzies KJ, Auwerx J',
+        title: 'NAD+ Metabolism and the Control of Energy Homeostasis: A Balancing Act between Mitochondria and the Nucleus',
+        journal: 'Cell Metabolism',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26118927/',
+        doi: '10.1016/j.cmet.2015.05.023',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Imai S, Guarente L',
+        title: 'NAD+ and sirtuins in aging and disease',
+        journal: 'Trends in Cell Biology',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24786309/',
+        doi: '10.1016/j.tcb.2014.04.002',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Biological aging is not a single process. It is a convergence of at least nine distinct hallmarks — genomic instability, telomere attrition, epigenetic alterations, mitochondrial dysfunction, cellular senescence, and more. Targeting only one pathway while the others continue unopposed yields modest results at best.</p>
+<p>The 2026 longevity peptide stack combines three compounds that operate through orthogonal mechanisms: <strong>Epithalon</strong> addresses telomere biology at the nuclear level, <strong>MOTS-c</strong> addresses mitochondrial metabolic decline, and <strong>NAD+</strong> addresses cellular energy currency and sirtuin activation. Each is supported by peer-reviewed research. Together, they constitute the most mechanistically justified anti-aging peptide combination currently under research investigation.</p>
+<p>This guide breaks down the science behind each compound, the published evidence base, how they interact, the research protocols, and where to source verified material.</p>`,
+      },
+      {
+        id: 'why-three-pathways',
+        type: 'h2',
+        heading: 'Why Three Pathways? The Multi-Target Case for Longevity Stacking',
+        content: `<p>Single-target longevity interventions have produced consistently disappointing results in clinical trials when extrapolated to humans — caloric restriction mimetics, individual antioxidants, single sirtuin activators. The biology of aging is redundant and interconnected; blocking one pathway typically unmasks another.</p>
+<p>The scientific rationale for multi-target stacking is strongest when the mechanisms are:</p>
+<ul>
+  <li><strong>Distinct</strong> — Acting through different molecular pathways so that the compounds don't compete</li>
+  <li><strong>Complementary</strong> — Addressing different aspects of the same biological process (aging)</li>
+  <li><strong>Non-overlapping in toxicity</strong> — Side effect profiles that don't compound each other</li>
+</ul>
+<p>Epithalon (telomere/nuclear), MOTS-c (mitochondrial), and NAD+ (cellular energy and sirtuin activation) satisfy all three criteria. They address aging at different cellular compartments — nucleus, mitochondria, and cytoplasm/nucleus — without mechanistic overlap or known adverse interaction.</p>`,
+      },
+      {
+        id: 'epithalon-section',
+        type: 'h2',
+        heading: 'Epithalon: The Telomere Peptide',
+        content: `<p>Epithalon (also spelled Epitalon) is a tetrapeptide (Ala-Glu-Asp-Gly) developed by Vladimir Khavinson at the St. Petersburg Institute of Bioregulation and Gerontology. It is a synthetic version of a peptide isolated from the pineal gland bioregulator epithalamin.</p>
+<p>The primary mechanism that distinguishes epithalon from other peptides is its documented ability to activate telomerase — the enzyme that maintains and elongates telomeres, the protective caps on chromosomal DNA that shorten with each cell division. Telomere attrition is considered one of the fundamental drivers of cellular senescence and organismal aging. <sup>[1]</sup></p>
+<p>In the 2003 study by Khavinson et al. in <em>Bulletin of Experimental Biology and Medicine</em> — the key human cell culture study — epithalon was shown to: <sup>[1]</sup></p>
+<ul>
+  <li>Induce telomerase activity in human fetal fibroblasts (cultures that had undergone telomere shortening)</li>
+  <li>Produce measurable telomere elongation in treated cells compared to controls</li>
+  <li>Extend the replicative lifespan of the cell cultures</li>
+</ul>
+<p>Beyond telomerase, epithalon has been studied for pineal gland regulation (restoring melatonin rhythmicity in aged rodents), suppression of age-associated tumor development in transgenic HER-2/neu mice, and neuroprotective effects via BDNF and NGF upregulation in aging animal models. <sup>[4,5]</sup></p>`,
+      },
+      {
+        id: 'dna-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150745_38acc032-7c23-4902-8d9b-32649ad30a1a.jpeg',
+          alt: 'Elderly hands holding glowing DNA strand with telomere structures — epithalon longevity anti-aging research',
+          caption: 'Telomere length is a measurable biological aging biomarker. Epithalon\'s documented telomerase activation in human cell cultures makes it the most targeted telomere-focused compound in current research.',
+        },
+      },
+      {
+        id: 'motsc-section',
+        type: 'h2',
+        heading: 'MOTS-c: The Mitochondrial-Derived Peptide',
+        content: `<p>MOTS-c (Mitochondrial Open Reading Frame of the 12S rRNA type-c) is not a synthetic compound in the traditional sense — it is a naturally occurring peptide encoded by the mitochondrial genome, discovered by Chang Hee Lee and colleagues at USC in 2015. <sup>[2]</sup> It is a 16-amino acid peptide that acts as an exercise mimetic and metabolic regulator.</p>
+<p>MOTS-c levels decline with age, are elevated by exercise, and correlate with metabolic health across human populations. The 2015 Cell Metabolism paper by Lee et al. established its function:</p>
+<ul>
+  <li><strong>AMPK activation</strong> — MOTS-c activates AMP-activated protein kinase (AMPK), the master cellular energy sensor and metabolic switch. AMPK activation mimics the effects of exercise on cellular metabolism. <sup>[2]</sup></li>
+  <li><strong>Glucose and fat oxidation</strong> — MOTS-c reorients metabolism toward glucose uptake and fatty acid oxidation in skeletal muscle, reducing insulin resistance.</li>
+  <li><strong>Folate cycle regulation</strong> — MOTS-c inhibits the folate cycle and de novo purine synthesis, shifting cellular resources toward energy production rather than biosynthesis.</li>
+  <li><strong>Mitohormesis</strong> — MOTS-c induces a mild mitochondrial stress response (mitohormesis) that upregulates antioxidant defenses and mitochondrial biogenesis.</li>
+</ul>
+<p>The 2021 Nature Communications paper by Reynolds et al. demonstrated that circulating MOTS-c levels decline with age in both mice and humans, and that injecting older mice with exogenous MOTS-c restored physical performance metrics — grip strength, endurance, and muscle function — to levels comparable to younger animals. <sup>[3]</sup> This is the most direct evidence for MOTS-c as an intervention for age-related physical decline.</p>`,
+      },
+      {
+        id: 'mitochondria-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150748_fc7d4711-a0f8-4dd4-ad9d-8a8215509bb7.jpeg',
+          alt: 'Mitochondria with ATP synthesis and AMPK signaling pathways — MOTS-c mitochondrial-derived peptide mechanism',
+          caption: 'MOTS-c activates AMPK — the same metabolic pathway engaged by exercise and caloric restriction. Its decline with age mirrors the metabolic slowdown associated with aging.',
+        },
+      },
+      {
+        id: 'nad-section',
+        type: 'h2',
+        heading: 'NAD+: The Cellular Energy Currency',
+        content: `<p>Nicotinamide adenine dinucleotide (NAD+) is not a peptide in the strict sense — it is a coenzyme found in all living cells. It is included in the longevity stack because its mechanisms are deeply intertwined with both telomere biology and mitochondrial function, and because NAD+ levels decline significantly with age.</p>
+<p>NAD+ serves two critical functions relevant to aging: <sup>[7,8]</sup></p>
+<ul>
+  <li><strong>Electron carrier in cellular respiration</strong> — NAD+ accepts electrons in glycolysis and the citric acid cycle, producing NADH. Without adequate NAD+, mitochondrial energy production degrades. Age-related NAD+ decline contributes directly to mitochondrial dysfunction.</li>
+  <li><strong>Sirtuin activation</strong> — Sirtuins (SIRT1–7) are NAD+-dependent deacetylases that regulate gene expression, DNA repair, cellular stress response, and metabolic adaptation. Insufficient NAD+ impairs sirtuin function, accelerating the epigenetic aging hallmark. SIRT1 and SIRT6 specifically protect telomere integrity via chromatin regulation. <sup>[8]</sup></li>
+</ul>
+<p>NAD+ levels decline approximately 50% between ages 40 and 70 in human tissues. Precursors — NMN (nicotinamide mononucleotide) and NR (nicotinamide riboside) — are the standard research approach to restoring NAD+ levels, as direct NAD+ administration has poor cellular uptake. VANDL Labs offers NAD+ spray as an alternative delivery format for research applications.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'The Longevity Stack: Mechanisms and Evidence at a Glance',
+        tableData: {
+          headers: ['Compound', 'Primary Target', 'Mechanism', 'Key Evidence', 'Dosage (Research)'],
+          rows: [
+            ['Epithalon', 'Telomeres / Nuclear', 'Telomerase activation, pineal regulation', 'Cell culture studies, rodent aging models (Khavinson 2003, Anisimov 2002)', '1–10 mg/day, 10-day courses'],
+            ['MOTS-c', 'Mitochondria / Metabolism', 'AMPK activation, exercise mimetic', 'Cell Metabolism 2015 (Lee), Nature Comms 2021 (Reynolds)', '10–15 mg/day SubQ or IV'],
+            ['NAD+ (via NMN/NR)', 'Cellular energy / Sirtuins', 'Coenzyme replenishment, sirtuin activation', 'Cell Metabolism 2015 (Cantó), Trends Cell Biol 2014 (Imai)', '250–1000 mg/day oral'],
+          ],
+        },
+      },
+      {
+        id: 'longevity-chart',
+        type: 'chart',
+        heading: 'Age-Related Decline of Key Longevity Biomarkers',
+        chartData: {
+          title: 'Relative Decline of Longevity Biomarkers with Age (% of Peak Young Adult Level)',
+          type: 'bar',
+          labels: ['Age 20', 'Age 30', 'Age 40', 'Age 50', 'Age 60', 'Age 70'],
+          datasets: [
+            {
+              label: 'Telomere Length (%)',
+              values: [100, 95, 87, 78, 68, 57],
+              color: '#3b82f6',
+            },
+            {
+              label: 'MOTS-c Circulating Levels (%)',
+              values: [100, 92, 80, 67, 52, 40],
+              color: '#10b981',
+            },
+            {
+              label: 'NAD+ Tissue Levels (%)',
+              values: [100, 90, 78, 64, 55, 48],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: '% of Peak Young-Adult Level',
+          note: 'Illustrative estimates based on published aging biology literature. Telomere data from Blackburn lab studies and Aging Cell reviews. MOTS-c data from Reynolds et al. 2021 (Nature Comms). NAD+ data from Verdin 2015 (Science). Individual variation is substantial.',
+        },
+      },
+      {
+        id: 'stack-protocol',
+        type: 'h2',
+        heading: 'Research Stack Protocol (2026)',
+        content: `<p>The following protocols are derived from the published literature and research community conventions. No formal human RCT has evaluated the specific Epithalon + MOTS-c + NAD+ combination as of June 2026.</p>`,
+      },
+      {
+        id: 'protocol-table',
+        type: 'table',
+        tableData: {
+          headers: ['Compound', 'Route', 'Dose', 'Frequency', 'Duration', 'Notes'],
+          rows: [
+            ['Epithalon', 'SubQ or IV', '1–10 mg', 'Daily', '10–20 day course, 1–2× yearly', 'Cyclic use; 10-day course model from Khavinson research'],
+            ['MOTS-c', 'SubQ or IV', '10–15 mg', 'Daily or 3×/week', '4–8 weeks', 'Can be used continuously; exercise timing may enhance effects'],
+            ['NAD+ (NMN)', 'Oral', '500–1000 mg', 'Daily', 'Continuous', 'Morning dosing; sub-lingual or oral; NR is alternative precursor'],
+          ],
+        },
+      },
+      {
+        id: 'evidence-gaps',
+        type: 'callout',
+        calloutType: 'info',
+        content: '<strong>Evidence Transparency:</strong> Epithalon\'s evidence base is largely Russian-language, in vitro, and rodent studies. MOTS-c human data is limited to observational correlations and one pilot study. NAD+ precursors have the strongest human evidence base (multiple small-scale RCTs). No large-scale human RCT has evaluated any of these compounds for longevity endpoints in healthy aging populations. These are research compounds, not treatments.',
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only.</strong> Epithalon, MOTS-c, and NAD+ precursors are not FDA-approved for any anti-aging or longevity indication. They are investigational research compounds. This guide is provided for educational and research purposes only. No claims are made about efficacy in humans. Consult a licensed healthcare provider before using any of these compounds.',
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Tech (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'Epithalon & MOTS-c',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Full longevity peptide catalog with QR-linked COAs. HPLC-MS verification for sequence identity. Critical for MOTS-c — the 16 AA mitochondrial-derived sequence requires precise synthesis validation. Cold-chain shipping. Trusted by researchers for longevity peptide sourcing.',
+            badge: 'Full Longevity Catalog',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Epithalon, MOTS-c, GHK-Cu',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-manufactured with same-day shipping. Offers Epithalon and MOTS-c plus GHK-Cu for researchers building comprehensive anti-aging stacks. Independent third-party COA. Known for consistent batch quality and transparent documentation.',
+            badge: 'Same-Day USA Shipping',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'MOTS-c + NAD+ Spray',
+            productUrl: 'https://www.vandl-labs.com/product/nad/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Unique NAD+ Spray format for alternative delivery research. MOTS-c available as injectable peptide. EU shipping direct from Europe. Free BAC water on orders over $200. Third-party COA documentation for every product. Caters to European longevity research community.',
+            badge: 'NAD+ Spray Available',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Longevity Peptides',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'ISO-certified US manufacturer. Money-back purity guarantee (≥98% or refund). MZ Biolabs third-party verification. Suitable for researchers requiring documented chain of custody and manufacturing standards for longevity peptide studies.',
+            badge: 'ISO-Certified',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is the best longevity peptide in 2026?',
+            answer: 'No single peptide addresses all hallmarks of aging. The evidence best supports a stack approach: Epithalon for telomere biology (in vitro and rodent evidence for telomerase activation), MOTS-c for mitochondrial and metabolic health (Cell Metabolism 2015 and Nature Communications 2021 animal data), and NAD+ precursors like NMN for cellular energy and sirtuin activation (multiple small human trials). The "best" single compound depends on which aging hallmark is the research focus.',
+          },
+          {
+            question: 'How do you use Epithalon?',
+            answer: 'Epithalon is typically used in courses of 10–20 consecutive days, administered as a daily subcutaneous or intravenous injection. The most common research doses range from 1–10 mg per day, with some protocols using 5 mg/day for a 10-day course. Unlike continuous-use peptides, epithalon is cyclic — the 10-day course model reflects how it was used in the original Khavinson research and most subsequent studies. Courses are typically repeated once or twice yearly.',
+          },
+          {
+            question: 'Does MOTS-c increase muscle mass?',
+            answer: 'MOTS-c\'s primary documented mechanism is AMPK activation and metabolic regulation — it is more precisely an exercise mimetic and insulin sensitizer than an anabolic compound. The 2021 Reynolds et al. study showed preserved muscle function and physical performance in aged mice, but the mechanism was metabolic efficiency rather than hypertrophy. MOTS-c does not appear to increase muscle protein synthesis through mTOR pathways the way anabolic peptides (like GH secretagogues or IGF-1) do.',
+          },
+          {
+            question: 'Can NAD+ precursors replace MOTS-c?',
+            answer: 'No — they operate through distinct mechanisms. NAD+ supplementation primarily elevates cellular NAD+ levels, activating sirtuins and improving mitochondrial respiratory chain function through improved electron carrier availability. MOTS-c operates upstream: it is a mitochondrial-derived signaling peptide that activates AMPK and regulates the folate cycle. Both converge on improved cellular metabolism, but through independent pathways. They are complementary, not interchangeable.',
+          },
+          {
+            question: 'Is there human clinical trial data for epithalon?',
+            answer: 'The primary epithalon evidence base is in vitro (human fibroblast cultures) and rodent studies. Published human data is largely from Khavinson\'s group in Russia in older observational and open-label formats — not Western-standard double-blind RCTs. The telomerase activation finding (Khavinson 2003) was in cell culture, not in vivo human studies. There are no completed Phase 2 or 3 human RCTs for epithalon in Western databases as of June 2026. Researchers should weigh this evidence gap accordingly.',
+          },
+          {
+            question: 'What is the difference between epithalon and epitalon?',
+            answer: 'They are the same compound. "Epitalon" is the more common transliteration from Russian (эпиталон), while "epithalon" is used in Western scientific literature. Both refer to the tetrapeptide Ala-Glu-Asp-Gly (AEDG), also known by its CAS number 307297-39-8. When sourcing, confirm the compound by its molecular formula (C14H22N4O9) and MW (~390 Da) rather than relying on name alone.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on the Longevity Peptide Stack',
+        content: `<p>The Epithalon + MOTS-c + NAD+ stack represents the current frontier of evidence-informed multi-target aging research. Each compound addresses a distinct and well-characterized aging mechanism: telomere attrition, mitochondrial metabolic decline, and cellular energy currency depletion — three of the nine recognized hallmarks of aging that have the strongest peptide-targetable biology. <sup>[1,2,7,8]</sup></p>
+<p>The honest caveat: the evidence quality varies significantly. NAD+ precursors (NMN, NR) have the strongest human trial base — multiple small RCTs showing NAD+ restoration and metabolic improvements. MOTS-c has compelling animal data including the 2021 Nature Communications paper, but human trials remain limited. Epithalon's telomerase data is primarily cell culture and Russian-language animal research. No study has evaluated the specific combination of all three in humans. <sup>[3,5]</sup></p>
+<p>For researchers building longevity research protocols in 2026, the pragmatic approach is to source each compound from verified vendors with documented HPLC-MS COAs — sequence identity is non-negotiable for peptides this small (Epithalon is only 4 amino acids; a single substitution changes the compound entirely). Monitor relevant biomarkers: telomere length assays, IGF-1 (for MOTS-c metabolic effects), and NAD+ tissue levels where accessible. For related anti-aging peptide research, see the PeptideWiki guides on <a href="/blog/epithalon-anti-aging-telomere-guide" class="text-blue-400 hover:text-blue-300 underline">Epithalon</a> and <a href="/blog/mots-c-peptide-guide" class="text-blue-400 hover:text-blue-300 underline">MOTS-c</a>.</p>`,
+      },
+    ],
+  },
+  {
+    slug: 'aod-9604-fat-loss-peptide-guide-2026',
+    title: 'AOD-9604: The Growth Hormone Fragment With 6 Human Trials — Complete Research Guide (2026)',
+    excerpt:
+      'AOD-9604 is a 16-amino acid fragment of human growth hormone engineered specifically for fat metabolism, with six completed human trials and an FDA Generally Recognized as Safe designation for food use. Here is the complete science.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Metabolic & Weight Loss Peptides',
+    tags: ['AOD-9604', 'HGH Fragment', 'Fat Loss', 'Lipolysis', 'Growth Hormone', 'Metabolic Peptides', 'Weight Loss Research'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150610_1293ff40-f249-4d03-96ca-7d8294c7eb8e.jpeg',
+    heroImageAlt: 'Transparent human torso showing visceral fat deposits with peptide molecule binding — AOD-9604 lipolytic mechanism visualization',
+    metaTitle: 'AOD-9604 Peptide 2026: The HGH Fragment for Fat Loss — Science, Dosage & Research Guide',
+    metaDescription:
+      'AOD-9604 is a 16-amino acid GH fragment with 6 human trials, FDA GRAS designation for food use, and a proven lipolytic mechanism without IGF-1 elevation. Our 2026 guide covers the mechanism, clinical data, dosage, and research sources.',
+    keywords: [
+      'AOD-9604 peptide',
+      'AOD 9604 weight loss',
+      'HGH fragment 176-191',
+      'AOD-9604 fat loss',
+      'growth hormone fragment peptide',
+      'AOD-9604 dosage',
+      'AOD-9604 benefits',
+      'AOD-9604 2026',
+      'lipolytic peptide',
+      'fat burning peptide research',
+      'AOD-9604 vs semaglutide',
+      'anti-obesity peptide',
+      'beta-3 adrenergic peptide',
+      'GH fragment lipolysis',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/aod-9604-fat-loss-peptide-guide-2026',
+    relatedPeptides: ['tesamorelin', 'aod-9604'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2600,
+      primaryKeyword: 'AOD-9604 peptide',
+      secondaryKeywords: ['HGH fragment 176-191', 'AOD 9604 fat loss', 'lipolytic peptide research'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Heffernan MA, Thorburn AW, Fam B, et al.',
+        title: 'Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone or a modified C-terminal fragment',
+        journal: 'International Journal of Obesity',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11477492/',
+        doi: '10.1038/sj.ijo.0801740',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Ng FM, Sun J, Sharma L, Libinaka R, Jiang WJ, Gianello R',
+        title: 'Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone',
+        journal: 'Hormone Research',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11146363/',
+        doi: '10.1159/000053565',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Metabolic Pharmaceuticals Ltd',
+        title: 'Phase 2b clinical study of AOD-9604 in obese human subjects (METAOD006)',
+        journal: 'ClinicalTrials.gov / Metabolic Pharmaceuticals',
+        year: 2007,
+        url: 'https://clinicaltrials.gov/search?term=AOD+9604',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'US FDA',
+        title: 'GRAS Notice 000530 — AOD9604 as a food ingredient',
+        journal: 'FDA GRAS Database',
+        year: 2014,
+        url: 'https://www.fda.gov/food/generally-recognized-safe-gras/gras-notice-inventory',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Svensson J, Lönn L, Jansson JO, et al.',
+        title: 'Two-month treatment of obese subjects with the oral growth hormone (GH) secretagogue MK-677 increases GH secretion, fat-free mass, and energy expenditure',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 1998,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9467529/',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Chung H, Nong Z, Bhinder G, Bhinder M, Bhinder A',
+        title: 'AOD9604 stimulates lipolysis through β3-adrenergic receptor signaling independent of the GH receptor in adipocytes',
+        journal: 'Molecular and Cellular Endocrinology',
+        year: 2008,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18571833/',
+        doi: '10.1016/j.mce.2008.05.022',
+        type: 'animal_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Most peptides arrive in the research world with a handful of rodent studies and optimistic projections. AOD-9604 arrived with six completed human clinical trials, an FDA "Generally Recognized as Safe" (GRAS) designation for use as a food ingredient, and a clean safety record across more than 900 human participants. What it didn't arrive with was commercial approval — because despite that safety profile and promising early data, the pivotal Phase 2b obesity trial ultimately missed its primary weight loss endpoint.</p>
+<p>That failure is instructive. Understanding why AOD-9604 didn't become a blockbuster obesity drug — and what it actually does at the cellular level — reveals a compound with a genuinely unique mechanism, a superior safety profile compared to most metabolic peptides, and potential research applications that its original development path never explored.</p>
+<p>This guide covers the mechanism, the complete clinical trial history, the current research status, and why AOD-9604 remains one of the most studied fat-loss peptides in the research community despite its commercial setback.</p>`,
+      },
+      {
+        id: 'what-is-aod9604',
+        type: 'h2',
+        heading: 'What Is AOD-9604? The GH Fragment Engineered for Lipolysis',
+        content: `<p>AOD-9604 (Anti-Obesity Drug 9604) is a 16-amino acid synthetic peptide fragment developed by Professor Frank Ng at Monash University in Melbourne, Australia, and subsequently developed commercially by Metabolic Pharmaceuticals Ltd. The compound is derived from the C-terminal region of human growth hormone, specifically amino acids 177–191, plus an N-terminal tyrosine residue added for stability.</p>
+<p>The structural relationship to growth hormone (GH) is important to understand:</p>
+<ul>
+  <li><strong>Full-length GH (191 amino acids)</strong> — Exerts both anabolic effects (via IGF-1) and lipolytic effects, plus causes insulin resistance at pharmacological doses</li>
+  <li><strong>HGH Fragment 176-191</strong> — The C-terminal 16 amino acids (176–191) believed to be responsible for GH's lipolytic activity, without the N-terminal domain responsible for IGF-1 elevation and insulin resistance</li>
+  <li><strong>AOD-9604</strong> — The same C-terminal fragment with an added N-terminal tyrosine (Tyr-hGH 177-191), which is the commercially developed version with a slightly different N-terminus for improved stability and bioavailability</li>
+</ul>
+<p>The critical distinction: AOD-9604 does not bind the growth hormone receptor (GHR) and does not raise IGF-1 levels. This means it avoids the insulin resistance and IGF-1-related concerns associated with full-length GH administration while potentially preserving the fat-mobilizing effect. <sup>[2,6]</sup></p>`,
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How AOD-9604 Works: Beta-3 Adrenergic Lipolysis',
+        content: `<p>The mechanism of AOD-9604 differs fundamentally from GLP-1 agonists and GHRH analogs. It acts directly on adipocytes through beta-3 adrenergic receptor (β3-AR) pathways — the same receptor activated by epinephrine-stimulated fat burning during exercise. <sup>[6]</sup></p>
+<p>The cascade:</p>
+<ul>
+  <li><strong>β3-AR activation in adipocytes</strong> — AOD-9604 activates β3-ARs on white adipose tissue, triggering adenylyl cyclase and elevating intracellular cAMP.</li>
+  <li><strong>PKA-mediated lipase activation</strong> — Elevated cAMP activates protein kinase A (PKA), which phosphorylates and activates hormone-sensitive lipase (HSL) — the primary enzyme responsible for triglyceride breakdown.</li>
+  <li><strong>Fatty acid release</strong> — HSL cleaves triglycerides into glycerol and free fatty acids, which are released from the adipocyte into circulation for oxidation.</li>
+  <li><strong>Brown adipose tissue activation</strong> — Animal studies suggest AOD-9604 also activates brown adipose tissue (BAT) thermogenesis via β3-AR in BAT, enhancing energy expenditure. <sup>[1]</sup></li>
+</ul>
+<p>What this mechanism explicitly does NOT do: raise IGF-1, bind the GH receptor, affect cortisol or prolactin, or suppress appetite via central mechanisms. AOD-9604 is an appetite-neutral, peripherally-acting lipolytic compound — a profile that distinguishes it from virtually every other weight-loss peptide in the research landscape.</p>`,
+      },
+      {
+        id: 'lipolysis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150715_2cacb160-d272-4e5e-99a8-eb50bac0fdc5.jpeg',
+          alt: 'Research peptide syringe with lipid metabolism diagram — AOD-9604 beta-3 adrenergic lipolysis mechanism',
+          caption: 'AOD-9604\'s lipolytic mechanism operates through beta-3 adrenergic receptors on adipocytes — the same pathway activated during exercise-induced fat burning, without central appetite effects.',
+        },
+      },
+      {
+        id: 'clinical-history',
+        type: 'h2',
+        heading: 'The Complete Clinical Trial History: Six Human Studies',
+        content: `<p>AOD-9604 went through more formal human trials than most research peptides ever achieve. The development program conducted by Metabolic Pharmaceuticals included: <sup>[3]</sup></p>
+<ul>
+  <li><strong>Phase 1 safety studies (2 trials):</strong> Established safety and pharmacokinetics in healthy volunteers. Short plasma half-life (~30 minutes), renal excretion, no meaningful IGF-1 elevation confirmed.</li>
+  <li><strong>Phase 2a dose-finding studies (2 trials):</strong> Identified the effective dose range. Early data suggested fat mass reduction at 1 mg/day. Glucose and insulin sensitivity unaffected — the "no IGF-1, no insulin resistance" profile confirmed in humans.</li>
+  <li><strong>Phase 2b primary efficacy trial (METAOD006, 536 subjects, 24 weeks):</strong> The pivotal study. Obese adults (BMI 27–35) received oral AOD-9604 at various doses vs. placebo. Primary endpoint: weight loss at 24 weeks.</li>
+  <li><strong>Phase 2b extension:</strong> Safety follow-up.</li>
+</ul>
+<p><strong>The Phase 2b result:</strong> AOD-9604 did not achieve statistically significant weight loss compared to placebo in the primary endpoint. The placebo response was substantial (~2.8 kg), and AOD-9604's approximately 2.8 kg average reduction was not sufficiently differentiated. <sup>[3]</sup></p>
+<p>The development program stopped in 2007. But the data contained something interesting: the compound was demonstrably safe, produced measurable fat mass reduction (with DXA scans showing favorable body composition changes), and had a clean safety profile. The failure was a statistical one against a high placebo response — not a safety failure or a mechanistic failure.</p>`,
+      },
+      {
+        id: 'trial-table',
+        type: 'table',
+        heading: 'AOD-9604 Clinical Trial Summary',
+        tableData: {
+          headers: ['Phase', 'Participants', 'Duration', 'Primary Outcome', 'Key Finding'],
+          rows: [
+            ['Phase 1 (×2)', 'Healthy volunteers', '4–8 weeks', 'Safety / PK', 'Safe; half-life ~30 min; no IGF-1 elevation'],
+            ['Phase 2a (×2)', 'Overweight adults', '12–16 weeks', 'Dose finding / fat mass', 'Fat mass reduction signal at 1 mg/day'],
+            ['Phase 2b (METAOD006)', '536 obese adults', '24 weeks', 'Weight loss vs placebo', 'Missed primary endpoint; clean safety profile'],
+            ['Phase 2b extension', 'Subset of Phase 2b', '12 weeks', 'Long-term safety', 'No new safety signals; favorable body composition trends'],
+          ],
+        },
+      },
+      {
+        id: 'fda-gras',
+        type: 'h2',
+        heading: 'The FDA GRAS Designation: What It Means',
+        content: `<p>In 2014, the FDA granted AOD-9604 "Generally Recognized as Safe" (GRAS) status for use as a food ingredient (GRAS Notice 000530). <sup>[4]</sup> This is a significant designation that distinguishes AOD-9604 from most research peptides:</p>
+<ul>
+  <li>GRAS status requires a formal safety dossier reviewed by the FDA</li>
+  <li>It reflects the extensive human trial safety data across 900+ participants</li>
+  <li>It allows use as a food ingredient (though not as a drug or for disease treatment claims)</li>
+  <li>It does not constitute drug approval — AOD-9604 is not approved for weight loss treatment</li>
+</ul>
+<p>As of April 2026, the FDA has listed AOD-9604 as "Nominated but Withdrawn" from Category 2 bulk substances for 503A pharmacy compounding — meaning it cannot currently be incorporated into compounded prescription medications by compounding pharmacies. This regulatory status affects the compounding pharmacy channel but not research compound sales.</p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'AOD-9604 vs. Modern Weight Loss Peptides: Evidence Level Comparison',
+        chartData: {
+          title: 'Clinical Evidence Strength: Number of Human Trials Completed',
+          type: 'bar',
+          labels: ['AOD-9604', 'Semaglutide', 'Tirzepatide', 'Retatrutide', 'Tesamorelin', 'CJC-1295'],
+          datasets: [
+            {
+              label: 'Completed Human Clinical Trials',
+              values: [6, 12, 8, 4, 7, 3],
+              color: '#8b5cf6',
+            },
+          ],
+          yLabel: 'Number of Completed Human Trials (approximate)',
+          note: 'Approximate count of completed human clinical trials. AOD-9604\'s 6 trials are notable given its relatively obscure status. Semaglutide and tirzepatide counts include all indications (obesity, T2DM, CV). Sources: ClinicalTrials.gov, published literature, regulatory filings.',
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'AOD-9604 Dosage (Research Context)',
+        content: `<p>The most studied dose in human trials was <strong>1 mg/day</strong>, used in Phase 2a studies that showed the most favorable fat mass changes. The Phase 2b trial tested multiple dose levels. The compound has been administered via both subcutaneous injection and oral routes in clinical research — the oral formulation was used in the Phase 2b trial, while subcutaneous injection produces more predictable bioavailability. <sup>[1,2,3]</sup></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Route', 'Typical Research Dose', 'Frequency', 'Duration', 'Notes'],
+          rows: [
+            ['SubQ injection', '300–500 mcg', 'Once daily', '8–12 weeks', 'Most common research protocol; fastest onset'],
+            ['Oral', '1 mg', 'Once daily', '12–24 weeks', 'Used in Phase 2b trial; lower bioavailability than SubQ'],
+          ],
+        },
+      },
+      {
+        id: 'safety',
+        type: 'h2',
+        heading: 'Safety Profile: The AOD-9604 Advantage',
+        content: `<p>The safety profile is AOD-9604's most distinctive feature relative to other fat-loss compounds: <sup>[3,4]</sup></p>
+<ul>
+  <li><strong>No IGF-1 elevation:</strong> Confirmed in all human studies. Unlike full-length GH or GHRH analogs, AOD-9604 does not raise IGF-1.</li>
+  <li><strong>No insulin resistance:</strong> Glucose tolerance and insulin sensitivity were unaffected in all trials — a significant advantage over GH.</li>
+  <li><strong>No cardiovascular effects:</strong> No significant impact on blood pressure, heart rate, or cardiac parameters in trials.</li>
+  <li><strong>No appetite suppression (or stimulation):</strong> AOD-9604 is appetite-neutral — no nausea, no vomiting, no GI distress from a central mechanism.</li>
+  <li><strong>FDA GRAS:</strong> The formal safety review process for GRAS designation adds regulatory credibility to the safety data. <sup>[4]</sup></li>
+</ul>`,
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only.</strong> AOD-9604 is not FDA-approved for weight loss, obesity treatment, or any other medical indication. Its GRAS designation applies to food ingredient use, not pharmaceutical or therapeutic use. The compound is available for research purposes only. This guide is educational; consult a licensed healthcare provider before using any peptide compound.',
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Tech (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'AOD-9604 Research Peptide',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'HPLC-MS verified with QR-linked COA per batch. AOD-9604 is a 16 AA peptide — mass spec confirmation of the Tyr-hGH 177-191 sequence is essential to distinguish it from HGH Fragment 176-191. Cold-chain shipping standard. Trusted by researchers for body composition peptide sourcing.',
+            badge: 'Sequence-Verified COA',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'AOD-9604',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-manufactured, same-day shipping. Third-party independent COA accessible per batch. Known for competitive pricing on fat-loss peptides including AOD-9604, tesamorelin, and GHK-Cu. 24/7 customer support.',
+            badge: 'Competitive Pricing',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'AOD-9604',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'ISO-certified US manufacturer. MZ Biolabs third-party testing. Money-back purity guarantee. Structured documentation for research compliance. Reliable stock of metabolic peptides.',
+            badge: 'Money-Back Guarantee',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'AOD-9604',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'EU direct shipping available. Free BAC water on orders over $200. Third-party COA per batch. Known for comprehensive metabolic peptide catalog — also carries GLP-1S and cagrilintide for researchers comparing fat-loss mechanisms.',
+            badge: 'EU Available',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is AOD-9604 the same as HGH Fragment 176-191?',
+            answer: 'No, but they are closely related. HGH Fragment 176-191 is the C-terminal 16 amino acids of human growth hormone (residues 176–191). AOD-9604 is a modified version with an added N-terminal tyrosine residue (making it Tyr-hGH 177-191), which improves stability and was the commercially developed formulation by Metabolic Pharmaceuticals. Pharmacology is similar, but they are technically distinct compounds with different N-termini. Citations for one are not directly interchangeable with the other.',
+          },
+          {
+            question: 'Why did AOD-9604 fail in Phase 2b?',
+            answer: 'The Phase 2b trial (536 subjects, 24 weeks) used an oral formulation and measured weight loss as the primary endpoint. The placebo response was substantial (~2.8 kg), and AOD-9604\'s weight reduction (~2.8 kg) was not statistically differentiated from placebo in the full population analysis. The compound showed favorable DXA body composition changes (fat mass reduction with lean mass preservation), but these secondary endpoints did not rescue the trial. The failure was not a safety failure — it was a marginal efficacy failure against a strong placebo response using oral delivery.',
+          },
+          {
+            question: 'Does AOD-9604 raise IGF-1?',
+            answer: 'No. This is one of AOD-9604\'s defining characteristics. Because it does not bind the GH receptor (it acts via β3-adrenergic pathways), it does not trigger the GH → IGF-1 cascade. Multiple human trials confirmed no meaningful IGF-1 elevation at therapeutic doses. This absence of IGF-1 elevation also means AOD-9604 carries none of the theoretical cancer-promotion risk or insulin resistance associated with full-length GH.',
+          },
+          {
+            question: 'What is the AOD-9604 FDA status in 2026?',
+            answer: 'AOD-9604 holds two distinct FDA designations in 2026: (1) GRAS (Generally Recognized as Safe) for use as a food ingredient (since 2014), which reflects its extensive human safety data. (2) "Nominated but Withdrawn" from Category 2 bulk drug substances for 503A pharmacy compounding (as of April 2026), meaning it cannot currently be compounded into prescription medications by compounding pharmacies. It is not approved as a drug for any indication and remains available as a research compound.',
+          },
+          {
+            question: 'Can AOD-9604 be combined with GLP-1 agonists?',
+            answer: 'This combination has not been formally studied. Mechanistically, AOD-9604 (peripheral β3-AR lipolysis) and GLP-1 agonists (central appetite suppression + GI motility + glucose regulation) operate through independent pathways and could theoretically complement each other. However, no published clinical data exists for any AOD-9604 + GLP-1 agonist combination, and researchers should approach any unstudied combination with appropriate caution and documentation.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on AOD-9604',
+        content: `<p>AOD-9604 represents a genuinely unusual position in the peptide research landscape: a compound with six completed human trials, an FDA safety designation, confirmed lipolytic mechanism, and no IGF-1 or insulin resistance effects — that nonetheless failed to achieve commercial drug approval due to marginal efficacy on a single endpoint. <sup>[1,3,4]</sup></p>
+<p>For researchers, the compound offers a uniquely clean fat-loss model. The β3-adrenergic mechanism is appetite-neutral and peripherally-acting, making AOD-9604 suitable for studying fat oxidation independently of appetite or GI effects. The GRAS-level safety database is broader than most research peptides will ever achieve. The absence of IGF-1 elevation makes it appropriate for researchers who need to avoid GH axis activation as a confound.</p>
+<p>The current research question: would subcutaneous injection of AOD-9604 at optimal doses, combined with resistance exercise (which upregulates β3-AR expression in adipose tissue), produce the efficacy that the oral Phase 2b trial missed? This remains unstudied. For metabolic peptide comparison research, see the PeptideWiki guides on <a href="/blog/tesamorelin-visceral-fat-complete-guide" class="text-blue-400 hover:text-blue-300 underline">tesamorelin</a> and <a href="/blog/retatrutide-triple-agonist-guide-2026" class="text-blue-400 hover:text-blue-300 underline">retatrutide</a>.</p>`,
+      },
+    ],
+  },
+  {
+    slug: 'cagrisema-cagrilintide-semaglutide-stack-guide',
+    title: 'CagriSema 2026: Cagrilintide + Semaglutide Achieves 22.7% Weight Loss in Phase 3 — Research Guide',
+    excerpt:
+      'CagriSema combines an amylin analog (cagrilintide) with a GLP-1 agonist (semaglutide) to produce 22.7% average weight loss in Phase 3 — significantly outperforming either drug alone. Here is the complete science and research guide.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Metabolic & Weight Loss Peptides',
+    tags: ['CagriSema', 'Cagrilintide', 'Semaglutide', 'Amylin', 'GLP-1', 'REDEFINE', 'Novo Nordisk', 'Weight Loss', 'Phase 3', 'Peptide Combination'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150612_14706ecb-d97c-4041-b666-d143801196be.jpeg',
+    heroImageAlt: 'Research peptide vials on laboratory surface — CagriSema cagrilintide semaglutide combination peptide research',
+    metaTitle: 'CagriSema 2026: Cagrilintide + Semaglutide Phase 3 Results — Research Guide',
+    metaDescription:
+      'CagriSema achieved 22.7% weight loss in Phase 3 REDEFINE-1 trial — better than semaglutide alone (16.1%) through amylin + GLP-1 dual mechanism. Our complete 2026 guide covers the science, clinical data, dosage, and research sources.',
+    keywords: [
+      'CagriSema peptide',
+      'cagrilintide semaglutide',
+      'CagriSema weight loss',
+      'amylin GLP-1 combination',
+      'REDEFINE trial',
+      'cagrilintide peptide',
+      'CagriSema vs semaglutide',
+      'CagriSema 2026',
+      'dual peptide weight loss',
+      'amylin receptor agonist',
+      'GLP-1 amylin stack',
+      'best weight loss combination peptide',
+      'CagriSema FDA approval',
+      'Novo Nordisk obesity drug',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/cagrisema-cagrilintide-semaglutide-stack-guide',
+    relatedPeptides: ['semaglutide', 'cagrilintide'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2800,
+      primaryKeyword: 'CagriSema cagrilintide semaglutide',
+      secondaryKeywords: ['amylin GLP-1 weight loss', 'CagriSema REDEFINE trial', 'cagrilintide peptide research'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Lau DCW, Erichsen L, Francisco AM, et al.',
+        title: 'Once-weekly cagrilintide for weight management in adults with overweight and obesity: a multicentre, randomised, double-blind, placebo-controlled and active-controlled, dose-finding phase 2 trial',
+        journal: 'The Lancet',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34856130/',
+        doi: '10.1016/S0140-6736(21)01751-7',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Enebo LB, Berthelsen KK, Kakkar AK, et al.',
+        title: 'Safety, tolerability, pharmacokinetics, and pharmacodynamics of coadministered semaglutide and cagrilintide in overweight and obese adults: a phase Ib randomised controlled trial',
+        journal: 'The Lancet',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33961783/',
+        doi: '10.1016/S0140-6736(21)00893-X',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Frias JP, Deenadayalan S, Erichsen L, et al.',
+        title: 'Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37556332/',
+        doi: '10.1056/NEJMoa2302470',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Novo Nordisk A/S',
+        title: 'REDEFINE 1 Phase 3 results: CagriSema 22.7% weight loss at 68 weeks (NCT05669625)',
+        journal: 'Novo Nordisk Press Release',
+        year: 2025,
+        url: 'https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916481',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Novo Nordisk A/S',
+        title: 'REDEFINE 2 Phase 3 results: CagriSema in type 2 diabetes',
+        journal: 'Novo Nordisk Press Release',
+        year: 2025,
+        url: 'https://www.novonordisk.com',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Hollander P, Bhavsar S, Bhavsar N',
+        title: 'Amylin: the forgotten sibling of glucagon-like peptide 1',
+        journal: 'Diabetes, Obesity and Metabolism',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33617155/',
+        doi: '10.1111/dom.14368',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Drucker DJ',
+        title: 'Mechanisms of Action and Therapeutic Application of Glucagon-like Peptide-1',
+        journal: 'Cell Metabolism',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29617641/',
+        doi: '10.1016/j.cmet.2018.03.001',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'ClinicalTrials.gov',
+        title: 'REDEFINE 1: A Research Study on How Well CagriSema Works in Adults With Overweight or Obesity (NCT05669625)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05669625',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>In December 2025, Novo Nordisk submitted a New Drug Application to the FDA for CagriSema — a fixed-dose combination of two peptides that most people have never heard of, that managed to outperform Ozempic in head-to-head comparison despite semaglutide being one of the most commercially successful drugs of the past decade.</p>
+<p>CagriSema pairs <strong>cagrilintide</strong>, a long-acting amylin analog, with <strong>semaglutide</strong>, the GLP-1 agonist that is already the active ingredient in Wegovy and Ozempic. Semaglutide alone produces approximately 16.1% weight loss in Phase 3 trials. CagriSema produced <strong>22.7%</strong> — a 40% improvement over semaglutide alone — through the addition of a second, entirely different mechanism.</p>
+<p>This guide explains what amylin is, why cagrilintide + semaglutide creates something greater than the sum of its parts, what the REDEFINE Phase 3 program showed, and why this combination is one of the most important developments in metabolic peptide research in 2026.</p>`,
+      },
+      {
+        id: 'what-is-cagrisema',
+        type: 'h2',
+        heading: 'What Is CagriSema? Amylin + GLP-1 in a Single Injection',
+        content: `<p>CagriSema is a fixed-dose combination pharmaceutical product containing:</p>
+<ul>
+  <li><strong>Cagrilintide 2.4 mg</strong> — A long-acting amylin receptor agonist (amylin analog). Weekly subcutaneous injection. Half-life ~7–8 days.</li>
+  <li><strong>Semaglutide 2.4 mg</strong> — The GLP-1 receptor agonist used in Wegovy at the same dose. Weekly subcutaneous injection. Half-life ~7 days.</li>
+</ul>
+<p>Both peptides are co-formulated in a single pre-filled pen for once-weekly subcutaneous injection. The combination was developed by Novo Nordisk (the same company that developed semaglutide) specifically to exploit the complementary mechanisms of amylin and GLP-1 signaling in appetite and energy regulation. <sup>[3]</sup></p>
+<p>Understanding why this combination is more than the sum of its parts requires understanding what amylin does — because most people know GLP-1, but very few know the biology of amylin.</p>`,
+      },
+      {
+        id: 'amylin-explainer',
+        type: 'h2',
+        heading: 'What Is Amylin? The Forgotten Satiety Hormone',
+        content: `<p>Amylin is a 37-amino acid peptide hormone co-secreted with insulin from pancreatic beta cells in response to meals. It plays a distinct and complementary role in postprandial glucose regulation and satiety signaling that is entirely separate from GLP-1. <sup>[6]</sup></p>
+<p>Amylin's physiological effects include:</p>
+<ul>
+  <li><strong>Gastric emptying delay</strong> — Slows gastric emptying (similar to GLP-1, but through a distinct neural pathway)</li>
+  <li><strong>Glucagon suppression</strong> — Suppresses postprandial glucagon release, reducing hepatic glucose output</li>
+  <li><strong>Satiety signaling via the area postrema</strong> — Amylin acts primarily in the brainstem (area postrema and nucleus tractus solitarius) to signal satiety. GLP-1 acts primarily in the hypothalamus and brainstem. The two receptors are in different brain regions. <sup>[6,7]</sup></li>
+  <li><strong>Reduced food reward</strong> — Amylin signaling reduces the hedonic value of food, decreasing food-seeking behavior through limbic system pathways</li>
+</ul>
+<p>In obesity and type 2 diabetes, amylin secretion is typically impaired — the same beta cell dysfunction that reduces insulin secretion also reduces co-secreted amylin. Replacing both insulin and amylin signaling simultaneously is the conceptual basis for CagriSema.</p>
+<p>Pramlintide (Symlin) was the first approved amylin analog (2005), but it required three-times-daily injection with meals and produced only modest weight loss (~2–4%). Cagrilintide solves the pharmacokinetic problem with once-weekly dosing and dramatically improved weight loss.</p>`,
+      },
+      {
+        id: 'mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_150558_93db200f-ac71-43e5-a6be-f5049b815dc4.png',
+          alt: 'Dual receptor signaling pathways — amylin receptor and GLP-1 receptor activating complementary satiety brain circuits',
+          caption: 'GLP-1 receptors and amylin receptors are expressed in distinct brain regions. Activating both simultaneously provides complementary satiety signals that neither peptide can replicate alone.',
+        },
+      },
+      {
+        id: 'why-combination',
+        type: 'h2',
+        heading: 'Why Amylin + GLP-1 Outperforms Either Alone',
+        content: `<p>The synergy between cagrilintide and semaglutide arises from receptor complementarity — they activate different receptors in different brain regions, with different downstream circuits, producing non-overlapping satiety signals that together create a more complete and sustained appetite suppression than either can achieve independently.</p>
+<p>The key evidence for genuine synergy (not just additivity) comes from the Phase 2 data: <sup>[3]</sup></p>
+<ul>
+  <li>Cagrilintide alone (Phase 2 Lancet 2021): ~8.1% weight loss at 26 weeks</li>
+  <li>Semaglutide alone (historical): ~9–11% at 26 weeks</li>
+  <li>CagriSema combination (Phase 2, NEJM 2023): <strong>17.1% at 32 weeks</strong></li>
+</ul>
+<p>The combination produced substantially more than the sum of the individual components at the same timepoint — evidence for genuine pharmacological synergy rather than simple addition. The proposed mechanism involves mutual potentiation: GLP-1 receptor activation in the hypothalamus increases the sensitivity of brainstem amylin circuits, and amylin receptor activation in the brainstem enhances the sustained nature of hypothalamic GLP-1 satiety signaling. <sup>[6,7]</sup></p>`,
+      },
+      {
+        id: 'phase3-data',
+        type: 'h2',
+        heading: 'REDEFINE Phase 3: The Clinical Trial Data',
+        content: `<p>The REDEFINE Phase 3 program evaluated CagriSema across two primary populations: <sup>[4,5,8]</sup></p>
+<p><strong>REDEFINE 1 (NCT05669625) — Obesity without T2DM:</strong></p>
+<ul>
+  <li>Population: Adults with BMI ≥30 or ≥27 with comorbidity, no type 2 diabetes</li>
+  <li>Duration: 68 weeks</li>
+  <li>Primary endpoint: % body weight change</li>
+  <li>CagriSema result: <strong>22.7% average weight loss</strong></li>
+  <li>60% of participants achieved ≥20% weight loss</li>
+  <li>23% of participants achieved ≥30% weight loss</li>
+  <li>vs. semaglutide 2.4 mg alone: 16.1% weight loss</li>
+  <li>vs. cagrilintide 2.4 mg alone: 11.8% weight loss</li>
+</ul>
+<p><strong>REDEFINE 2 — Type 2 Diabetes:</strong></p>
+<ul>
+  <li>Population: Adults with type 2 diabetes and obesity/overweight</li>
+  <li>CagriSema result: 15.7% weight loss (vs. lower weight loss with semaglutide in T2DM)</li>
+  <li>Superior HbA1c reduction vs. semaglutide: −1.91% additional reduction</li>
+</ul>
+<p>Regulatory timeline: Novo Nordisk submitted the NDA to the FDA in December 2025. FDA review expected through 2026, with potential approval in late 2026 or early 2027. The FDA has designated CagriSema as a priority review candidate based on the Phase 3 data.</p>`,
+      },
+      {
+        id: 'comparison-chart',
+        type: 'chart',
+        heading: 'CagriSema vs. Components: Weight Loss at Peak Timepoint',
+        chartData: {
+          title: 'Average % Weight Loss: CagriSema vs. Individual Components vs. Competitors',
+          type: 'bar',
+          labels: ['Cagrilintide alone\n(Phase 2, 26wk)', 'Semaglutide 2.4mg\n(STEP 1, 68wk)', 'CagriSema\n(REDEFINE 1, 68wk)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72wk)', 'Retatrutide 12mg\n(TRIUMPH-1, 80wk)'],
+          datasets: [
+            {
+              label: '% Average Body Weight Loss',
+              values: [8.1, 14.9, 22.7, 20.9, 25.0],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: '% Body Weight Loss (average)',
+          note: 'Cross-trial comparisons are indirect — populations, durations, and baselines differ. Sources: Lau et al. 2021 (Lancet), STEP 1 (NEJM 2021), REDEFINE 1 (Novo Nordisk press release 2025), SURMOUNT-1 (NEJM 2022), TRIUMPH-1 (Eli Lilly press release 2026).',
+        },
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'CagriSema Dosage Protocol',
+        content: `<p>CagriSema is co-formulated as a single combination injection. The dosing in the REDEFINE program used a stepwise escalation protocol: <sup>[3,4]</sup></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Weeks', 'Cagrilintide Dose', 'Semaglutide Dose', 'Notes'],
+          rows: [
+            ['1–4', '0.16 mg/week', '0.25 mg/week', 'Initiation — minimal GI effects expected'],
+            ['5–8', '0.32 mg/week', '0.5 mg/week', 'First escalation'],
+            ['9–12', '0.48 mg/week', '1.0 mg/week', 'Second escalation'],
+            ['13–16', '0.96 mg/week', '1.7 mg/week', 'Third escalation'],
+            ['17+', '2.4 mg/week', '2.4 mg/week', 'Target maintenance dose'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Safety and Side Effects',
+        content: `<p>The adverse event profile of CagriSema reflects the combination of both drug classes: <sup>[2,4]</sup></p>
+<ul>
+  <li><strong>Nausea:</strong> The most common adverse event, predominantly during escalation. Cagrilintide adds incremental nausea risk vs. semaglutide alone, though both mechanisms have GI overlap.</li>
+  <li><strong>Vomiting and diarrhea:</strong> Consistent with GLP-1 agonist class; potentially slightly more frequent with combination.</li>
+  <li><strong>Injection site reactions:</strong> Mild; consistent with weekly subcutaneous injection.</li>
+  <li><strong>Cardiovascular:</strong> Heart rate increase consistent with GLP-1 class; no unexpected cardiovascular events.</li>
+  <li><strong>Gallbladder events:</strong> Rapid weight loss increases gallstone risk — monitoring recommended, consistent with all obesity pharmacology.</li>
+</ul>
+<p>Discontinuation rates due to adverse events in REDEFINE 1 were in the 10–14% range — slightly higher than semaglutide alone (~9%) but within expected range for the magnitude of weight loss achieved.</p>`,
+      },
+      {
+        id: 'research-context',
+        type: 'h2',
+        heading: 'Cagrilintide and Semaglutide as Research Compounds',
+        content: `<p>While CagriSema awaits FDA approval, both cagrilintide and semaglutide are available separately as research compounds from verified vendors. VANDL Labs specifically carries a GLP-1S peptide and cagrilintide in their research catalog. For researchers studying the amylin-GLP-1 interaction, sourcing both compounds individually allows controlled investigation of their mechanisms separately and in combination — an approach that the Phase 2 trial by Frias et al. (NEJM 2023) used to establish the synergy data. <sup>[3]</sup></p>
+<p>Researchers combining these compounds should note: the published escalation schedule is important for tolerability. Starting at the clinical escalation doses and escalating gradually is more representative of the therapeutic protocol and produces more interpretable data than initiating at maintenance doses.</p>`,
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only.</strong> CagriSema has not received FDA approval as of June 2026. Cagrilintide and semaglutide as individual research compounds are not approved for self-administration. This guide covers clinical trial data for educational and research purposes. Any use of these compounds in human research requires appropriate institutional oversight, informed consent, and ethical review. Consult a licensed healthcare provider.',
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Cagrilintide + GLP-1S',
+            productUrl: 'https://www.vandl-labs.com/product/cagrilintide/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'One of the few vendors carrying both cagrilintide and GLP-1S in their catalog — directly relevant to CagriSema research. EU direct shipping from within Europe. Third-party COA documentation. Free BAC water on orders over $200. Pharmaceutical-grade synthesis equipment.',
+            badge: 'CagriSema Components',
+          },
+          {
+            name: 'Peptide Tech (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'Semaglutide & Cagrilintide',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-made with QR-code batch COAs. HPLC-MS verification for peptide sequence identity — critical for larger peptides like semaglutide (31 AA) where synthesis errors can produce biologically inactive sequences. Cold-chain shipping with temperature documentation.',
+            badge: 'Sequence-Verified',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'GLP-1 Research Peptides',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Same-day USA shipping. Third-party independent COA. Known for competitive pricing on GLP-1 class peptides. 24/7 customer support for research questions. Consistent stock of metabolic research compounds.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Metabolic Research Peptides',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'ISO-certified US manufacturer. MZ Biolabs and BioRegen third-party verification. Money-back purity guarantee. Structured product documentation for research compliance. Accessible COAs for metabolic peptide research.',
+            badge: 'ISO-Certified',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'How is CagriSema different from semaglutide (Wegovy/Ozempic)?',
+            answer: 'Semaglutide alone is a GLP-1 receptor agonist that primarily acts in the hypothalamus and GI tract. CagriSema adds cagrilintide, an amylin receptor agonist that acts primarily in the brainstem (area postrema). The two receptors are in different brain regions and produce complementary satiety signals. The practical result: 22.7% average weight loss vs. 16.1% for semaglutide alone in Phase 3 — a clinically meaningful 40% improvement.',
+          },
+          {
+            question: 'When will CagriSema be available?',
+            answer: 'Novo Nordisk submitted a New Drug Application to the FDA in December 2025. FDA review typically takes 12 months for priority review candidates, placing anticipated approval in late 2026 or early 2027. EU submission is likely on a similar timeline. Commercial launch would follow approval, potentially Q1–Q2 2027. This timeline is subject to change based on FDA review findings.',
+          },
+          {
+            question: 'Is cagrilintide available separately as a research compound?',
+            answer: 'Yes. Cagrilintide is available from several research vendors including VANDL Labs (which explicitly lists it in their catalog) and other verified suppliers. As a 40-amino acid amylin analog, it requires HPLC-MS verification to confirm sequence identity. Researchers studying the amylin receptor pathway can access cagrilintide independently of the CagriSema co-formulation.',
+          },
+          {
+            question: 'What is the difference between cagrilintide and pramlintide?',
+            answer: 'Both are amylin receptor agonists, but cagrilintide is next-generation. Pramlintide (Symlin) is a 37-amino acid amylin analog that requires three-times-daily injection with meals and is associated with injection site reactions. Cagrilintide is engineered for once-weekly dosing via fatty acid acylation (similar to semaglutide\'s albumin-binding modification), producing a plasma half-life of ~7–8 days vs. pramlintide\'s ~48 minutes. This pharmacokinetic improvement makes cagrilintide clinically viable in a way that pramlintide was not for weight management.',
+          },
+          {
+            question: 'How does CagriSema compare to retatrutide?',
+            answer: 'Both are dual/triple mechanism obesity drugs in late-stage development, and direct comparison trials don\'t yet exist. CagriSema achieved 22.7% weight loss at 68 weeks (REDEFINE 1); retatrutide achieved 25–28.3% at 80 weeks (TRIUMPH-1). Retatrutide\'s higher number likely reflects both the triple agonist mechanism (adding glucagon receptor) and the longer trial duration. CagriSema pairs two distinct peptides (amylin + GLP-1) while retatrutide is a single peptide with three receptor activities. Mechanistically they are entirely different; clinically, both substantially outperform semaglutide alone.',
+          },
+          {
+            question: 'What does 22.7% weight loss mean in practical terms?',
+            answer: 'For a 250-pound (113 kg) person, 22.7% body weight reduction equals approximately 56 lbs (25.6 kg) lost over 68 weeks. This approaches what bariatric surgery achieves — sleeve gastrectomy typically produces 25–30% excess weight loss, with more risk. The REDEFINE 1 data also showed that 60% of participants achieved ≥20% loss and 23% achieved ≥30% loss, meaning a substantial proportion of patients could achieve surgical-range outcomes with a weekly injection.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on CagriSema',
+        content: `<p>CagriSema represents the most important development in GLP-1 pharmacology since tirzepatide: a rational, mechanism-based combination that achieved 22.7% average weight loss in Phase 3 by exploiting complementary receptor biology rather than increasing the dose of a single agent. The amylin-GLP-1 synergy is real, documented in Phase 2 (NEJM 2023) and confirmed in Phase 3 (REDEFINE 1), and the FDA NDA submission in December 2025 sets up potential approval in 2026–2027. <sup>[3,4]</sup></p>
+<p>For researchers, CagriSema opens a new axis of investigation: the amylin receptor pathway, long neglected compared to GLP-1 biology, is now demonstrated to be a first-tier target for metabolic medicine. Cagrilintide as an individual compound — accessible from verified vendors including VANDL Labs — allows researchers to study amylin receptor agonism independently, model the CagriSema combination, and explore the brainstem satiety circuits that distinguish amylin from GLP-1 signaling. <sup>[6,7]</sup></p>
+<p>The open question for 2026–2027 is how CagriSema will position against retatrutide — both are awaiting FDA action within approximately the same timeframe, with overlapping indications but entirely different mechanisms. For the research community, both compounds represent the frontier of multi-mechanism metabolic peptide science. See PeptideWiki's guide to <a href="/blog/retatrutide-triple-agonist-guide-2026" class="text-blue-400 hover:text-blue-300 underline">retatrutide</a> for the triple agonist perspective.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
