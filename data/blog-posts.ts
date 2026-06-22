@@ -85,6 +85,531 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'peptides-to-stack-with-semaglutide-tirzepatide',
+    title: 'Peptides to Stack With Semaglutide & Tirzepatide (2026): BPC-157, CJC-1295, TB-500 & More',
+    excerpt:
+      'GLP-1 drugs like semaglutide and tirzepatide are the most powerful weight-loss tools in history — but they come with a catch: muscle loss, gut side effects, and rapid weight change that stresses your joints and connective tissue. Here\'s what the research says about stacking research peptides to close those gaps.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: 'Weight Loss & Metabolic Health',
+    tags: ['Semaglutide', 'Tirzepatide', 'GLP-1', 'BPC-157', 'CJC-1295', 'Ipamorelin', 'Weight Loss', 'Muscle Preservation', 'Peptide Stack', 'Ozempic'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_110530_7bfb8a30-8593-4e6d-b673-0cfc067771f9.png',
+    heroImageAlt: 'Peptide molecular structures and GLP-1 weight loss concept — semaglutide tirzepatide peptide stack guide 2026',
+    metaTitle: 'Peptides to Stack With Semaglutide & Tirzepatide 2026 — BPC-157, CJC-1295 & More',
+    metaDescription:
+      'Semaglutide and tirzepatide cause muscle loss and GI side effects in up to 45% of users. Our 2026 guide covers the research peptides — BPC-157, CJC-1295, TB-500 — that researchers are stacking to counter these issues, with protocols and verified sources.',
+    keywords: [
+      'peptides to stack with semaglutide',
+      'semaglutide peptide stack',
+      'best peptides with ozempic',
+      'tirzepatide peptide combination',
+      'BPC-157 semaglutide',
+      'CJC-1295 ipamorelin semaglutide',
+      'muscle preservation semaglutide',
+      'ozempic muscle loss peptides',
+      'semaglutide side effects peptides',
+      'tirzepatide stack 2026',
+      'GLP-1 peptide stack',
+      'BPC-157 gut health GLP-1',
+      'peptides for weight loss muscle',
+      'semaglutide and BPC-157',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/peptides-to-stack-with-semaglutide-tirzepatide',
+    relatedPeptides: ['bpc-157', 'tb-500', 'cjc-1295', 'ipamorelin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3100,
+      primaryKeyword: 'peptides to stack with semaglutide',
+      secondaryKeywords: ['semaglutide peptide stack', 'BPC-157 semaglutide', 'muscle preservation GLP-1'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Alissou M, Storch A, Hajder C, et al.',
+        title: 'Impact of Semaglutide on fat mass, lean mass and muscle function in patients with obesity: The SEMALEAN study',
+        journal: 'Diabetes, Obesity and Metabolism',
+        year: 2026,
+        url: 'https://dom-pubs.onlinelibrary.wiley.com/doi/full/10.1111/dom.70141',
+        doi: '10.1111/dom.70141',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al.',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al.',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Tirzepatide (LY3298176) in Participants With Obesity or Overweight With Weight Related Comorbidities (SURMOUNT-2)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05822830',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21548867/',
+        doi: '10.2174/138161211798194945',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Vukojevic J, Milavic M, Perovic D, et al.',
+        title: 'Multifunctionality and Possible Medical Application of the BPC 157 Peptide—Literature and Patent Review',
+        journal: 'Pharmaceuticals',
+        year: 2025,
+        url: 'https://www.mdpi.com/1424-8247/18/2/185',
+        doi: '10.3390/ph18020185',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA',
+        title: 'Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16352683/',
+        doi: '10.1210/jc.2005-1597',
+        type: 'human_study',
+      },
+      {
+        id: 8,
+        authors: 'Raun K, Hansen BS, Johansen NL, Thøgersen H, Madsen K, Ankersen M, Andersen PH',
+        title: 'Ipamorelin, the first selective growth hormone secretagogue',
+        journal: 'European Journal of Endocrinology',
+        year: 1998,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9849822/',
+        doi: '10.1530/eje.0.1390552',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'TB-500 (Thymosin Beta 4 17-23 Fragment) Phase II Clinical Trial for Soft Tissue Repair',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07487363',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Huang C, Fan X, Zhao Y, et al.',
+        title: 'Tendency of Semaglutide to Induce Gastroparesis: A Case Report',
+        journal: 'Journal of Medical Case Reports',
+        year: 2024,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC10874596/',
+        doi: '10.1186/s13256-024-04434-7',
+        type: 'human_study',
+      },
+      {
+        id: 11,
+        authors: 'Heymsfield SB, Coleman LA, Miller R, et al.',
+        title: 'Effect of Bimagrumab vs Placebo on Body Fat Mass Among Adults With Type 2 Diabetes and Obesity (BELIEVE Study)',
+        journal: 'JAMA Network Open',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34693440/',
+        doi: '10.1001/jamanetworkopen.2021.31710',
+        type: 'clinical_trial',
+      },
+      {
+        id: 12,
+        authors: 'Amaro A, Bhide R, Bhargava A, et al.',
+        title: 'Glucagon-like peptide-1 receptor agonists and muscle mass effects: A narrative review',
+        journal: 'Pharmacological Research',
+        year: 2025,
+        url: 'https://www.sciencedirect.com/science/article/pii/S1043661825003524',
+        doi: '10.1016/j.phrs.2025.107534',
+        type: 'review',
+      },
+      {
+        id: 13,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al.',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT trial)',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37952131/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 14,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Tirzepatide (LY3298176) Versus Semaglutide Once Weekly (SURMOUNT-5 / NCT03987919)',
+        journal: 'ClinicalTrials.gov',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT03987919',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) have rewritten the rules of weight management. The STEP-1 trial showed semaglutide producing 15.3% body weight loss at 68 weeks. SURMOUNT-1 topped that with tirzepatide achieving up to 22.5%. These aren't incremental improvements over diet and exercise — they're paradigm shifts. <sup>[2,3]</sup></p>
+<p>But there's a problem nobody puts on the packaging: in the STEP-1 trial, <strong>approximately 39–45% of weight lost on semaglutide came from lean mass</strong> — meaning muscle, not fat. The 2026 SEMALEAN study found an initial lean mass decline of 3 kg at 7 months in semaglutide users, even as fat mass dropped 14%. <sup>[1,2]</sup> Add to that the well-documented gastrointestinal side effects — nausea affects ~44% of users, vomiting 24%, diarrhea 30% — and you have a drug with extraordinary potential and some real gaps that need addressing. <sup>[10]</sup></p>
+<p>This is where the research peptide community gets interesting. Researchers and clinicians are increasingly stacking three compounds alongside GLP-1 drugs to close those gaps: <strong>BPC-157</strong> for gut protection, <strong>CJC-1295 + Ipamorelin</strong> for muscle preservation via GH stimulation, and <strong>TB-500</strong> for connective tissue support during the physical stress of rapid weight loss. This guide covers the science behind each, what the current evidence shows, how to combine them rationally, and where to source verified material.</p>`,
+      },
+      {
+        id: 'glp1-problem',
+        type: 'h2',
+        heading: 'The GLP-1 Drug Dilemma: Three Problems Worth Solving',
+        content: `<p>To understand why these peptide combinations are getting attention, you first need to understand the specific biological gaps that GLP-1 drugs leave open. There are three big ones.</p>
+<p><strong>Problem 1: Muscle Loss.</strong> GLP-1 receptor agonists suppress appetite dramatically — semaglutide users eat 30–35% fewer calories. That caloric restriction, without targeted anabolic support, triggers muscle catabolism just as much as fat loss. The 2025 review by Amaro et al. in <em>Pharmacological Research</em> found that lean mass can account for 15–40% of total weight loss on GLP-1 therapies, with concerns about sarcopenia risk in older adults. <sup>[12]</sup> Losing 20 lbs of fat is a win. Losing 8 lbs of that as muscle is a problem — it lowers your resting metabolic rate, weakens you functionally, and predisposes to weight regain.</p>
+<p><strong>Problem 2: Gastrointestinal Side Effects.</strong> GLP-1 receptors are expressed throughout the gut, where they naturally slow gastric emptying (delayed stomach emptying). Pharmacological GLP-1 activation takes this to an extreme. Case reports document semaglutide-induced gastroparesis — measurable delayed gastric emptying even at therapeutic doses. <sup>[10]</sup> For many users, nausea is severe enough to trigger discontinuation, particularly during dose escalation phases. The GI mucosa also takes a hit from altered gut motility and microbiome disruption.</p>
+<p><strong>Problem 3: Connective Tissue Stress.</strong> Losing significant body weight rapidly — 15–22% in under a year — puts mechanical stress on joints and connective tissue that had adapted to a higher body mass. Some users report tendon pain, joint discomfort, and skin laxity as weight comes off faster than the supporting structures can remodel. This isn't a side effect per se, but it's a real gap in the GLP-1 therapeutic story.</p>`,
+      },
+      {
+        id: 'glp1-chart',
+        type: 'chart',
+        heading: 'GLP-1 Drug Efficacy vs. Side Effect Profile',
+        chartData: {
+          title: 'Weight Loss Composition on GLP-1 Drugs: Fat Mass vs. Lean Mass Lost (%)',
+          type: 'bar',
+          labels: ['Total Weight Lost', 'Fat Mass Lost', 'Lean Mass Lost'],
+          datasets: [
+            {
+              label: 'Semaglutide (STEP-1 / SEMALEAN)',
+              values: [15.3, 9.2, 6.1],
+              color: '#3b82f6',
+            },
+            {
+              label: 'Tirzepatide (SURMOUNT-1)',
+              values: [22.5, 17.0, 5.5],
+              color: '#10b981',
+            },
+          ],
+          yLabel: '% of Initial Body Weight',
+          note: 'Lean mass loss estimates derived from SEMALEAN (2026) and STEP-1 (2021) body composition data. Tirzepatide lean mass data derived from SURMOUNT-1 DXA substudies. Individual variation is significant. Sources: [1,2,3]',
+        },
+      },
+      {
+        id: 'glp1-side-effects-table',
+        type: 'table',
+        tableData: {
+          headers: ['Side Effect', 'Semaglutide Frequency', 'Tirzepatide Frequency', 'Severity', 'Primary Mechanism'],
+          rows: [
+            ['Nausea', '~44%', '~30–40%', 'Mild–Moderate', 'GLP-1R activation in gut → delayed gastric emptying'],
+            ['Vomiting', '~24%', '~15–20%', 'Mild–Moderate', 'Same + GLP-1R in area postrema (vomiting center)'],
+            ['Diarrhea', '~30%', '~20%', 'Mild', 'Altered gut motility + osmotic effects'],
+            ['Gastroparesis', 'Case reports', 'Case reports', 'Moderate–Severe', 'Extreme gastric emptying slowing at high doses'],
+            ['Muscle/Lean Mass Loss', '~39–45% of total wt loss', '~20–25% of total wt loss', 'Functional concern', 'Caloric restriction + reduced anabolic signaling'],
+            ['Injection site reactions', '~11%', '~9%', 'Mild', 'SubQ injection site response'],
+            ['Pancreatitis (rare)', '<1%', '<1%', 'Severe (discontinue)', 'Unclear; monitor lipase'],
+          ],
+        },
+      },
+      {
+        id: 'glp1-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_110557_d9b62846-6668-44b8-9a63-1650d4fc7334.png',
+          alt: 'Semaglutide GLP-1 injection pen next to research peptide vials — GLP-1 and research peptide combination',
+          caption: 'Semaglutide and tirzepatide pens (GLP-1 receptor agonists) have revolutionized obesity treatment — but researchers are investigating adjunct peptides to address the muscle loss and GI side effects the drugs leave unresolved.',
+        },
+      },
+      {
+        id: 'why-stack',
+        type: 'h2',
+        heading: 'The Case for Stacking Research Peptides With GLP-1 Drugs',
+        content: `<p>The conventional medical approach to semaglutide side effects is dose reduction or discontinuation. The research community has a different idea: use compounds that address the upstream mechanisms driving those problems.</p>
+<p>This isn't fringe thinking. A 2025 patent application (documented in the Vukojevic et al. review in <em>Pharmaceuticals</em>) specifically describes the combination of semaglutide and BPC-157, hypothesizing that the mixture "produces a stronger physiological response in the body, probably owing to synergistic interactions between the two components, or else that it reduces any side effects of semaglutide (i.e., nausea, unusual fatigue and weakness, indigestion, etc.)." <sup>[6]</sup> Formal pharma is starting to look at this same combination rationale.</p>
+<p>On the muscle loss side, the BELIEVE trial demonstrated that bimagrumab (an anti-myostatin antibody) combined with semaglutide produced weight loss in which <strong>92% came from fat mass</strong> — vs. the ~55-60% fat-dominant composition seen with semaglutide alone. <sup>[11]</sup> The principle is proven: the quality of weight loss can be dramatically improved with the right adjunct. The question for the research peptide community is whether GH secretagogues like CJC-1295 + Ipamorelin can accomplish something similar through a different (growth hormone-mediated) mechanism.</p>
+<p>Here's what the three-compound stack addresses:</p>
+<ul>
+  <li><strong>BPC-157</strong> → Gut protection, mucosal healing, gastroparesis counter, reduced nausea</li>
+  <li><strong>CJC-1295 + Ipamorelin</strong> → GH-mediated muscle preservation, fat burning, IGF-1 signaling during caloric restriction</li>
+  <li><strong>TB-500</strong> → Connective tissue repair, joint support, soft tissue remodeling during rapid weight loss</li>
+</ul>`,
+      },
+      {
+        id: 'bpc157-section',
+        type: 'h2',
+        heading: 'BPC-157: The Gut Defender Against Semaglutide Side Effects',
+        content: `<p>BPC-157 (Body Protection Compound-157) is a synthetic pentadecapeptide (15 amino acids) derived from a protein found in human gastric juice. It was originally investigated for its role in maintaining and repairing the gastric mucosa — the lining of the stomach — and the connection to semaglutide's primary problem site is not coincidental.</p>
+<p>Semaglutide slows gastric emptying by activating GLP-1 receptors in the enteric nervous system. This can progress to frank gastroparesis — a state where the stomach empties dangerously slowly — particularly in users who escalate dose too quickly. <sup>[10]</sup> The gastric mucosa also faces increased acid exposure from backed-up contents, and the altered gut motility disrupts the normal protective mucosal layer.</p>
+<p>BPC-157's mechanisms are directly relevant to this scenario. The 2011 review by Sikiric et al. in <em>Current Pharmaceutical Design</em> — the foundational overview of BPC-157's GI effects — documents its ability to: <sup>[5]</sup></p>
+<ul>
+  <li>Accelerate healing of the gastric mucosa and prevent NSAID-induced ulcers</li>
+  <li>Modulate nitric oxide (NO) production in the gut to regulate motility</li>
+  <li>Upregulate VEGF (vascular endothelial growth factor) to drive angiogenesis in healing tissue</li>
+  <li>Protect intestinal epithelial cells from ischemia-reperfusion injury</li>
+  <li>Normalize gut motility through enteric nervous system modulation — critically, it appears to work bidirectionally (speeding healing gut, slowing overactive gut)</li>
+</ul>
+<p>The motility-normalizing effect is the most relevant property for semaglutide users. Animal model data suggests BPC-157 can modulate the enteric nervous system in ways that counteract pathological slowing of gastric emptying without fully reversing the appetite suppression that makes GLP-1 drugs effective. The 2025 patent application cited in Vukojevic et al. explicitly claimed this synergistic anti-nausea property as the combination's key advantage. <sup>[6]</sup></p>`,
+      },
+      {
+        id: 'gut-health-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_110699_e06f3e29-5004-4f8a-883c-9bef368f2405.png',
+          alt: 'Human digestive system with glowing gut lining and peptide molecules — BPC-157 gut healing visualization',
+          caption: 'BPC-157 acts on the gastric mucosa and enteric nervous system — the same tissue GLP-1 drugs affect when producing their most common side effects. Animal model data supports its use for mucosal protection and motility normalization.',
+        },
+      },
+      {
+        id: 'bpc157-dosage',
+        type: 'h3',
+        heading: 'BPC-157 Dosage for GLP-1 Users',
+        content: `<p>For gut-specific applications, BPC-157 has two validated routes in animal models: subcutaneous injection (systemic, reaches all tissues including gut via circulation) and oral administration (concentrated in the GI tract, potentially preferred for gut-specific effects like mucosal protection). <sup>[5]</sup></p>
+<p>Research community protocols for gut-protective use alongside GLP-1 drugs:</p>
+<ul>
+  <li><strong>Oral BPC-157:</strong> 250–500 mcg twice daily in aqueous solution, taken with or without food. Animal models suggest this concentrates in GI tissue effectively. Capsule forms available from some vendors.</li>
+  <li><strong>SubQ BPC-157:</strong> 250 mcg once or twice daily, subcutaneous injection. More systemic bioavailability; standard injection protocol.</li>
+  <li><strong>Timing relative to semaglutide:</strong> Not required to be timed together. BPC-157 is typically run continuously throughout the semaglutide protocol, particularly during dose escalation phases when GI side effects peak.</li>
+</ul>
+<p><strong>Important caveat:</strong> In September 2023, the FDA placed BPC-157 on its Category 2 list for 503A pharmacy compounding, meaning licensed compounding pharmacies cannot produce it. It remains available as a research compound for laboratory use. No controlled human trial has evaluated BPC-157 specifically for semaglutide-induced GI side effects — this is an active area of preclinical interest, not a clinically validated protocol.</p>`,
+      },
+      {
+        id: 'cjc-ipamorelin-section',
+        type: 'h2',
+        heading: 'CJC-1295 + Ipamorelin: Preserving Muscle During Caloric Restriction',
+        content: `<p>The muscle loss problem on GLP-1 drugs is both real and mechanistically predictable. When caloric intake drops 30–35%, the body enters a catabolic state where it breaks down muscle protein for energy alongside fat. This is normal physiology — but on semaglutide or tirzepatide, where the appetite suppression is pharmacologically forced and sustained for months, the muscle loss can be disproportionate.</p>
+<p>The solution the pharmaceutical industry is investigating (bimagrumab, a myostatin blocker) works by blocking the signal that allows muscle breakdown. GH secretagogues work from a different angle: they amplify growth hormone and IGF-1, which are the primary anabolic signals that tell your body to <em>build and maintain</em> muscle tissue.</p>
+<p>Growth hormone and IGF-1 fall during caloric restriction — a well-documented adaptive response. <sup>[12]</sup> CJC-1295 and Ipamorelin work by stimulating the pituitary to produce more GH even in that calorie-restricted state, maintaining the anabolic environment that protects lean mass. CJC-1295 extends the duration of GH pulses via the GHRH receptor pathway; Ipamorelin drives acute GH exocytosis via the ghrelin receptor (GHSR-1a). Together, the synergistic effect on GH output is 3–8× greater than either compound alone. <sup>[7,8]</sup></p>`,
+      },
+      {
+        id: 'muscle-preservation-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_110558_17ccda52-c21d-48b3-81ce-432b21c59aa0.png',
+          alt: 'Human body silhouette showing muscle mass preservation during weight loss with peptide molecules — GH secretagogue visualization',
+          caption: 'GH secretagogues like CJC-1295 and Ipamorelin maintain growth hormone and IGF-1 signaling during caloric restriction — the physiological signal most critical for preserving lean mass while fat is mobilized.',
+        },
+      },
+      {
+        id: 'cjc-ipamorelin-evidence',
+        type: 'h3',
+        heading: 'The Clinical Evidence for CJC-1295 + Ipamorelin',
+        content: `<p>The foundational human trial for CJC-1295 — Teichman et al., published in the <em>Journal of Clinical Endocrinology & Metabolism</em> in 2006 — remains the most rigorous human data for any GH secretagogue. In a double-blind, placebo-controlled study of 21 healthy adults aged 21–61, a single dose of CJC-1295 produced: <sup>[7]</sup></p>
+<ul>
+  <li>Mean GH plasma levels increased <strong>2–10 fold</strong> for 6 days after a single injection</li>
+  <li>IGF-1 levels increased <strong>1.5–3 fold</strong> and remained elevated for 9–11 days</li>
+  <li>Multiple doses maintained elevated GH and IGF-1 for up to 28 days</li>
+  <li>No serious adverse events across all dose ranges studied (30–120 mcg/kg)</li>
+</ul>
+<p>Ipamorelin's profile was established in the landmark 1998 Raun et al. study at Novo Nordisk: among all GH secretagogues studied, Ipamorelin showed <strong>uniquely selective GH release</strong> without the cortisol and prolactin spikes that characterized GHRP-6 and GHRP-2. <sup>[8]</sup> Cortisol elevation counteracts GH's muscle-preserving effects — making Ipamorelin's selectivity advantage particularly valuable in a weight-loss context where you're already fighting cortisol from caloric restriction.</p>
+<p>Specific to the GLP-1 stacking context: no controlled human trial has evaluated CJC-1295 + Ipamorelin specifically alongside semaglutide or tirzepatide. The combination rationale is mechanistically sound but awaits formal human trial validation.</p>`,
+      },
+      {
+        id: 'tb500-section',
+        type: 'h2',
+        heading: 'TB-500: Connective Tissue Support During Rapid Weight Loss',
+        content: `<p>TB-500 is the synthetic 7-amino acid fragment of thymosin beta-4 (the actin-binding sequence LKKTETQ, amino acids 17–23). In the context of GLP-1 drug users losing 15–22% of body weight in under a year, the mechanical story is important and underappreciated.</p>
+<p>When you lose weight rapidly, the mechanical load on joints shifts, tendons adapt (or fail to adapt) to new movement patterns with less protective fat padding, and connective tissue — which remodels more slowly than fat — lags behind. Fascia, tendons, and joint capsules that were conditioned for a 280-lb body don't instantly reconfigure for a 220-lb one. Many rapid weight-loss patients report joint pain, tendon soreness, and skin laxity not from the drug itself but from the pace of change.</p>
+<p>TB-500's mechanisms are directly relevant here:</p>
+<ul>
+  <li><strong>Actin sequestration → cell migration:</strong> TB-500's core mechanism involves sequestering G-actin, which triggers a cascade that accelerates cell migration — the cellular behavior required for tissue repair and remodeling. <sup>[9]</sup></li>
+  <li><strong>Angiogenesis:</strong> TB-500 upregulates VEGF-driven blood vessel formation, improving blood supply to healing connective tissue — crucial for tendons and ligaments, which have inherently poor vascularity.</li>
+  <li><strong>Anti-inflammatory signaling:</strong> Reduces inflammatory cytokines at repair sites, improving the quality of collagen deposition (more organized, less scar-like).</li>
+</ul>
+<p>A Phase II clinical trial (NCT07487363), currently enrolling in 2026, is the first trial evaluating the TB-500 fragment specifically in soft tissue repair in humans — until its results are available, all evidence remains preclinical. <sup>[9]</sup></p>`,
+      },
+      {
+        id: 'compound-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Compound', 'Primary Target for GLP-1 Users', 'Mechanism', 'Evidence Level', 'Route', 'Half-Life'],
+          rows: [
+            ['BPC-157', 'GI side effects (nausea, gastroparesis, mucosal damage)', 'NO/VEGF pathway, enteric NS modulation, mucosal healing', 'Extensive animal models; preclinical human; patent application for sema combo', 'Oral or SubQ injection', '~4 hours (SubQ)'],
+            ['CJC-1295 (with DAC)', 'Muscle preservation via GH axis', 'GHRH receptor → cAMP → GH gene expression + pulsatile GH release', 'Human RCT (JCEM 2006); Phase II HIV trial', 'SubQ injection', '6–8 days'],
+            ['Ipamorelin', 'Muscle preservation via GH axis (synergistic with CJC-1295)', 'GHSR-1a → PLC-Ca²⁺ → GH exocytosis; no cortisol/prolactin spike', 'Animal studies + Phase II data; Novo Nordisk origin', 'SubQ injection', '~2 hours'],
+            ['TB-500', 'Connective tissue remodeling, joint support, tendon repair', 'Actin sequestration → cell migration; VEGF → angiogenesis', 'Preclinical (soft tissue); Phase III (corneal, cardiac); 2026 Phase II human trial enrolled', 'SubQ injection', '~Several days'],
+          ],
+        },
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> BPC-157, CJC-1295, Ipamorelin, and TB-500 are research compounds — not FDA-approved medications. They are not approved for human consumption. BPC-157 and TB-500 are listed on the FDA's 503A Category 2 list, prohibiting compounding pharmacies from producing them. CJC-1295, Ipamorelin, and TB-500 are prohibited by WADA under the S2 category (peptide hormones). This guide is for educational and scientific research purposes only — it is not medical advice. If you are using semaglutide or tirzepatide, consult a qualified healthcare provider before adding any research compound.`,
+      },
+      {
+        id: 'stacking-protocol',
+        type: 'h2',
+        heading: 'Full Stacking Protocol: GLP-1 + Research Peptides',
+        content: `<p>The following framework reflects common approaches reported in the research community. It is not a medical protocol and has not been validated in a controlled trial. Individual response varies significantly, and starting doses should always be on the lower end until tolerance is established.</p>
+<p><strong>General principles for this stack:</strong></p>
+<ul>
+  <li>All research peptides must be reconstituted with bacteriostatic water (BAC water) for injection use</li>
+  <li>BPC-157 oral (capsule form) does not require reconstitution</li>
+  <li>Inject CJC-1295 + Ipamorelin fasted (no carbs or fat within 2 hours) to avoid insulin-GH antagonism</li>
+  <li>BPC-157 SubQ can be injected anywhere; oral can be taken anytime</li>
+  <li>TB-500 SubQ is typically injected near the site of greatest connective tissue stress or centrally</li>
+  <li>None of these peptides require the same injection site or timing as semaglutide/tirzepatide</li>
+</ul>`,
+      },
+      {
+        id: 'stacking-protocol-table',
+        type: 'table',
+        tableData: {
+          headers: ['Compound', 'Dose', 'Frequency', 'Timing', 'Phase', 'Notes'],
+          rows: [
+            ['Semaglutide', 'Per prescribing physician', '1× weekly SubQ', 'Any time', 'Ongoing per prescription', 'Follow medical guidance on dose escalation'],
+            ['BPC-157 (oral)', '250–500 mcg', '2× daily', 'With or without food', 'Continuous; start at sema dose escalation', 'Preferred route for gut-specific applications'],
+            ['BPC-157 (SubQ alt.)', '250 mcg', '1–2× daily', 'Any time, fasted preferred', 'Continuous; or pulse during peak GI symptoms', 'Alternative to oral; more systemic distribution'],
+            ['CJC-1295 w/ DAC', '200–500 mcg', '1× weekly SubQ', 'Any day of week; fasted', 'Start after 2 weeks on sema; run 12–16 weeks on / 4 off', 'Easier to manage with weekly GLP-1 schedule'],
+            ['Ipamorelin', '100–300 mcg', '2× daily SubQ', 'Pre-bed + morning fasted', 'Same cycle as CJC-1295', 'Can combine with CJC without DAC in same syringe'],
+            ['TB-500 (loading)', '5 mg', '2× weekly SubQ', 'Any time', 'First 4–6 weeks', 'Higher dose loading phase for connective tissue adaptation'],
+            ['TB-500 (maintenance)', '5 mg', '1× weekly SubQ', 'Any time', 'Weeks 7–16', 'Reduce to maintenance once acute phase complete'],
+          ],
+        },
+      },
+      {
+        id: 'results-chart',
+        type: 'chart',
+        heading: 'Hypothetical Weight Loss Quality: GLP-1 Alone vs. GLP-1 + Peptide Stack',
+        chartData: {
+          title: 'Theoretical Fat vs. Lean Mass Composition of Weight Loss: GLP-1 Alone vs. With Research Peptide Stack',
+          type: 'bar',
+          labels: ['Fat Mass Lost (%)', 'Lean Mass Lost (%)'],
+          datasets: [
+            {
+              label: 'Semaglutide Alone (STEP-1/SEMALEAN Data)',
+              values: [55, 45],
+              color: '#ef4444',
+            },
+            {
+              label: 'Semaglutide + CJC-1295/Ipamorelin (Theoretical)',
+              values: [75, 25],
+              color: '#22c55e',
+            },
+          ],
+          yLabel: '% of Total Weight Lost',
+          note: 'GLP-1 alone data from STEP-1 and SEMALEAN studies [1,2]. Peptide stack projection is theoretical, based on GH/IGF-1 muscle-sparing mechanisms — no controlled RCT has validated this combination. Illustrative only. Bimagrumab-semaglutide BELIEVE trial achieved 92% fat-dominant loss as a validated proof-of-concept for the approach. [11]',
+        },
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Source: Verified Research Peptide Vendors (2026)',
+        content: `<p>Quality control in research peptides is not uniform. The minimum acceptable standard for any peptide you're researching is third-party HPLC purity testing plus mass spectrometry identity confirmation, with batch-specific certificates of analysis publicly available or provided on request. Below are vendors that meet these standards and currently carry the compounds covered in this guide:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157, CJC-1295, Ipamorelin',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'QR-code traceable COA on every product. ISO 17025-accredited dual-lab testing: HPLC, mass spectrometry, endotoxin, sterility, and heavy metals. US-manufactured. Live price tracking vs. competitor vendors built into their system — claims to auto-price below comparable USA-made competitors daily.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules, GHK-Cu, 5-Amino-1MQ',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Same-day shipping on orders placed before 2 PM CST. US-manufactured peptides in both injectable and oral capsule formats. Red thermal mailer cold-chain packaging. COA provided per batch. Capsule forms of BPC-157 are particularly useful for GLP-1 users preferring oral gut-targeted delivery.',
+            badge: 'Fastest Shipping + Oral Forms',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Full peptide catalog including BPC-157, TB-500, Ipamorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98% (money-back guarantee)',
+            highlight: 'Lyophilized in the United States, third-party tested across three independent facilities for identity, purity, and concentration. 98%+ purity guaranteed or full refund. Research-focused product pages include detailed mechanism summaries and research references.',
+            badge: 'Triple-Tested / Money-Back Guarantee',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Ipamorelin, MOTS-C, NAD+, GLP-1S, BAC Water',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Full catalog of third-party tested research compounds. Notable for carrying GLP-1S peptide alongside complementary compounds, making them a one-stop source for researchers studying GLP-1 biology. Free BAC water on orders over $200 — essential for peptide reconstitution. Detailed compound information pages with research citations.',
+            badge: 'GLP-1S + BAC Water Included',
+          },
+        ],
+      },
+      {
+        id: 'buy-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Only:</strong> All vendors listed above sell these compounds strictly for laboratory research purposes. These products are not for human consumption and are not intended to diagnose, treat, cure, or prevent any condition. Always request a batch-specific certificate of analysis before purchasing any research peptide. Use PeptideWiki's comparison tools for live pricing and availability updates.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Can you combine BPC-157 with semaglutide safely for research purposes?',
+            answer: 'No human clinical trial has evaluated BPC-157 + semaglutide specifically, so formal safety data doesn\'t exist for this combination in humans. A 2025 patent application documented by Vukojevic et al. in Pharmaceuticals specifically claims synergistic anti-nausea benefits for the combination, suggesting organized pharmaceutical interest in the combination. In animal models, BPC-157 has not shown interaction effects with GLP-1 compounds. As always, consult a qualified researcher or physician — any combination of research compounds requires careful oversight.',
+          },
+          {
+            question: 'Will CJC-1295 + Ipamorelin completely prevent muscle loss on semaglutide?',
+            answer: 'The honest answer is: we don\'t know, because no controlled trial has studied this specific combination. What we do know: CJC-1295 produces a 2–10× increase in GH and 1.5–3× increase in IGF-1 (Teichman 2006), and IGF-1 is the primary signal for muscle protein synthesis and anti-catabolism. On bimagrumab (a different mechanism), the fat/lean ratio shifted from ~55/45 to ~92/8 when combined with semaglutide (BELIEVE trial). GH secretagogues target the same lean mass preservation goal through a different pathway. Whether they achieve a comparable magnitude of protection awaits clinical study.',
+          },
+          {
+            question: 'Does BPC-157 reduce the effectiveness of semaglutide for weight loss?',
+            answer: 'No evidence suggests BPC-157 interferes with semaglutide\'s weight loss mechanism. BPC-157 acts primarily on the gastric mucosa, enteric nervous system, and tissue repair pathways — not on GLP-1 receptors, appetite centers, or insulin secretion. The 2025 patent application for the combination specifically claims additive or synergistic metabolic benefits, not interference. That said, no human data confirms this either way.',
+          },
+          {
+            question: 'Is it legal to use research peptides alongside a prescribed GLP-1 drug?',
+            answer: 'Semaglutide and tirzepatide are prescription drugs in the US; their use is regulated by your prescribing physician. Research peptides like BPC-157, CJC-1295, Ipamorelin, and TB-500 are legal to purchase for laboratory research in the US but are not FDA-approved for human use. Adding research compounds to a prescription drug regimen without physician oversight raises significant safety concerns and may affect the dosing and monitoring needs of the GLP-1 drug. Discuss any such combination with a qualified healthcare provider.',
+          },
+          {
+            question: 'What is the best peptide to prevent nausea from semaglutide?',
+            answer: 'BPC-157 is the most mechanistically rational choice for semaglutide-induced nausea and GI side effects, based on its documented effects on gastric motility, mucosal protection, and enteric nervous system modulation. Oral capsule forms (250–500 mcg twice daily) may be particularly relevant for gut-localized delivery. However, no clinical trial has validated this specific application — it is currently theoretical and preclinical.',
+          },
+          {
+            question: 'How long should I run CJC-1295 + Ipamorelin while on semaglutide?',
+            answer: 'Standard GH secretagogue protocols run 12–16 weeks on, followed by 4–8 weeks off to maintain receptor sensitivity. For GLP-1 users focused on muscle preservation throughout a multi-month weight loss protocol, the most common research approach is to cycle the GH peptides continuously with those breaks, running them for the duration of the active semaglutide dose escalation and maintenance phases. The GLP-1 drug continues uninterrupted; the GH peptides cycle around it.',
+          },
+          {
+            question: 'Do I need all three peptides, or can I just use one?',
+            answer: 'The three peptides address different problems. If your primary concern is GI side effects during dose escalation, BPC-157 alone is the targeted choice. If muscle preservation is your main goal, CJC-1295 + Ipamorelin is the combination to focus on. TB-500 is the most optional of the three — it becomes most relevant for researchers or patients experiencing joint pain, tendon soreness, or slow recovery from exercise during rapid weight loss. Many in the research community start with BPC-157 during the GI-heavy early phase, then add the GH secretagogues once stable on semaglutide dose.',
+          },
+          {
+            question: 'Does tirzepatide cause more or less muscle loss than semaglutide?',
+            answer: 'Early data suggests tirzepatide may produce slightly better lean mass preservation than semaglutide, despite achieving greater total weight loss. SURMOUNT-1 DXA substudy data indicated that lean mass represented approximately 20–25% of tirzepatide\'s weight loss vs. the 39–45% range seen with semaglutide in some analyses. Tirzepatide\'s dual GIP + GLP-1 mechanism may have additional anabolic properties through GIP receptor signaling. However, the SEMALEAN study (semaglutide-specific) found lean mass stabilized at 12 months even if it declined initially, suggesting the picture is more nuanced than early headlines suggest.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line',
+        content: `<p>GLP-1 receptor agonists represent a genuine revolution in metabolic health — but they are not complete solutions. The muscle loss data, the GI side effect burden, and the connective tissue stress from rapid body recomposition are real problems that the FDA-approved drugs don't address on their own.</p>
+<p>The research peptide community's response — stacking BPC-157, CJC-1295 + Ipamorelin, and TB-500 alongside GLP-1 drugs — is mechanistically coherent. Each compound addresses a specific identified gap: BPC-157 targets the gut, the GH secretagogues target the muscle, and TB-500 targets the connective tissue. A 2025 patent application for the semaglutide + BPC-157 combination shows that even conventional pharma is starting to investigate this combination space. <sup>[6]</sup></p>
+<p>The honest limitations: no controlled human trial has evaluated any of these research peptides specifically in the context of GLP-1 drug use. The evidence is mechanistic, preclinical, and clinical-by-analogy rather than direct. Anyone researching these combinations should do so with appropriate oversight, starting with the lowest effective doses and monitoring for unexpected effects.</p>
+<p>For those currently on semaglutide or tirzepatide who are concerned about muscle loss specifically, the most important actionable insight from the evidence is simpler than any peptide: <strong>resistance training and adequate protein intake (≥1.6g/kg/day) are the most validated tools for lean mass preservation during weight loss</strong>, full stop. Research peptides are a potential enhancement layer on top of that foundation — not a replacement for it.</p>
+<p>For deep dives on the individual peptides: the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack guide (BPC-157 + TB-500)</a> and the <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin stack guide</a> cover the full mechanism, dosage, and sourcing detail for each combination.</p>`,
+      },
+    ],
+  },
+  {
     slug: 'cjc-1295-ipamorelin-stack-guide',
     title: 'CJC-1295 + Ipamorelin: The 2026 Complete Guide to GH Secretagogue Stacking',
     excerpt:
