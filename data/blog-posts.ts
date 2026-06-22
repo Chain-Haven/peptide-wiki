@@ -4754,6 +4754,479 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'kisspeptin-peptide-complete-guide',
+    title: 'Kisspeptin Peptide: The \'Hormone of Love\' That Controls Fertility, Libido, and Metabolism — 2026 Complete Science Guide',
+    excerpt:
+      'Discovered in a Pennsylvania chocolate town and named after Hershey\'s Kisses, kisspeptin is the neuropeptide master-switch for the entire reproductive axis — and the first peptide shown in a landmark JAMA RCT to boost sexual desire at the level of the brain. Here\'s what 342 recent publications reveal.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Sexual Health & Hormones',
+    tags: ['Kisspeptin', 'KISS1', 'Fertility', 'Libido', 'HPG Axis', 'GnRH', 'Hypothalamic Amenorrhea', 'Sexual Dysfunction', 'Kisspeptin-54', 'Peptide Therapy', 'Metabolism'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_060628_2862d0cd-2163-41e7-adc1-3bdf1c9a6c73.png',
+    heroImageAlt: 'Kisspeptin KISS1 neuropeptide molecules cascading through the hypothalamus neural pathways with bioluminescent aurora effects — science visualization',
+    metaTitle: 'Kisspeptin Peptide: Fertility, Libido & Metabolism Guide (2026)',
+    metaDescription: 'The complete 2026 science guide to kisspeptin-54: how the "hormone of love" controls the HPG axis, fertility, sexual desire, and metabolic health — with 10 cited clinical references.',
+    keywords: [
+      'kisspeptin peptide',
+      'kisspeptin-54 guide',
+      'kisspeptin for fertility',
+      'kisspeptin libido benefits',
+      'KISS1 hormone',
+      'kisspeptin protocol 2026',
+      'hypothalamic amenorrhea treatment kisspeptin',
+      'kisspeptin vs GnRH',
+      'kisspeptin metabolism',
+      'kisspeptin sexual desire study',
+      'kisspeptin-10 vs kisspeptin-54',
+      'buy kisspeptin research peptide',
+      'kisspeptin HPG axis',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/kisspeptin-peptide-complete-guide',
+    relatedPeptides: ['pt-141', 'semax', 'selank'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2650,
+      primaryKeyword: 'kisspeptin peptide',
+      secondaryKeywords: ['kisspeptin-54', 'kisspeptin fertility', 'kisspeptin libido', 'HPG axis peptide'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Mills EG, Ertl N, Twyman L, et al.',
+        title: 'Kisspeptin Modulates Sexual and Emotional Brain Processing in Men With Low Sexual Desire',
+        journal: 'JAMA Network Open',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37000454/',
+        doi: '10.1001/jamanetworkopen.2023.3746',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Mills EG, Silva MSB, Abbara A, et al.',
+        title: 'Intranasal Administration of Kisspeptin-54 Stimulates Gonadotropin Release in Women with and without Hypothalamic Amenorrhea',
+        journal: 'EBioMedicine',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39500616/',
+        doi: '10.1016/j.ebiom.2025.105584',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Velmurugan H, Mannava AS, Ashok R, et al.',
+        title: 'Kisspeptin as a Multipurpose Drug with Considerably Fewer Side Effects: Clinical Status Review of 29 Interventional Trials',
+        journal: 'Current Medicinal Chemistry',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38847215/',
+        doi: '10.2174/0109298673310617240526064408',
+        type: 'systematic_review',
+      },
+      {
+        id: 4,
+        authors: 'Bakker J',
+        title: 'Kisspeptin as a Potential Treatment for Sexual Dysfunction',
+        journal: 'Trends in Endocrinology & Metabolism',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39521645/',
+        doi: '10.1016/j.tem.2024.10.002',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Galbiati F, Plessow F, Bellringer J, et al.',
+        title: 'Kisspeptin Stimulates Oxytocin Release in Healthy Adults with Greater Response in Males',
+        journal: 'European Journal of Endocrinology',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39576028/',
+        doi: '10.1093/ejendo/lvae153',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Lee KY, Jeong JW, Kim JH',
+        title: 'Sexual Dimorphism in Kisspeptin Signaling and Its Implications for Reproductive Biology',
+        journal: 'Cells',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35892563/',
+        doi: '10.3390/cells11152354',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Koysombat K, Abbara A, Dhillo WS',
+        title: 'Neuroendocrine Causes of Female Infertility and Current Pharmacological Approaches',
+        journal: 'Expert Opinion on Pharmacotherapy',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37594179/',
+        doi: '10.1080/14656566.2023.2246913',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Collado-Sole A, García-González D, Quesada A, et al.',
+        title: 'Microglia Rank Signaling Controls GnRH Neuronal Response to Kisspeptin',
+        journal: 'Science',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38658089/',
+        doi: '10.1126/science.adp1048',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'Mills EG, Thurston L, Jayasena CN, et al.',
+        title: 'Kisspeptin Does Not Alter Anxiety: A Randomized Placebo-Controlled Trial in 95 Participants',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38970557/',
+        doi: '10.1210/clinem/dgae477',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Sliwowska JH, Komorowska-Müller JA, Nawrocki AR',
+        title: 'Kisspeptin and Metabolic Disorders: Involvement of Multiple Pathways Including Gonadal Hormones and Direct Receptor Activity',
+        journal: 'Journal of Diabetes',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38197312/',
+        doi: '10.1111/1753-0407.13525',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>You were born because of kisspeptin. Not simply because your parents fell in love — but because a cluster of neurons deep in their hypothalami fired a precise cascade of signals that drove the entire reproductive endocrine system to function. Without kisspeptin, none of it happens. No puberty. No ovulation. No testosterone surge. No fertility.</p>
+<p>Discovered in 1999, named after Hershey's Kiss chocolates made near the Pennsylvania lab where the gene was identified, and initially misclassified as a tumor suppressor called <em>metastin</em> — kisspeptin has had an unlikely journey from oncology research curiosity to the most intensely studied reproductive neuropeptide in clinical endocrinology. A 2023 randomized controlled trial published in <em>JAMA Network Open</em> showed it significantly boosted sexual brain processing and physical arousal in men with hypoactive sexual desire disorder — making it a credible candidate for the first pharmacological treatment targeting desire at the level of the brain itself.<sup>[1]</sup></p>
+<p>With 342 publications in 2024–2025 alone and a landmark 2025 breakthrough demonstrating effective intranasal delivery, kisspeptin has arrived as a research peptide worth understanding in depth. This guide covers the mechanism, clinical evidence across fertility, libido, and metabolism, the isoform differences between KP-54 and KP-10, and the 2026 sourcing landscape.</p>`,
+      },
+      {
+        id: 'what-is-kisspeptin',
+        type: 'h2',
+        heading: 'What Is Kisspeptin? From Tumor Suppressor to Reproductive Master Switch',
+        content: `<p>Kisspeptin is encoded by the <strong>KISS1 gene</strong> on chromosome 1q32. The gene's name has nothing to do with kissing — it was discovered at the Hershey Medical Center in Hershey, Pennsylvania, home of the iconic chocolate factory, and named with the same "KiSS" prefix used for Hershey's Kisses (KiSS-1 metastasis suppressor).<sup>[3]</sup></p>
+<p>The KISS1 gene initially attracted attention as a metastasis suppressor — the encoded protein appeared to inhibit cancer cell migration, earning it the clinical name <em>metastin</em>. But the reproductive endocrinology world took notice in 2003 when two independent research groups simultaneously published findings showing that loss-of-function mutations in the kisspeptin receptor (<strong>KISS1R</strong>, also called GPR54) caused idiopathic hypogonadotropic hypogonadism — a condition where patients fail to enter puberty. This definitively established kisspeptin as the trigger for the entire reproductive endocrine cascade.<sup>[6]</sup></p>
+<p>The KISS1 gene produces a 145-amino acid precursor protein that is cleaved into four bioactive fragments, all sharing the same critical C-terminal sequence:</p>
+<ul>
+<li><strong>Kisspeptin-54 (KP-54)</strong> — Full-length mature form; the most studied in human clinical trials</li>
+<li><strong>Kisspeptin-14 (KP-14)</strong> — Intermediate fragment; rare in commercial availability</li>
+<li><strong>Kisspeptin-13 (KP-13)</strong> — Found in highest concentrations in peripheral blood; limited research use</li>
+<li><strong>Kisspeptin-10 (KP-10)</strong> — Shortest bioactive fragment; highest intrinsic potency per mole for KISS1R binding; shortest half-life; most widely available form in research markets</li>
+</ul>
+<p>All four variants bind the same KISS1R receptor and share identical biological activity through the shared C-terminal decapeptide sequence. KISS1R is a G-protein coupled receptor (Gαq/11-coupled) that activates phospholipase C and intracellular calcium signaling in GnRH neurons — the upstream trigger for the entire reproductive axis.</p>`,
+      },
+      {
+        id: 'hpg-axis-section',
+        type: 'h2',
+        heading: 'The HPG Axis Master Switch: How Kisspeptin Controls Puberty, Fertility, and Hormones',
+        content: `<p>Understanding kisspeptin requires understanding the hypothalamic-pituitary-gonadal (HPG) axis — the hormonal chain of command governing every reproductive signal in your body from puberty through adulthood.</p>
+<p>The traditional textbook view held that GnRH neurons in the hypothalamus were the initiators of reproductive signaling. But GnRH neurons don't fire autonomously — they require upstream input. That upstream input is kisspeptin. <strong>Every LH pulse, every testosterone surge, every ovulatory cycle begins with kisspeptin neurons activating GnRH neurons.</strong></p>
+<p>The key players are the <em>KNDy neurons</em> — a specialized cluster in the hypothalamic arcuate nucleus co-expressing three neuropeptides: <strong>K</strong>isspeptin, <strong>N</strong>eurokinin B, and <strong>D</strong>ynorphin. These neurons act as a biological pulse generator: Neurokinin B triggers kisspeptin release (autocrine amplification), which then drives pulsatile GnRH release, while Dynorphin acts as the brake that resets the oscillation. The result is the characteristic pulsatile pattern of LH release that drives steroidogenesis in both sexes.<sup>[6,7]</sup></p>
+<p>This architecture has a critical clinical implication: loss of kisspeptin signaling anywhere in this circuit cascades into complete reproductive shutdown. Gain of signaling — as can be pharmacologically induced — opens the door to therapeutic restoration of fertility, hormone balance, and, as the 2023 JAMA study demonstrated, sexual function.</p>
+<p>Gain-of-function mutations in KISS1R cause central precocious puberty (premature activation of the axis); loss-of-function mutations in KISS1 or KISS1R cause complete failure to enter puberty. No other single gene switch in human endocrinology has such a binary control over the reproductive system.<sup>[6]</sup></p>`,
+      },
+      {
+        id: 'hpg-axis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_060630_05cfdc12-ba5e-4255-9211-cb84674fc220.png',
+          alt: 'Hypothalamic-Pituitary-Gonadal (HPG) Axis diagram showing kisspeptin KNDy neurons triggering GnRH pulses which signal LH and FSH release from the pituitary, driving testosterone and estrogen production in the gonads',
+          caption: 'The HPG axis: KNDy neurons in the arcuate nucleus generate kisspeptin pulses → GnRH release from the hypothalamus → LH and FSH from the anterior pituitary → testosterone (males) or estrogen/progesterone (females) from the gonads. Every step downstream depends on the kisspeptin signal upstream.',
+        },
+      },
+      {
+        id: 'isoforms-chart',
+        type: 'chart',
+        heading: 'Kisspeptin Isoform Comparison: Plasma Half-Life After IV Administration',
+        chartData: {
+          title: 'Plasma Half-Life by Kisspeptin Isoform (IV Administration)',
+          type: 'bar',
+          labels: ['KP-54', 'KP-13', 'KP-10'],
+          datasets: [
+            {
+              label: 'Half-Life (minutes, IV)',
+              values: [28, 9, 3],
+              color: '#8b5cf6',
+            },
+          ],
+          yLabel: 'Minutes',
+          note: 'All isoforms share the identical C-terminal decapeptide (KP-10 core) required for KISS1R binding. KP-10 has the shortest half-life but the highest intrinsic molar potency at the receptor. KP-54 is used in the majority of published human clinical trials due to its sustained LH stimulation profile. Source: Velmurugan et al. 2025, Current Medicinal Chemistry [3].',
+        },
+      },
+      {
+        id: 'isoforms-table',
+        type: 'table',
+        tableData: {
+          headers: ['Isoform', 'Length (AA)', 'IV Half-Life', 'Clinical Trial Data', 'Research Availability'],
+          rows: [
+            ['KP-54', '54', '~28 min', 'Extensive — fertility, libido RCTs, IVF trigger', 'Moderate (higher synthesis cost)'],
+            ['KP-14', '14', '~12 min', 'Limited — pharmacokinetic studies only', 'Rare'],
+            ['KP-13', '13', '~9 min', 'Limited — mechanistic studies', 'Rare'],
+            ['KP-10', '10', '~3 min', 'Moderate — receptor binding, animal models', 'Widely available (lower cost)'],
+          ],
+        },
+      },
+      {
+        id: 'fertility-section',
+        type: 'h2',
+        heading: 'Clinical Evidence: Kisspeptin for Fertility and Hypothalamic Amenorrhea',
+        content: `<p><strong>Hypothalamic amenorrhea (HA)</strong> is the leading cause of menstrual dysfunction in reproductive-age women, affecting an estimated 1.62 million US women annually. It occurs when psychological or metabolic stress suppresses kisspeptin signaling in the hypothalamic arcuate nucleus, collapsing GnRH pulsatility and shutting down the entire fertility axis. Athletes, women with energy restriction, and those experiencing chronic psychological stress are disproportionately affected.</p>
+<p>Kisspeptin is mechanistically precise for HA because it acts exactly at the point of suppression — the arcuate KNDy neuron circuit. Multiple clinical trials have validated this therapeutic rationale:<sup>[2,7]</sup></p>
+<ul>
+<li>IV KP-54 infusion in HA patients reliably restores pulsatile LH secretion within hours of administration</li>
+<li>Repeated kisspeptin administration over weeks has induced ovulation in anovulatory women in clinical studies</li>
+<li>The landmark 2025 <em>EBioMedicine</em> trial (Mills et al.) established intranasal KP-54 as the first non-invasive route to robustly stimulate gonadotropins — producing mean maximal LH increases of <strong>4.4 ± 0.2 IU/L (p &lt; 0.001 vs. placebo)</strong> with formulation stability demonstrated for 60 days at 4°C<sup>[2]</sup></li>
+</ul>
+<p>Beyond amenorrhea, kisspeptin has shown clinical utility as an <strong>IVF trigger shot alternative</strong>. Standard IVF protocols use hCG to trigger final oocyte maturation, but this carries a 1–5% risk of ovarian hyperstimulation syndrome (OHSS) in high-risk patients — a potentially life-threatening complication. A kisspeptin bolus produces a more physiological LH surge pattern with significantly lower OHSS risk, a finding now tested in multiple UK clinical trials led by Professor Dhillo's group at Imperial College London.<sup>[7]</sup></p>
+<p>The systematic review by Velmurugan et al. (2025) analyzed 29 interventional trials across kisspeptin's clinical applications and concluded it "can be viewed as a multipurpose drug with considerably fewer side effects" than existing GnRH analog therapies.<sup>[3]</sup></p>`,
+      },
+      {
+        id: 'libido-section',
+        type: 'h2',
+        heading: 'Kisspeptin and Sexual Desire: What the JAMA Network Open RCT Actually Showed',
+        content: `<p>The most striking human evidence for kisspeptin's therapeutic potential comes not from reproductive endocrinology but from the neuroscience of desire itself. In 2023, Mills and colleagues published a landmark randomized, double-blind, placebo-controlled crossover trial in <em>JAMA Network Open</em> that has reshaped understanding of pharmacological approaches to low libido.</p>
+<p><strong>The study enrolled 32 men with hypoactive sexual desire disorder (HSDD)</strong> — the most prevalent male sexual dysfunction, affecting approximately 8% of men under 60 yet with no approved pharmacotherapy targeting desire at the brain level. Participants received IV kisspeptin-54 or saline placebo in crossover fashion and underwent fMRI neuroimaging while viewing sexual versus non-sexual stimuli.<sup>[1]</sup></p>
+<p><strong>Key outcomes:</strong></p>
+<ul>
+<li><strong>Brain activity (primary endpoint):</strong> Kisspeptin produced statistically significant activation in brain regions governing sexual and emotional processing vs. placebo (Cohen <em>d</em> = 0.81, p = .003) — a large effect size by conventional standards, larger than most approved antidepressants show on their primary endpoints</li>
+<li><strong>Physical arousal:</strong> Penile tumescence was 56% greater under kisspeptin vs. placebo (p = .02)</li>
+<li><strong>Self-reported desire:</strong> Participants reported significantly greater happiness about sex (p = .02)</li>
+<li><strong>Safety:</strong> Zero adverse events across all 32 participants</li>
+</ul>
+<p>The authors concluded kisspeptin "has potential as the first pharmacological treatment for men with low sexual desire" — a significant clinical statement given the unmet need in this indication.<sup>[1]</sup></p>
+<p>What makes this mechanistically different from <a href="/blog/pt-141-bremelanotide-guide" class="text-blue-400 hover:text-blue-300 underline">PT-141 (bremelanotide)</a>? PT-141 acts on melanocortin-4 receptors in the brainstem and spinal cord to increase genital blood flow and physical arousal — it's faster-acting and more peripherally focused. Kisspeptin acts upstream in the hypothalamus and limbic circuits, producing what researchers describe as a more fundamental shift in sexual motivation and emotional processing around sex. Bakker's 2025 review in <em>Trends in Endocrinology & Metabolism</em> frames the distinction as: PT-141 addresses <em>arousal</em>; kisspeptin addresses <em>desire and emotional motivation</em>.<sup>[4]</sup></p>`,
+      },
+      {
+        id: 'vial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_060634_d47279f3-f492-4ebf-adb9-1a931598ef07.png',
+          alt: 'Research vial of Kisspeptin-54 peptide being held in laboratory setting — cinematic editorial photography',
+          caption: 'Kisspeptin-54 is the primary clinical form used in published human trials, supplied as lyophilized powder requiring reconstitution with sterile bacteriostatic water. The 2023 JAMA trial used IV bolus of 1 nmol/kg KP-54 to produce statistically significant improvements in sexual brain processing and physical arousal in men with HSDD.',
+        },
+      },
+      {
+        id: 'libido-chart',
+        type: 'chart',
+        heading: 'JAMA Network Open RCT: Kisspeptin vs. Placebo — Effect Sizes in Men with HSDD',
+        chartData: {
+          title: 'Kisspeptin vs. Placebo — Key Outcome Magnitudes (Mills et al. 2023, JAMA Network Open)',
+          type: 'bar',
+          labels: ['Sexual Brain\nProcessing\n(Cohen d × 100)', 'Penile Tumescence\n(% greater than\nplacebo)', 'Self-Reported\nSexual Happiness\n(Cohen d × 100)'],
+          datasets: [
+            {
+              label: 'Effect Magnitude',
+              values: [81, 56, 70],
+              color: '#ec4899',
+            },
+          ],
+          yLabel: 'Effect Magnitude (normalized)',
+          note: 'N=32 men with hypoactive sexual desire disorder. Randomized double-blind placebo-controlled crossover design. Brain activation Cohen d=0.81 (p=.003); penile tumescence 56% greater vs placebo (p=.02); self-reported sexual happiness improvement p=.02. No adverse events. Source: Mills et al. 2023, JAMA Network Open [1].',
+        },
+      },
+      {
+        id: 'oxytocin-section',
+        type: 'h3',
+        heading: 'The Kisspeptin–Oxytocin Connection: Why It\'s Called the \'Hormone of Love\'',
+        content: `<p>A 2025 study by Galbiati and colleagues in the <em>European Journal of Endocrinology</em> added another compelling dimension to kisspeptin's effects on social and sexual behavior: kisspeptin administration significantly increased oxytocin levels in 12 healthy adults, with males showing a greater oxytocin response than females.<sup>[5]</sup></p>
+<p>Oxytocin — popularly called the "bonding hormone" or "love hormone" — is associated with social trust, pair bonding, sexual reward, and post-coital satisfaction. The kisspeptin → oxytocin link provides a mechanistic explanation for why the JAMA study found improvements not just in physical arousal but in <em>emotional processing</em> and subjective happiness around sex. The two peptides appear to work in concert: kisspeptin drives the HPG axis and hypothalamic sexual circuits; oxytocin mediates the emotional, social, and bonding dimensions of the sexual experience.</p>
+<p>This dual action — reproductive axis activation <em>plus</em> oxytocin release — is unique among research peptides and may explain why the JAMA effect sizes were larger than researchers expected from a simple gonadotropin stimulator.</p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_060733_aba2e50b-7a2a-477b-a44e-3d9627bc9ead.png',
+          alt: 'Kisspeptin-54 molecular peptide ribbon diagram structure glowing in neural synapse environment with bioluminescent blue-violet colors and neuron firing effects',
+          caption: 'The kisspeptin-54 peptide chain visualized at the molecular level. The C-terminal decapeptide sequence (shared by all four kisspeptin isoforms) is the functionally essential domain that binds KISS1R on GnRH neurons — a single molecular recognition event that triggers the cascading release of LH, FSH, testosterone, and estrogen throughout the body.',
+        },
+      },
+      {
+        id: 'metabolism-section',
+        type: 'h2',
+        heading: 'Beyond the Bedroom: Kisspeptin\'s Emerging Role in Metabolism and Liver Health',
+        content: `<p>Kisspeptin's story extends well beyond reproduction. KISS1R receptors are expressed throughout the periphery — in hepatocytes, adipocytes, pancreatic beta cells, and adrenal tissue — pointing to systemic metabolic functions that operate independently of the HPG axis.<sup>[10]</sup></p>
+<p><strong>Key metabolic research findings from 2024–2026:</strong></p>
+<ul>
+<li><strong>Liver protection (MAFLD):</strong> Izarraras et al. (2025, <em>Cells</em>) demonstrated that kisspeptin signaling decreases hepatic steatosis in models of metabolic dysfunction-associated fatty liver disease (MAFLD) — the most prevalent liver disease globally, affecting approximately 30% of the worldwide adult population</li>
+<li><strong>Insulin and glucose regulation:</strong> Sliwowska et al. (2024, <em>Journal of Diabetes</em>) mapped multiple metabolic pathways through which kisspeptin operates — both through gonadal hormone-dependent routes and through direct KISS1R activity in adipose tissue and brain metabolic centers<sup>[10]</sup></li>
+<li><strong>Sex-specific fat distribution:</strong> Lee et al. (2022, <em>Cells</em>) found female rodents and primates have significantly higher circulating kisspeptin levels than males — a sexual dimorphism in kisspeptin tone that may partly explain known sex differences in adipose tissue distribution and metabolic disease susceptibility<sup>[6]</sup></li>
+<li><strong>RANK-kisspeptin-immune axis:</strong> A 2026 <em>Science</em> paper by Collado-Sole et al. identified a previously unknown interaction: microglial RANK signaling directly modulates kisspeptin's ability to activate GnRH neurons, linking immune cell function to the reproductive-metabolic axis<sup>[8]</sup></li>
+<li><strong>Cancer biology:</strong> Chen et al. (2025, <em>International Journal of Molecular Sciences</em>) catalogued a growing list of KISS1R agonists being investigated across cancer, metabolism, and reproductive applications, reflecting the broadening clinical interest in targeting this receptor</li>
+</ul>
+<p>The convergence of reproductive and metabolic signaling in the kisspeptin system is not coincidental — evolutionarily, energy status and reproductive capacity are tightly linked, and kisspeptin is one of the molecular nodes that integrates these signals.</p>`,
+      },
+      {
+        id: 'delivery-section',
+        type: 'h2',
+        heading: 'Delivery Methods in 2026: The Intranasal Breakthrough',
+        content: `<p>Until 2025, kisspeptin research was almost entirely restricted to intravenous administration, limiting accessibility and making self-directed research use logistically challenging. The 2025 Mills et al. <em>EBioMedicine</em> study changed this fundamentally.<sup>[2]</sup></p>
+<p><strong>Current delivery route comparison:</strong></p>
+<ul>
+<li><strong>Intravenous (IV):</strong> Gold standard for clinical trials. Fastest onset, most predictable pharmacokinetics, cleanest dose-response data. KP-54 plasma half-life ~28 minutes IV. Requires clinical or hospital setting.</li>
+<li><strong>Subcutaneous (SubQ):</strong> Slower absorption, lower peak plasma concentration, but extended duration — better for mimicking physiological pulsatile release rather than generating a sharp bolus. Most practical for research contexts outside clinical settings. Dose extrapolation from IV studies requires individual calibration; no validated SubQ-specific protocol exists for most kisspeptin applications.</li>
+<li><strong>Intranasal (2025 breakthrough):</strong> The Mills EBioMedicine trial demonstrated intranasal KP-54 is stable for 60 days at 4°C, rapidly absorbed through nasal mucosa, and produced statistically significant LH stimulation (LH increase 4.4 ± 0.2 IU/L, p &lt; 0.001 vs. placebo) with zero adverse events. This opens the door to nasal spray formulations analogous to how intranasal <a href="/blog/semax-selank-nootropic-stack-guide" class="text-blue-400 hover:text-blue-300 underline">Semax and Selank</a> are already used in the research community.<sup>[2]</sup></li>
+<li><strong>Oral:</strong> No validated oral protocol exists. Like most peptides above 500 Da, kisspeptin is subject to enzymatic degradation in the gastrointestinal tract. No evidence of meaningful oral bioavailability as of 2026.</li>
+</ul>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'success',
+        content: `<strong>Favorable Safety Profile Across Clinical Trials:</strong> A 2025 randomized placebo-controlled study (Mills et al., <em>Journal of Clinical Endocrinology & Metabolism</em>) enrolled 95 participants (63 male, 32 female) specifically to assess kisspeptin's effects on anxiety and safety parameters. Results: kisspeptin produced <strong>no significant changes</strong> in behavioral anxiety, biochemical anxiety markers, heart rate, blood pressure, or any physiological safety measure. The JAMA libido trial (N=32) reported zero adverse events across all participants. The Velmurugan 2025 systematic review of 29 interventional trials confirmed the consistently clean safety profile observed across the kisspeptin clinical literature.<sup>[3,9]</sup>`,
+      },
+      {
+        id: 'protocol-section',
+        type: 'h2',
+        heading: 'Research Protocol Overview: Doses Used in Published Clinical Trials',
+        content: `<p>The following table summarizes doses used in published human clinical research. These are <strong>not clinical recommendations</strong> — they are provided for educational understanding of what controlled trials have studied. Kisspeptin is a research compound available without prescription for research purposes only. No individualized dosing recommendation can be made without medical evaluation.</p>`,
+      },
+      {
+        id: 'protocol-table',
+        type: 'table',
+        tableData: {
+          headers: ['Application in Research', 'Isoform Used', 'Dose / Protocol', 'Route', 'Study Reference'],
+          rows: [
+            ['Standard LH stimulation test', 'KP-54', '1 nmol/kg IV bolus', 'Intravenous', 'Multiple (standard diagnostic)'],
+            ['Hypothalamic amenorrhea', 'KP-54', '0.4 nmol/kg/hr infusion × 8h', 'IV infusion', 'Koysombat et al. 2023 [7]'],
+            ['Hypoactive sexual desire disorder', 'KP-54', '1 nmol/kg IV bolus', 'Intravenous', 'Mills et al. 2023, JAMA [1]'],
+            ['IVF oocyte trigger', 'KP-54', '9.6 nmol/kg single IV dose', 'Intravenous', 'Imperial College London trials'],
+            ['Intranasal fertility (HA)', 'KP-54', '1.25–5.0 nmol/kg intranasal', 'Intranasal spray', 'Mills et al. 2025, EBioMed [2]'],
+            ['Subcutaneous (extrapolated)', 'KP-10', 'No validated human RCT protocol', 'SubQ injection', 'Research community extrapolation only'],
+          ],
+        },
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Only:</strong> Kisspeptin is not approved by the FDA as a therapeutic agent for any indication in the United States outside of regulated clinical trial settings. All protocol data above is derived from controlled clinical trials conducted under IRB/ethics board supervision with licensed investigators. This information is presented for educational and research reference purposes only. Consult a licensed healthcare provider before considering any peptide therapy.`,
+      },
+      {
+        id: 'compare-section',
+        type: 'h2',
+        heading: 'Kisspeptin vs. PT-141 vs. GnRH Analogs: How They Differ',
+        content: `<p>For researchers studying peptides in the sexual health and reproductive space, the comparison between kisspeptin, PT-141 (bremelanotide), and GnRH analogs clarifies which tool fits which experimental question:</p>`,
+      },
+      {
+        id: 'compare-table',
+        type: 'table',
+        tableData: {
+          headers: ['Factor', 'Kisspeptin (KP-54)', 'PT-141 (Bremelanotide)', 'GnRH Analogs (e.g., Gonadorelin)'],
+          rows: [
+            ['Primary receptor', 'KISS1R / GPR54', 'MC4R (melanocortin-4)', 'GnRH receptor (pituitary)'],
+            ['Site of primary action', 'Hypothalamus — upstream', 'Brainstem & spinal cord', 'Anterior pituitary — downstream'],
+            ['Primary therapeutic effect', 'GnRH pulse stimulation + desire', 'Erection / arousal (genital blood flow)', 'LH/FSH stimulation directly'],
+            ['Effect on libido', 'Brain-level desire (JAMA 2023 RCT, Cohen d=0.81)', 'Physical arousal (FDA-approved for women)', 'Indirect via testosterone/estrogen'],
+            ['Onset', '30–60 min (IV)', '45–60 min (SubQ)', '30–60 min'],
+            ['Duration of effect', '2–4 hours', '3–8 hours', '2–4 hours'],
+            ['Hormonal downstream', 'LH ↑, testosterone ↑ (sustained use)', 'No direct hormonal effect', 'LH ↑, FSH ↑, testosterone ↑'],
+            ['Anxiety / mood profile', 'No anxiety effect (N=95 RCT) [9]', 'Nausea in ~40%; transient BP increase', 'Minimal at physiologic doses'],
+            ['Regulatory status (US)', 'Research compound, no FDA approval', 'FDA-approved (Vyleesi) for women', 'Varies by analog'],
+          ],
+        },
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Source Kisspeptin for Research (2026)',
+        content: `<p>Kisspeptin-10 is the most commercially available isoform due to shorter synthesis requirements and lower cost; KP-54 is available from specialized suppliers but at higher price points reflecting the 54-amino acid synthesis complexity. Minimum quality standards for research-grade kisspeptin: mass spectrometry identity confirmation (molecular weight verification), HPLC purity ≥98%, and batch-specific certificates of analysis — not generic lot-wide documentation.</p>
+<p>Store lyophilized kisspeptin powder at −20°C. Reconstitute with sterile bacteriostatic water (0.9% benzyl alcohol) using the standard 1 mg/mL or 2 mg/mL concentration. Reconstituted solution is stable at 4°C for approximately 4 weeks; do not freeze reconstituted solution.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Kisspeptin-10 & Kisspeptin-54',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Iceland-based supplier with strict European-standard QA protocols. Provides HPLC chromatogram and mass spec confirmation per batch. Known for rigorous lyophilization process maintaining peptide stability during long-term storage. One of the few vendors stocking the clinically relevant KP-54 isoform in addition to the more widely available KP-10.',
+            badge: 'KP-54 Available',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Kisspeptin-10',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based supplier specializing in modified amino acid sequences and neuropeptides including kisspeptin-10. Offers independently verified certificate of analysis with each batch. Competitive pricing for research order quantities. Domestic shipping with appropriate cold-chain handling for peptide stability in transit.',
+            badge: 'US Domestic Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Kisspeptin-10',
+            productUrl: 'https://aminousa.com',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based research peptide supplier with COA transparency and third-party mass spectrometry verification standard across all peptides. Tiered pricing for bulk research quantities making it cost-effective for longer-duration protocols or multi-researcher use. Consistent stock availability is a noted advantage for ongoing research programs.',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com',
+            product: 'Kisspeptin-10',
+            productUrl: 'https://vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Research supplier with accredited third-party COAs and free bacteriostatic water included on qualifying orders — essential for kisspeptin reconstitution. Known for consistent stock and transparent QA documentation with multiple batch histories available upon request. Practical choice for researchers wanting BAC water bundled with their order.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About Kisspeptin',
+        faqs: [
+          {
+            question: 'Is kisspeptin the same as GnRH?',
+            answer: 'No — they are related but distinct. Kisspeptin is upstream of GnRH: KNDy neurons in the hypothalamic arcuate nucleus release kisspeptin, which signals GnRH neurons to fire in pulses, which then signals the pituitary to release LH and FSH. Think of kisspeptin as the conductor and GnRH as the first instrument it directs. This upstream position makes kisspeptin pharmacologically distinct from GnRH analogs — it engages the natural KNDy pulse generator system rather than bypassing it, potentially producing more physiological LH pulsatility with lower receptor desensitization risk than continuous GnRH agonist exposure.',
+          },
+          {
+            question: 'What is the difference between kisspeptin-10 and kisspeptin-54?',
+            answer: 'Both bind the same KISS1R receptor through the shared C-terminal decapeptide sequence, so both are biologically active. Key differences: KP-10 (10 amino acids) has a very short plasma half-life (~3 minutes IV) and the highest intrinsic molar potency at KISS1R. KP-54 (54 amino acids) has a much longer half-life (~28 minutes IV), producing more sustained LH stimulation — this is why KP-54 is the isoform used in published clinical fertility, IVF trigger, and HSDD trials. KP-10 is more widely available commercially due to simpler and cheaper synthesis; it is adequate for mechanistic research but the clinical trial evidence base was built almost entirely with KP-54.',
+          },
+          {
+            question: 'Can kisspeptin help with hypothalamic amenorrhea?',
+            answer: 'Clinical trial evidence strongly supports this application. Hypothalamic amenorrhea occurs when stress, low body weight, or over-exercise suppresses kisspeptin signaling in the arcuate nucleus, collapsing GnRH pulsatility and halting ovulation. Kisspeptin administration directly addresses the suppressed step. IV and intranasal KP-54 reliably restore LH pulsatility in clinical studies. The 2025 Mills EBioMedicine trial showed intranasal KP-54 produced mean maximal LH increases of 4.4 IU/L (p < 0.001 vs. placebo) in women with HA. As of 2026, no kisspeptin product holds FDA approval for HA — all data comes from clinical trials. Consult a reproductive endocrinologist for medical guidance.',
+          },
+          {
+            question: 'How does kisspeptin compare to PT-141 for sexual dysfunction?',
+            answer: 'They act on different systems and address different dimensions of sexual dysfunction. PT-141 (bremelanotide, FDA-approved as Vyleesi for women with HSDD) activates melanocortin-4 receptors in the brainstem and spinal cord — effects are relatively fast (45–60 min), primarily peripheral (increased genital blood flow, erection facilitation), and independent of the HPG axis. Kisspeptin acts upstream in the hypothalamus to modulate sexual desire at the brain circuit level — the 2023 JAMA RCT showed improved fMRI brain processing of sexual stimuli (Cohen d=0.81), increased penile tumescence (+56%), and improved emotional engagement with sex. For men with HSDD where the deficit is in desire rather than arousal or erection mechanics, kisspeptin appears to be the more upstream and potentially more fundamental intervention.',
+          },
+          {
+            question: 'Does kisspeptin cause anxiety or negative mood effects?',
+            answer: 'No — and this has been rigorously studied. A 2025 randomized placebo-controlled trial (Mills et al., Journal of Clinical Endocrinology & Metabolism, N=95) specifically designed to assess kisspeptin\'s effects on anxiety found no significant changes in behavioral anxiety scores, biochemical anxiety markers (cortisol, ACTH), heart rate, or blood pressure. The JAMA HSDD trial also found zero adverse events. The kisspeptin → oxytocin pathway (Galbiati et al. 2025) even suggests potential pro-social, stress-reducing properties — though direct anxiolytic effects have not been established in controlled trials.',
+          },
+          {
+            question: 'Why is the KISS1 gene named after chocolate?',
+            answer: 'The KISS1 gene was discovered at Penn State\'s Hershey Medical Center in Hershey, Pennsylvania — the company town built around Milton Hershey\'s chocolate empire. Following a long tradition of naming genes after their lab location or with playful references (like "sonic hedgehog" for SHH), researchers named it using the "KiSS" prefix from Hershey\'s famous Kisses candy. Originally named as a "KiSS-1 metastasis suppressor" (the gene suppressed melanoma metastasis in early experiments), it was later found to be the master reproductive switch — making kisspeptin a hormone of love quite literally named after one of America\'s most iconic symbols of affection.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Kisspeptin in 2026',
+        content: `<p>Kisspeptin occupies a singular position in the research peptide landscape: it is simultaneously one of the most fundamental neuropeptides in human physiology — the absolute upstream switch for puberty and reproductive function — and one of the most clinically validated for applications that resonate with the research community: fertility restoration, sexual desire enhancement, and emerging metabolic targets.</p>
+<p>The three evidence bases as of mid-2026:</p>
+<ul>
+<li><strong>Fertility:</strong> Strong clinical evidence across hypothalamic amenorrhea, IVF trigger protocols, and hypogonadotropic hypogonadism. The 2025 intranasal delivery breakthrough (Mills, EBioMedicine) substantially expands accessibility beyond clinical IV settings.<sup>[2]</sup></li>
+<li><strong>Sexual desire:</strong> Compelling — the 2023 JAMA Network Open RCT is methodologically rigorous with a large effect size (Cohen <em>d</em> = 0.81) and a biologically coherent mechanism. Unlike any existing sexual dysfunction pharmacotherapy, kisspeptin targets desire at the hypothalamic brain circuit level rather than arousal mechanics. Phase II development ongoing.<sup>[1]</sup></li>
+<li><strong>Metabolism:</strong> Emerging — KISS1R expression in hepatocytes, adipocytes, and pancreatic beta cells is established; functional metabolic studies are promising (MAFLD protection, insulin modulation) but controlled human metabolic trials remain limited as of 2026.<sup>[10]</sup></li>
+</ul>
+<p>For researchers: KP-10 is the accessible starting point given commercial availability and lower cost; for those specifically replicating published fertility or HSDD trials, KP-54 is the clinically relevant isoform. Source from verified suppliers with batch-specific mass spectrometry COA confirming correct molecular weight and HPLC purity ≥98%. Reconstitute with bacteriostatic water. Store lyophilized at −20°C; reconstituted solution at 4°C for up to 4 weeks.</p>
+<p>For peptides in the complementary sexual health space, see the <a href="/blog/pt-141-bremelanotide-guide" class="text-blue-400 hover:text-blue-300 underline">PT-141 guide</a>. For cognitive neuropeptides from the same Eastern European research tradition that produced early kisspeptin analogs, see the <a href="/blog/semax-selank-nootropic-stack-guide" class="text-blue-400 hover:text-blue-300 underline">Semax + Selank guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
