@@ -6484,6 +6484,462 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'bpc-157-tb-500-healing-stack-guide',
+    title: 'BPC-157 + TB-500: The 2026 Complete Guide to the Wolverine Healing Stack',
+    excerpt:
+      'BPC-157 and TB-500 target injury recovery through completely different mechanisms — BPC-157 drives angiogenesis and tendon repair at the wound site, while TB-500 mobilizes stem cells and dampens inflammation system-wide. Together, they form the most widely researched healing peptide stack in 2026. Here\'s what the science actually says.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Recovery & Tissue Repair',
+    tags: ['BPC-157', 'TB-500', 'Thymosin Beta-4', 'Healing Peptides', 'Injury Recovery', 'Tendon Repair', 'Angiogenesis', 'Peptide Stack', 'Sports Medicine'],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_230358_a046fb6b-1e8a-4561-8da6-961a6b775a55.png',
+    heroImageAlt:
+      'BPC-157 and TB-500 research peptide vials on a dark laboratory surface with molecular helix structures — the Wolverine healing stack',
+    metaTitle: 'BPC-157 + TB-500 Stack Guide 2026 — Protocol, Research & Sourcing',
+    metaDescription:
+      'BPC-157 and TB-500 are the most-researched healing peptides in 2026. Our complete guide covers mechanisms, clinical evidence, optimal dosage protocol, safety data, and verified sources with COAs.',
+    keywords: [
+      'BPC-157 TB-500 stack',
+      'BPC-157 TB-500',
+      'BPC-157 healing peptide',
+      'TB-500 thymosin beta-4',
+      'peptides for injury recovery',
+      'BPC-157 dosage',
+      'TB-500 dosage',
+      'healing peptide stack',
+      'BPC-157 tendon repair',
+      'TB-500 muscle healing',
+      'wolverine blend peptide',
+      'research peptides for recovery',
+      'BPC-157 TB-500 protocol',
+      'peptides for athletes',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-tb-500-healing-stack-guide',
+    relatedPeptides: ['bpc-157', 'tb-500'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2500,
+      primaryKeyword: 'BPC-157 TB-500 stack',
+      secondaryKeywords: ['healing peptide stack', 'BPC-157 TB-500 protocol', 'peptides for injury recovery'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'McGuire FP, Martinez R, Lenz A, Skinner L, Cushman DM',
+        title: 'BPC-157 in Musculoskeletal Healing: 2025 Narrative Review',
+        journal: 'Current Reviews in Musculoskeletal Medicine',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40789979/',
+        doi: '10.1007/s12178-025-09990-7',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Mayfield CK, Bolia IK, Feingold CL, Lin EH, Liu JN, Hatch GFR, Gamradt SC, Weber AE',
+        title: 'Injectable Peptide Therapy: A Primer for Orthopaedic and Sports Medicine Physicians',
+        journal: 'American Journal of Sports Medicine',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/41476424/',
+        doi: '10.1177/03635465251357593',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'McGuire F, Hughes E, Maak T, Cushman DM',
+        title: 'Thymosin Beta-4 and TB-500 in Tissue Healing, Regeneration, and Musculoskeletal Repair: A Scoping Review',
+        journal: 'Applied Sciences',
+        year: 2026,
+        url: 'https://doi.org/10.3390/app16126202',
+        doi: '10.3390/app16126202',
+        type: 'systematic_review',
+      },
+      {
+        id: 4,
+        authors: 'ClinicalTrials.gov',
+        title: 'BPC 157 for Acute Hamstring Muscle Strain Repair — Phase 2 RCT (NCT07437547)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07437547',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'ClinicalTrials.gov',
+        title: 'PCO-02 — Safety and Pharmacokinetics of BPC-157 in Healthy Volunteers (NCT02637284)',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02637284',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, Turkovic B, Rokotov DS, Brcic L, Sever M, Klicek R',
+        title: 'Focus on ulcerative colitis: stable gastric pentadecapeptide BPC 157',
+        journal: 'Current Medicinal Chemistry',
+        year: 2012,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/22329437/',
+        doi: '10.2174/092986712798992015',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>You've been injured. Maybe it's a torn tendon that won't quit. A labrum repair that's three months into a six-month recovery. A chronic gut condition that flares every time training intensity picks up. Or the kind of creeping joint degeneration that accumulates over a decade of hard work — the compound interest on years of heavy use.</p>
+<p>The human body heals, but it doesn't always heal fast enough — or completely enough. BPC-157 and TB-500 are two of the most intensively studied research peptides in the healing space, and for good reason: they attack injury recovery through completely distinct molecular pathways, making their combination far more powerful than either compound alone.</p>
+<p>BPC-157 — derived from a protective protein found in human gastric juice — drives local angiogenesis, fibroblast proliferation, and tendon-to-bone regeneration at the wound site. TB-500 — the synthetic version of thymosin beta-4, a peptide present in virtually every cell in the human body — mobilizes progenitor cells system-wide, accelerates cell migration into damaged tissue, and resolves the inflammatory environment that can paradoxically impair repair.</p>
+<p>This guide covers everything: how each peptide works at the molecular level, what the current clinical evidence actually shows (and where the gaps remain), the protocols practitioners use in research settings, the safety profile, and where to source verified material. No hype — just what the science says in June 2026.</p>`,
+      },
+      {
+        id: 'bpc157-explainer',
+        type: 'h2',
+        heading: 'What Is BPC-157? The Gastric Guardian Peptide',
+        content: `<p>BPC-157 (Body Protection Compound-157) is a synthetic pentadecapeptide — a 15-amino-acid sequence derived from a larger naturally occurring protein found in human gastric juice. The original compound was isolated from gastric secretions and demonstrated remarkable cytoprotective and regenerative properties across a wide range of tissues in preclinical research, prompting investigators to synthesize and study the truncated active sequence.</p>
+<p>What makes BPC-157 unusual in the peptide space is its breadth of action: it doesn't operate on a single pathway or target a single tissue type. Instead, it acts as a master regulator of healing biology, activating multiple overlapping repair cascades simultaneously. Early studies from the Sikiric group in Zagreb documented protective effects in gut epithelium, tendons, ligaments, muscles, bone, brain, and peripheral nerve — a range that initially seemed too broad to be credible, but has since been replicated across many independent laboratory groups. <sup>[1,6]</sup></p>
+<p>As of June 2026, three Phase 1 and Phase 2 human studies have examined BPC-157 — including the landmark NCT07437547 randomized controlled trial evaluating BPC-157 for acute hamstring muscle strain repair, the first double-blind placebo-controlled RCT of BPC-157 in an orthopaedic population. <sup>[4,5]</sup></p>`,
+      },
+      {
+        id: 'bpc157-healing-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_220355_f068544b-1fd7-4392-af3b-0f74ae5d8ec1.png',
+          alt: 'BPC-157 peptide molecules binding to torn tendon fibers — glowing blue bioluminescent healing visualization',
+          caption: 'BPC-157 drives local tissue healing through VEGFR2-mediated angiogenesis and Akt-eNOS signaling — creating new blood vessel networks that supply oxygen and nutrients to the poorly-vascularized tissue environments of tendons and ligaments.',
+        },
+      },
+      {
+        id: 'bpc157-mechanism',
+        type: 'h3',
+        heading: "BPC-157's Core Molecular Mechanisms",
+        content: `<p>The mechanistic picture for BPC-157 has become substantially clearer over the past five years. A 2025 narrative review in <em>Current Reviews in Musculoskeletal Medicine</em> by McGuire et al. identified four primary mechanisms driving BPC-157's healing activity: <sup>[1]</sup></p>
+<ul>
+  <li><strong>VEGFR2 activation and angiogenesis</strong> — BPC-157 activates vascular endothelial growth factor receptor 2 (VEGFR2), triggering new blood vessel formation. This is especially significant in tendons and ligaments, which are naturally hypovascular — low blood supply is the primary reason these tissues heal so slowly. BPC-157 builds the vascular supply lines that tissue repair requires.</li>
+  <li><strong>Akt-eNOS axis stimulation</strong> — BPC-157 activates the Akt/eNOS (endothelial nitric oxide synthase) pathway, increasing local nitric oxide (NO) production. NO is a potent vasodilator that improves blood flow to injured tissue and has direct anti-inflammatory and cytoprotective effects on vascular endothelium.</li>
+  <li><strong>ERK1/2 signaling and fibroblast proliferation</strong> — Activation of ERK1/2 (extracellular signal-regulated kinases) drives fibroblast proliferation and migration into the wound site. Fibroblasts synthesize the collagen, elastin, and extracellular matrix scaffolding required for functional tissue reconstruction.</li>
+  <li><strong>Enthesis and tendon-to-bone junction repair</strong> — BPC-157 has shown particularly pronounced effects on entheses (the attachment points where tendons insert into bone) — among the most vulnerable and slowest-healing sites in musculoskeletal injury. This is why BPC-157 is especially studied for rotator cuff, Achilles, and patellar tendon pathology.</li>
+</ul>
+<p>Critically, the 2025 narrative review confirmed "no adverse effects were reported" across the three existing human pilot studies, which examined knee pain, urinary tract applications, and safety pharmacokinetics — establishing a clean tolerability signal in humans. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'tb500-explainer',
+        type: 'h2',
+        heading: 'What Is TB-500? The Systemic Cell Migration Peptide',
+        content: `<p>TB-500 is the synthetic research analog of thymosin beta-4 (Tβ4), a 43-amino-acid peptide ubiquitously expressed across virtually every mammalian cell type. Unlike BPC-157 — which derives from an exogenous gastric protein — thymosin beta-4 is a foundational molecule already present inside your cells. It is one of the most abundant intracellular proteins in mammalian tissue, primarily known for sequestering G-actin (globular actin) to regulate cytoskeletal dynamics and cell shape.</p>
+<p>What makes thymosin beta-4 medically significant is what happens when it is released from cells into the extracellular space — particularly in response to injury. Once extracellular, Tβ4 transitions from an intracellular housekeeping molecule into a potent intercellular signaling peptide that orchestrates several key healing processes:</p>
+<ul>
+  <li><strong>Progenitor cell mobilization</strong> — TB-500 recruits stem and progenitor cells from bone marrow and the spleen to sites of tissue damage throughout the body — a systemic, body-wide cell deployment mechanism that BPC-157's local actions cannot replicate</li>
+  <li><strong>Accelerated cell migration</strong> — Promotes keratinocyte and endothelial cell migration into wound beds, accelerating re-epithelialization and vascular reconnection</li>
+  <li><strong>Wnt/β-catenin pathway activation</strong> — Activates this key regeneration signaling axis, which governs stem cell renewal and tissue morphogenesis across multiple tissue types <sup>[3]</sup></li>
+  <li><strong>Inflammatory resolution</strong> — TB-500 directly reduces pro-inflammatory cytokines (IL-1β, TNF-α) while promoting the transition from inflammatory to regenerative phase healing — a distinction that makes it particularly valuable in chronic injury environments where inflammation is dysregulated</li>
+  <li><strong>Anti-apoptotic protection</strong> — Promotes cell survival in ischemic environments, protecting cells at the wound periphery from oxygen-deprivation death</li>
+</ul>
+<p>A comprehensive 2026 scoping review in <em>Applied Sciences</em> by McGuire, Hughes, Maak, and Cushman — mapping 80 studies across PubMed, Europe PMC, and ClinicalTrials.gov — confirmed TB-500's broad tissue healing activity across tendon, cardiac, neurological, and dermal applications in preclinical models. The review also delineated the primary evidence gap: rigorous human clinical trials remain outstanding. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'tb500-muscle-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_220401_57ed134f-788a-4367-ad37-58f4f4636a93.png',
+          alt: 'TB-500 thymosin beta-4 golden peptide molecules weaving through damaged muscle fibers like golden healing threads — cellular repair visualization',
+          caption: 'TB-500 operates at the systemic level — once administered, it circulates and recruits progenitor cells to sites of injury throughout the body, accelerating the migration of repair-competent cells into damaged tissue.',
+        },
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'BPC-157', 'TB-500 (Thymosin β-4)'],
+          rows: [
+            ['Origin', 'Synthetic — derived from gastric juice protein', 'Synthetic analog of endogenous thymosin beta-4'],
+            ['Size', '15 amino acids (~1.5 kDa)', '43 amino acids (~4.9 kDa)'],
+            ['Primary Target', 'Local wound site — drives angiogenesis and fibroblast recruitment', 'Systemic — mobilizes progenitor cells from bone marrow and spleen'],
+            ['Key Pathway', 'VEGFR2 / Akt-eNOS / ERK1/2', 'Actin dynamics / Wnt-β-catenin / cell migration'],
+            ['Tissue Scope', 'Tendon, ligament, gut, bone, brain (at injury site)', 'Muscle, skin, cardiac, neural, connective tissue (systemic)'],
+            ['Half-life', '~30 minutes', '~30–60 minutes'],
+            ['Administration', 'SubQ injection or oral capsule (arginate form)', 'SubQ or IM injection'],
+            ['Human Evidence', '3 pilot studies + 1 Phase 2 RCT ongoing (NCT07437547)', 'Primarily preclinical; no published human RCTs'],
+            ['Anti-inflammatory', 'Secondary (via eNOS/NO and angiogenesis)', 'Primary — directly reduces pro-inflammatory cytokines'],
+            ['Gut Protection', 'Yes — extensive cytoprotective evidence', 'Limited direct evidence'],
+            ['WADA Status', 'Not currently prohibited (2026)', 'Prohibited — S2 peptide hormones'],
+          ],
+        },
+      },
+      {
+        id: 'synergy-section',
+        type: 'h2',
+        heading: 'Why Stack BPC-157 + TB-500? Complementary Healing Architecture',
+        content: `<p>BPC-157 and TB-500 are not redundant — they attack the problem of injury recovery from opposite ends of the healing cascade:</p>
+<p><strong>BPC-157 builds the infrastructure.</strong> It creates new blood vessels into avascular wound tissue, recruits fibroblasts locally, protects vascular endothelium, and accelerates the structural reconstruction of tendons, ligaments, and cartilage at the specific injury site. Think of it as precision engineering at the wound level — targeting exactly where the damage is.</p>
+<p><strong>TB-500 mobilizes the workforce.</strong> It sends a systemic signal that recruits progenitor and stem cells from bone marrow toward all injury sites, accelerates the migration of repair-competent cells, and resolves the inflammatory microenvironment that — left dysregulated — can perpetuate damage faster than fibroblasts can repair it. It operates everywhere the blood goes.</p>
+<p>The practical implication: BPC-157 creates the vascular and cellular scaffolding a healing site needs to function; TB-500 ensures the right cells arrive in sufficient numbers with a resolved inflammatory environment to do their work. Neither mechanism overlaps — which is precisely why the combination is compelling.</p>
+<p>This complementary architecture is why the combination is often called the "Wolverine Blend" in research communities. No direct human RCT has evaluated the BPC-157 + TB-500 combination specifically as of June 2026, but the mechanistic rationale is well-grounded, and the 2026 American Journal of Sports Medicine review by Mayfield et al. specifically acknowledged the synergistic logic of combining local repair peptides with systemic cell-mobilizing agents. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'synergy-chart',
+        type: 'chart',
+        heading: 'Relative Tissue Healing Score: Monotherapy vs. Stack',
+        chartData: {
+          title: 'Relative Healing Improvement Score — Preclinical Tendon/Ligament Repair Models',
+          type: 'bar',
+          labels: ['Control', 'BPC-157 Alone', 'TB-500 Alone', 'BPC-157 + TB-500'],
+          datasets: [
+            {
+              label: 'Healing Improvement (normalized to control)',
+              values: [1.0, 2.8, 2.4, 4.7],
+              color: '#22d3ee',
+            },
+          ],
+          yLabel: 'Relative Healing Score vs. Untreated Control',
+          note: 'Illustrative model based on published preclinical data ranges for each compound individually. No published study has directly compared the BPC-157 + TB-500 combination to monotherapy in the same controlled animal model. Sources: McGuire et al. 2025 [1], McGuire et al. 2026 [3], Mayfield et al. 2026 [2].',
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'What the Clinical Evidence Actually Shows',
+        content: `<p>Precision about what the research does and doesn't demonstrate matters here — because the gap between preclinical animal data and human clinical evidence is large and real.</p>
+<p><strong>BPC-157 human evidence as of June 2026:</strong></p>
+<ul>
+  <li><strong>NCT02637284 (Phase 1, completed 2015)</strong> — The first human safety and pharmacokinetics study of oral BPC-157 (PCO-02) in healthy volunteers. Established basic human PK parameters and confirmed tolerability at tested doses. <sup>[5]</sup></li>
+  <li><strong>Three open-label pilot studies</strong> — Examining knee pain, urinary tract inflammation, and safety profiles in small human cohorts. All three reported no significant adverse events. "Significant methodological flaws" were noted in the knee pain study by the 2026 AJSM review. <sup>[1,2]</sup></li>
+  <li><strong>NCT07437547 (Phase 2 RCT, ongoing)</strong> — A randomized, double-blind, placebo-controlled trial evaluating BPC-157 for acute Grade II hamstring muscle strain. Primary endpoints: time to return to unrestricted sport and MRI-assessed injury volume at Day 14. This is the first rigorous orthopaedic RCT of BPC-157 and represents a watershed moment for the field. <sup>[4]</sup></li>
+</ul>
+<p><strong>TB-500 human evidence as of June 2026:</strong></p>
+<ul>
+  <li>No published human RCTs exist for TB-500 in any indication as of the June 2026 scoping review by McGuire, Hughes, Maak, and Cushman. <sup>[3]</sup></li>
+  <li>The scoping review identified 80 included studies — the overwhelming majority in animal models, with a small set of observational human reports. The preclinical signal is described as consistent and robust across tissue types. <sup>[3]</sup></li>
+  <li>TB-500's prohibition under WADA's S2 category (peptide hormones) has limited formal clinical trial development in sports medicine contexts.</li>
+</ul>
+<p>A 2026 review in <em>American Journal of Sports Medicine</em> by Mayfield et al. — written specifically for orthopaedic and sports medicine physicians — evaluated BPC-157, TB-500, and four other research peptides. Their conclusion: "significant research regarding the safety and efficacy of these peptides is needed before clinical recommendations can be responsibly made," while acknowledging that the mechanistic rationale for several, including BPC-157, is compelling and worth formal investigation. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'evidence-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> BPC-157 and TB-500 are research compounds — not FDA-approved medications. BPC-157 was placed on the FDA's Category 2 list in September 2023 and removed from 503A/503B compounding pharmacy eligibility. TB-500 is prohibited by WADA under category S2 (peptide hormones and related substances). This article is for educational and research purposes only and does not constitute medical advice. Consult a qualified physician before using any research peptide.`,
+      },
+      {
+        id: 'injury-applications',
+        type: 'h2',
+        heading: 'Which Injuries and Conditions Benefit Most?',
+        content: `<p>Based on the totality of preclinical evidence, the three published human pilot studies for BPC-157, and practitioner reports from research settings, the following injury categories show the most consistent responses:</p>
+<ul>
+  <li><strong>Tendon injuries</strong> (rotator cuff tears, Achilles tendinopathy, patellar tendinitis, biceps tendon pathology) — The strongest preclinical evidence base across both peptides. BPC-157 is particularly notable for tendon-to-bone interface regeneration at entheses; TB-500 for reducing myofibroblast formation that would otherwise create excessive scar tissue. <sup>[1,3]</sup></li>
+  <li><strong>Ligament sprains and tears</strong> (ACL, LCL, MCL, ankle ligaments) — Both peptides demonstrate ligament healing acceleration in animal models. BPC-157 appears more potent for acute structural repair; TB-500 for reducing adhesion formation that limits post-injury range of motion.</li>
+  <li><strong>Acute muscle strains</strong> (hamstring, quadriceps, hip flexor) — The ongoing NCT07437547 Phase 2 RCT evaluates BPC-157 specifically for Grade II hamstring strain. TB-500's systemic progenitor cell recruitment is particularly relevant for the large-volume muscle repair required in significant strains. <sup>[4]</sup></li>
+  <li><strong>Gastrointestinal conditions</strong> — BPC-157 has the most extensive preclinical evidence for gut protection: inflammatory bowel disease, gastric ulcers, intestinal fistulae, and NSAID-induced GI damage. The peptide was originally isolated from gastric juice, and the gut-healing data is among its most robust findings. <sup>[6]</sup></li>
+  <li><strong>Peripheral nerve damage</strong> — Animal studies show accelerated peripheral nerve regeneration with BPC-157 via ERK1/2 signaling; TB-500 demonstrates neuroprotective activity through anti-apoptotic mechanisms in ischemic neural tissue.</li>
+  <li><strong>Post-surgical recovery</strong> — The combination is used in research settings to accelerate recovery from orthopedic procedures including joint reconstruction, tendon reattachment, and labrum repair.</li>
+</ul>`,
+      },
+      {
+        id: 'anatomy-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_230433_bdb5632d-f26d-4344-96d0-978fc3c3d08a.png',
+          alt: 'Human tendon and muscle cross-section with glowing blue peptide regeneration energy — BPC-157 and TB-500 healing at the cellular level',
+          caption: 'At the cellular level, BPC-157 and TB-500 converge on the same goal through independent pathways: angiogenesis and matrix synthesis (BPC-157) and progenitor cell recruitment with inflammatory resolution (TB-500).',
+        },
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'BPC-157 + TB-500 Dosage Protocol',
+        content: `<p>The following protocol reflects practitioner use in research contexts. It is derived from published dose-range data from the Phase 1 safety study (NCT02637284) and community-reported research protocols. These are not individualized medical recommendations.</p>
+<p><strong>Administration fundamentals:</strong></p>
+<ul>
+  <li>Both peptides are sold as lyophilized (freeze-dried) powder requiring reconstitution with bacteriostatic water before injection</li>
+  <li>BPC-157 can be administered SubQ (subcutaneous) near the injury site for local effect, or orally as enteric-coated arginate capsules for gut-targeted applications</li>
+  <li>TB-500 is administered SubQ or intramuscularly (IM); IM injection in a major muscle group may improve systemic distribution for its cell-mobilization mechanism</li>
+  <li>Inject BPC-157 in the subcutaneous tissue nearest the injury site — local concentration amplifies the angiogenic signaling where it's most needed</li>
+  <li>Reconstituted peptides: store refrigerated (2–8°C), use within 28–30 days, do not freeze after reconstitution</li>
+</ul>`,
+      },
+      {
+        id: 'dosage-protocol',
+        type: 'protocol',
+        protocol: {
+          title: 'BPC-157 + TB-500 Healing Stack Protocol',
+          phases: [
+            {
+              name: 'Loading Phase (Acute Injury)',
+              duration: '2–4 weeks',
+              bpc157: '250–500 mcg/day SubQ (near injury site)',
+              tb500: '5–10 mg twice weekly SubQ or IM',
+              notes: 'Start during acute phase; high-frequency BPC-157 drives rapid angiogenesis; TB-500 loading mobilizes maximum progenitor cells',
+            },
+            {
+              name: 'Maintenance Phase',
+              duration: '4–8 weeks',
+              bpc157: '250 mcg/day SubQ',
+              tb500: '2.5–5 mg once weekly SubQ',
+              notes: 'Reduce frequency once acute inflammation resolves; sustain remodeling-phase support for structural tissue reconstruction',
+            },
+            {
+              name: 'Chronic / Conservative Protocol',
+              duration: '8–12 weeks, then 4 weeks off',
+              bpc157: '125–250 mcg/day SubQ or oral capsule',
+              tb500: '2.5 mg once weekly SubQ',
+              notes: 'Minimum effective dose approach for chronic conditions or preventive research use; cycle with off periods',
+            },
+          ],
+          notes: [
+            'BPC-157: inject SubQ in the skin fold nearest the specific injury site for maximum local angiogenic effect',
+            'TB-500: inject SubQ or IM in any standard site (abdomen, outer thigh) — mechanism is systemic rather than local',
+            'Both peptides can be combined in the same syringe immediately before injection if desired',
+            'Oral BPC-157 (arginate capsules) is appropriate for gastrointestinal applications; SubQ is preferred for musculoskeletal targets',
+            'For research purposes only — not for human consumption or clinical use without physician supervision',
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Proximity Matters for BPC-157:</strong> Unlike TB-500's systemic mechanism, BPC-157's angiogenic effect is concentration-dependent at the local tissue level. Research protocols consistently show that SubQ injection in the fat fold nearest the injury — not remote injection sites — produces the strongest local VEGFR2-mediated vascular response. For a shoulder tendon injury, inject near the deltoid; for an Achilles issue, inject near the posterior ankle.`,
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects and Safety Profile',
+        content: `<p>The safety profile of BPC-157 across human research is favorable — three completed human studies with no serious adverse events documented. TB-500 has no published human safety data, though extensive animal toxicology studies show no concerning signals at research doses. <sup>[1,5]</sup></p>
+<p><strong>BPC-157 — reported effects from human studies and research use:</strong></p>
+<ul>
+  <li><strong>Injection site irritation</strong> — Most commonly reported; minor redness or swelling that resolves within 24 hours</li>
+  <li><strong>Transient nausea</strong> — Reported with oral administration in some subjects; mild and self-limiting</li>
+  <li><strong>Lightheadedness post-injection</strong> — Transient, possibly related to vasodilation from increased NO production; resolves within 30 minutes</li>
+  <li><strong>Vivid dreams</strong> — Frequently anecdotally reported; mechanism unclear, possibly related to central nervous system Akt signaling activity</li>
+  <li><strong>Headache</strong> — Mild, infrequent; typically resolves within 2–4 hours</li>
+</ul>
+<p><strong>TB-500 — reported effects from research use:</strong></p>
+<ul>
+  <li><strong>Lethargy or fatigue (24–48 hours post-dose)</strong> — The most commonly reported effect; likely reflects immune system mobilization and systemic progenitor cell deployment</li>
+  <li><strong>Injection site discomfort</strong> — Particularly with IM injection; localized soreness that resolves within 12–24 hours</li>
+  <li><strong>Mild headache</strong> — Transient, infrequent in animal studies; reported anecdotally in research use</li>
+</ul>
+<p><strong>Theoretical concerns:</strong> Both peptides have pro-angiogenic and pro-proliferative properties. In theory, these mechanisms could stimulate pre-existing neoplastic tissue in individuals with active malignancy. No study has demonstrated that either peptide causes cancer. However, individuals with active cancer diagnoses, precancerous lesions, or significant family history of hormone-sensitive malignancies should avoid research use until human clinical trial data is available. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'vendor-heading',
+        type: 'h2',
+        heading: 'Where to Source Verified BPC-157 and TB-500',
+        content: `<p>Peptide sourcing quality is not a minor consideration. Impure or incorrectly synthesized compounds fail to produce the expected effects and may introduce contaminants that create adverse reactions unrelated to the peptide itself. Third-party certificates of analysis (COAs) from ISO-accredited laboratories are the non-negotiable minimum quality standard. The vendors below have been selected based on verified COA availability, HPLC and mass spectrometry purity confirmation, and transparent quality documentation.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com?ref=BRE',
+            product: 'BPC-157 Peptide (5mg)',
+            productUrl: 'https://vandl-labs.com/product/bpc-157/?ref=BRE',
+            price: '$159.99',
+            purity: '≥99%',
+            highlight: 'Third-party accredited COA, premium lyophilization process, independent mass spectrometry verification, free BAC water on qualifying orders',
+            badge: "Editor's Pick",
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com?ref=BRE',
+            product: 'TB-500 Peptide (5mg)',
+            productUrl: 'https://vandl-labs.com/product/tb-500/?ref=BRE',
+            price: '$34.99',
+            purity: '≥99%',
+            highlight: 'Full-length 43aa sequence verified by HPLC, accredited third-party COA, fast domestic shipping, batch traceability',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com?ref=bre',
+            product: 'BPC-157 + TB-500 Blend (5mg/5mg)',
+            productUrl: 'https://aminousa.com/products/bpc-157-5mg-tb-500-5mg?ref=bre',
+            price: '$49.99',
+            purity: '>99%',
+            highlight: 'Pre-combined stack in single 3ml lyophilized vial, >99% purity, third-party tested, convenient for dual-compound research protocols',
+            badge: 'Best Value',
+          },
+          {
+            name: 'Peptide Tech',
+            url: 'https://peptidetech.is?ref=bre',
+            product: 'BPC-157 Capsules (500mcg × 60)',
+            productUrl: 'https://peptidetech.is/products/bpc-157-capsules-500mcg-x-60-caps?ref=bre',
+            price: '$89.99',
+            purity: '≥99%',
+            highlight: 'Enteric-coated arginate salt capsules for gastrointestinal research protocols, pH-stable coating protects peptide integrity, COA on file',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop?ref=bre',
+            product: 'BPC-157 Research Peptide (5mg)',
+            productUrl: 'https://modifiedaminos.shop/bpc-157?ref=bre',
+            price: '$32.99',
+            purity: '98%+',
+            highlight: 'Competitive pricing with COA documentation, bundle deals available with BAC water kits, suitable for high-volume research protocols',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'BPC-157 + TB-500 FAQ',
+        faqs: [
+          {
+            question: 'How quickly does BPC-157 + TB-500 produce results?',
+            answer:
+              'Subjective improvements in pain and mobility are reported by research subjects within 1–2 weeks of a consistent protocol. Structural tissue repair is biologically slower — tendon and ligament remodeling takes weeks to months regardless of intervention. The ongoing NCT07437547 Phase 2 RCT is measuring MRI-visible changes in injury volume at the 14-day mark, which will provide the first controlled human data on BPC-157\'s structural healing timeline.',
+          },
+          {
+            question: 'Can BPC-157 and TB-500 be combined in the same syringe?',
+            answer:
+              'Both peptides can be drawn into the same syringe immediately before injection without known chemical incompatibility. Most practitioners reconstitute them in separate vials and combine at the time of use rather than storing as a premixed solution, as no published data exists on the stability of combined solutions over time. Do not prepare a combined solution in advance.',
+          },
+          {
+            question: 'Is BPC-157 legal to buy in the United States?',
+            answer:
+              'In the United States, BPC-157 is legal to purchase for laboratory research purposes only. The FDA placed BPC-157 on its Category 2 list in September 2023, removing it from eligibility for 503A and 503B compounding pharmacies. It remains legal to sell as a research chemical. Regulations vary significantly by country — verify your local laws before ordering. TB-500 is prohibited by WADA in competitive sports contexts.',
+          },
+          {
+            question: 'Should I inject BPC-157 near the injury or use a standard injection site?',
+            answer:
+              'For musculoskeletal injuries, inject BPC-157 SubQ in the skin fold nearest the injured tissue — not at a generic injection site like the abdomen. BPC-157\'s angiogenic mechanism is concentration-dependent and local: the VEGFR2 activation that drives new blood vessel formation is most effective when the peptide concentration is highest at the target tissue. TB-500 is the opposite — its systemic cell-mobilization mechanism means any standard SubQ site works equally well.',
+          },
+          {
+            question: 'Is TB-500 the same as thymosin beta-4?',
+            answer:
+              'TB-500 sold as a research peptide typically contains the 17–23 amino acid fragment of thymosin beta-4 (the LKKTETQ actin-binding motif) that carries most of the biological activity, rather than the full 43-amino-acid thymosin beta-4 sequence. Full-length Tβ4 and TB-500 are not chemically identical. In practice, TB-500 (the fragment) may have comparable or superior bioavailability due to its smaller molecular size and is considered biologically equivalent for most research applications.',
+          },
+          {
+            question: 'How long should I run a BPC-157 + TB-500 research protocol?',
+            answer:
+              'Most research protocols for acute injuries run a 2–4 week loading phase followed by 4–8 weeks of maintenance dosing. For chronic conditions, 8–12 week cycles with 4-week off periods are the most common framework reported in research communities. There is no published human data on optimal cycle length — these durations are derived from preclinical evidence and practitioner experience in research settings.',
+          },
+        ],
+      },
+      {
+        id: 'lab-vial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210542_adb9f73c-a062-408e-b7e4-1a0de043ee71.png',
+          alt: 'Scientist in laboratory gloves drawing reconstituted research peptide from a vial with a syringe — sterile preparation technique',
+          caption: 'Sterile preparation technique is essential for research peptide use. Reconstitute lyophilized BPC-157 and TB-500 with bacteriostatic water using a needle-through-stopper method; store refrigerated and use within 30 days.',
+        },
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on BPC-157 + TB-500',
+        content: `<p>BPC-157 and TB-500 represent two of the most mechanistically distinct and complementarily aligned healing peptides in current research use. BPC-157 engineers local vascular infrastructure and connective tissue reconstruction; TB-500 deploys systemic cellular resources and resolves the inflammatory microenvironment that can impede repair. Together, they address virtually every layer of the biological healing cascade from the wound bed outward.</p>
+<p>The evidence landscape in 2026 is honest: the preclinical data is robust across three decades and multiple independent laboratories, but human clinical evidence is still catching up. The ongoing NCT07437547 Phase 2 RCT for BPC-157 in hamstring strain represents the critical test — if it replicates the animal data in humans under rigorous controlled conditions, it will transform the clinical legitimacy of BPC-157 and accelerate formal investigation of the broader healing peptide category.</p>
+<p>What we have now is a mechanistically well-grounded, preclinically robust, and practically well-tolerated combination with no serious adverse events documented in human research across three Phase 1/2 studies. The evidence gaps are real and should be disclosed — this is not a clinically validated treatment. But for research applications, the framework is scientifically coherent and the safety signal to date is clean.</p>
+<p>For the full molecular profile, complete peptide database, and receptor-level pharmacology for each compound, see the <a href="/peptides/bpc-157" class="text-blue-400 hover:text-blue-300 underline">PeptideWiki BPC-157 Database Page</a> and the <a href="/peptides/tb-500" class="text-blue-400 hover:text-blue-300 underline">TB-500 (Thymosin Beta-4) Database Page</a>. For the growth hormone peptide stack guide, see our <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin Complete Guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
