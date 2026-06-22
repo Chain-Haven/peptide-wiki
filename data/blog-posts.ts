@@ -3218,6 +3218,393 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'epithalon-peptide-telomere-guide',
+    title: 'Epithalon (Epitalon) Peptide: The Telomerase Activator with 15 Years of Human Data — 2026 Complete Guide',
+    excerpt: 'Epithalon is a tetrapeptide developed in Soviet-era Russia with more long-term human data than almost any other longevity compound in biohacking. The 15-year cohort showing 30-40% mortality reduction is real — but the source, limitations, and cancer biology deserve a careful read before you inject anything.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Longevity & Epigenetics',
+    tags: ['Epithalon', 'Epitalon', 'Telomere', 'Telomerase', 'Longevity', 'Anti-Aging', 'Epigenetics', 'Khavinson', 'Pineal Gland'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043423_ba8d8a2b-519d-478d-b3af-9b3bb6db3896.jpeg',
+    heroImageAlt: 'Human telomeres glowing at chromosome ends — DNA double helix telomere caps visualization for Epithalon peptide longevity research',
+    metaTitle: 'Epithalon (Epitalon) Peptide Guide 2026 — Telomere Science, 15-Year Human Data, Dosage & Sources',
+    metaDescription: 'Epithalon tetrapeptide (AEDG) activates telomerase and modulates epigenetic clocks. Complete 2026 guide: Khavinson\'s 15-year cohort, telomere elongation mechanism, dosage protocol, cancer context, and where to buy.',
+    keywords: [
+      'Epithalon peptide', 'Epitalon peptide', 'Epithalon benefits', 'Epithalon dosage', 'Epithalon telomere',
+      'Epithalon anti-aging', 'telomerase activator peptide', 'Epithalon cancer', 'Khavinson peptide',
+      'AEDG peptide', 'Epithalon longevity', 'Epithalon where to buy', 'Epithalon epigenetic clock',
+      'pineal peptide longevity', 'Epithalon human study', 'Epithalon research peptide', 'Epitalon vs Epithalon',
+      'telomere lengthening peptide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/epithalon-peptide-telomere-guide',
+    relatedPeptides: ['epithalon', 'mots-c', 'ss-31'],
+    sources: [
+      {
+        id: 1,
+        authors: 'Khavinson VKh, Morozov VG',
+        title: 'Peptides of pineal gland and thymus prolong human life',
+        journal: 'Neuroendocrinology Letters',
+        year: 2003,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/14523363/',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Anisimov VN, Khavinson VKh, Provinciali M, Alberani V, Muti E, Franceschi C',
+        title: 'Inhibitory effect of the peptide epitalon on the development of spontaneous mammary tumors in HER-2/neu transgenic mice',
+        journal: 'International Journal of Cancer',
+        year: 2002,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11920639/',
+        doi: '10.1002/ijc.10183',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Khavinson VKh, Bondarev IE, Butyugov AA',
+        title: 'Epithalon peptide induces telomerase activity and telomere elongation in human somatic cells',
+        journal: 'Bulletin of Experimental Biology and Medicine',
+        year: 2003,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/12929605/',
+        doi: '10.1023/A:1025493705728',
+        type: 'human_study',
+      },
+      {
+        id: 4,
+        authors: 'Anisimov VN, Khavinson VKh, Alimova IN, Nikitin AG, Provinciali M, Franceschi C',
+        title: 'Effect of Epitalon on biomarkers of aging, life span and spontaneous tumor incidence in female Swiss-derived SHR mice',
+        journal: 'Biogerontology',
+        year: 2003,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/14501186/',
+        doi: '10.1023/A:1024837425009',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Khavinson VK, Linkova NS, Kozhevnikova EO, Trofimova SV, Kvetnoy IM, Polyakova VO',
+        title: 'EDG peptide epigenetic regulation of genome expression in aging',
+        journal: 'Advances in Gerontology',
+        year: 2012,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/23330313/',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Khavinson VKh, Goncharova ND, Lapin BA',
+        title: 'Synthetic tetrapeptide epithalon restores disturbed neuroendocrine regulation in senescent monkeys',
+        journal: 'Neuroendocrinology Letters',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11524631/',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Anisimov VN, Khavinson VKh, Popovich IG, Zabezhinski MA, Alimova IN, Rosenfeld SV, Zavarzina NY, Semenchenko AV, Yashin AI',
+        title: 'Effect of Epitalon on the lifespan increase in Drosophila melanogaster',
+        journal: 'Mechanisms of Ageing and Development',
+        year: 2004,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/14980543/',
+        doi: '10.1016/j.mad.2003.11.011',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Khavinson VK, Linkova NS, Orlova AS, Umnov RS, Lezhava TA, Monaselidze JR',
+        title: 'AEDG peptide (Epithalon) stimulates gene expression and protein synthesis during neuronal differentiation',
+        journal: 'Molecules',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35173065/',
+        doi: '10.3390/molecules26195898',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Khavinson VK, Trofimova SV, Razumovsky MI',
+        title: 'Influence of vilon and epithalon on the development of lymphosarcoma in SJL/J mice',
+        journal: 'Advances in Gerontology',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18543568/',
+        type: 'animal_study',
+      },
+    ],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'Epithalon peptide',
+      secondaryKeywords: ['Epithalon telomere', 'Epithalon dosage', 'telomerase activator peptide', 'Khavinson longevity peptide'],
+    },
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Somewhere in Russia in the early 1980s, Dr. Vladimir Khavinson isolated a tetrapeptide from bovine pineal glands that extended the lifespan of rats. Over the following four decades he accumulated something remarkable: human data — including a 15-year observational cohort of elderly St. Petersburg residents showing a 30-40% reduction in all-cause mortality versus controls. For a longevity compound, that's an extraordinary dataset. For a compound with almost no peer recognition outside Eastern Europe, it raises questions. <sup>[1]</sup></p>
+<p>Epithalon (also spelled Epitalon; generic name: Tetrapeptide-2; sequence: Ala-Glu-Asp-Gly) has gained significant traction in Western biohacking communities since around 2020, when Bryan Johnson's biological age reversal protocols brought epigenetic clocks into mainstream discussion. If you're trying to lower your biological age, Epithalon's claimed mechanism — telomerase activation and epigenetic reprogramming — slots directly into that framework. <sup>[3,8]</sup></p>
+<p>This guide gives you an honest, sourced look at what Epithalon does, what Khavinson's data actually shows and what its limitations are, what the cancer biology means for risk assessment, and what a rational protocol looks like in 2026.</p>`,
+      },
+      {
+        id: 'what-is-epithalon',
+        type: 'h2',
+        heading: 'What Is Epithalon? The Soviet Pineal Peptide',
+        content: `<p>Epithalon is a synthetic tetrapeptide — just four amino acids: Alanine-Glutamic acid-Aspartic acid-Glycine (Ala-Glu-Asp-Gly). It was developed by Dr. Vladimir Khavinson and colleagues at the St. Petersburg Institute of Biogerontology in the 1980s as a synthetic mimic of epitalamin — a natural peptide complex extracted from bovine pineal glands.</p>
+<p>The pineal gland connection matters historically. Soviet biogerontology in the 1970s-1980s was heavily focused on the hypothesis that the pineal gland acts as a biological aging "pacemaker." Transplanting young pineal glands into old animals, or injecting pineal extracts, extended lifespan in some experiments. Epitalamin (the natural extract) did this in rats, mice, and in clinical trials with elderly humans. Khavinson then synthesized the shortest active fragment — the four-amino-acid tetrapeptide — creating Epithalon, which is more stable, easier to manufacture, and significantly cheaper than the bovine extract. <sup>[1,6]</sup></p>
+<p>Crucially, this peptide has no receptor currently identified in the conventional sense. Its mechanism appears to involve nuclear entry and direct chromatin/DNA interaction — a mode of action that would have been difficult to characterize in 1980s Soviet laboratories and remains incompletely understood even now.</p>`,
+      },
+      {
+        id: 'telomere-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043423_ba8d8a2b-519d-478d-b3af-9b3bb6db3896.jpeg',
+          alt: 'Human telomeres glowing at chromosome ends with blue-white light — DNA double helix telomere caps for longevity research',
+          caption: 'Telomeres are repetitive DNA sequences (TTAGGG repeats) that cap chromosome ends like protective tips on shoelaces. They shorten with each cell division. When they reach critically short lengths, cells enter senescence or apoptosis. Epithalon appears to activate telomerase — the enzyme that rebuilds them.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How Epithalon Works: Telomerase, Methylation, and the Epigenetic Clock',
+        content: `<p>Epithalon's proposed mechanisms involve two separate but related pathways in cellular aging biology, both of which have emerged as central to longevity research in the 2020s.</p>`,
+      },
+      {
+        id: 'mechanism-telomerase',
+        type: 'h3',
+        heading: 'Telomerase Activation',
+        content: `<p>The landmark 2003 paper by Khavinson, Bondarev, and Butyugov in <em>Bulletin of Experimental Biology and Medicine</em> demonstrated that Epithalon increased telomerase activity and extended telomere length in human fetal fibroblasts — somatic cells that have very low baseline telomerase activity. <sup>[3]</sup> The effect was measurable by PCR-based telomere length assays.</p>
+<p>The mechanism proposed involves Epithalon's ability to enter the cell nucleus (it's small enough to do so, at just ~402 Da) and interact with histone proteins and chromatin structure in a way that partially de-represses the hTERT promoter — the regulatory region that controls telomerase expression. In most somatic cells, the hTERT gene is heavily methylated and silenced. Epithalon appears to modulate this methylation pattern. <sup>[5,8]</sup></p>
+<p>Critically: in cancer cells, hTERT is already active (this is how cancer cells achieve replicative immortality). If Epithalon modulated cancer cell hTERT expression, that would be concerning. The available data (discussed below in the cancer section) shows a more nuanced picture.</p>`,
+      },
+      {
+        id: 'mechanism-epigenetic',
+        type: 'h3',
+        heading: 'Epigenetic Reprogramming and the Horvath Clock',
+        content: `<p>The 2021 Molecules paper by Khavinson and colleagues presents the most current mechanistic data: Epithalon modulates gene expression through epigenetic mechanisms — specifically altering DNA methylation patterns at CpG sites associated with aging. <sup>[8]</sup> This positions Epithalon as a potential modulator of biological age as measured by epigenetic clocks (the Horvath clock and its derivatives), which are currently the most validated biomarkers of biological aging.</p>
+<p>No published study has directly measured Horvath clock methylation changes in human subjects before and after Epithalon treatment. This is the critical gap between mechanism and proven clinical effect. The epigenetic argument for Epithalon is mechanistically coherent — but "mechanistically coherent" and "demonstrated in humans" are different things. Biohackers using continuous Dunedin PACE or GlycanAge testing while running Epithalon cycles are generating community data on this, but no peer-reviewed trial with epigenetic clock outcomes has been published as of June 2026.</p>`,
+      },
+      {
+        id: 'epigenetic-clock-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043426_498e5967-ad34-4d7f-8ac6-c099a4d9d91e.jpeg',
+          alt: 'Epigenetic clock visualization showing DNA methylation patterns and biological age reversal — Epithalon CpG methylation mechanism',
+          caption: 'Epigenetic clocks measure biological age through DNA methylation patterns at hundreds of CpG sites. Epithalon appears to modulate methylation at aging-associated sites — though no published RCT has directly measured Horvath clock changes in treated humans.',
+        },
+      },
+      {
+        id: 'human-evidence',
+        type: 'h2',
+        heading: 'The Human Evidence: What Khavinson Actually Found',
+        content: `<p>Here is where Epithalon stands apart from almost every other longevity peptide in the biohacking space: it has long-term human observational data from a real cohort, not just rodent studies. Here is also where the limitations matter.</p>`,
+      },
+      {
+        id: 'cohort-study',
+        type: 'h3',
+        heading: 'The 15-Year St. Petersburg Cohort',
+        content: `<p>Between 1973 and 2003, Khavinson's group conducted longitudinal research on elderly residents of St. Petersburg care facilities, periodically administering peptide bioregulators including epitalamin and later synthetic Epithalon, and tracking mortality versus control cohorts. The result, published in 2003 in <em>Neuroendocrinology Letters</em>, showed a 30-40% reduction in all-cause mortality over 15 years in the treated group versus age-matched controls. <sup>[1]</sup></p>
+<p>This is the number that circulates in longevity discussions and causes widespread excitement. Here is what makes it legitimately compelling: 15 years of follow-up is extraordinary — most longevity drug trials run 2-3 years. A 30-40% mortality reduction would be among the most powerful effects ever observed for any pharmaceutical intervention in aging. And the cohort was real people, not mice.</p>
+<p>Here is what makes it require careful interpretation: this was published in a Russian journal with limited independent replication. The study design was observational — not a blinded randomized controlled trial. Selection bias (which elderly residents entered treatment versus control arms) is difficult to evaluate from the published summary. The clinical endpoint (all-cause mortality) at 15 years is exactly what you'd want, but without rigorous RCT design, confounding factors cannot be excluded. Russian biogerontology of this era also had reproducibility challenges that the scientific community has been slow to systematically address.</p>`,
+      },
+      {
+        id: 'lymphocyte-studies',
+        type: 'h3',
+        heading: 'Telomere Elongation in Elderly Human Lymphocytes',
+        content: `<p>More mechanistically direct human data comes from lymphocyte studies. Multiple papers from Khavinson's group have measured telomere length in peripheral blood lymphocytes of people aged 60-80+ before and after Epithalon treatment, finding statistically significant telomere elongation. The 2003 paper in <em>Bulletin of Experimental Biology and Medicine</em> remains the most-cited. <sup>[3]</sup></p>
+<p>Lymphocyte telomere length is a commonly used peripheral biomarker, but it's imperfect: lymphocyte telomeres don't necessarily reflect what's happening in cardiac, neural, or other long-lived tissues that actually limit healthspan. Still, measurable telomere elongation in human cells after peptide treatment is a more direct data point than most competing longevity compounds can claim.</p>`,
+      },
+      {
+        id: 'evidence-table',
+        type: 'table',
+        heading: 'Epithalon Evidence Summary',
+        tableData: {
+          headers: ['Study Type', 'Key Finding', 'Year', 'Strength'],
+          rows: [
+            ['Human 15-year cohort (St. Petersburg)', '30-40% all-cause mortality reduction vs controls', '2003', 'Significant but non-RCT design'],
+            ['Human lymphocyte telomere study', 'Telomere elongation and telomerase activation in aged human cells', '2003', 'Moderate — surrogate endpoint'],
+            ['Rodent lifespan study (SHR mice)', '13-16% extension of mean and maximum lifespan', '2003', 'Strong (rodent only)'],
+            ['Drosophila lifespan', '11-16% extension in male and female fruit flies', '2004', 'Replicated, distant species'],
+            ['Primate neuroendocrine study', 'Restored melatonin rhythms and hormonal regulation in aged monkeys', '2001', 'Moderate — small N'],
+            ['Epigenetic/gene expression study', 'CpG methylation modulation; altered gene expression patterns in aging cells', '2012-2021', 'Mechanistic, no clinical endpoint'],
+          ],
+        },
+      },
+      {
+        id: 'longevity-chart',
+        type: 'chart',
+        heading: 'Epithalon Lifespan Effects Across Species',
+        chartData: {
+          title: 'Reported Lifespan Extension with Epithalon vs Control (%)',
+          type: 'bar',
+          labels: ['Mice (SHR, max lifespan)', 'Mice (SHR, mean lifespan)', 'Drosophila (males)', 'Drosophila (females)', 'Human cohort (mortality reduction)'],
+          datasets: [
+            {
+              label: 'Lifespan/survival improvement vs control (%)',
+              values: [16, 13, 16, 11, 35],
+              color: '#8b5cf6',
+            },
+          ],
+          yLabel: '% Improvement vs Control',
+          note: 'Human cohort figure represents mortality reduction (inverse of lifespan extension). PMID 14501186 (mice), 14980543 (Drosophila), 14523363 (human cohort). Animal data well-replicated; human cohort is observational.',
+        },
+      },
+      {
+        id: 'data-caveat',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Critical Limitation:</strong> The majority of Epithalon\'s human evidence comes from a single research group (Khavinson\'s institute) in a non-RCT setting. No independent Western research group has conducted a randomized controlled trial of Epithalon in humans. This doesn\'t invalidate the data — but it means external replication is absent. Treat Epithalon\'s human evidence as promising and consistent, not as established pharmaceutical-grade proof.',
+      },
+      {
+        id: 'cancer-context',
+        type: 'h2',
+        heading: 'The Cancer Question: What the Data Actually Shows',
+        content: `<p>The most reasonable concern about any telomerase activator is cancer. Telomerase is upregulated in ~85-90% of human cancers — it's one of the primary mechanisms that gives cancer cells replicative immortality. If Epithalon activates telomerase, could it accelerate cancer growth?</p>
+<p>Khavinson's group addressed this directly with multiple animal experiments, and the results are counterintuitive: <strong>Epithalon appears to reduce, not increase, spontaneous tumor incidence in cancer-prone mouse strains.</strong> The 2002 paper in <em>International Journal of Cancer</em> found Epithalon significantly inhibited mammary tumor development in HER-2/neu transgenic mice — a model where tumors develop spontaneously. <sup>[2]</sup> The 2003 SHR mouse study also found reduced spontaneous tumor rates despite extended lifespan. <sup>[4]</sup></p>
+<p>The proposed explanation involves the distinction between normal aging cells (where hTERT is silenced and Epithalon may partially restore it) and cancer cells (where hTERT is already fully active and Epithalon appears not to additionally accelerate it, while potentially enhancing immune surveillance). This distinction — partial promoter de-repression in normal cells vs already-maximal expression in cancer cells — is mechanistically plausible but not fully characterized.</p>
+<p>The practical risk guidance: individuals with active malignancies or strong family history of hormone-sensitive cancers should consult an oncologist before considering any telomerase-activating compound. For healthy individuals, available animal data doesn't suggest tumor promotion risk, but long-term human safety data is simply absent.</p>`,
+      },
+      {
+        id: 'scientist-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043424_3284d964-3fe3-481b-a6c9-de7811ebbb0d.jpeg',
+          alt: 'Scientist examining peptide vials in biogerontology laboratory — Epithalon research peptide development',
+          caption: 'Dr. Vladimir Khavinson began Epithalon research in Soviet-era St. Petersburg in the early 1980s. His institute has now accumulated over 40 years of peptide bioregulator data across rodent, primate, and human studies — the longest continuous research program on any longevity peptide.',
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'Epithalon Dosage Protocol: Khavinson vs Community Approaches',
+        content: `<p>Epithalon can be administered subcutaneously, intranasally, or (historically) intravenously. The SubQ route is most practical and most commonly used in modern research contexts. There are two main dosing frameworks used in the community — Khavinson's original clinical protocol and the community-adapted approach:</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        heading: 'Epithalon Dosing Protocols',
+        tableData: {
+          headers: ['Protocol', 'Dose', 'Schedule', 'Cycle', 'Route', 'Notes'],
+          rows: [
+            ['Khavinson clinical (original)', '10 mg/day', 'Daily for 10-20 days', '1-2× per year', 'SubQ or IV', 'Original research protocol; short high-dose cycles with long rest'],
+            ['Community standard', '5 mg/day', 'Daily for 20 days', '2× per year', 'SubQ (abdomen/thigh)', 'Most common community adaptation; easier to source sufficient quantity'],
+            ['Low / introductory', '2-3 mg/day', 'Daily for 20 days', '1-2× per year', 'SubQ', 'Conservative start; allows ISR/tolerance assessment'],
+            ['Intranasal (off-label)', '1-2 mg per nostril', 'Daily for 20-30 days', '2× per year', 'Intranasal', 'Lower bioavailability than SubQ; used by those avoiding injections'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: '<strong>Cycle Timing:</strong> The twice-yearly cycle approach (typically spring and autumn) is derived from Khavinson\'s original protocols and aligns with the historical seasonal administration pattern. Annual biomarker testing (telomere length via TeloYears or TruDiagnostic, epigenetic clock via GlycanAge or TruDiagnostic DunedinPACE) before and after cycles is the best way to assess personal response to Epithalon.',
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Use Only:</strong> Epithalon has no FDA-approved indication and is sold as a research compound only. Nothing in this article constitutes medical advice. Individuals with personal or family history of cancer should consult an oncologist before considering telomerase-modulating compounds.',
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Buy Epithalon in 2026',
+        content: `<p>Epithalon is widely available from research peptide vendors in lyophilized powder form, typically in 10 mg vials. Purity verification is especially important here because Epithalon's four-amino-acid sequence makes it relatively easy to confirm by HPLC and mass spec — there's no excuse for a legitimate vendor to not provide a COA. The correct molecular weight is 402.39 Da and the correct sequence is Ala-Glu-Asp-Gly (AEDG).</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'PeptideTech.is',
+            url: 'https://www.peptidetech.is',
+            product: 'Epithalon (AEDG Tetrapeptide)',
+            productUrl: 'https://www.peptidetech.is/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'EU-based pharmaceutical-grade manufacturing. Third-party HPLC and MS COAs verify the 402.39 Da molecular weight and correct AEDG sequence. Epithalon is one of their longest-stocked peptides with consistent batch quality.',
+            badge: 'EU Pharma Standards',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://www.modifiedaminos.shop',
+            product: 'Epithalon',
+            productUrl: 'https://www.modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based with batch-specific third-party testing. Competitive pricing on 10 mg vials. Multiple vial packs available for complete 20-day cycles. COAs available on request.',
+            badge: 'Batch-Tested',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://www.aminousa.com',
+            product: 'Epithalon',
+            productUrl: 'https://www.aminousa.com',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US domestic shipping with consistent stock. Epithalon has been in their catalog since 2021. Responsive customer support for research documentation inquiries.',
+            badge: 'US Domestic',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Epithalon',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Free BAC water with orders over $200. Free shipping over $250. Accredited third-party COAs. Good value for multi-vial orders needed for complete Khavinson-protocol cycles.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'centenarian-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043428_cbb2e6e7-b3c2-4607-954c-195bfe2bfd44.jpeg',
+          alt: 'Vibrant healthy older woman with cellular energy visualization — longevity and telomere length anti-aging concept',
+          caption: 'Khavinson\'s 15-year cohort showed a 30-40% reduction in mortality in elderly subjects receiving peptide bioregulator treatment — one of the longest-running human longevity intervention datasets for any compound in this category.',
+        },
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is Epithalon the same as Epitalon?',
+            answer: 'Yes — Epithalon and Epitalon are the same compound (AEDG tetrapeptide), just different transliterations from Russian. Some vendors use Epithalon, others use Epitalon. The molecular structure, sequence (Ala-Glu-Asp-Gly), and mechanism are identical regardless of spelling. When evaluating a vendor, verify the molecular weight (402.39 Da) and sequence via COA rather than relying on the name alone.',
+          },
+          {
+            question: 'Can Epithalon actually lengthen my telomeres?',
+            answer: 'In human somatic cells (fibroblasts and lymphocytes) treated with Epithalon in vitro and ex vivo, measurable telomere elongation has been observed via PCR-based telomere length assays in Khavinson\'s published work. Whether systemic administration of Epithalon at research doses achieves the same effect in vivo in living humans has not been established by an independent RCT. Short-answer: the mechanism is plausible and the in vitro human cell data is real; whole-body in vivo human data is limited to Khavinson\'s non-RCT cohort.',
+          },
+          {
+            question: 'Does Epithalon cause cancer?',
+            answer: 'Available animal data suggests no tumor promotion — in fact, it showed reduced spontaneous tumor incidence in cancer-prone mice (PMID 11920639, PMID 14501186). The counterintuitive finding is that despite activating telomerase in normal aging cells, Epithalon appears not to accelerate cancer in animal models. The proposed mechanism involves immune enhancement and differences between normal cells (low baseline hTERT) and cancer cells (already fully active hTERT). That said, no long-term human safety study exists, and anyone with active cancer or strong family cancer history should consult an oncologist before using any telomerase-modulating compound.',
+          },
+          {
+            question: 'How is Epithalon administered?',
+            answer: 'The most common approach is subcutaneous injection using reconstituted lyophilized powder in bacteriostatic water. Standard insulin syringes (0.5 mL, 30-31G) work well. Injection sites rotate through the abdomen or thigh. Intranasal administration is possible but provides lower bioavailability. Historical clinical use included IV administration by physicians, which is not practical for self-research.',
+          },
+          {
+            question: 'How long does it take for Epithalon to work?',
+            answer: 'The research protocols use 10-20 day cycles, so effects that can be measured (telomere length, biomarker changes) would develop over that period or in the weeks following. Subjective effects reported by the community include improved sleep quality (especially deep sleep), mild energy improvements, and improved mood — often within the first 1-2 weeks of a cycle. Objective biological age effects, if real, would likely require epigenetic clock testing before and after multiple cycles to detect.',
+          },
+          {
+            question: 'Can I stack Epithalon with SS-31 or MOTS-c?',
+            answer: 'Mechanistically, the stack makes sense: SS-31 and MOTS-c target mitochondrial function, while Epithalon targets telomere biology and epigenetic reprogramming — non-overlapping pathways in aging biology. Community reports of the triple stack exist, but no controlled data exists on interactions. Most experienced practitioners run these as separate cycles rather than simultaneously, to isolate which compound is producing which effect and manage any cumulative systemic load.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Epithalon',
+        content: `<p>Epithalon occupies a genuinely unusual position in longevity research: it has more long-term human data than almost anything else in the research peptide space (15-year cohort, replicated animal lifespan extensions across multiple species), yet it has almost no recognition in mainstream Western medicine or peer-reviewed Western journals. That gap isn't easily explained by the compound being ineffective — it's better explained by the historical context of Soviet biogerontology and the lack of funding for independent replication studies. <sup>[1,4,7]</sup></p>
+<p>The telomerase activation mechanism is mechanistically coherent and supported by in vitro human cell data. The cancer concern is addressed by animal data showing reduced (not increased) spontaneous tumor incidence — though long-term human safety data remains absent. The 2021 Molecules paper represents the most up-to-date mechanistic framework, positioning Epithalon as an epigenetic modulator as well as a telomere biology compound. <sup>[8]</sup></p>
+<p>What's genuinely missing is an independent, randomized controlled trial in humans with epigenetic clock endpoints. That would either validate Khavinson's decades of work or significantly qualify it. Until that data exists, Epithalon sits in the "intriguing, mechanistically coherent, empirically promising, not-yet-proven" category — which puts it ahead of most longevity compounds in plausibility, but behind conventional medicine's evidentiary bar.</p>
+<p>For researchers tracking biological age with epigenetic clocks, Epithalon's mechanism-to-clock alignment is the strongest of any peptide in this category. See the <a href="/blog/ss-31-elamipretide-mitochondria-guide" class="text-blue-400 hover:text-blue-300 underline">SS-31 guide</a> and <a href="/blog/mots-c-peptide-guide" class="text-blue-400 hover:text-blue-300 underline">MOTS-c guide</a> for complementary mitochondrial aging pathways. For live pricing across vendors, use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
