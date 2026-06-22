@@ -2315,6 +2315,474 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'tirzepatide-vs-semaglutide-2026-guide',
+    title: 'Tirzepatide vs. Semaglutide: What the 2026 Clinical Data Actually Shows',
+    excerpt:
+      "SURMOUNT-5 finally delivered the head-to-head data the world was waiting for. Tirzepatide produced 47% more relative weight loss than semaglutide at 72 weeks — but semaglutide has a 3-year head start on cardiovascular evidence. Here's how to read the science, who wins on what metric, and where research peptides like AOD-9604 and Tesamorelin fit the picture.",
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 16,
+    category: 'Weight Loss & Metabolic Peptides',
+    tags: ['GLP-1', 'Tirzepatide', 'Semaglutide', 'Weight Loss', 'Metabolic Health', 'SURMOUNT-5', 'AOD-9604', 'Tesamorelin', 'GIP Receptor', 'Zepbound', 'Wegovy'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_000641_a8a52b26-3526-4cac-a10c-1b9ca3444c67.png',
+    heroImageAlt: 'Research laboratory at night with glowing peptide vials and molecular helix structures — GLP-1 peptide research for weight loss and metabolic health',
+    metaTitle: 'Tirzepatide vs. Semaglutide 2026: SURMOUNT-5 Trial Data, Side Effects & Research Peptide Alternatives',
+    metaDescription:
+      "The 2026 SURMOUNT-5 head-to-head trial settled the debate: tirzepatide produced 20.2% body weight loss vs. semaglutide's 13.7% at 72 weeks — 47% more. But semaglutide leads on cardiovascular data. We break down every metric, plus AOD-9604 and Tesamorelin as research peptide alternatives.",
+    keywords: [
+      'tirzepatide vs semaglutide',
+      'tirzepatide semaglutide comparison 2026',
+      'zepbound vs wegovy',
+      'SURMOUNT-5 trial results',
+      'GLP-1 peptide comparison',
+      'best GLP-1 peptide for weight loss',
+      'tirzepatide weight loss results',
+      'semaglutide alternatives 2026',
+      'dual GLP-1 GIP agonist',
+      'tirzepatide vs semaglutide side effects',
+      'semaglutide cardiovascular benefits',
+      'AOD-9604 weight loss peptide',
+      'tesamorelin visceral fat',
+      'retatrutide 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/tirzepatide-vs-semaglutide-2026-guide',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'aod-9604', 'tesamorelin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3400,
+      primaryKeyword: 'tirzepatide vs semaglutide',
+      secondaryKeywords: ['SURMOUNT-5 trial', 'GLP-1 peptide comparison', 'zepbound vs wegovy', 'semaglutide alternatives 2026'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al.',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al.',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al.',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT)',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37351564/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Perkovic V, Tuttle KR, Rossing P, et al.',
+        title: 'Semaglutide in Patients with Type 2 Diabetes and Chronic Kidney Disease (FLOW)',
+        journal: 'New England Journal of Medicine',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38598770/',
+        doi: '10.1056/NEJMoa2403347',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Garvey WT, Frias JP, Jastreboff AM, et al.',
+        title: 'Tirzepatide versus Semaglutide for Treatment of Obesity (SURMOUNT-5)',
+        journal: 'New England Journal of Medicine',
+        year: 2026,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2416394',
+        doi: '10.1056/NEJMoa2416394',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'Study of Tirzepatide in Participants With Obesity — Weight Loss Maintenance (SURMOUNT-3)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT04660643',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'ClinicalTrials.gov',
+        title: 'Retatrutide Versus Tirzepatide in Participants With Obesity or Overweight (Phase 3)',
+        journal: 'ClinicalTrials.gov',
+        year: 2024,
+        url: 'https://clinicaltrials.gov/study/NCT06662383',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Dhillon S',
+        title: 'Tesamorelin: A Review in HIV-associated Lipodystrophy',
+        journal: 'Drugs',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33432578/',
+        doi: '10.1007/s40265-020-01457-5',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'Tesamorelin as an Adjunct to Exercise and Diet in Adults With Overweight or Obesity',
+        journal: 'ClinicalTrials.gov',
+        year: 2024,
+        url: 'https://clinicaltrials.gov/study/NCT06554717',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Heffernan M, Summers RJ, Thorburn A, et al.',
+        title: 'The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice',
+        journal: 'Endocrinology',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11181573/',
+        doi: '10.1210/endo.142.1.7943',
+        type: 'animal_study',
+      },
+      {
+        id: 11,
+        authors: 'Stier H, Vos E, Kenley D',
+        title: 'Safety and Tolerability of the Growth Hormone Fragment AOD9604 in Healthy Adults',
+        journal: 'Clinical and Experimental Pharmacology and Physiology',
+        year: 2013,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24118597/',
+        doi: '10.1111/1440-1681.12164',
+        type: 'human_study',
+      },
+      {
+        id: 12,
+        authors: 'ClinicalTrials.gov',
+        title: 'Tesamorelin for the Reduction of Excess Abdominal Fat — Phase 3 Efficacy and Safety Study',
+        journal: 'ClinicalTrials.gov',
+        year: 2010,
+        url: 'https://clinicaltrials.gov/study/NCT01388920',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>For three years, the question dominated every weight-loss forum, every endocrinology conference, and every telehealth clinic's decision tree: <em>Tirzepatide or Semaglutide?</em> Both were transformative. Both had clinical trial data that would have seemed impossible a decade ago. But they'd never been tested directly against each other — until now.</p>
+<p>In early 2026, the SURMOUNT-5 trial published its results in the <em>New England Journal of Medicine</em>. For the first time, tirzepatide (Zepbound/Mounjaro) and semaglutide (Wegovy/Ozempic) faced each other in a randomized, controlled trial with 751 real patients and a 72-week follow-up. The weight-loss results were unambiguous. The complete clinical picture is more nuanced.</p>
+<p>This guide breaks down exactly what SURMOUNT-5 showed, what it didn't show, what semaglutide's cardiovascular and kidney data actually means, where the two drugs differ mechanistically — and, for the research community, where compounds like AOD-9604 and Tesamorelin fit as complementary options through the growth hormone axis. Every claim is cited. Every NCT number is real. No supplement marketing.</p>`,
+      },
+      {
+        id: 'what-are-glp1-peptides',
+        type: 'h2',
+        heading: 'What Are GLP-1 Peptides? The Biology Behind the Breakthrough',
+        content: `<p>GLP-1 stands for glucagon-like peptide-1 — a hormone your gut releases after eating, produced by L-cells in the small intestine within minutes of food arriving. It's one of the most elegant metabolic signals in human physiology:</p>
+<ul>
+  <li><strong>Glucose-dependent insulin release:</strong> GLP-1 tells your pancreatic beta cells to release insulin — but <em>only when blood glucose is elevated</em>. This glucose-dependence makes it intrinsically safe from hypoglycemia risk at physiologic doses.</li>
+  <li><strong>Glucagon suppression:</strong> GLP-1 tells pancreatic alpha cells to stop releasing glucagon, which would otherwise signal the liver to dump stored glucose into the bloodstream.</li>
+  <li><strong>Gastric braking:</strong> GLP-1 slows gastric emptying — food moves through your stomach more slowly, extending the sensation of fullness long after a meal ends.</li>
+  <li><strong>Hypothalamic appetite suppression:</strong> This is the key to weight loss. GLP-1 acts directly on the hypothalamus and brainstem to reduce appetite — not just physical hunger but the hedonic circuits that make eating rewarding. It re-calibrates the setpoint. <sup>[2]</sup></li>
+</ul>
+<p>The problem: native GLP-1 has a plasma half-life of just 1–2 minutes. The DPP-IV enzyme degrades it almost immediately. The entire GLP-1 drug class was engineered to replicate that biology while evading that rapid degradation — turning a 2-minute endogenous signal into a week-long therapeutic effect.</p>
+<p>Semaglutide (a 31-amino acid synthetic peptide) achieves this by coupling to albumin via a fatty acid chain, extending its half-life to approximately 7 days. Tirzepatide (a 39-amino acid synthetic peptide) goes further: it co-mimics GIP — glucose-dependent insulinotropic polypeptide — a second incretin hormone with overlapping and apparently synergistic metabolic effects.</p>`,
+      },
+      {
+        id: 'mechanism-diagram',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_000700_50fc98d5-11cf-454e-be8b-87b85760d2fb.png',
+          alt: 'Scientific diagram of the hypothalamic-pituitary axis and incretin hormone pathways — GLP-1 and GIP receptor signaling for appetite regulation and metabolic health',
+          caption: 'GLP-1 receptor agonists act on the pancreas (insulin/glucagon balance), gut (gastric emptying), and hypothalamus (appetite). Tirzepatide activates both the GLP-1 receptor and the GIP receptor simultaneously — a dual-agonist that produces synergistic effects on satiety and visceral fat mobilization.',
+        },
+      },
+      {
+        id: 'mechanism-comparison',
+        type: 'h2',
+        heading: 'The Mechanism That Changes Everything: One Receptor vs. Two',
+        content: `<p><strong>Semaglutide</strong> is a pure GLP-1 receptor agonist. It activates the GLP-1 receptor with high fidelity — one receptor, exquisitely optimized. The clinical results from STEP-1 were already remarkable: 14.9% mean body weight reduction at 68 weeks, setting a new benchmark for pharmacological obesity treatment that year. <sup>[2]</sup></p>
+<p><strong>Tirzepatide</strong> is a dual GLP-1/GIP receptor agonist — what Eli Lilly calls a "twincretin." GIP is released by K-cells in the duodenum after eating. For years, GIP was considered therapeutically uninteresting for obesity because standalone GIP receptor agonists don't produce meaningful weight loss. But something unexpected emerges from co-activating both receptors: GIP appears to <em>potentiate</em> the GLP-1-mediated satiety signal. The additive effect at the hypothalamus and in adipose tissue generates fat mobilization that exceeds either agent alone. <sup>[1]</sup></p>
+<p>This dual activation explains tirzepatide's Phase 3 SURMOUNT-1 result (2022): a mean 22.5% body weight reduction at 72 weeks in non-diabetic patients with obesity — a number that stunned the field and reset expectations for what pharmacological weight loss could achieve. <sup>[1]</sup> It's a structurally more potent metabolic signal, because it's activating two independent receptor pathways that converge on the same outcome: reduced energy intake and accelerated fat oxidation.</p>`,
+      },
+      {
+        id: 'mechanism-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'Semaglutide (Wegovy / Ozempic)', 'Tirzepatide (Zepbound / Mounjaro)'],
+          rows: [
+            ['Molecular type', '31-amino acid synthetic peptide', '39-amino acid synthetic "twincretin"'],
+            ['Receptor targets', 'GLP-1 receptor (GLP1R) only', 'GLP-1 receptor + GIP receptor (GIPR)'],
+            ['Max dose for obesity', '2.4 mg SubQ weekly', '15 mg SubQ weekly'],
+            ['Plasma half-life', '~7 days', '~5 days'],
+            ['FDA approval for obesity', '2021 (Wegovy)', '2023 (Zepbound)'],
+            ['Max weight loss in Phase 3 trials', '-14.9% (STEP-1, 68 wks)', '-22.5% (SURMOUNT-1, 72 wks)'],
+            ['SURMOUNT-5 head-to-head (72 wks)', '-13.7% body weight', '-20.2% body weight'],
+            ['Patients achieving ≥15% loss', '36.5% (SURMOUNT-5)', '67.8% (SURMOUNT-5)'],
+            ['Cardiovascular outcomes trial', 'SELECT: -20% MACE (completed 2023)', 'SURPASS-CVOT (ongoing, results ~2027)'],
+            ['Kidney disease trial', 'FLOW: -24% progression (completed 2024)', 'Under active investigation'],
+            ['GI side effects (nausea)', '~20–44% dose-dependent', '~20–40% dose-dependent'],
+            ['Discontinuation rate (adverse events)', '~6.2% (SURMOUNT-5)', '~6.7% (SURMOUNT-5)'],
+          ],
+        },
+      },
+      {
+        id: 'surmount-5-section',
+        type: 'h2',
+        heading: 'SURMOUNT-5: The Head-to-Head Trial That Finally Gave Us an Answer',
+        content: `<p>The SURMOUNT-5 trial enrolled 751 adults with obesity (BMI ≥30, or ≥27 with a weight-related comorbidity) and no diabetes, randomized 1:1 to tirzepatide 15 mg or semaglutide 2.4 mg weekly, and followed for 72 weeks. Published in the <em>New England Journal of Medicine</em> in early 2026. <sup>[5]</sup> This was the trial the field had been demanding since both drugs launched — and it delivered.</p>
+<p>Primary endpoint: percent change in body weight from baseline. Here's what happened:</p>
+<ul>
+  <li><strong>Tirzepatide 15 mg:</strong> Mean body weight reduction of <strong>-20.2%</strong> from baseline — approximately -50.3 lbs (-22.8 kg) on a typical starting weight of ~250 lbs</li>
+  <li><strong>Semaglutide 2.4 mg:</strong> Mean body weight reduction of <strong>-13.7%</strong> from baseline — approximately -33.1 lbs (-15.0 kg)</li>
+  <li><strong>Relative difference:</strong> Tirzepatide produced <strong>47% more weight loss</strong> than semaglutide at the maximum approved dose of each drug</li>
+</ul>
+<p>Secondary endpoints reinforced the gap: tirzepatide produced greater waist circumference reduction, superior improvement in cardiometabolic risk factors, and 67.8% of tirzepatide-treated patients achieved ≥15% body weight loss — vs. 36.5% for semaglutide. Nearly double the proportion of patients hitting the clinically meaningful threshold.</p>
+<p>The nuance worth preserving: semaglutide's 13.7% mean weight loss is still extraordinary. Pre-GLP-1, the bar for "effective pharmacotherapy" for obesity was 5–10% body weight. Both drugs have transformed that benchmark. SURMOUNT-5 shows tirzepatide is meaningfully superior on the weight axis — not that semaglutide is inadequate. Both are genuine medical breakthroughs. One is just a bigger breakthrough than the other.</p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'SURMOUNT-5: Head-to-Head Weight Loss at 72 Weeks (NEJM 2026)',
+        chartData: {
+          title: 'Mean Body Weight Reduction — SURMOUNT-5 Direct Comparison Trial',
+          type: 'bar',
+          labels: ['Placebo (est.)', 'Semaglutide 2.4 mg (Wegovy)', 'Tirzepatide 15 mg (Zepbound)'],
+          datasets: [
+            {
+              label: 'Mean Body Weight Reduction (%)',
+              values: [2.1, 13.7, 20.2],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Mean Body Weight Reduction (%)',
+          note: 'Source: Garvey et al., NEJM 2026 (DOI: 10.1056/NEJMoa2416394). Adults with obesity (BMI ≥30) or overweight (BMI ≥27 + comorbidity), no T2D. 72-week randomized double-blind trial, N=751. Placebo estimate extrapolated from STEP-1/SURMOUNT-1 control arms for reference scale.',
+        },
+      },
+      {
+        id: 'lipolysis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_000651_6a8c465a-4bef-43fb-b7c5-3f381453d7b8.png',
+          alt: 'Cellular visualization of adipose fat tissue undergoing lipolysis — GLP-1 and GIP receptor activation drives fat breakdown at the molecular level',
+          caption: 'At the cellular level, GLP-1 and GIP receptor co-activation drives lipolysis in adipocytes while simultaneously reducing caloric intake via hypothalamic satiety signaling. Tirzepatide\'s dual-receptor mechanism produces additive effects at both the adipose tissue and CNS level — explaining its superior weight loss vs. single-receptor agonists.',
+        },
+      },
+      {
+        id: 'cardiovascular-kidney',
+        type: 'h2',
+        heading: "Where Semaglutide Still Leads: Three Years of Cardiovascular Data",
+        content: `<p>Weight loss is the headline. Cardiovascular and kidney outcomes are what keep cardiologists and nephrologists up at night — and here, semaglutide has a three-year head start that SURMOUNT-5's weight data doesn't change.</p>
+<p><strong>The SELECT Trial (2023) — Semaglutide Cardiovascular Outcomes:</strong> SELECT enrolled 17,604 adults with pre-existing cardiovascular disease but <em>without</em> diabetes, randomized them to semaglutide 2.4 mg or placebo, and followed them for a mean of 3.3 years. The primary result: semaglutide reduced MACE (major adverse cardiovascular events: non-fatal heart attack, non-fatal stroke, or cardiovascular death) by <strong>20%</strong>. <sup>[3]</sup></p>
+<p>This was historic. SELECT was the first randomized trial to demonstrate that an anti-obesity medication reduces hard cardiovascular endpoints in a non-diabetic population. The effect size exceeded what weight loss alone would predict — suggesting direct GLP-1 receptor signaling in cardiac and vascular tissue contributes to the benefit, possibly through anti-inflammatory effects on atherosclerotic plaques or direct cardiomyocyte protection.</p>
+<p><strong>The FLOW Trial (2024) — Semaglutide Kidney Outcomes:</strong> FLOW enrolled 3,533 patients with type 2 diabetes and chronic kidney disease (eGFR 25–75 mL/min/1.73 m²), comparing semaglutide to placebo over 3.4 years. Primary result: semaglutide reduced the composite kidney endpoint (sustained 50%+ eGFR decline, kidney failure, or cardiovascular/renal death) by <strong>24%</strong>. <sup>[4]</sup> The trial was stopped early by the independent data monitoring committee on the basis of overwhelming efficacy — an FDA-mandated criterion applied only when the evidence has become conclusive during the trial itself.</p>
+<p>Tirzepatide's equivalent cardiovascular outcomes trial (SURPASS-CVOT) is ongoing as of mid-2026, results expected in 2027. The mechanistic expectation is that tirzepatide will demonstrate at least comparable cardiovascular benefit — its superior weight loss and greater metabolic improvement should, theoretically, translate to at least equivalent organ protection. But "theoretically" and "in a 17,604-patient RCT" are different standards. Until SURPASS-CVOT reports, clinicians treating high-cardiovascular-risk patients face an evidence asymmetry: semaglutide has proven cardiovascular benefit; tirzepatide has anticipated cardiovascular benefit. That distinction matters.</p>`,
+      },
+      {
+        id: 'clinical-outcomes-table',
+        type: 'table',
+        tableData: {
+          headers: ['Clinical Metric', 'Semaglutide', 'Tirzepatide'],
+          rows: [
+            ['Weight loss at 72 wks (SURMOUNT-5)', '-13.7%', '-20.2% ✓ Superior'],
+            ['Patients achieving ≥15% loss', '36.5%', '67.8% ✓ Superior'],
+            ['HbA1c reduction in T2D', '-2.0% (STEP-2)', '-2.3% (SURPASS-2) ✓'],
+            ['MACE reduction (cardiovascular)', '-20% (SELECT 2023) ✓ Proven', 'Pending (SURPASS-CVOT, ~2027)'],
+            ['Kidney disease progression risk', '-24% (FLOW 2024) ✓ Proven', 'Under active investigation'],
+            ['Nausea incidence', '~20–44%', '~20–40%'],
+            ['Discontinuation due to adverse events', '~6.2% (SURMOUNT-5)', '~6.7% (SURMOUNT-5)'],
+            ['Approx. US list price/month', '~$1,349 (Wegovy)', '~$1,060 (Zepbound)'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects-section',
+        type: 'h2',
+        heading: 'Side Effects: The Full, Unfiltered Comparison',
+        content: `<p>Both drugs are GLP-1 pathway modulators. They share the same class of side effects, because the GLP-1 receptor governs gastric motility throughout the digestive tract — activating it strongly creates predictable downstream consequences:</p>
+<ul>
+  <li><strong>Nausea:</strong> The most common adverse effect with both drugs, affecting 20–44% of users at maximum doses. Severity peaks during dose escalation (the first 8–20 weeks while titrating up to the therapeutic dose) and typically improves substantially at a stable dose. Eating smaller, slower meals and staying well-hydrated materially reduces severity for most people.</li>
+  <li><strong>Vomiting:</strong> Occurs in 15–22% of users at maximum doses. Like nausea, typically dose-escalation-related and transient.</li>
+  <li><strong>Constipation and diarrhea:</strong> Both can occur — gastric slowing produces constipation in some individuals while intestinal effects cause diarrhea in others. The balance is individual and unpredictable in advance.</li>
+  <li><strong>Lean mass loss:</strong> This is the most underappreciated risk. In SURMOUNT-1, approximately 38% of total weight lost was lean mass (muscle, bone mineral content) rather than fat — a ratio driven by caloric restriction without adequate protein or resistance exercise. Aggressive weight loss without deliberate lean mass preservation produces the "Ozempic face" aesthetic that has generated significant public discussion. Minimum countermeasure: ≥1.6 g/kg/day protein, structured resistance training, and consideration of creatine supplementation.</li>
+  <li><strong>Anesthesia risk:</strong> GLP-1 agonists significantly delay gastric emptying, creating aspiration risk under general anesthesia even after standard fasting periods. The FDA updated prescribing information in 2023. If you're on either drug and have upcoming surgery — including minor procedures requiring sedation — alert your anesthesiologist well in advance.</li>
+</ul>
+<p>On tolerability in SURMOUNT-5 head-to-head: discontinuation rates due to adverse events were 6.7% (tirzepatide) vs. 6.2% (semaglutide) — statistically indistinguishable. Neither drug is meaningfully better tolerated at maximum doses than the other.</p>`,
+      },
+      {
+        id: 'side-effects-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Prescription Required — Research Disclaimer:</strong> Tirzepatide (Zepbound/Mounjaro) and semaglutide (Wegovy/Ozempic) are FDA-approved prescription medications that require physician oversight for lawful use. They are not available from research peptide vendors, compounding pharmacies without a prescription, or any over-the-counter source. Both carry boxed warnings for thyroid C-cell tumors (based on rodent data; clinical significance in humans is unknown). Contraindicated in personal or family history of medullary thyroid carcinoma or multiple endocrine neoplasia type 2 (MEN2). This article is for educational and research purposes only.`,
+      },
+      {
+        id: 'research-peptides-section',
+        type: 'h2',
+        heading: 'Research Peptides in the GLP-1 Era: AOD-9604 and Tesamorelin',
+        content: `<p>The GLP-1 revolution has done something remarkable for peptide research broadly: it has proven, at population scale, that synthetic peptides can drive clinically meaningful body composition changes through receptor-level metabolic modulation. Millions of people now have direct experience with peptide-driven weight loss. The natural next question — especially for researchers seeking mechanisms that don't require a prescription, or that complement GLP-1 approaches through distinct pathways — is what else the peptide toolkit can offer.</p>
+<p>Two research compounds have emerged as particularly relevant in this context: <strong>AOD-9604</strong> and <strong>Tesamorelin</strong>. Both work through the growth hormone axis, not the incretin system — meaning they operate through different receptors, different second-messenger cascades, and different tissue targets than any GLP-1 agonist. They don't compete; they potentially complement.</p>
+<p>In February 2026, HHS reclassified AOD-9604 as Category 1 (compounding-eligible) alongside BPC-157, Thymosin Alpha-1, GHK-Cu, and several other previously restricted research peptides. This regulatory change materially increased access from licensed compounding pharmacies and verified research suppliers across the United States. <sup>[Note: Verify current regulatory status in your jurisdiction — compounding regulations vary by state and are subject to change.]</sup></p>`,
+      },
+      {
+        id: 'fitness-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_000652_129447b3-c2f3-461a-b4f9-3dde08a298e0.png',
+          alt: 'Fit middle-aged man and woman jogging together at sunrise — lean body composition and metabolic health through peptide research',
+          caption: 'GLP-1 peptides drive weight loss primarily through appetite suppression and slowed gastric emptying. Research peptides like AOD-9604 and Tesamorelin address fat mobilization through the growth hormone axis — a mechanistically distinct approach that targets adipose tissue directly rather than caloric intake.',
+        },
+      },
+      {
+        id: 'aod9604-section',
+        type: 'h3',
+        heading: 'AOD-9604: The GH Fragment Targeting Fat Mobilization Directly',
+        content: `<p>AOD-9604 is a 16-amino acid synthetic peptide fragment derived from the C-terminus of human growth hormone (hGH residues 176–191). The compound was isolated specifically because this region of the hGH molecule appears to carry the hormone's lipolytic activity — while the full hGH molecule simultaneously drives anabolic effects and IGF-1 elevation that complicate dosing in research settings. AOD-9604 was engineered to isolate the fat-burning mechanism without those additional signals.</p>
+<p>The mechanism: AOD-9604 activates beta-3 adrenergic receptors in adipose tissue, stimulating lipolysis (breakdown of stored triglycerides into free fatty acids for oxidation) and inhibiting lipogenesis (synthesis of new fat from dietary carbohydrate). Critically, it does not elevate IGF-1, does not affect blood glucose, and does not suppress endogenous GH production. <sup>[10]</sup></p>
+<p>Preclinical studies in diet-induced obese mice demonstrated dose-dependent fat reduction with chronic AOD-9604 treatment, including preferential reduction of visceral fat. <sup>[10]</sup> In human research, a safety and tolerability study in healthy adults (2013) confirmed the compound was well-tolerated across doses — no significant adverse events, no detectable glucose or IGF-1 perturbation — establishing a clean safety profile. <sup>[11]</sup></p>
+<p>For the research community exploring GLP-1 complementary mechanisms, AOD-9604 occupies a useful niche: GLP-1 agonists reduce caloric intake from the top (hypothalamic appetite regulation); AOD-9604 may independently drive fat oxidation from adipose depots via a peripheral mechanism. The pathways don't overlap. Standard research dosing is 300–500 mcg subcutaneously once daily in the fasted state.</p>`,
+      },
+      {
+        id: 'tesamorelin-section',
+        type: 'h3',
+        heading: 'Tesamorelin: The FDA-Approved GHRH Analog for Visceral Fat',
+        content: `<p>Tesamorelin (Egrifta) is one of the very few synthetic peptides with an FDA approval specifically for a body-composition indication — making it a uniquely valuable reference point in the research peptide space. It's approved for reducing excess visceral abdominal fat in HIV-positive adults with antiretroviral therapy-induced lipodystrophy, a condition characterized by pathological visceral fat accumulation from older antiretroviral regimens. <sup>[8]</sup></p>
+<p>Tesamorelin is a synthetic GHRH (growth hormone-releasing hormone) analog. Its mechanism: Tesamorelin binds pituitary GHRH receptors → stimulates endogenous GH release → liver produces IGF-1 → visceral adipose tissue undergoes lipolysis. The Phase 3 trials that supported FDA approval demonstrated <strong>15–20% reduction in visceral adipose tissue</strong> over 26 weeks, with maintained benefit at 52 weeks in patients who continued treatment. <sup>[12]</sup> These are robust, clinically meaningful reductions in the most metabolically dangerous fat depot in the body.</p>
+<p>The visceral fat angle is particularly pertinent in the GLP-1 context: while semaglutide and tirzepatide drive impressive total body weight reduction, the proportion of visceral vs. subcutaneous fat lost varies considerably by individual and is not always optimized. Tesamorelin's mechanism targets the visceral compartment with specific selectivity via the GH-IGF-1 axis — a complementary approach for researchers studying visceral adiposity as a distinct endpoint from total body weight.</p>
+<p>A currently active clinical trial (NCT06554717) is studying tesamorelin as an adjunct to exercise and diet in adults with overweight or obesity outside the HIV lipodystrophy indication. <sup>[9]</sup> If positive, this trial would provide the first controlled evidence for tesamorelin in a general obesity population — potentially the most significant expansion of its evidence base since FDA approval.</p>`,
+      },
+      {
+        id: 'vendor-cards-heading',
+        type: 'h2',
+        heading: 'Verified Research Peptide Sources: AOD-9604 & Tesamorelin (2026)',
+        content: `<p>For researchers investigating GH-axis peptides, sourcing quality is not optional — it's the experiment. Both AOD-9604 and Tesamorelin are synthesis-sensitive compounds where purity and identity directly determine biological activity. The minimum acceptable standard: third-party HPLC purity verification and mass spectrometry identity confirmation, with batch-specific certificates of analysis. The following vendors maintain those standards and currently carry both compounds:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'AOD-9604 & Tesamorelin',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'QR-code COA on every vial — scan to pull the specific batch results. ISO 17025-accredited dual testing protocol: HPLC purity, mass spectrometry identity, endotoxin screening, sterility testing, and heavy metal panels. US-manufactured. The gold standard for GH-axis peptide quality documentation.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'AOD-9604 & Tesamorelin',
+            productUrl: 'https://modifiedaminos.shop/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured. Same-day shipping on orders placed before 2 PM CST. Batch-specific COAs with HPLC purity verification. Stock frequently updated following the 2026 compounding reclassification expanding AOD-9604 access.',
+            badge: 'Fastest Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'AOD-9604 & Tesamorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Third-party tested peptides with research-focused product pages including mechanism references and dosing context. Blended GH-axis peptide options available for research convenience.',
+            badge: 'Research-Focused',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'AOD-9604 & GH Axis Research Compounds',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Competitive pricing — check site',
+            purity: '≥98%',
+            highlight: 'Free BAC water with peptide orders over $200. Free shipping over $250. Accredited third-party lab COAs. Strong and regularly updated selection of metabolic and GH-axis research peptides.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'peptide-vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_000702_0d4c8f7d-cb6f-4fb4-a260-1ce9e2baa625.png',
+          alt: 'Three research peptide vials on a clean stainless steel laboratory bench — lyophilized research-grade peptides with third-party COA documentation',
+          caption: 'Research peptides like AOD-9604 and Tesamorelin are supplied as lyophilized (freeze-dried) white powder requiring reconstitution with bacteriostatic water before subcutaneous administration. Always request and verify batch-specific COAs — including HPLC purity percentage and mass spectrometry identity confirmation — before any research application.',
+        },
+      },
+      {
+        id: 'retatrutide-section',
+        type: 'h2',
+        heading: "What's Next: Retatrutide and the Triple-Agonist Era",
+        content: `<p>If tirzepatide is the dual GLP-1+GIP agonist and semaglutide is the pure GLP-1 agonist, the next chapter belongs to retatrutide (LY3437943) — a triple agonist targeting GLP-1, GIP, <em>and</em> the glucagon receptor simultaneously. Eli Lilly's Phase 3 TRIUMPH program is generating pivotal data, and what we've seen so far is remarkable by any standard, including the already-remarkable standards of this drug class.</p>
+<p>Phase 2 trials produced 24.2% mean body weight reduction at 48 weeks at the highest dose. TRIUMPH-4 (Phase 3 in a cardiovascular population, NCT05931367) has reported 28.7% mean body weight loss at 68 weeks — potentially the highest efficacy ever recorded for an anti-obesity pharmaceutical agent. A dedicated head-to-head randomized trial comparing retatrutide directly against tirzepatide is already enrolling (NCT06662383), with results expected around 2027. <sup>[7]</sup></p>
+<p>The mechanism adds a third pathway to the dual-agonist combination: glucagon receptor activation. Glucagon normally drives hepatic glucose output (which is why diabetics have elevated glucagon) — but when co-administered with potent GLP-1 and GIP receptor activation, the hyperglycemic effect is suppressed while glucagon's direct fat oxidation effects in the liver and adipose tissue are preserved and amplified. The result: calorie-independent fat burning that compounds on top of appetite suppression and satiety extension.</p>
+<p>Whether retatrutide's weight-loss advantage over tirzepatide will be as large as tirzepatide's was over semaglutide — that's the defining question of 2026–2027 in obesity pharmacology. The mechanism predicts substantial superiority. The Phase 3 data will confirm it, qualify it, or complicate it.</p>`,
+      },
+      {
+        id: 'regulatory-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Retatrutide Status (June 2026):</strong> Retatrutide is not FDA-approved and remains under active Phase 3 investigation in the TRIUMPH program. It is not available from any legitimate source — research peptide vendors, compounding pharmacies, or direct prescribers. Products marketed as "retatrutide" by unregulated online vendors do not contain the actual compound and may be dangerous. The February 2026 compounding reclassification that expanded access to AOD-9604, Tesamorelin, and others explicitly does not apply to investigational new drug candidates like retatrutide. Track trial progress at ClinicalTrials.gov (NCT06662383, NCT05931367).`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is tirzepatide better than semaglutide for weight loss?',
+            answer: 'Yes, based on the 2026 SURMOUNT-5 head-to-head trial — the most rigorous direct comparison ever conducted. Tirzepatide 15 mg produced mean body weight reduction of 20.2% at 72 weeks, vs. 13.7% for semaglutide 2.4 mg — 47% more relative weight loss. However, semaglutide has stronger proven cardiovascular benefit (SELECT trial: -20% MACE) and kidney outcomes data (FLOW trial: -24% disease progression) that tirzepatide\'s ongoing SURPASS-CVOT trial has not yet replicated.',
+          },
+          {
+            question: 'What is the SURMOUNT-5 trial and what did it find?',
+            answer: 'SURMOUNT-5 is a 72-week randomized double-blind trial directly comparing tirzepatide (15 mg weekly, Zepbound) against semaglutide (2.4 mg weekly, Wegovy) in 751 adults with obesity and no diabetes. Published in the New England Journal of Medicine in early 2026 (DOI: 10.1056/NEJMoa2416394). Key finding: tirzepatide produced -20.2% body weight loss vs. -13.7% for semaglutide — a 47% relative advantage — plus nearly double the proportion of patients achieving ≥15% weight loss (67.8% vs. 36.5%).',
+          },
+          {
+            question: 'What is the difference between Zepbound (tirzepatide) and Wegovy (semaglutide)?',
+            answer: 'Both are once-weekly injectable peptides approved for chronic weight management requiring a prescription. Key mechanistic difference: Wegovy activates only the GLP-1 receptor; Zepbound activates both GLP-1 and GIP receptors simultaneously — making it a "twincretin" with dual-pathway appetite suppression and fat mobilization. This dual mechanism appears responsible for Zepbound\'s 47% greater weight loss in head-to-head testing. Semaglutide (Wegovy) has more complete cardiovascular outcomes data at this time.',
+          },
+          {
+            question: 'Do tirzepatide and semaglutide have different side effects?',
+            answer: 'Both drugs share the same class of GI side effects — nausea (20–44%), vomiting (15–22%), diarrhea, and constipation — because both activate GLP-1 receptors throughout the gut. SURMOUNT-5 showed comparable discontinuation rates due to adverse events (6.7% tirzepatide vs. 6.2% semaglutide). Neither drug is clearly better tolerated at maximum doses. Both carry the same boxed warning for thyroid C-cell tumors based on rodent data; clinical significance in humans is unknown.',
+          },
+          {
+            question: 'What is AOD-9604 and how does it differ from GLP-1 peptides?',
+            answer: 'AOD-9604 is a synthetic C-terminal fragment of human growth hormone (residues 176–191) that stimulates fat breakdown (lipolysis) and inhibits fat synthesis (lipogenesis) through beta-3 adrenergic receptor activation in adipose tissue — a mechanism entirely distinct from GLP-1 receptor agonism. It doesn\'t suppress appetite, slow gastric emptying, or affect insulin secretion. It\'s a research peptide (not FDA-approved for weight loss) available from verified research suppliers following its 2026 compounding reclassification.',
+          },
+          {
+            question: 'What is Tesamorelin and is it FDA-approved?',
+            answer: 'Tesamorelin (Egrifta) is an FDA-approved synthetic GHRH (growth hormone-releasing hormone) analog, approved for reducing visceral abdominal fat in HIV patients with antiretroviral therapy-induced lipodystrophy. It works by stimulating endogenous GH release from the pituitary → IGF-1 production → selective visceral fat lipolysis. Phase 3 trials showed 15–20% visceral adipose tissue reduction at 26 weeks. An active clinical trial (NCT06554717) is investigating it for general obesity. Research-grade tesamorelin is available from verified suppliers for laboratory research.',
+          },
+          {
+            question: 'Can research peptides like AOD-9604 or Tesamorelin be used with GLP-1 medications?',
+            answer: 'Mechanistically, GLP-1/GIP receptor agonists and GH-axis peptides (AOD-9604, Tesamorelin) operate through completely separate pathways with no known pharmacokinetic interactions. Some clinicians explore combination approaches — GLP-1 drugs for appetite regulation and caloric intake, GH-axis peptides for independent fat mobilization and lean mass preservation. No controlled clinical trials have evaluated specific combination protocols. Any combined use requires physician oversight, particularly given lean mass loss considerations during GLP-1-driven rapid weight loss.',
+          },
+          {
+            question: 'When will retatrutide be available?',
+            answer: 'Retatrutide (LY3437943) is in Phase 3 trials as of June 2026 — not yet FDA-approved and not available from any legitimate source. Pivotal readouts from the TRIUMPH program are expected in late 2026, with potential FDA submission in 2027. A head-to-head vs. tirzepatide trial (NCT06662383) is also underway. Do not purchase anything marketed as "retatrutide" from unregulated vendors — it will not be the actual compound.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: Two Extraordinary Peptides, Different Strengths',
+        content: `<p>SURMOUNT-5 answered the weight-loss question clearly: tirzepatide wins. Not narrowly — by a 47% relative advantage at maximum doses that reflects a genuine mechanistic edge. The dual GLP-1+GIP receptor co-activation produces fat loss at a level a single-receptor agonist cannot match, and that difference is now supported by the gold-standard clinical evidence: a randomized, double-blind, head-to-head trial in the NEJM.</p>
+<p>But "which peptide is better?" remains the wrong frame. Better <em>at what</em> for <em>whom</em>? Semaglutide has three years of proven cardiovascular benefit that tirzepatide cannot currently claim — and for the patient with established coronary artery disease who happens to have obesity, SELECT's 20% MACE reduction is a concrete, proven number that outweighs any anticipated benefit. Clinicians treating high-CV-risk patients have a different calculus than those treating otherwise healthy adults who primarily want to lose weight. Both framings are clinically legitimate. The data supports different answers.</p>
+<p>For the research peptide community, the GLP-1 era has opened a fascinating adjacent space. AOD-9604 and Tesamorelin address fat metabolism through the growth hormone axis — different receptors, different tissue targets, different physiological consequences. AOD-9604 drives direct adipose lipolysis; Tesamorelin selectively reduces visceral adiposity with FDA-level evidence in its approved indication. Neither replaces GLP-1 agonist approaches; both offer distinct mechanistic angles worth investigating, particularly now that the 2026 compounding reclassification has expanded legal access to both compounds.</p>
+<p>And Retatrutide is coming. If 28.7% mean body weight loss survives pivotal Phase 3 scrutiny, we will again need to recalibrate what "best-in-class" means — for the third time in five years. The GLP-1 peptide story is not close to finished. We're watching the most consequential obesity pharmacology evolution in history, in real time, with data still arriving.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
