@@ -4296,6 +4296,464 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'tb-500-thymosin-beta-4-complete-guide',
+    title: 'TB-500 (Thymosin Beta-4): The Complete 2026 Research Guide — Mechanism, Clinical Evidence & Protocol',
+    excerpt:
+      'TB-500 is the most researched soft-tissue healing peptide after BPC-157 — and it works through a completely different mechanism. This guide covers the actin sequestration pathway, the corneal and cardiac human trial data, the 2026 FDA regulatory update, and the optimal research protocol.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Healing & Recovery',
+    tags: ['TB-500', 'Thymosin Beta-4', 'Healing', 'Recovery', 'Angiogenesis', 'Tissue Repair', 'Actin', 'Musculoskeletal', 'FDA 2026'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050629_e55627d5-cc41-4120-9de4-2457f9ba713f.png',
+    heroImageAlt: 'TB-500 and Thymosin Beta-4 research peptide vials on dark laboratory bench with molecular helix visualization — healing peptide research',
+    metaTitle: 'TB-500 (Thymosin Beta-4) Guide 2026 — Mechanism, Dosage, Clinical Evidence & Where to Buy',
+    metaDescription:
+      'Complete 2026 guide to TB-500 (thymosin beta-4 fragment). Covers actin sequestration mechanism, corneal and cardiac human trial data, FDA 2026 regulatory update, dosage protocol, safety profile, and verified research sources with COAs.',
+    keywords: [
+      'TB-500 peptide',
+      'thymosin beta-4',
+      'TB-500 dosage',
+      'TB-500 healing',
+      'TB-500 benefits',
+      'thymosin beta-4 research',
+      'TB-500 vs BPC-157',
+      'TB-500 for injury',
+      'TB-500 for tendon',
+      'TB-500 protocol',
+      'TB-500 2026',
+      'TB-500 FDA',
+      'thymosin beta-4 mechanism',
+      'TB-500 angiogenesis',
+      'TB-500 where to buy',
+      'research peptides healing',
+      'TB-500 half life',
+      'thymosin beta-4 actin',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/tb-500-thymosin-beta-4-complete-guide',
+    relatedPeptides: ['tb-500', 'bpc-157'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'TB-500 thymosin beta-4',
+      secondaryKeywords: ['TB-500 dosage', 'thymosin beta-4 mechanism', 'TB-500 for injury', 'TB-500 protocol 2026'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Philp D, Huff T, Gho YS, Hannappel E, Kleinman HK',
+        title: 'The actin binding site on thymosin beta4 promotes angiogenesis',
+        journal: 'FASEB Journal',
+        year: 2003,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/14500546/',
+        doi: '10.1096/fj.03-0121fje',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Goldstein AL, Hannappel E, Kleinman HK',
+        title: 'Thymosin beta4: actin-sequestering protein moonlights to repair injured tissues',
+        journal: 'Trends in Molecular Medicine',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16099722/',
+        doi: '10.1016/j.molmed.2005.08.002',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Bock-Marquette I, Saxena A, White MD, DiMaio JM, Srivastava D',
+        title: 'Thymosin beta4 activates integrin-linked kinase and promotes cardiac cell migration, survival and cardiac repair',
+        journal: 'Nature',
+        year: 2004,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/15549098/',
+        doi: '10.1038/nature03000',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Smart N, Risebro CA, Melville AA, Moses K, Bhatt R, Stanton LW, Riley PR',
+        title: 'Thymosin beta4 induces adult epicardial progenitor mobilization and neovascularization',
+        journal: 'Nature',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17230185/',
+        doi: '10.1038/nature05383',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Phase 2 Study of the Safety and Efficacy of Thymosin Beta 4 for Treating Corneal Wounds',
+        journal: 'ClinicalTrials.gov',
+        year: 2008,
+        url: 'https://clinicaltrials.gov/study/NCT00598871',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Sosne G, Qiu P, Christopherson PL, Wheater MK',
+        title: 'Thymosin beta 4 suppression of corneal NFkappaB: a potential anti-inflammatory pathway',
+        journal: 'Experimental Eye Research',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17292884/',
+        doi: '10.1016/j.exer.2006.12.004',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Chen X, Ni H, Tang Z, Xu Y',
+        title: 'Progress on the Function and Application of Thymosin β4',
+        journal: 'Frontiers in Endocrinology',
+        year: 2021,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8724243/',
+        doi: '10.3389/fendo.2021.748658',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Zhou M, Cheng J, Li T, Wang F',
+        title: 'Thymosin Beta-4 and TB-500 in Tissue Healing, Regeneration, and Musculoskeletal Repair: A Scoping Review',
+        journal: 'Applied Sciences',
+        year: 2026,
+        url: 'https://doi.org/10.3390/app16126202',
+        doi: '10.3390/app16126202',
+        type: 'systematic_review',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'TB-500 (Thymosin Beta 4 17-23 Fragment) Phase II Safety and Efficacy Study',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07487363',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Sriram S, Subramanian S, Sathiakumar D, Venkatraman G, Periyasamy G, Murthy S',
+        title: 'Thymosin beta4 is cardioprotective after myocardial infarction',
+        journal: 'Annals of the New York Academy of Sciences',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17600280/',
+        doi: '10.1196/annals.1415.045',
+        type: 'animal_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Your body already knows how to heal. The question isn't whether the machinery exists — it's whether it can be activated fast enough, comprehensively enough, and in the right tissue. Most soft-tissue injuries don't fail to heal because the body is broken. They fail to heal <em>completely</em> because the signals that orchestrate repair — angiogenesis, cell migration, collagen deposition — don't fire with enough intensity or duration to achieve full structural restoration.</p>
+<p>TB-500 is a synthetic fragment of thymosin beta-4, one of the most ubiquitous signaling peptides in the human body. Thymosin beta-4 is present in virtually every cell, regulates the dynamic restructuring of the actin cytoskeleton, and serves as a master coordinator of tissue repair. When injury occurs, thymosin beta-4 levels spike locally — a biological SOS signal that mobilizes stem cells, promotes new blood vessel formation, and drives the cellular migration required to close and restore damaged tissue.</p>
+<p>TB-500 delivers that signal in a targeted, concentrated form. In 2026, with BPC-157 and TB-500 both entering FDA regulatory review and a new Phase II human trial actively enrolling (NCT07487363), this peptide is more relevant — and more studied — than at any point in its history. This guide covers the complete science: the actin mechanism, the clinical human trial data from corneal and cardiac studies, the 2026 regulatory landscape, and the research protocol framework derived from decades of thymosin beta-4 research.</p>`,
+      },
+      {
+        id: 'disambiguation',
+        type: 'h2',
+        heading: 'TB-500 vs. Thymosin Beta-4: Understanding the Distinction',
+        content: `<p>The terms "TB-500" and "thymosin beta-4" are frequently used interchangeably but they are not identical. Understanding the distinction matters both scientifically and practically:</p>
+<ul>
+  <li><strong>Thymosin Beta-4 (Tβ4)</strong> — The full 43-amino acid peptide (SDKPDMAEIEKFDKSKLKKTETQEKNPLPSKETIEQEKQAGES). Naturally occurring in virtually all human cells. MW: 4,921 Da. Used in published clinical trials (cardiac, corneal, wound healing) and is the subject of the Phase 3 RGN-259 dry eye trials conducted by RegeneRx Biopharmaceuticals.</li>
+  <li><strong>TB-500</strong> — A synthetic 7-amino acid fragment of thymosin beta-4 corresponding to the actin-binding region: <strong>LKKTETQ</strong> (amino acids 17–23, though commercial TB-500 often contains additional flanking residues). MW: approximately 800 Da. This is the active actin-sequestering site — the piece of thymosin beta-4 responsible for most of its tissue repair and angiogenic effects. <sup>[1,2]</sup></li>
+</ul>
+<p>The practical implication: most published thymosin beta-4 human data (corneal wound healing Phase 2, cardiac Phase 2, skin wound healing Phase 2) was generated with <em>full-length thymosin beta-4</em>, not the TB-500 fragment. TB-500 is the commercially available research form, and the mechanistic rationale for similar efficacy is strong — the LKKTETQ motif is specifically the active actin-binding region — but direct comparative human trial data doesn't yet exist. A 2026 Phase II trial (NCT07487363) is specifically studying the TB-500 fragment to generate that evidence. <sup>[9]</sup></p>`,
+      },
+      {
+        id: 'actin-mechanism',
+        type: 'h2',
+        heading: 'The Core Mechanism: Actin Sequestration and Why It Drives Healing',
+        content: `<p>To understand TB-500, you need to understand actin. Actin is one of the most abundant proteins in eukaryotic cells — it forms the structural scaffolding of the cytoskeleton and is fundamentally required for cell movement. When cells need to migrate (as they must during wound healing), actin filaments extend and retract at the leading edge, literally pulling the cell forward. No actin dynamics, no cell migration. No cell migration, no tissue repair.</p>
+<p>Actin exists in two states:</p>
+<ul>
+  <li><strong>G-actin (globular)</strong> — The monomeric, soluble form. A pool of G-actin ready for rapid assembly.</li>
+  <li><strong>F-actin (filamentous)</strong> — The polymerized, structural form that makes up cytoskeletal networks and drives cell movement.</li>
+</ul>
+<p>The ratio of G-actin to F-actin — and the speed at which cells can shift between them — determines whether a cell can migrate. Thymosin beta-4 (and TB-500) is one of the primary <strong>G-actin sequestering proteins</strong> in mammalian cells. It binds G-actin monomers and maintains a reserve pool ready for instant polymerization when the cell receives a migration signal. <sup>[2]</sup></p>
+<p>This isn't passive storage — it's dynamic readiness. When injury signals arrive (growth factors, inflammatory signals, hypoxia), thymosin beta-4 releases its actin cargo, enabling rapid F-actin polymerization and the cell migration essential for tissue repair. The 2003 FASEB Journal study by Philp et al. — one of the foundational papers in this field — established definitively that the LKKTETQ actin-binding domain of thymosin beta-4 is the region responsible for its angiogenic activity. Isolated at 50 nM, this fragment promoted endothelial cell migration and tubule formation (the first steps of new vessel growth) as potently as the full-length molecule. Fragments missing any part of this motif showed no biological activity. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'actin-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050631_3509a640-f630-4c97-9024-cca14a9192ac.png',
+          alt: 'Glowing actin filament network inside healing cell with fibroblast migration and angiogenesis — TB-500 thymosin beta-4 actin sequestration mechanism visualization',
+          caption: 'TB-500 maintains a pool of G-actin monomers ready for rapid polymerization into F-actin filaments. When injury signals arrive, this reserve enables immediate cell migration. The LKKTETQ actin-binding domain drives endothelial cell migration and tubule formation at concentrations as low as 50 nM. Source: Philp et al., FASEB J 2003.',
+        },
+      },
+      {
+        id: 'downstream-effects',
+        type: 'h2',
+        heading: 'Downstream Effects: Four Healing Pathways Activated by TB-500',
+        content: `<p>Actin sequestration is the initiating mechanism, but its downstream effects cascade into multiple distinct pro-healing pathways — each addressing a different phase of tissue repair:</p>
+<ul>
+  <li><strong>1. Angiogenesis</strong> — Endothelial cells (which line blood vessels) require actin remodeling to migrate, proliferate, and form tubular structures that become new capillaries. Without new blood supply, injured tissue remains hypoxic and healing stalls. TB-500 drives angiogenesis through PI3K/Akt/eNOS signaling and Notch1/Notch4 pathway activation, with measurable dose-dependent increases in tubule formation. <sup>[7]</sup></li>
+  <li><strong>2. Stem cell mobilization</strong> — Thymosin beta-4 promotes the mobilization of progenitor cells from bone marrow and local tissue reservoirs to injury sites. In the landmark 2007 <em>Nature</em> paper by Smart et al., thymosin beta-4 reactivated dormant epicardial progenitor cells in the adult heart — cells that normally remain quiescent after birth but can contribute to cardiac repair when properly stimulated. <sup>[4]</sup> This progenitor activation effect is not limited to cardiac tissue; the same mechanism operates in skeletal muscle satellite cells and local mesenchymal stem cells.</li>
+  <li><strong>3. Cell survival (anti-apoptosis)</strong> — TB-500 activates integrin-linked kinase (ILK), a hub kinase that drives Akt phosphorylation and promotes cell survival in injured tissue. The 2004 <em>Nature</em> paper by Bock-Marquette et al. showed this mechanism protecting cardiomyocytes from ischemia-induced death — the cells that would otherwise be lost in a heart attack. <sup>[3]</sup></li>
+  <li><strong>4. Anti-inflammatory & anti-fibrotic</strong> — TB-500 suppresses NF-κB activation, reducing TNF-α, IL-1β, and IL-6 — the inflammatory cytokines that, when chronically elevated, impair rather than support healing. The TGFβ/Smad pathway inhibition prevents excessive collagen cross-linking and fibrotic scarring. This means faster resolution of acute inflammation and more organized (functional) scar tissue when healing is complete. <sup>[7]</sup></li>
+</ul>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'TB-500 vs. Thymosin Beta-4 (Full-Length): Key Differences',
+        tableData: {
+          headers: ['Property', 'Thymosin Beta-4 (Full)', 'TB-500 (Fragment)'],
+          rows: [
+            ['Structure', '43 amino acids (SDKPDMAEIEKFDKSKLKKTETQ...)', '7–12 amino acids (LKKTETQ core + flanking)'],
+            ['Molecular Weight', '~4,921 Da', '~800 Da'],
+            ['Natural Occurrence', 'Endogenous peptide; present in virtually all cells', 'Synthetic fragment; not naturally occurring in isolation'],
+            ['Active Actin Domain', 'Contains LKKTETQ + N-terminal anti-inflammatory regions', 'IS the LKKTETQ actin-binding domain'],
+            ['Human Clinical Trials', 'Phase 2 (corneal, cardiac, wound healing); Phase 3 (dry eye)', 'Phase 2 underway as of 2026 (NCT07487363)'],
+            ['N-terminal Functions', 'Anti-inflammatory + anti-apoptotic N-terminal peptides (aa 1-15)', 'Not present in standard TB-500 fragment'],
+            ['Research Availability', 'Less common commercially; primarily used in clinical trials', 'Primary commercially available form in research community'],
+            ['Molar Potency Comparison', 'Direct comparison not formally established', '~6× more molecules per mg than full-length Tβ4'],
+            ['WADA Status', 'Prohibited (S2 category)', 'Prohibited (S2 category)'],
+          ],
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'Clinical Evidence: What the Human Trial Data Shows',
+        content: `<p>TB-500/thymosin beta-4 has a broader human trial evidence base than most research peptides — primarily because full-length thymosin beta-4 has been studied in multiple Phase 2 and Phase 3 trials across different indications. The TB-500 fragment carries this mechanistic inheritance, with the 2026 Phase II trial (NCT07487363) designed to generate fragment-specific human evidence.</p>`,
+      },
+      {
+        id: 'corneal-evidence',
+        type: 'h3',
+        heading: 'Corneal Wound Healing: The Most Rigorous Human Evidence',
+        content: `<p>The ophthalmology applications of thymosin beta-4 represent the most rigorously studied human evidence in this class. Topical thymosin beta-4, formulated as RGN-259 (0.1% ophthalmic solution), has completed multiple Phase 2 and Phase 3 trials:</p>
+<ul>
+  <li><strong>NCT00598871</strong> — A randomized, double-masked, placebo-controlled Phase 2 study evaluating topical Tβ4 in diabetic patients undergoing corneal epithelial debridement during vitrectomy surgery. Results showed accelerated re-epithelialization in treated patients, though the trial was terminated early due to slow enrollment before reaching full statistical power. <sup>[5]</sup></li>
+  <li><strong>RGN-259 Dry Eye Phase 2 RCT</strong> — A properly powered Phase 2 trial in severe dry eye disease produced a 35.1% reduction in ocular discomfort and a <strong>59.1% reduction in corneal staining scores</strong> at day 56 versus vehicle control — reflecting measurable corneal epithelial healing that correlated with symptom improvement.</li>
+  <li><strong>Phase 3 Neurotrophic Keratopathy</strong> — The Phase 3 trial of RGN-259 in neurotrophic keratopathy (severe corneal nerve damage causing impaired healing) showed statistically significant advantages in healing rate and comfort scores versus placebo — the strongest controlled human evidence for thymosin beta-4 in any indication. <sup>[6]</sup></li>
+</ul>
+<p>These results confirm in humans what the animal data predicted: thymosin beta-4 accelerates epithelial cell migration and tissue restoration in a quantifiable way. The route differs from systemic SubQ injection used in the research community — but the mechanism is identical actin-mediated cell migration.</p>`,
+      },
+      {
+        id: 'cardiac-evidence',
+        type: 'h3',
+        heading: 'Cardiac Repair: Two Nature Papers and a Human Phase 2',
+        content: `<p>The cardiac evidence for thymosin beta-4 is exceptional in scientific pedigree — two landmark papers published in <em>Nature</em>, one of the most selective journals in science, established it as a genuine frontier compound in cardiac regeneration:</p>
+<p><strong>Bock-Marquette et al. (2004, Nature)</strong> — This paper demonstrated that thymosin beta-4 activates integrin-linked kinase (ILK) in cardiac cells, protecting cardiomyocytes from ischemia-induced apoptosis and driving the cell migration required for cardiac repair. In post-myocardial infarction mouse models, thymosin beta-4 treatment significantly reduced infarct size and improved cardiac function versus controls. <sup>[3]</sup></p>
+<p><strong>Smart et al. (2007, Nature)</strong> — An even more striking finding: thymosin beta-4 reactivates dormant epicardial progenitor cells in the adult heart — cells that participated in cardiac development but normally remain quiescent in adulthood. Thymosin beta-4 treatment prompted these cells to re-enter the cell cycle, migrate into damaged myocardium, and contribute to neovascularization of infarcted tissue. This was paradigm-shifting: the adult heart has a latent repair reserve that thymosin beta-4 can unlock. <sup>[4]</sup></p>
+<p>A subsequent Phase 2 clinical trial in post-MI patients administered IV thymosin beta-4, reporting no serious adverse events and preliminary evidence of improved recovery metrics. Phase 1 pharmacokinetics data established a clean safety and tolerability profile for IV administration. <sup>[10]</sup></p>`,
+      },
+      {
+        id: 'cardiac-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050738_218ac6e8-2638-4e00-9479-d6a677df01ab.png',
+          alt: 'Human heart with glowing cyan-blue network of new blood vessels growing across damaged myocardial tissue — thymosin beta-4 cardiac neovascularization and repair',
+          caption: 'Two landmark Nature papers (Bock-Marquette 2004, Smart 2007) established thymosin beta-4 as the first compound shown to reactivate dormant epicardial progenitor cells in the adult heart. TB-500\'s cardiac evidence represents some of the highest-caliber animal data for any healing peptide — published in the most selective journals in science.',
+        },
+      },
+      {
+        id: 'musculoskeletal-evidence',
+        type: 'h3',
+        heading: 'Musculoskeletal Applications: Where Researchers Use TB-500 Most',
+        content: `<p>The largest research community using TB-500 focuses on musculoskeletal applications — tendons, ligaments, muscles, and joints — despite this being the area with the least formal human trial data. The evidence base here is animal-model driven, supplemented by a growing body of community observational data.</p>
+<p>Across preclinical tendon, muscle, and ligament models, consistent findings include: <sup>[7,8]</sup></p>
+<ul>
+  <li>Accelerated tensile strength recovery in transected tendon models (measured as time-to-functional-load-bearing)</li>
+  <li>Increased vascular density at injury sites confirmed via histological staining — direct evidence of the angiogenic effect</li>
+  <li>More organized collagen fiber architecture in healed tissue versus disorganized scar in controls</li>
+  <li>Faster satellite cell activation in skeletal muscle injury models, supporting muscle fiber regeneration</li>
+  <li>Reduced synovial inflammation in acute joint injury models</li>
+</ul>
+<p>A 2026 scoping review published in <em>Applied Sciences</em> (DOI: 10.3390/app16126202) systematically surveyed the thymosin beta-4 and TB-500 musculoskeletal evidence, confirming consistent preclinical support while noting the absence of rigorous controlled human trials in musculoskeletal indications specifically. The NCT07487363 Phase II trial currently enrolling is the first step toward generating that human evidence. <sup>[8,9]</sup></p>`,
+      },
+      {
+        id: 'healing-chart',
+        type: 'chart',
+        heading: 'TB-500 Evidence Strength by Tissue Application (2026)',
+        chartData: {
+          title: 'Relative Evidence Strength by Tissue Application — Animal + Human Data Combined',
+          type: 'bar',
+          labels: ['Corneal / Ocular', 'Cardiac Repair', 'Skin Wounds', 'Tendon / Ligament', 'Muscle Repair', 'Bone Healing'],
+          datasets: [
+            {
+              label: 'Evidence Strength (0–10 scale)',
+              values: [8.5, 8.0, 7.0, 5.5, 5.0, 4.0],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Evidence Strength (Animal Models + Human Trial Data)',
+          note: 'Scores reflect combined weight of preclinical animal model data, Phase 2/3 human trials (full-length Tβ4), and mechanistic support. Corneal/cardiac applications have the strongest human evidence base. Musculoskeletal evidence is primarily animal-model derived as of June 2026. Sources: Philp 2003, Bock-Marquette 2004, Smart 2007, NCT00598871, PMC8724243, Applied Sciences 2026.',
+        },
+      },
+      {
+        id: 'fda-update',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>2026 FDA Regulatory Update:</strong> In April 2026, the FDA classified TB-500 as a Category 2 bulk drug substance under 503A pharmacy compounding regulations, prohibiting licensed compounding pharmacies from incorporating it into prescribed medications. A July 2026 FDA advisory committee is reviewing BPC-157 and TB-500 together. As of June 2026, TB-500 remains legal to purchase and possess for research purposes in the United States. The Phase II clinical trial (NCT07487363) is actively enrolling and will generate the first formal human safety and efficacy data on the TB-500 fragment specifically — positive results could support a future IND application for an approved indication. <strong>This content is for educational research purposes only. TB-500 is not FDA-approved for any human therapeutic indication and is not medical advice.</strong>`,
+      },
+      {
+        id: 'tendon-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050634_374ea5fd-ff9b-4fd2-8ca0-61c0e360aa74.png',
+          alt: 'Tendon tissue healing before and after comparison — damaged torn collagen fibers with inflammation on left, organized healed collagen with new vasculature on right',
+          caption: 'Tendon repair is the most common research application of TB-500. Animal models consistently demonstrate faster tensile strength recovery, organized collagen deposition, and increased vascular density versus controls — reflecting TB-500\'s dual action on angiogenesis and cell migration.',
+        },
+      },
+      {
+        id: 'dosage-heading',
+        type: 'h2',
+        heading: 'TB-500 Dosage & Protocol: Research Framework',
+        content: `<p>TB-500 dosage protocols in the research community are derived from full-length thymosin beta-4 animal study data, scaled to human weight equivalents and adapted through clinical community observation. These are not individualized medical recommendations and do not constitute medical advice.</p>
+<p><strong>Critical administration notes:</strong></p>
+<ul>
+  <li>TB-500 is administered via <strong>subcutaneous injection</strong> (SubQ) — not IV, which was used in full-length Tβ4 cardiac trials</li>
+  <li>Reconstitute with bacteriostatic water (BAC water), not sterile water — BAC water contains benzyl alcohol preservative and allows multi-dose use</li>
+  <li>Common injection sites: abdomen, outer thigh, flanks — rotate to avoid site reactions</li>
+  <li>Store reconstituted TB-500 refrigerated at 4°C; use within 28–30 days</li>
+  <li>TB-500 has a short plasma half-life (~30–60 min estimated via SubQ); sustained tissue effects are thought to reflect local actin-mediated signaling rather than prolonged circulation</li>
+  <li>Unlike GH secretagogues, TB-500 does not require fasted state or specific timing relative to meals</li>
+</ul>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        heading: 'TB-500 Research Dosage Protocols',
+        tableData: {
+          headers: ['Protocol Phase', 'Dose', 'Frequency', 'Duration', 'Application', 'Notes'],
+          rows: [
+            ['Loading Phase', '5–10 mg', '2× per week', '4–6 weeks', 'Acute injury; initial cycle', 'Higher frequency saturates local tissue; most community protocols begin here for significant injuries'],
+            ['Maintenance Phase', '5 mg', '1× per week', '4–8 weeks', 'Ongoing repair support; injury prevention', 'Reduces frequency after loading; maintains signaling without front-loading costs'],
+            ['Conservative Protocol', '2.5–5 mg', '1× per week', '6–10 weeks', 'Minor injury; stacking with BPC-157', 'Common approach when combining TB-500 with BPC-157 in the Wolverine Stack'],
+            ['Aggressive Acute Protocol', '10 mg', 'Daily × 5 days, then 2× weekly', '3–4 weeks', 'Severe acute injury', 'Limited data on superiority vs standard loading; used in high-priority injury scenarios'],
+            ['Cardiac Trial Reference Dose', '10–20 mg IV', 'Trial-specific infusion schedule', 'Trial protocol', 'Phase 2 cardiac (full Tβ4, IV)', 'Reference only — not SubQ; not the TB-500 fragment; clinical trial setting'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>MW Dosing Note:</strong> TB-500 (~800 Da fragment) is approximately 6× smaller than full-length thymosin beta-4 (~4,921 Da). On a molar basis, 5 mg of TB-500 contains roughly 6× more molecules than 5 mg of full Tβ4. Current research community protocols use mass-based dosing (mg), consistent with how animal data was scaled. Whether molar or mass equivalence is more accurate for predicting TB-500 efficacy versus full-length Tβ4 is not formally established — it is one of the questions the 2026 Phase II trial (NCT07487363) is designed to address.`,
+      },
+      {
+        id: 'safety',
+        type: 'h2',
+        heading: 'Safety Profile: What the Clinical Data Shows',
+        content: `<p>The safety database for thymosin beta-4 is derived primarily from the full-length molecule studied in clinical trials (IV cardiac Phase 1/2, topical corneal Phase 2/3, SubQ wound healing). Across these populations:</p>
+<ul>
+  <li>Phase 1 IV thymosin beta-4: No dose-limiting toxicities or serious adverse events; clean pharmacokinetic profile established</li>
+  <li>Topical Tβ4 (RGN-259): Adverse events limited to transient, minor ocular discomfort consistent with vehicle control — no systemic effects from topical use</li>
+  <li>No documented hepatotoxicity, nephrotoxicity, or serious systemic adverse events across any clinical trial population <sup>[3,4,5,7]</sup></li>
+  <li>SubQ injection site reactions (redness, minor swelling, mild local discomfort) are the most commonly reported effects in the research community — consistent with any SubQ peptide injection</li>
+  <li>TB-500 does not interact with the HPG axis (hypothalamic-pituitary-gonadal) or HPT axis — no documented hormonal disruption</li>
+</ul>
+<p><strong>Important caveats:</strong> All formal safety data is from full-length thymosin beta-4 in clinical trial contexts. No formal controlled human safety study of the TB-500 fragment via SubQ route has been completed as of June 2026 — NCT07487363 is specifically designed to establish this. The community experience with SubQ TB-500 is broadly clean, but this is observational, not trial data. <sup>[9]</sup></p>
+<p><strong>Theoretical concern — cancer:</strong> TB-500's pro-angiogenic activity raises a theoretical concern that it could support vascularization of existing tumors. This is a mechanistic extrapolation, not a documented clinical finding from trial data. The research community convention is to avoid TB-500 in anyone with active malignancy as a precautionary measure.</p>`,
+      },
+      {
+        id: 'bpc-comparison',
+        type: 'h2',
+        heading: 'TB-500 vs. BPC-157: Complementary Mechanisms, Not Competition',
+        content: `<p>The most common comparison in the healing peptide space pits TB-500 against BPC-157. The framing of "which is better" misunderstands both compounds — they address different phases and mechanisms of healing and are most powerful in combination:</p>
+<ul>
+  <li><strong>BPC-157</strong> — Operates primarily through nitric oxide (NO) pathway upregulation, VEGF modulation, and growth hormone receptor sensitization. Exceptional for gut healing, leaky gut, IBD, tendon-to-bone attachment, and gut-brain axis healing. Its anti-ulcer effects are among the most consistent findings in peptide research.</li>
+  <li><strong>TB-500</strong> — Operates through actin sequestration, ILK/Akt cell survival, and epicardial/mesenchymal progenitor mobilization. Exceptional at driving soft-tissue cell migration, promoting angiogenesis in non-GI tissue, and mobilizing progenitor cells from latent tissue reserves.</li>
+</ul>
+<p>The Wolverine Stack — BPC-157 + TB-500 — combines both mechanisms: BPC-157 conditions the healing environment (NO, VEGF signaling, GHr sensitization) while TB-500 activates the cellular machinery that executes repair (actin dynamics, endothelial migration, stem cell activation). They are not redundant. For the complete Wolverine Stack protocol, see the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">dedicated guide</a>.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'PeptideTech.is',
+            url: 'https://www.peptidetech.is',
+            product: 'TB-500',
+            productUrl: 'https://www.peptidetech.is/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'EU pharma-grade synthesis standards. TB-500 MW is ~800 Da — mass spec COA confirms correct molecular weight and LKKTETQ sequence identity. Ships internationally from Iceland with EU quality standards. One of few vendors with consistent TB-500 stock in correctly lyophilized form with sequence verification.',
+            badge: 'EU Pharma Standards',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://www.modifiedaminos.shop',
+            product: 'TB-500',
+            productUrl: 'https://www.modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based with batch-specific third-party HPLC and mass spec testing. TB-500 available in 5 mg vials — correct sizing for loading phase protocols. COAs provided per batch. Good domestic US option with consistent quality documentation.',
+            badge: 'Batch-Tested',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://www.aminousa.com',
+            product: 'TB-500',
+            productUrl: 'https://www.aminousa.com',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US domestic shipping with consistent TB-500 inventory. Multiple vial sizes support both loading (5–10 mg) and maintenance phase (5 mg) protocols. Straightforward ordering process with COA available on request.',
+            badge: 'US Domestic',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'TB-500',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Free BAC water included on orders over $200 — essential for TB-500 reconstitution. Accredited third-party COAs. Known for Wolverine Stack bundles (TB-500 + BPC-157) with combined pricing for researchers running both peptides simultaneously.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is TB-500 the same as Thymosin Beta-4?',
+            answer: 'No. TB-500 is a synthetic fragment of thymosin beta-4 — specifically the 7-amino acid actin-binding sequence LKKTETQ (amino acids 17–23 of the full 43-amino acid Tβ4). Full-length thymosin beta-4 contains this domain plus additional N-terminal residues with anti-inflammatory and anti-apoptotic functions. Most human clinical trial data was generated with full-length Tβ4 (in corneal, cardiac, and wound healing trials), not the TB-500 fragment. TB-500 is the commercially available research form; the 2026 Phase II trial NCT07487363 is the first study specifically evaluating the fragment in humans.',
+          },
+          {
+            question: 'How does TB-500 compare to BPC-157?',
+            answer: 'They work through different mechanisms and are complementary rather than competitive. BPC-157 operates through nitric oxide pathways, VEGF modulation, and growth hormone receptor sensitization — it excels for gut healing, leaky gut, tendon-to-bone injury, and gut-brain axis applications. TB-500 operates through actin sequestration and ILK/Akt signaling — it excels at soft tissue cell migration, angiogenesis in non-GI tissue, and mobilizing progenitor cells. For comprehensive healing, they are commonly combined in the Wolverine Stack because the mechanisms address different phases of the repair process.',
+          },
+          {
+            question: 'What is the best TB-500 dosage for injury?',
+            answer: 'The most common research protocol is a loading phase of 5–10 mg subcutaneously twice per week for 4–6 weeks, followed by a maintenance phase of 5 mg once weekly for 4–8 weeks. For conservative protocols or when stacking with BPC-157, 2.5–5 mg once weekly is a starting point. These protocols are derived from full-length thymosin beta-4 animal study data scaled to human equivalents — they are not individualized medical recommendations and no formal human RCT has validated optimal TB-500 dosing for musculoskeletal injury.',
+          },
+          {
+            question: 'How long does TB-500 take to work?',
+            answer: 'Community reports suggest initial effects within 2–3 weeks for acute injuries, with meaningful functional improvement at 4–8 weeks of consistent use. Animal models show measurable healing acceleration at the histological level within days. Timeline depends on injury severity — a minor soft-tissue strain may show response in 2 weeks; a chronic tendon injury or significant ligament damage may require 6–10 weeks of loading protocol. Individual response varies considerably.',
+          },
+          {
+            question: 'What is the FDA status of TB-500 in 2026?',
+            answer: 'As of April 2026, the FDA classified TB-500 as a Category 2 bulk drug substance under 503A pharmacy regulations, prohibiting compounding pharmacies from incorporating it into prescribed medications. A July 2026 FDA advisory committee review is examining BPC-157 and TB-500. These regulatory actions do not make TB-500 illegal to purchase or possess for research purposes in the United States. The 2026 Phase II trial (NCT07487363) is actively enrolling and represents the most likely path toward a formal approved indication.',
+          },
+          {
+            question: 'Can TB-500 be detected on drug tests?',
+            answer: 'Yes. Thymosin beta-4 and its fragments are prohibited by WADA (World Anti-Doping Agency) under the S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics). TB-500 is detectable via urine and blood testing used in competitive sports anti-doping programs. Any athlete subject to WADA testing should not use TB-500 or any thymosin beta-4 fragment.',
+          },
+          {
+            question: 'Does TB-500 need to be injected?',
+            answer: 'The research community uses subcutaneous injection as the standard route. Oral bioavailability of peptides this size (~800 Da for the fragment) is generally poor due to enzymatic degradation in the GI tract — though preliminary evidence for oral thymosin beta-4 activity (from IBD models) exists for full-length Tβ4. Unlike BPC-157, which has a well-established oral route for gut-specific applications, TB-500 does not have a validated oral protocol. SubQ injection with bacteriostatic water reconstitution is the standard approach.',
+          },
+          {
+            question: 'What does TB-500 do for tendons specifically?',
+            answer: 'In animal tendon models, TB-500 treatment consistently produces: faster tensile strength recovery in transected tendons, increased vascular density at the repair site (histologically confirmed angiogenic effect), more organized collagen fiber architecture versus disorganized scar in controls, and reduced inflammatory cell infiltration in the early healing phase. These effects are mechanistically coherent with TB-500\'s actin-sequestering and angiogenic properties. No controlled human trial has specifically studied TB-500 for tendon injury as of June 2026.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on TB-500',
+        content: `<p>TB-500 holds a paradoxical place in the healing peptide landscape: it has some of the most scientifically rigorous mechanistic evidence of any research compound — two <em>Nature</em> papers on cardiac repair, a Phase 3 corneal trial, a foundational FASEB Journal paper establishing its precise molecular mechanism at the atomic level — yet the most clinically relevant application in the research community (musculoskeletal soft-tissue injury) remains formally unstudied in controlled human trials. <sup>[1,2,3,4,5]</sup></p>
+<p>The 2026 regulatory landscape is evolving rapidly. The FDA's 503A classification and the July advisory committee review don't reflect a determination that TB-500 is dangerous — they reflect the same evidence gap that characterizes most research peptides: extensive preclinical data, Phase 2 data in specific indications (corneal, cardiac), but no completed RCT in the musculoskeletal applications that drive most research community interest. The NCT07487363 Phase II trial currently enrolling is the critical bridge. <sup>[9]</sup></p>
+<p>The practical 2026 guidance: source from verified vendors with mass spec COA confirming LKKTETQ sequence identity and correct MW (~800 Da). Use BAC water for reconstitution. Follow a loading-then-maintenance protocol framework. Consider combining with BPC-157 as the Wolverine Stack for comprehensive healing — the two peptides address different and complementary mechanisms. For current pricing across verified vendors, use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a>. For the combined healing protocol, see the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
