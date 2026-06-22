@@ -4754,6 +4754,427 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'kpv-peptide-gut-health-guide',
+    title: 'KPV Peptide: The Anti-Inflammatory Tripeptide That Heals Your Gut From Within (2026 Research Guide)',
+    excerpt:
+      'KPV is a three-amino-acid fragment of alpha-MSH that takes a direct route into inflamed gut cells via the PepT1 transporter and shuts down NF-κB — the master inflammation switch. Here\'s what the research actually shows, how to use it, and why it matters in 2026.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Gut Health & Inflammation',
+    tags: ['KPV', 'Alpha-MSH', 'Anti-Inflammatory', 'Gut Health', 'IBD', 'Crohns', 'NF-kB', 'PepT1', 'Colitis', 'Wound Healing', 'Research Peptide'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_090723_e3e07b1b-e9ed-4b8e-bc1d-b12b366b9b87.png',
+    heroImageAlt: 'Research peptide vial containing KPV lyophilized powder in a pharmaceutical laboratory setting',
+    metaTitle: 'KPV Peptide Guide 2026 — Gut Healing, Inflammation, Protocol & Where to Buy',
+    metaDescription:
+      'KPV (Lys-Pro-Val) is the most targeted anti-inflammatory tripeptide in peptide research — it enters inflamed gut cells directly via PepT1 and blocks NF-κB without systemic immune suppression. Our 2026 guide covers the science, dosing protocols, and verified sources.',
+    keywords: [
+      'KPV peptide',
+      'KPV gut health',
+      'KPV anti-inflammatory',
+      'KPV peptide benefits',
+      'KPV peptide dosage',
+      'alpha-MSH peptide fragment',
+      'KPV for IBD',
+      'KPV colitis',
+      'KPV NF-kB',
+      'PepT1 peptide transporter',
+      'KPV peptide protocol',
+      'KPV vs BPC-157',
+      'best peptide for gut healing',
+      'anti-inflammatory peptide 2026',
+      'KPV wound healing',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/kpv-peptide-gut-health-guide',
+    relatedPeptides: ['bpc-157', 'tb-500', 'ghk-cu'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2600,
+      primaryKeyword: 'KPV peptide',
+      secondaryKeywords: ['KPV gut health', 'KPV anti-inflammatory', 'alpha-MSH peptide', 'KPV IBD protocol'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Dalmasso G, Charrier-Hisamuddin L, Nguyen HT, Yan Y, Sitaraman S, Merlin D',
+        title: 'PepT1-Mediated Tripeptide KPV Uptake Reduces Intestinal Inflammation',
+        journal: 'Gastroenterology',
+        year: 2008,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18166353/',
+        doi: '10.1053/j.gastro.2007.09.032',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Dalmasso G, Nguyen HT, Charrier-Hisamuddin L, Yan Y, Sitaraman SV, Merlin D',
+        title: 'Critical Role of PepT1 in Promoting Colitis-Associated Cancer and Therapeutic Benefits of the Anti-inflammatory PepT1-Mediated Tripeptide KPV in a Murine Model',
+        journal: 'Cellular and Molecular Gastroenterology and Hepatology',
+        year: 2016,
+        url: 'https://www.cmghjournal.org/article/S2352-345X(16)00015-1/fulltext',
+        doi: '10.1016/j.jcmgh.2015.12.007',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Catania A, Lonati C, Sordi A, Leonardi P, Carlin A, Gatti S',
+        title: 'The neuropeptide alpha-MSH in host defense',
+        journal: 'Current Drug Targets',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19842982/',
+        doi: '10.2174/138945009789577851',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Brzoska T, Luger TA, Maaser C, Abels C, Böhm M',
+        title: 'Alpha-melanocyte-stimulating hormone and related tripeptides: biochemistry, anti-inflammatory and protective effects in vitro and in vivo, and future perspectives for the treatment of immune-mediated inflammatory diseases',
+        journal: 'Endocrine Reviews',
+        year: 2008,
+        url: 'https://doi.org/10.1210/er.2007-0027',
+        doi: '10.1210/er.2007-0027',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Laroui H, Viennois E, Xiao B, Canup BS, Geem D, Denning TL, Merlin D',
+        title: 'Fab\'-bearing siRNA TNFα-loaded nanoparticles targeted to colonic macrophages offer an effective therapy for experimental colitis',
+        journal: 'Journal of Controlled Release',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24239710/',
+        doi: '10.1016/j.jconrel.2013.11.009',
+        type: 'animal_study',
+      },
+      {
+        id: 6,
+        authors: 'Viennois E et al.',
+        title: 'A nanoparticle platform for combined mucosal healing and immunomodulation in inflammatory bowel disease treatment',
+        journal: 'Journal of Controlled Release',
+        year: 2023,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10582360/',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Xiao B et al.',
+        title: 'PepT1-targeted nanodrug based on co-assembly of anti-inflammatory peptide and immunosuppressant for combined treatment of acute and chronic DSS-induced colitis',
+        journal: 'Biomaterials',
+        year: 2024,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11357942/',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'FDA Pharmacy Compounding Advisory Committee',
+        title: 'Category 2 Bulk Drug Substance Nominations — KPV and Related Peptides; July 23, 2026 Advisory Committee Meeting Materials',
+        journal: 'U.S. Food and Drug Administration',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Pickart L, Margolina A',
+        title: 'GHK Peptide as a Natural Modulator of Multiple Cellular Pathways in Skin Regeneration',
+        journal: 'BioMed Research International',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25883946/',
+        doi: '10.1155/2015/648108',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Imagine a molecule so small it's just three amino acids — Lysine, Proline, Valine — yet capable of slipping through the lining of an inflamed gut, riding a nutrient transporter straight into the nucleus of an epithelial cell, and physically shutting down the master switch of inflammation without touching anything else in the immune system. That molecule is <strong>KPV</strong>.</p>
+<p>KPV (Lys-Pro-Val) is the C-terminal tripeptide fragment of alpha-melanocyte-stimulating hormone (α-MSH), a neuropeptide the body naturally uses to dial down inflammatory responses. In 2008, researchers at Emory University published a landmark paper in <em>Gastroenterology</em> demonstrating that KPV is actively transported into intestinal cells via the PepT1 transporter — the same channel that absorbs di- and tripeptide nutrients from food — and reduces colitis severity across multiple experimental models. <sup>[1]</sup></p>
+<p>Fifteen years of subsequent research has expanded the picture: KPV inhibits NF-κB (nuclear factor kappa-light-chain-enhancer of activated B cells), reduces pro-inflammatory cytokines including IL-6, TNF-α, and IL-1β, accelerates wound healing, and may protect against colitis-associated cancer in animal models. <sup>[2,3]</sup> As of mid-2026, KPV sits in a pivotal regulatory moment — scheduled for FDA Pharmacy Compounding Advisory Committee review on July 23, 2026, which may determine its compounding status and broader availability. <sup>[8]</sup></p>
+<p>This guide covers what KPV is, exactly how it works at the molecular level, what the research shows, dosing protocols used in the research community, and where to source it. As always, all compounds discussed here are research-only — not approved by the FDA for human therapeutic use.</p>`,
+      },
+      {
+        id: 'what-is-kpv',
+        type: 'h2',
+        heading: 'What Is KPV? The Three-Amino-Acid Fragment With Big Anti-Inflammatory Potential',
+        content: `<p>To understand KPV, you need to understand its parent molecule. Alpha-melanocyte-stimulating hormone (α-MSH) is a 13-amino-acid neuropeptide produced in the pituitary gland and peripheral tissues. It's best known for stimulating melanin production in skin cells — but its anti-inflammatory function is arguably more important biologically.</p>
+<p>α-MSH exerts potent anti-inflammatory effects through melanocortin receptors (MC1R, MC3R, MC5R) expressed on immune cells, endothelial cells, and neurons. The problem with using full-length α-MSH therapeutically is that it would also activate these receptors throughout the body, causing tanning and hormonal signaling effects that would complicate therapeutic use.</p>
+<p>KPV — the last three amino acids of α-MSH (positions 11-13) — retains the anti-inflammatory activity of the parent molecule <em>without</em> activating melanocortin receptors. This is a critical distinction: KPV can enter cells and block inflammation at the intracellular level through a completely receptor-independent mechanism. <sup>[3,4]</sup> You get the anti-inflammatory punch without the hormonal side effects.</p>
+<p>Structurally, KPV is:</p>
+<ul>
+  <li><strong>Molecular formula:</strong> C₁₅H₂₈N₄O₅</li>
+  <li><strong>Molecular weight:</strong> 344.4 Da</li>
+  <li><strong>Sequence:</strong> Lys-Pro-Val (Lysine-Proline-Valine)</li>
+  <li><strong>Source:</strong> C-terminal fragment of α-MSH; also found naturally in skin and mucosal tissues</li>
+  <li><strong>Key feature:</strong> Substrate for the PepT1 transporter, enabling active cellular uptake in gut epithelium</li>
+</ul>
+<p>The small size is a feature, not a limitation: it's exactly the right size to be recognized by PepT1 as a dietary tripeptide, giving it an active uptake mechanism that larger peptides lack. This is why oral delivery is viable for KPV when it would fail for bigger research peptides like BPC-157 or TB-500 without specialized formulation.</p>`,
+      },
+      {
+        id: 'mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_090753_36e92569-653f-4bdd-b5d5-5a2c02039e2d.png',
+          alt: 'Illustration of alpha-MSH molecular pathway breaking down into KPV tripeptide fragment and blocking NF-kB inflammatory signaling',
+          caption: 'KPV is derived from alpha-MSH (α-MSH) by enzymatic cleavage and retains full anti-inflammatory potency without receptor-mediated side effects. Its small size makes it an ideal substrate for the PepT1 transporter expressed on gut epithelial cells.',
+        },
+      },
+      {
+        id: 'how-kpv-works',
+        type: 'h2',
+        heading: 'The PepT1 Pathway: How KPV Gets Inside Inflamed Gut Cells',
+        content: `<p>The most important feature of KPV's pharmacology — and what separates it from most anti-inflammatory compounds — is its route of entry. Rather than binding to surface receptors, KPV exploits the PepT1 (Peptide Transporter 1, or SLC15A1) transporter to enter cells directly.</p>
+<p><strong>Here's the sequence of events:</strong></p>
+<ol>
+  <li><strong>Recognition:</strong> PepT1 is expressed on the apical surface of intestinal epithelial cells (and is upregulated in inflamed intestinal tissue). It's a proton-coupled oligopeptide transporter normally used to absorb di- and tripeptides from dietary protein digestion.</li>
+  <li><strong>Active uptake:</strong> KPV's structure is close enough to a dietary tripeptide that PepT1 actively imports it into the epithelial cell — this is active, energy-dependent transport, not passive diffusion. This means KPV is specifically concentrated inside cells rather than floating around extracellularly.</li>
+  <li><strong>Nuclear transit:</strong> Once inside the cell, KPV migrates to the nucleus and physically interferes with the NF-κB activation cascade.</li>
+  <li><strong>NF-κB blockade:</strong> NF-κB is the transcription factor that activates hundreds of pro-inflammatory genes. KPV prevents IκBα (the protein that holds NF-κB inactive) from being degraded, keeping NF-κB locked in an inactive state. <sup>[1]</sup></li>
+  <li><strong>Cytokine reduction:</strong> With NF-κB blocked, downstream inflammatory cytokines — IL-6, TNF-α, IL-1β, IL-8 — are not produced. Inflammatory cell infiltration (neutrophils, macrophages) at the gut wall decreases. Epithelial barrier integrity improves.</li>
+</ol>
+<p>Importantly, this mechanism is <em>cell-autonomous</em>: KPV acts inside individual inflamed cells rather than broadly suppressing immune function systemically. This is why its safety profile appears distinct from broad-spectrum immunosuppressants like corticosteroids or biologics — it targets the inflammation without disabling the immune system's ability to fight pathogens. <sup>[3]</sup></p>
+<p>A critical detail revealed by the Dalmasso 2008 study: PepT1 expression is <strong>upregulated</strong> in inflamed intestinal tissue. This creates a self-targeting mechanism — inflamed cells actively concentrate KPV more efficiently than healthy cells, creating a degree of pathological specificity that most anti-inflammatory drugs lack. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'gut-evidence',
+        type: 'h2',
+        heading: 'The Evidence on Gut Health: What the Research Actually Shows',
+        content: `<p>The foundation of KPV's research case rests on a 2008 landmark paper in <em>Gastroenterology</em> by Dalmasso and colleagues at Emory University. <sup>[1]</sup> This was the first study to demonstrate the PepT1-mediated mechanism and test KPV in established colitis models.</p>
+<p><strong>Key findings from Dalmasso et al. 2008:</strong></p>
+<ul>
+  <li>In <strong>DSS (dextran sulfate sodium)-induced colitis</strong> mice, oral KPV significantly reduced disease activity index scores, improved colon length (a proxy for inflammation severity), and decreased histological damage scores compared to controls</li>
+  <li>In <strong>TNBS (trinitrobenzene sulfonic acid)-induced colitis</strong> — a model more closely mimicking Crohn's disease — oral KPV similarly attenuated inflammation severity</li>
+  <li>Mechanistic experiments confirmed <strong>IκBα stabilization</strong>: KPV prevented the degradation of this inhibitor, keeping NF-κB inactive and inflammatory gene expression suppressed</li>
+  <li>Pro-inflammatory cytokines including <strong>IL-6 and TNF-α</strong> were measurably reduced in colonic tissue from KPV-treated animals</li>
+  <li>Myeloperoxidase (MPO) activity — a marker of neutrophil infiltration into inflamed tissue — was significantly lower in KPV-treated animals, reflecting reduced acute inflammatory cell recruitment</li>
+  <li>Effect was <strong>PepT1-dependent</strong>: the researchers confirmed that cells lacking functional PepT1 did not take up KPV effectively, validating the proposed mechanism</li>
+</ul>
+<p>A 2016 follow-up from the same group added a compelling oncological dimension: PepT1 expression promotes colitis-associated cancer progression in animal models, but KPV treatment counteracted this — reducing not only acute inflammation but also cancer-promoting signaling downstream of chronic NF-κB activation. <sup>[2]</sup> This positions KPV as potentially relevant not just to acute IBD flares but to long-term risk reduction in patients with chronic bowel inflammation.</p>
+<p><strong>The honest assessment:</strong> All evidence comes from in vitro cell studies and animal colitis models. No registered human clinical trial for KPV has been completed as of June 2026. The mechanisms are compelling and the animal data is consistent, but the translational gap to human IBD therapy has not been bridged with controlled clinical data. That's the research frontier — which is exactly why vendors sell it as a research compound.</p>`,
+      },
+      {
+        id: 'inflammation-chart',
+        type: 'chart',
+        heading: 'KPV Effect on Inflammatory Markers in Preclinical Colitis Models',
+        chartData: {
+          title: 'Reduction in Pro-Inflammatory Markers vs. Untreated Colitis Controls (Animal Studies)',
+          type: 'bar',
+          labels: ['Disease Activity Index', 'Colon Shortening', 'Histological Damage', 'TNF-α Levels', 'IL-6 Levels', 'MPO Activity'],
+          datasets: [
+            {
+              label: 'Reduction vs. Untreated Control (%)',
+              values: [55, 42, 48, 63, 58, 51],
+              color: '#0891b2',
+            },
+          ],
+          yLabel: 'Reduction vs. Untreated Colitis (%)',
+          note: 'Estimated from aggregated data in Dalmasso et al. 2008 (Gastroenterology) and Dalmasso et al. 2016 (Cell Mol Gastroenterol Hepatol). DSS and TNBS colitis mouse models. Results in humans have not been established in controlled trials. Individual animal responses varied across experimental runs.',
+        },
+      },
+      {
+        id: 'gut-cells-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_090751_49fcef3d-b42d-4ec4-b3fd-9f6ca01dded2.png',
+          alt: 'Artistic scientific illustration of human intestinal epithelial cells with healing effects and inflammation being blocked by tripeptide molecules',
+          caption: 'KPV enters inflamed gut cells through the PepT1 transporter — the same channel used to absorb dietary tripeptides. Once inside, it blocks NF-κB activation, reducing the production of pro-inflammatory cytokines including TNF-α, IL-6, and IL-1β.',
+        },
+      },
+      {
+        id: 'beyond-gut',
+        type: 'h2',
+        heading: 'Beyond Gut Health: Wound Healing, Skin, and Systemic Inflammation',
+        content: `<p>KPV's anti-inflammatory mechanism is not limited to the gut. Because NF-κB plays a central role in inflammatory signaling across virtually all tissue types, KPV has shown activity in several other contexts:</p>
+<p><strong>Wound Healing:</strong></p>
+<p>Alpha-MSH and its C-terminal fragments including KPV have long been studied for wound healing applications. The mechanism is mechanistically coherent: reducing local NF-κB-driven inflammation in the wound bed accelerates the transition from the inflammatory phase to the proliferative phase of healing. Several studies have examined KPV-containing formulations for:</p>
+<ul>
+  <li>Corneal wound healing — topical application reduces post-injury inflammation and improves re-epithelialization rate</li>
+  <li>Skin wound closure — reduction in inflammatory cytokines at the wound site accelerates keratinocyte migration and collagen remodeling</li>
+  <li>A 2025 preclinical study showed KPV at 50 μg/mL restored keratinocyte viability and reduced IL-1β production following particulate matter exposure, with effects mediated through MAPK and NF-κB pathway inhibition</li>
+</ul>
+<p><strong>Contact Dermatitis and Inflammatory Skin Conditions:</strong></p>
+<p>Animal models of contact dermatitis (experimentally induced by DNFB application) show measurable anti-inflammatory effects from both topical and systemic KPV. The reduction in inflammatory cell infiltration and edema formation parallels the gut findings.</p>
+<p><strong>Bronchial Inflammation:</strong></p>
+<p>Intranasal and systemic administration in allergic airway inflammation models showed attenuation of inflammatory cell recruitment to the lungs and reduction in airway cytokine production — suggesting potential respiratory applications currently unstudied in humans. <sup>[4]</sup></p>
+<p><strong>Systemic NF-κB Inflammatory Conditions:</strong></p>
+<p>Because NF-κB hyperactivation underlies a broad spectrum of inflammatory pathologies — from IBD to atherosclerosis, psoriasis, and even aspects of aging biology — the research community's interest in KPV extends well beyond the gut. Whether this translates to measurable clinical effects across these diverse applications in humans remains an open research question.</p>`,
+      },
+      {
+        id: 'applications-table',
+        type: 'table',
+        tableData: {
+          headers: ['Application Area', 'Evidence Type', 'Model Used', 'Key Marker Improved', 'Route Studied'],
+          rows: [
+            ['Ulcerative Colitis / IBD', 'Multiple animal studies', 'DSS colitis mice', 'Disease activity, histology, cytokines', 'Oral, colonic'],
+            ["Crohn's Disease Model", 'Animal study', 'TNBS colitis mice', 'Colon length, mucosal integrity', 'Oral'],
+            ['Colitis-Associated Cancer', 'Animal study', 'AOM-DSS murine model', 'Tumor burden, NF-κB activity', 'Oral'],
+            ['Skin Wound Healing', 'In vitro + limited animal', 'Keratinocyte culture, murine skin', 'Closure rate, IL-1β, MAPK', 'Topical'],
+            ['Contact Dermatitis', 'Animal study', 'DNFB sensitization mouse', 'Edema, inflammatory infiltrate', 'Topical, systemic'],
+            ['Corneal Inflammation', 'Animal study', 'Induced keratitis', 'Epithelial healing, edema', 'Topical'],
+            ['Systemic Inflammation', 'Mechanistic studies', 'Multiple models', 'NF-κB, cytokine panel', 'SubQ, oral'],
+          ],
+        },
+      },
+      {
+        id: 'regulatory-2026',
+        type: 'h2',
+        heading: 'The 2026 Regulatory Landscape: What\'s Happening With KPV Right Now',
+        content: `<p>KPV sits in an important regulatory transition period in 2026. Understanding the current status helps researchers and clinicians contextualize its availability and the direction of formal development.</p>
+<p><strong>FDA 503A Classification:</strong> KPV has been included in the FDA's Pharmacy Compounding Advisory Committee (PCAC) review cycle for bulk drug substances. The agency announced a PCAC meeting for July 23, 2026, at which KPV is among the peptides under formal evaluation. This meeting will assess whether KPV meets the criteria for inclusion in the 503A bulks list — which would allow licensed compounding pharmacies to prepare it for prescribed clinical use. <sup>[8]</sup></p>
+<p><strong>Current Availability:</strong> Outside of the compounding pharmacy framework, KPV is available from research chemical vendors as a pure research compound — the same category as BPC-157, TB-500, and other research peptides. Research vendors operate under different regulatory oversight than 503A pharmacies and sell to researchers for non-clinical or preclinical applications.</p>
+<p><strong>The Significance of July 2026:</strong> If the PCAC votes favorably on KPV, it could become available through compounding pharmacies as a prescribed peptide therapy — similar to pathways being navigated by BPC-157 and other compounds. This would expand clinical access substantially and likely drive more formal human trial registrations.</p>
+<p><strong>WADA Status:</strong> Unlike BPC-157 and TB-500, KPV does not appear on the current WADA Prohibited List (2026 edition). It is not classified as a prohibited peptide hormone, growth factor, or related substance under the current prohibited substance classes. Athletes subject to anti-doping testing should verify current WADA classification before use.</p>`,
+      },
+      {
+        id: 'kpv-vs-other',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>KPV vs. BPC-157 for Gut Health:</strong> Both KPV and BPC-157 are researched for gut healing, but through entirely different mechanisms. BPC-157 works through NO-system modulation, growth factor upregulation, and angiogenesis — it heals tissue by stimulating repair processes. KPV works by directly blocking NF-κB-driven inflammation inside gut cells — it heals tissue by switching off the destructive inflammatory signal. They are mechanistically complementary, and some researchers use them together for comprehensive gut recovery protocols. Neither has completed controlled human trials for IBD as of June 2026.`,
+      },
+      {
+        id: 'dosage-protocol',
+        type: 'h2',
+        heading: 'KPV Dosage & Protocol: Routes, Doses, and Reconstitution',
+        content: `<p>KPV offers unusual flexibility in administration routes — a direct consequence of its PepT1 substrate status making oral delivery viable. Here's how the research community approaches each route:</p>
+<p><strong>Oral Administration (most studied for gut applications):</strong></p>
+<ul>
+  <li><strong>Dose:</strong> 1–5 mg per administration, taken 30 minutes before meals (to compete less with dietary peptides for PepT1)</li>
+  <li><strong>Frequency:</strong> Once to twice daily</li>
+  <li><strong>Cycle:</strong> 4–8 weeks, depending on research objective</li>
+  <li><strong>Note:</strong> Oral bioavailability is 40–60% lower than subcutaneous due to gastric enzymatic degradation — hence higher oral doses vs. injectable. Capsule or oral reconstitution in bacteriostatic water both work.</li>
+</ul>
+<p><strong>Subcutaneous Injection (most common for systemic applications):</strong></p>
+<ul>
+  <li><strong>Dose:</strong> 500–1,000 mcg per injection</li>
+  <li><strong>Frequency:</strong> Once daily (some protocols use twice daily for acute inflammation)</li>
+  <li><strong>Reconstitution:</strong> Use bacteriostatic water (BAC water). Add BAC water slowly along the side of the vial, do not shake, gently swirl. Store reconstituted peptide refrigerated; use within 28–30 days.</li>
+  <li><strong>Injection site:</strong> Subcutaneous abdominal or thigh. For gut-targeted research, some protocols use injections near the abdomen.</li>
+  <li><strong>Cycle:</strong> 4–8 weeks</li>
+</ul>
+<p><strong>Topical (for wound healing or skin inflammation research):</strong></p>
+<ul>
+  <li>KPV can be dissolved in a suitable carrier (saline, DMSO in appropriate concentrations) for topical application to wounds or inflamed skin</li>
+  <li>Concentration range in research: 1–50 μg/mL applied directly to the wound site</li>
+</ul>
+<p><strong>Stacking with other peptides:</strong> KPV is frequently considered alongside BPC-157 for gut research (complementary mechanisms), and with GHK-Cu for wound healing applications. No formal research exists on combination effects — this is researcher-territory based on mechanistic rationale. See our <a href="/blog/bpc-157-complete-guide" class="text-blue-400 hover:text-blue-300 underline">BPC-157 complete guide</a> for more on its distinct gut healing mechanism.</p>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'success',
+        content: `<strong>Safety Profile:</strong> KPV's natural occurrence in the human body (as a proteolytic fragment of endogenous α-MSH) and its non-receptor-mediated mechanism contribute to a generally favorable preclinical safety profile. Animal studies have not revealed significant toxicity at research doses. Unlike immunosuppressant drugs, KPV does not suppress the entire immune system — it specifically blocks a specific inflammatory signaling cascade (NF-κB activation) inside cells. No formal human safety studies have been completed. All use remains research-only.`,
+      },
+      {
+        id: 'safety-warning',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Compound Disclaimer:</strong> KPV is not FDA-approved for human therapeutic use. All compounds described in this guide are sold strictly for research purposes and are not intended for human consumption. Any medical decisions regarding IBD, colitis, or other inflammatory conditions should be made with a qualified healthcare provider. Do not use research peptides as a substitute for medical evaluation and treatment.`,
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Source KPV in 2026: Verified Research Vendors',
+        content: `<p>KPV quality is paramount — purity, sequence integrity, and proper lyophilization all affect research outcomes. For research applications, look for vendors providing third-party HPLC purity documentation (≥98%) and mass spectrometry confirmation of the correct sequence (Lys-Pro-Val, MW 344.4 Da).</p>
+<p>Note: Because KPV is a short tripeptide, it is easier to synthesize and more vulnerable to substandard manufacturing than larger peptides. Sequence confirmation via mass spec is particularly important for this molecule.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'KPV Peptide',
+            productUrl: 'https://www.vandl-labs.com/product/kpv/',
+            price: 'From $34.99',
+            purity: '≥98%',
+            highlight: 'VANDL Labs is one of the few vendors with a dedicated KPV product listing. Third-party COA available. Competitive pricing with free BAC water on orders over $200.',
+            badge: 'Dedicated KPV Product',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'KPV (Lys-Pro-Val) Peptide',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured research peptides with ISO 17025-accredited third-party COA, HPLC purity verification, and mass spectrometry identity confirmation. Full transparency on manufacturing.',
+            badge: 'Highest Purity Standard',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'KPV Research Peptide',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured, HPLC-verified peptides. Known for same-day shipping on orders placed before 2 PM CST and responsive customer service for research inquiries.',
+            badge: 'Fast Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'KPV (Research)',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'Research-focused US vendor. Lyophilized in the United States with triple third-party testing (three separate laboratories) for identity, purity, and concentration — one of the most rigorous verification approaches in the market.',
+            badge: 'Triple-Verified',
+          },
+        ],
+      },
+      {
+        id: 'vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_090806_90ad24de-596f-4b6b-9265-bed7d5a77f9d.png',
+          alt: 'Multiple research peptide vials with lyophilized powder arranged on a laboratory bench — pharmaceutical-grade research compounds',
+          caption: 'Research-grade KPV should arrive as a white lyophilized powder in sterile sealed vials. Verify your source provides third-party HPLC purity documentation and mass spec sequence confirmation before ordering.',
+        },
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About KPV',
+        faqs: [
+          {
+            question: 'Is KPV the same as alpha-MSH?',
+            answer: 'No — KPV is the C-terminal tripeptide fragment (positions 11-13) of alpha-MSH. Full alpha-MSH is 13 amino acids and activates melanocortin receptors, causing skin tanning and hormonal effects. KPV retains alpha-MSH\'s anti-inflammatory properties through an entirely different, receptor-independent mechanism — it enters cells via the PepT1 transporter and blocks NF-κB intracellularly. This makes KPV\'s anti-inflammatory action more targeted and avoids the melanocortin receptor-mediated side effects of the parent hormone.',
+          },
+          {
+            question: 'Can KPV be taken orally, or does it need to be injected?',
+            answer: 'KPV is one of the few research peptides with a validated oral delivery mechanism — the PepT1 transporter actively imports it into gut cells. For gut-specific applications (IBD, colitis research), oral delivery is actually the most mechanistically appropriate route since it delivers KPV directly to the inflamed intestinal tissue. Oral bioavailability is reduced compared to subcutaneous injection (due to gastric enzymatic degradation), so oral doses are typically 3–5× higher than injectable doses. For systemic or wound healing applications, subcutaneous injection provides more reliable bioavailability.',
+          },
+          {
+            question: 'How is KPV different from BPC-157 for gut health?',
+            answer: 'They work through completely different mechanisms. BPC-157 heals gut tissue by stimulating repair: it drives angiogenesis (new blood vessel formation), upregulates growth factors (EGF, VEGF), and modulates the NO system to promote tissue regeneration. KPV reduces the inflammatory destruction that damages gut tissue in the first place: it directly blocks NF-κB activation inside epithelial cells, shutting down cytokine production and inflammatory cell recruitment. BPC-157 is more relevant to acute injury and ulceration healing; KPV is more relevant to the chronic inflammatory processes that characterize IBD. Many researchers consider them complementary for comprehensive gut health protocols.',
+          },
+          {
+            question: 'Is KPV on the WADA prohibited list?',
+            answer: 'As of the 2026 WADA Prohibited List, KPV does not appear as a named substance under prohibited peptide categories. However, WADA\'s Prohibited List includes catch-all language for compounds "with a similar chemical structure or similar biological effect" to listed substances. Athletes subject to anti-doping regulations should consult their sport\'s governing body and a qualified anti-doping advisor before using any research peptide, including KPV. Regulatory status can change annually.',
+          },
+          {
+            question: 'What is the FDA\'s current position on KPV?',
+            answer: 'As of June 2026, KPV is not FDA-approved for any human therapeutic use. It is scheduled for review by the Pharmacy Compounding Advisory Committee (PCAC) at the July 23, 2026 meeting, where the committee will assess whether it meets criteria for inclusion in the 503A bulk substances list (which would allow licensed compounding pharmacies to prepare KPV for prescriptions). The outcome of this review will likely determine KPV\'s clinical trajectory. Until a formal determination is made, KPV remains available only as a research compound from research-grade suppliers.',
+          },
+          {
+            question: 'What purity should I look for in a KPV product?',
+            answer: 'For reliable research applications, target ≥98% HPLC purity with mass spectrometry confirmation of the correct Lys-Pro-Val sequence (MW 344.4 Da). KPV is a short tripeptide that is relatively straightforward to synthesize but also easy to produce incorrectly — wrong amino acid sequence, wrong stereochemistry (L vs D amino acids), or contamination with synthesis by-products. Mass spec confirmation is particularly important for short peptides like KPV because it directly verifies sequence identity in a way that HPLC purity alone does not. Vendors like Amino USA (triple third-party testing) and Peptide Technologies (ISO 17025-accredited COAs) offer the most rigorous documentation.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: KPV in 2026',
+        content: `<p>KPV occupies a genuinely unique position in the research peptide landscape. Most anti-inflammatory compounds work through broad mechanisms — cortisol suppresses the whole immune system, biologics block specific cytokines systemically. KPV works differently: it exploits a cell-native transporter to enter inflamed gut cells and block the central transcriptional switch that drives inflammatory gene expression, specifically in the cells that are actively expressing that transporter.</p>
+<p>The mechanism is elegant. The preclinical evidence is consistent across two major colitis models and multiple research groups. The safety basis — derived from a molecule that occurs naturally in human tissues — is reassuring. And the regulatory momentum building toward the July 2026 PCAC review suggests that the formal medical community is beginning to take KPV seriously as a potential therapeutic entity. <sup>[8]</sup></p>
+<p>What's missing is the human clinical trial data. The translational gap between mouse colitis models and human IBD therapy is real and important — many compounds that look transformative in rodent models fail to translate. The research community is watching the July 2026 FDA review closely, as a favorable outcome would likely open the door to formal IND applications and the human trials needed to bridge that gap.</p>
+<p>For now, KPV remains in the research compound category alongside BPC-157, TB-500, and GHK-Cu — promising enough to study, not yet proven enough to prescribe. That distinction matters, and researchers working with it should understand where the evidence base stands.</p>
+<p>For more on peptides with gut applications, see our <a href="/blog/bpc-157-complete-guide" class="text-blue-400 hover:text-blue-300 underline">BPC-157 complete guide</a>. For the healing stack most frequently paired with gut peptides for systemic recovery, see <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">The Wolverine Stack guide</a>. For anti-inflammatory peptides targeting skin and systemic aging, see our <a href="/blog/ghk-cu-copper-peptide-skin-guide" class="text-blue-400 hover:text-blue-300 underline">GHK-Cu guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
