@@ -2315,6 +2315,430 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'bpc-157-complete-guide-2026',
+    title: 'BPC-157: The Complete 2026 Science Guide to the Body Protection Compound',
+    excerpt:
+      'BPC-157 is the most-searched research peptide of 2026 — a synthetic 15-amino-acid chain derived from human gastric juice that consistently accelerates tissue repair, promotes angiogenesis, and modulates inflammation across 35+ preclinical models. Here is what the research actually shows.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: 'Tissue Repair & Recovery',
+    tags: [
+      'BPC-157',
+      'Body Protection Compound',
+      'Tissue Repair',
+      'Tendon Healing',
+      'Angiogenesis',
+      'VEGFR2',
+      'Peptide Research',
+      'Musculoskeletal',
+      'Anti-Inflammatory',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_020557_a35cb20c-334e-483f-b5ad-b9fb914deaf8.png',
+    heroImageAlt:
+      'BPC-157 research peptide vials on laboratory bench with blue molecular helix visualization',
+    metaTitle: 'BPC-157 Complete Guide 2026 — Mechanisms, Evidence, Dosage & Verified Sources',
+    metaDescription:
+      'The definitive 2026 research guide to BPC-157 (Body Protection Compound 157). Covers molecular mechanisms, clinical trial status, oral vs injectable comparison, preclinical dosage data, safety profile, and verified research sources with COAs.',
+    keywords: [
+      'BPC-157',
+      'BPC 157 peptide',
+      'BPC-157 dosage',
+      'BPC-157 benefits',
+      'BPC-157 healing',
+      'BPC-157 side effects',
+      'body protection compound',
+      'BPC-157 oral vs injectable',
+      'BPC-157 tendon',
+      'BPC-157 research 2026',
+      'BPC-157 mechanism of action',
+      'BPC-157 clinical trials',
+      'research peptides for healing',
+      'BPC-157 where to buy',
+      'VEGFR2 peptide angiogenesis',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-complete-guide-2026',
+    relatedPeptides: ['bpc-157', 'tb-500'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'BPC-157',
+      secondaryKeywords: ['BPC-157 dosage', 'body protection compound', 'BPC-157 tendon healing'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'McGuire FP, Martinez R, Lenz A, Skinner L, Cushman DM',
+        title: 'Regeneration or Risk? A Narrative Review of BPC-157 for Musculoskeletal Healing',
+        journal: 'Current Reviews in Musculoskeletal Medicine',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/',
+        doi: '10.1007/s12178-025-09990-7',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'BPC 157 Therapy: Targeting Angiogenesis and Nitric Oxide\'s Cytotoxic and Damaging Actions, but Maintaining, Promoting, or Recovering Their Essential Protective Functions',
+        journal: 'Pharmaceuticals',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12567428/',
+        doi: '10.3390/ph18101450',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Jozwiak M, Wisniewski P, Sikiric P, et al.',
+        title: 'From Regeneration to Analgesia: The Role of BPC-157 in Tissue Repair and Pain Management',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2026,
+        url: 'https://www.mdpi.com/1422-0067/27/6/2876',
+        doi: '10.3390/ijms27062876',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Sikiric P, Drmic D, Sever M, et al.',
+        title: 'Tendon, Ligament, and Muscle Injury, Osteotendinous, Myotendinous, and Muscle-to-Bone Junction Therapy Perspectives with Growth Factors and Stable Gastric Pentadecapeptide BPC 157',
+        journal: 'Pharmaceuticals',
+        year: 2025,
+        url: 'https://www.mdpi.com/1424-8247/19/2/309',
+        doi: '10.3390/ph19020309',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Vasireddi N, Hahamyan H, Salata MJ, Karns M, Calcei JG, Voos JE, Apostolakos JM',
+        title: 'Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review',
+        journal: 'Sports Health: A Multidisciplinary Approach',
+        year: 2025,
+        url: 'https://journals.sagepub.com/doi/abs/10.1177/15563316251355551',
+        doi: '10.1177/15563316251355551',
+        type: 'systematic_review',
+      },
+      {
+        id: 6,
+        authors: 'Chang CH, Tsai WC, Lin MS, et al.',
+        title: 'Pentadecapeptide BPC 157 Enhances the Growth Hormone Receptor Expression in Tendon Fibroblasts',
+        journal: 'Molecules',
+        year: 2011,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6271067/',
+        doi: '10.3390/molecules16010135',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'ClinicalTrials.gov',
+        title: 'BPC 157 for Acute Hamstring Muscle Strain Repair (Phase 2 Randomized Controlled Trial)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07437547',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'World Anti-Doping Agency',
+        title: 'The 2025 Prohibited List: International Standard — S0 Non-Approved Substances',
+        journal: 'World Anti-Doping Agency (WADA)',
+        year: 2025,
+        url: 'https://www.wada-ama.org/en/prohibited-list',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Something unusual happened in late 2025: a 15-amino-acid peptide originally isolated from human gastric juice became the most-Googled research compound in the wellness world. BPC-157 — Body Protection Compound 157 — moved from niche biohacker forums to coverage in <em>STAT News</em>, <em>Scientific American</em>, and peer-reviewed orthopedic surgery journals within roughly 18 months. A Phase 2 randomized controlled trial launched on ClinicalTrials.gov. The FDA formally classified it as a prohibited compounding substance. Orthopedic surgeons started fielding questions about it from patients who had read about it online. <sup>[7,8]</sup></p>
+<p>The reason for the attention is straightforward: across more than 35 animal studies, BPC-157 consistently accelerates healing in tendons, ligaments, muscles, bones, and gastrointestinal tissue. The molecular mechanisms have been mapped in detail — VEGFR2 upregulation, FAK-paxillin fibroblast signaling, and nitric oxide system modulation. <sup>[1,2]</sup> The gap between this preclinical consistency and the near-total absence of controlled human trials is what makes BPC-157 simultaneously the most promising and most controversial research peptide of 2026.</p>
+<p>This guide compiles the state of BPC-157 science as of June 2026: how it works at the cellular level, what the limited human data actually shows, where the active Phase 2 clinical trial stands, how oral and injectable forms compare, what preclinical dosing looked like, and where to source research-grade material with third-party verified COAs. All claims are cited. We do not sell peptides.</p>`,
+      },
+      {
+        id: 'what-is-bpc157',
+        type: 'h2',
+        heading: 'What Is BPC-157? Origins, Molecular Structure, and What Makes It Unusual',
+        content: `<p>BPC-157 is a synthetic pentadecapeptide — a chain of exactly 15 amino acids — derived from a naturally occurring protein fragment found in human gastric juice. The amino acid sequence is Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val, abbreviated GEPPPGKPADDAGLV. <sup>[1]</sup></p>
+<p>The name traces to Croatian pharmacologist Predrag Sikiric at the University of Zagreb, who first isolated and characterized the compound in the early 1990s. "BPC" refers to the parent protein Body Protection Compound found in gastric mucosa; "157" is the fragment's position within that protein. Sikiric's team has co-authored the overwhelming majority of published BPC-157 research — a concentration of authorship that represents a genuine limitation when evaluating the evidence base for independent replication. <sup>[1]</sup></p>
+<p>Three structural properties set BPC-157 apart from most research peptides:</p>
+<ul>
+  <li><strong>Acid stability</strong> — Unlike most peptides destroyed by gastric pH, BPC-157 survives the stomach largely intact, enabling some degree of oral bioavailability. This property arises from its proline-rich core sequence (Pro-Pro-Pro at positions 3–5), which resists protease cleavage. <sup>[3]</sup></li>
+  <li><strong>Short plasma half-life (~30 min) with extended downstream effects</strong> — BPC-157 is cleared from circulation rapidly, yet tissue-level effects (VEGFR2 activation, eNOS signaling cascade) persist for days to weeks in animal models. This dissociation suggests the compound acts as a signaling initiator rather than a sustained effector. <sup>[1]</sup></li>
+  <li><strong>No identified endogenous receptor</strong> — BPC-157 does not activate a single dedicated receptor the way a classical hormone does. It appears to upregulate multiple receptor systems simultaneously at sites of injury and hypoxia — explaining its unusual tissue-type breadth of effect. <sup>[2]</sup></li>
+</ul>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_020557_a35cb20c-334e-483f-b5ad-b9fb914deaf8.png',
+          alt: 'BPC-157 research peptide vials on laboratory bench with molecular helix visualization in cool blue tones',
+          caption: 'BPC-157 is supplied as a lyophilized (freeze-dried) white powder in sealed research-grade vials. Reconstitution with bacteriostatic water is required before use in injectable research protocols.',
+        },
+      },
+      {
+        id: 'mechanisms',
+        type: 'h2',
+        heading: 'How BPC-157 Works: Three Converging Cellular Repair Pathways',
+        content: `<p>BPC-157 produces healing effects across tendon, muscle, bone, gut epithelium, and vascular endothelium — radically different tissues with different cell populations, mechanical demands, and repair kinetics. This breadth suggests the compound activates fundamental cellular repair machinery rather than a single tissue-specific pathway. 2025 peer-reviewed research has converged on three primary mechanisms that explain most of the observed effects across tissue types. <sup>[2,3]</sup></p>`,
+      },
+      {
+        id: 'vegfr2',
+        type: 'h3',
+        heading: '1. VEGFR2 Activation and Angiogenesis — Building New Blood Supply to Injured Tissue',
+        content: `<p>BPC-157's most reproducible molecular mechanism is upregulation of Vascular Endothelial Growth Factor Receptor 2 (VEGFR2) at injury sites. VEGFR2 is the master regulator of angiogenesis — the growth of new blood vessels from existing vasculature — and represents the rate-limiting step for healing in avascular or poorly-vascularized structures. Tendons and ligaments are notoriously difficult to heal precisely because they receive minimal blood flow at baseline, and new capillary growth is essential for any meaningful structural repair after injury. <sup>[2]</sup></p>
+<p>When BPC-157 upregulates VEGFR2, it activates the canonical downstream cascade: <strong>VEGFR2 → PI3K → Akt → eNOS</strong>. End products include increased nitric oxide (NO) synthesis, vasodilation, endothelial cell migration, and capillary sprouting into hypoxic, damaged tissue. In ischemia models, BPC-157-treated animals showed significantly greater capillary density in damaged zones versus untreated controls at 7–14 days post-injury. <sup>[2]</sup></p>
+<p>This VEGFR2 mechanism also explains BPC-157's apparent tissue selectivity: VEGFR2 expression is highest in hypoxic, metabolically stressed, and damaged tissue — precisely the environments where BPC-157 demonstrates the strongest effects. Well-vascularized, healthy tissue shows a blunted response. The compound essentially targets where blood supply is most needed. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'fak-paxillin',
+        type: 'h3',
+        heading: '2. FAK-Paxillin Pathway — Fibroblast Migration and Organized Collagen Synthesis',
+        content: `<p>The second confirmed mechanism involves Focal Adhesion Kinase (FAK) and its scaffolding adaptor protein paxillin. BPC-157 drives dose-dependent phosphorylation of both FAK and paxillin in in vitro cell models, promoting directional migration of fibroblasts and endothelial cells toward sites of mechanical damage. <sup>[1]</sup></p>
+<p>Fibroblasts are the primary cells responsible for collagen synthesis — the structural scaffold of tendons, ligaments, and connective tissue matrix. Organized, dense collagen is what gives repaired tendons their load-bearing strength. By accelerating fibroblast recruitment and activation, BPC-157 speeds the remodeling phase of tissue repair, when disorganized provisional scar tissue is progressively replaced with mechanically competent collagen bundles. <sup>[4]</sup></p>
+<p>Histological analysis from rat Achilles tendon transection models confirmed this at the tissue level: BPC-157-treated animals showed significantly more organized collagen fiber alignment and greater collagen density at both 10 and 14 days post-injury compared to untreated controls. The 2025 systematic review by Vasireddi et al. in <em>Sports Health</em> identified this collagen-organizing effect as one of BPC-157's most consistently replicated findings across the preclinical literature. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'nitric-oxide',
+        type: 'h3',
+        heading: '3. Nitric Oxide System Modulation — Context-Dependent Cytoprotection',
+        content: `<p>BPC-157's relationship with the nitric oxide (NO) system is more nuanced than a simple "increase NO" or "decrease NO" story, and has generated active scientific debate in 2025. Rather than uniformly stimulating or suppressing NO synthesis, BPC-157 acts as a contextual regulator — restoring NO homeostasis when the system has been disrupted by injury, ischemia, or oxidative stress. <sup>[2]</sup></p>
+<p>In tissues with excess NO production — common in acute inflammatory injury, where iNOS-derived NO becomes cytotoxic and damages surrounding healthy tissue — BPC-157 reduces oxidative damage by upregulating protective antioxidant pathways and disrupting the Caveolin-1-eNOS inhibitory complex. In ischemic tissue where eNOS-derived NO is deficient, BPC-157 promotes NO synthesis. Sikiric's group describes this bidirectional effect as "NO system-dependent cytoprotection." <sup>[2]</sup></p>
+<p>This dual-direction NO modulation likely explains why BPC-157 shows beneficial effects in conditions as mechanistically different as acute traumatic injury (excess NO from inflammation) and chronic degenerative tissue conditions (NO deficiency from poor vascularization). No other known peptide has demonstrated this contextual NO regulatory behavior in the preclinical literature. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'evidence',
+        type: 'h2',
+        heading: 'The Human Evidence: What Clinical Data Actually Exists in Mid-2026?',
+        content: `<p>Here is the honest accounting of human data for BPC-157 as of June 2026: three published pilot studies and one active Phase 2 randomized controlled trial. The pilot studies share overlapping authorship teams (primarily the same investigator group in multiple papers), which limits independent replication. Small sample sizes apply to all three. That said, the direction of results is consistent, the safety profile shows no red flags, and the active RCT (NCT07437547) is the first rigorously controlled human study. <sup>[1,7]</sup></p>`,
+      },
+      {
+        id: 'evidence-table',
+        type: 'table',
+        tableData: {
+          headers: ['Study', 'Population', 'Application', 'Primary Result', 'Year'],
+          rows: [
+            ['Lee & Padgett', '16 humans', 'Intra-articular knee injection', '87.5% (14/16 patients) achieved significant pain relief', '2021'],
+            ['Lee et al.', 'Human patients', 'Interstitial cystitis treatment', '80–100% symptom resolution at 6 weeks', '2024'],
+            ['Lee & Burgess', 'Healthy adults', 'Intravenous safety pilot', 'Well-tolerated; zero adverse events reported', '2025'],
+            ['NCT07437547 (Active)', 'Phase 2 RCT', 'Grade II hamstring muscle strain', 'Recruiting — MRI structural + functional outcome endpoints', '2026'],
+          ],
+        },
+      },
+      {
+        id: 'healing-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_020559_8d4cb624-b4b4-485e-ba69-096f7bb18339.png',
+          alt: 'Scientific visualization of cellular tissue regeneration showing new collagen fiber formation and angiogenesis in connective tissue',
+          caption: 'BPC-157 drives tissue repair through two converging cellular pathways: VEGFR2-triggered angiogenesis (new capillary growth into damaged tissue) and FAK-paxillin-driven fibroblast migration (collagen synthesis and remodeling). Both are critical bottlenecks in tendon and ligament repair.',
+        },
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<p><strong>Evidence Limitations:</strong> The three published human studies above are pilot-scale investigations — no blinded controls in two of the three, small samples (n=16 maximum), and no independent replication outside the primary investigator group. They support further investigation, not clinical conclusions. BPC-157 has not been approved by the FDA or any equivalent regulatory body. This article is for informational and research context purposes only and does not constitute medical advice.</p>`,
+      },
+      {
+        id: 'oral-vs-injectable',
+        type: 'h2',
+        heading: 'Oral vs. Injectable BPC-157: Route of Administration Breakdown',
+        content: `<p>BPC-157 is available in two primary research formulations: injectable lyophilized powder (reconstituted with bacteriostatic water for subcutaneous or intramuscular delivery) and oral capsules. Each has distinct pharmacokinetics and research utility. The optimal route depends entirely on what system the researcher is studying. <sup>[3]</sup></p>
+<p>The fundamental distinction is bioavailability. Most therapeutic peptides are fully degraded by gastric proteases and yield zero meaningful systemic absorption when taken orally. BPC-157 is a rare exception — its proline-rich sequence provides partial resistance to gastric proteolysis, enabling some fraction to survive transit and be absorbed across the intestinal epithelium. Estimated oral bioavailability in animal models ranges from approximately 3% to 20%, a wide range reflecting methodology differences across studies.</p>
+<p>The research implication is direct: subcutaneous injection — the route used in the overwhelming majority of published preclinical healing trials — delivers predictable, high systemic exposure and matches the conditions under which BPC-157's efficacy has actually been demonstrated. Oral capsules are appropriate for studying gastrointestinal applications where high local gut-lumen concentrations, not systemic absorption, are the research objective.</p>`,
+      },
+      {
+        id: 'bioavailability-chart',
+        type: 'chart',
+        heading: 'BPC-157 Estimated Relative Bioavailability by Route of Administration',
+        chartData: {
+          title: 'BPC-157 Estimated Relative Bioavailability by Route',
+          type: 'bar',
+          labels: ['Subcutaneous (SC)', 'Intramuscular (IM)', 'Intraperitoneal (IP)', 'Oral / Capsule'],
+          datasets: [
+            {
+              label: 'Relative Bioavailability (%)',
+              values: [100, 95, 90, 10],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Relative Bioavailability (%)',
+          note: 'SC injection is the reference standard used in the majority of published preclinical healing trials. Oral bioavailability (estimated 3–20% in animal models) is best suited for GI-targeted research applications only. IP is a rodent-specific route not applicable to human research.',
+        },
+      },
+      {
+        id: 'route-table',
+        type: 'table',
+        tableData: {
+          headers: ['Route', 'Est. Bioavailability', 'Time to Peak', 'Best Research Application', 'Study Precedent'],
+          rows: [
+            ['Subcutaneous (SC)', '~100% (reference)', '15–30 min', 'Systemic tissue repair — tendons, ligaments, muscle, vascular', 'Most published preclinical healing studies'],
+            ['Intramuscular (IM)', '~95%', '10–20 min', 'Systemic healing with faster onset than SC', 'Common in preclinical literature'],
+            ['Intraperitoneal (IP)', '~90%', '10–20 min', 'Rodent convenience route only', 'Rodent models — not human-translatable'],
+            ['Oral / Capsule', '~3–20% estimated', '60–90 min', 'GI mucosal repair, IBD, leaky gut research', 'Limited; primarily animal model data'],
+          ],
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'BPC-157 Dosage: What Preclinical Studies Used',
+        content: `<p>All BPC-157 dosage data available today comes from animal studies — primarily rodents. No pharmacokinetically validated human dose exists. Allometric scaling formulas (converting rodent mg/kg doses to human equivalents) carry substantial uncertainty and should not be interpreted as clinical dose recommendations. <sup>[1,4]</sup></p>
+<p>The dose range used in rodent healing studies is <strong>10–100 µg/kg body weight per day</strong>, given once daily. The 10 µg/kg threshold is the minimum effective dose in most tendon and muscle models; 100 µg/kg produces stronger effects without evidence of toxicity in the same models. Study durations range from 7 days for GI mucosal models to 21+ days for bone-tendon junction repair. <sup>[4]</sup></p>
+<p>The table below summarizes preclinical doses by injury model. <strong>These are reference data from animal experiments only — not recommendations for human use.</strong></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Injury Model (Rodent)', 'Dose Used', 'Route', 'Frequency', 'Duration', 'Primary Endpoint'],
+          rows: [
+            ['Achilles tendon transection', '10–100 µg/kg', 'SC / IP', 'Once daily', '10–14 days', 'Failure load and stiffness vs. untreated controls'],
+            ['Medial collateral ligament injury', '10 µg/kg', 'SC', 'Once daily', '14 days', 'Ligament tensile strength and collagen remodeling'],
+            ['Muscle crush injury', '10 µg/kg', 'SC', 'Once daily', '14 days', 'Myotendinous junction restoration and function'],
+            ['GI mucosal ulceration', '10 µg/kg', 'Oral or SC', 'Once daily', '7–14 days', 'Ulcer area reduction and mucosal integrity'],
+            ['Bone-to-tendon junction repair', '10 µg/kg', 'SC', 'Once daily', '21 days', 'Osteogenesis and tendon insertion-site healing'],
+            ['Vascular ischemia model', '10–100 µg/kg', 'SC / IP', 'Once daily', '7–28 days', 'Capillary density and infarct area reduction'],
+          ],
+        },
+      },
+      {
+        id: 'safety',
+        type: 'h2',
+        heading: 'Safety Profile, Known Risks, and Regulatory Status in 2026',
+        content: `<p>BPC-157's published safety data is limited but directionally reassuring. No serious adverse events have been reported across any of the three published human pilot studies. In rodent studies spanning a 1,000-fold dose range (10 µg/kg to 10 mg/kg), no acute toxicity, organ pathology, or behavioral abnormalities have been observed at therapeutic dose ranges in any published study. <sup>[1]</sup></p>
+<p>The compound appears non-immunogenic, non-genotoxic (no mutations in standard assays), and without the hormonal side effects of peptide hormones. It does not suppress the HPA axis, alter thyroid function, or affect gonadal hormone levels in rodent models. Unlike GH secretagogues, it does not produce cortisol or prolactin elevation. <sup>[3]</sup></p>
+<p>Three legitimate safety concerns deserve direct acknowledgment:</p>
+<ul>
+  <li><strong>Theoretical pro-angiogenic oncology risk</strong> — VEGFR2 activation promotes new blood vessel formation, which could theoretically support vascularization of existing tumors. No tumor-promoting effects have been observed in published BPC-157 literature, but no study was specifically designed to detect them, and the longest animal studies run approximately 30 days. <sup>[2]</sup></li>
+  <li><strong>Absence of long-term safety data</strong> — There is no chronic toxicity data, no carcinogenicity study, and no multi-year safety follow-up in any population. The longest animal studies are approximately 4 weeks. <sup>[1]</sup></li>
+  <li><strong>Unknown human pharmacokinetics</strong> — The 2025 IV safety pilot (Lee & Burgess) demonstrated tolerability but has not published full PK data. Human Cmax, half-life, volume of distribution, and tissue distribution remain formally uncharacterized. <sup>[1]</sup></li>
+</ul>`,
+      },
+      {
+        id: 'regulatory-warning',
+        type: 'callout',
+        calloutType: 'danger',
+        content: `<strong>Regulatory Status — 2026 Summary:</strong>
+<ul>
+  <li><strong>FDA (USA):</strong> Category 2 bulk drug substance (September 2023) — licensed compounding pharmacies cannot legally include BPC-157 in formulations for patients. Not approved for any therapeutic indication. Considered an unapproved new drug.</li>
+  <li><strong>WADA:</strong> Prohibited substance under S0 (Non-Approved Substances) since 2022. Any competitive athlete testing positive faces sanctions regardless of therapeutic intent. <sup>[8]</sup></li>
+  <li><strong>EU / UK:</strong> Unregistered medicine — supply to individuals is regulated under pharmaceutical law in most EU member states and in the United Kingdom.</li>
+  <li><strong>Australia:</strong> Reclassified as Schedule 4 prescription-only medicine by the TGA in 2024.</li>
+</ul>`,
+      },
+      {
+        id: 'athletic-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_020601_3f3d4ca0-9811-4d19-a0e2-fb6f9f4b5da0.png',
+          alt: 'Athletic person demonstrating shoulder recovery surrounded by floating peptide molecular chain structures in blue',
+          caption: 'BPC-157\'s core research interest is in musculoskeletal injury recovery — particularly tendon and ligament repair, where poor vascularity makes healing slow and incomplete. The active Phase 2 RCT (NCT07437547) is testing its efficacy in acute hamstring muscle strain with MRI-confirmed structural endpoints.',
+        },
+      },
+      {
+        id: 'sourcing',
+        type: 'h2',
+        heading: 'Where to Source BPC-157 for Research (2026)',
+        content: `<p>The research peptide market spans vendors with dual HPLC + mass spectrometry COAs from ISO 17025-accredited labs to overseas manufacturers with no verifiable quality documentation. Impure or mislabeled material invalidates research results and introduces uncharacterized contamination variables. The vendors below meet PeptideWiki's minimum quality criteria: publicly documented third-party batch-specific testing. All products listed are sold strictly for laboratory research use only. <sup>[7]</sup></p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 (5mg / 10mg / 15mg)',
+            productUrl: 'https://peptidetech.is',
+            price: 'From ~$39.99',
+            purity: '≥99%',
+            highlight: 'QR-code COA on every product — scan to verify dual ISO 17025-accredited lab results covering HPLC purity, mass spec identity, endotoxin, sterility, and heavy metals. Same-day US shipping with cold-chain included.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 5mg Lyophilized Powder',
+            productUrl: 'https://aminousa.com/products/bpc-157',
+            price: 'From $39.99 / 5mg',
+            purity: '≥99%',
+            highlight: 'US-manufactured with third-party HPLC + mass spec COA published per lot. Widest vial-size range (5mg, 10mg, 15mg, 20mg) plus a BPC-157 + TB-500 pre-blended vial for Wolverine Stack research protocols.',
+            badge: 'Best Size Selection',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules (Research Grade)',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Oral capsule format for GI-targeted research protocols studying mucosal healing, IBD models, or leaky gut. Third-party tested, clearly designated for qualified research environments. US-based, same-day shipping available.',
+            badge: 'Oral Capsule Format',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157 Research Peptide',
+            productUrl: 'https://www.vandl-labs.com/product/bpc-157/',
+            price: '$159.99',
+            purity: '≥98%',
+            highlight: 'Research-use-only designation prominently stated throughout. Free bacteriostatic water (BAC water) included with qualifying orders — critical for injectable reconstitution protocols. Free shipping over $250.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'buy-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Only:</strong> All vendors listed sell BPC-157 strictly as a research chemical for in vitro and qualified laboratory use. None of these products are intended for human consumption, self-administration, veterinary use, or clinical application. PeptideWiki does not earn commissions from vendor listings. Verify current pricing, purity specifications, and COA availability directly with each vendor. Check our live <a href="/peptides/bpc-157" class="text-blue-400 hover:text-blue-300 underline">BPC-157 price comparison page</a> for real-time stock and pricing across all tracked vendors.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is the difference between BPC-157 arginine salt and BPC-157 acetate?',
+            answer: 'BPC-157 is available in two salt forms: acetate (the free acid form) and arginine salt. Both contain the identical 15-amino-acid GEPPPGKPADDAGLV sequence — the salt form affects solubility and stability, not the active peptide itself. Arginine salt has better water solubility and greater solution stability, making it better suited for oral capsule formulations. Acetate is more common in injectable vials. When reviewing purity COAs, confirm that the HPLC purity measurement reflects the active peptide fraction and not the counter-ion mass, which would inflate the reported percentage.',
+          },
+          {
+            question: 'Does BPC-157 need to be refrigerated?',
+            answer: 'Lyophilized (dry powder) BPC-157 in a sealed vial is stable at room temperature for 12–24 months when stored away from heat, light, and moisture. Once reconstituted with bacteriostatic water, the solution must be refrigerated at 2–8°C and used within 28–30 days. Never store reconstituted peptide solution at room temperature for extended periods. Avoid repeated freeze-thaw cycles after reconstitution, as these promote peptide degradation and aggregation.',
+          },
+          {
+            question: 'How does standalone BPC-157 compare to the Wolverine Stack (BPC-157 + TB-500)?',
+            answer: 'BPC-157 alone acts primarily at the local injury site — driving angiogenesis (VEGFR2), fibroblast recruitment (FAK-paxillin), and contextual NO modulation in damaged tissue. TB-500 (Thymosin Beta-4) adds a complementary systemic component: broad anti-inflammatory action and mobilization of repair cells from distant tissue reservoirs to the injury site. For research specifically targeting local tendon, ligament, or muscle healing, standalone BPC-157 is the most extensively studied option and represents the reference preclinical protocol. For broader systemic or multi-site injury models, the combined stack provides additional mechanistic coverage. See our dedicated Wolverine Stack guide for the full combined protocol.',
+          },
+          {
+            question: 'Can BPC-157 promote tumor growth through its pro-angiogenic effects?',
+            answer: 'This is a legitimate theoretical concern worth taking seriously. VEGFR2 activation and pro-angiogenic signaling can support tumor vascularization in oncology models. No tumor-promoting effects have been observed in the published BPC-157 preclinical literature — but none of those studies was specifically designed to detect tumor growth, and the longest animal studies ran approximately 30 days. Long-term carcinogenicity data does not exist for BPC-157. Researchers studying subjects with active or suspected malignancy should weigh this theoretical risk carefully before proceeding.',
+          },
+          {
+            question: 'Why is BPC-157 banned by WADA if it has no regulatory approval anywhere?',
+            answer: 'WADA\'s S0 category (Non-Approved Substances) automatically prohibits any pharmacological agent not approved by a governmental health authority for human therapeutic use — regardless of whether performance enhancement has been demonstrated. BPC-157 was added to the prohibited list in 2022 following its growing prevalence in athlete communities. The prohibition does not require proof of performance benefit; it reflects precautionary regulatory logic for unapproved compounds that could provide physiological advantages (e.g., faster recovery from injury) or unknown health risks.',
+          },
+          {
+            question: 'What is the Phase 2 clinical trial NCT07437547 and when are results expected?',
+            answer: 'NCT07437547 is a Phase 2 randomized double-blind placebo-controlled trial registered on ClinicalTrials.gov evaluating BPC-157 for acute grade II hamstring muscle strain. Primary endpoints include MRI-confirmed structural healing and validated functional recovery scores at multiple timepoints. It is the first Phase 2 RCT and the first study with a placebo control arm in BPC-157 human research history. Results are not expected until approximately 2027. If successful, this trial would substantially validate the 30-year animal evidence base and likely catalyze Phase 3 trials and potential regulatory applications.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on BPC-157',
+        content: `<p>BPC-157 occupies an unusual position in research peptide science: it has more consistent, reproducible preclinical evidence across more tissue types than almost any other compound in the space — yet lacks the human RCT data needed to confirm those animal findings translate to clinical benefit. The mechanisms are well-characterized across three converging pathways (VEGFR2 angiogenesis, FAK-paxillin collagen synthesis, NO system modulation). The three published human pilots show consistent safety and directional efficacy. The active Phase 2 RCT (NCT07437547) is the most important single BPC-157 study in history. <sup>[1,2,3,7]</sup></p>
+<p>The honest picture for researchers: the preclinical evidence base is among the strongest available for any research peptide, but allometric scaling from rodent doses to human equivalents carries genuine uncertainty, human pharmacokinetics remain uncharacterized, and long-term safety data does not exist. The regulatory environment is tightening — FDA compounding restrictions, WADA prohibition, and Australian rescheduling all occurred in the last 3 years.</p>
+<p>Prioritize sourced material with dual HPLC + mass spec COAs from ISO 17025-accredited labs (not just in-house testing), use bacteriostatic water for all reconstitution, document protocols with precision, and monitor NCT07437547's trial registry for updates. Its results — expected in 2027 — will either validate three decades of preclinical evidence or reveal a translational gap that forces a fundamental reassessment of what the animal data means.</p>
+<p>Researchers studying BPC-157 as part of a multi-peptide tissue repair protocol should also review our <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack guide (BPC-157 + TB-500)</a>, which covers the complementary mechanisms and combined research protocol for pairing BPC-157 with Thymosin Beta-4.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
