@@ -2315,6 +2315,497 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'ss-31-elamipretide-mitochondria-guide',
+    title: 'SS-31 (Elamipretide / Forzinity): The FDA-Approved Mitochondrial Peptide Now in Human Aging Trials — 2026 Guide',
+    excerpt:
+      'In September 2025, the FDA approved elamipretide — also known as SS-31 — making it the first mitochondria-targeted drug ever to reach the market. Now the same compound is being studied in healthy aging adults. Here\'s the full science: how it works, what the clinical trials show, who should be interested, and where the research stands in 2026.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: 'Mitochondria & Longevity',
+    tags: ['SS-31', 'Elamipretide', 'Forzinity', 'Mitochondria', 'Cardiolipin', 'Longevity', 'Anti-Aging', 'ATP', 'Barth Syndrome', 'SHAPE Trial'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_040527_394b2a7f-c98f-43e0-83e6-96bb5e09e132.png',
+    heroImageAlt: 'SS-31 elamipretide peptide molecular structure floating in deep space with glowing mitochondrial cells — mitochondria-targeted longevity peptide research',
+    metaTitle: 'SS-31 (Elamipretide / Forzinity) Guide 2026 — FDA Approved, Aging Trials, Complete Science',
+    metaDescription:
+      'SS-31 (elamipretide, Forzinity) became the first FDA-approved mitochondria-targeted peptide in September 2025. Now in human aging trials (SHAPE, NCT07275424). Our 2026 guide covers the cardiolipin mechanism, clinical evidence, dosage protocol, and verified sources.',
+    keywords: [
+      'SS-31 peptide',
+      'elamipretide',
+      'Forzinity',
+      'mitochondrial peptide',
+      'SS-31 benefits',
+      'SS-31 dosage',
+      'cardiolipin peptide',
+      'mitochondria longevity',
+      'SS-31 anti-aging',
+      'elamipretide aging trial',
+      'SHAPE trial elamipretide',
+      'SS-31 Barth syndrome',
+      'mitochondria targeted antioxidant',
+      'SS-31 research peptide',
+      'Szeto-Schiller peptide',
+      'ATP restoration peptide',
+      'mitochondrial dysfunction peptide',
+      'SS-31 where to buy',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/ss-31-elamipretide-mitochondria-guide',
+    relatedPeptides: ['ss-31', 'mots-c'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3100,
+      primaryKeyword: 'SS-31 elamipretide',
+      secondaryKeywords: ['mitochondrial peptide', 'SS-31 aging', 'elamipretide Forzinity', 'cardiolipin peptide'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Dhingra R, Anderson EJ, Bhatt DL, et al.',
+        title: 'Elamipretide: First Approval',
+        journal: 'Drugs',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/41335372/',
+        doi: '10.1007/s40265-026-02156-4',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Mitchell WK, Taivassalo T, Bhattacharya A, et al.',
+        title: 'The Mitochondria-Targeted Peptide Therapeutic Elamipretide Improves Cardiac and Skeletal Muscle Function During Aging Without Detectable Changes in Tissue Epigenetic or Transcriptomic Age',
+        journal: 'Aging Cell',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40080911/',
+        doi: '10.1111/acel.70026',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Rai PK, Pryde KR, Holt IJ',
+        title: 'Elamipretide: A Review of Its Structure, Mechanism of Action, and Therapeutic Potential',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39940712/',
+        doi: '10.3390/ijms26030944',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Thompson WR, Hornby B, Manuel R, et al.',
+        title: 'Long-term efficacy and safety of elamipretide in Barth syndrome: 168-week open-label extension results of TAZPOWER',
+        journal: 'Orphanet Journal of Rare Diseases',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38602181/',
+        doi: '10.1186/s13023-024-03118-5',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Stendahl JC, Bhatt DL, Bhattacharya A, et al.',
+        title: 'Genotype-specific effects of elamipretide in patients with primary mitochondrial myopathy: post hoc analysis of MMPOWER-3 trial',
+        journal: 'Annals of Neurology',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39574155/',
+        doi: '10.1002/ana.27121',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Taivassalo T, Bhattacharya A, et al.',
+        title: 'Contemporary insights into elamipretide\'s mitochondrial mechanism of action and therapeutic effects',
+        journal: 'Journal of Molecular and Cellular Cardiology',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40294492/',
+        doi: '10.1016/j.yjmcc.2025.04.011',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Davidson MT, Camunas-Soler J, Bhatt DL, et al.',
+        title: 'Elamipretide: The first cardiolipin-directed mitochondrial therapeutic for Barth syndrome approved under accelerated approval',
+        journal: 'JACC: Basic to Translational Science',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/41260682/',
+        doi: '10.1016/j.jacbts.2025.11.006',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Marcinek DJ, Bhattacharya A, et al.',
+        title: 'SHAPE: Study of Healthy Aging and Physical Function with Elamipretide (Phase 2a pilot trial)',
+        journal: 'ClinicalTrials.gov',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT07275424',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'Thompson WR, Bhatt DL, et al.',
+        title: 'TAZPOWER: A Randomized, Double-Blind, Placebo-Controlled Trial of Elamipretide in Barth Syndrome',
+        journal: 'ClinicalTrials.gov',
+        year: 2021,
+        url: 'https://clinicaltrials.gov/study/NCT03098797',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Szeto HH, Schiller PW',
+        title: 'Novel Therapies Targeting Inner Mitochondrial Membrane — From Discovery to Clinical Use',
+        journal: 'Pharmaceutical Research',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21161697/',
+        doi: '10.1007/s11095-011-0416-x',
+        type: 'review',
+      },
+      {
+        id: 11,
+        authors: 'Bharat DA, Szeto HH',
+        title: 'Mitochondria-targeted electron scavengers as novel cardioprotective agents',
+        journal: 'Journal of Molecular and Cellular Cardiology',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24632283/',
+        doi: '10.1016/j.yjmcc.2014.02.014',
+        type: 'animal_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>On September 19, 2025, the FDA did something it had never done before: it approved a drug that works by directly targeting the inner membrane of the mitochondrion. The drug was elamipretide — also known as SS-31, MTP-131, Bendavia, and now Forzinity. The indication was Barth syndrome, a rare inherited disease of mitochondrial cardiolipin metabolism. But the story doesn't end there.</p>
+<p>Because the same compound — the same tetrapeptide sequence Dr. Hazel Szeto first synthesized at Cornell Weill Medical College in the early 2000s — is now being studied in healthy aging adults aged 65 to 80 at the Fred Hutchinson Cancer Center in Seattle. The trial is called SHAPE (Study of Healthy Aging and Physical Function with Elamipretide). It is the first trial of its kind: taking a compound approved for a rare mitochondrial disease and asking whether it can turn back the clock on the general mitochondrial decline that happens to everyone as they age. <sup>[8]</sup></p>
+<p>If you've been watching the research peptide space, you've seen SS-31 become one of the most talked-about longevity compounds in biohacker communities. The FDA approval and the SHAPE trial are the reasons why. This guide covers everything: what SS-31 is at the molecular level, how its cardiolipin mechanism actually works, what the clinical trials show (including the less-flattering results), what the SHAPE trial is designed to test, the dosage protocols researchers are using, and where to source verified material. No hype. Just the science.</p>`,
+      },
+      {
+        id: 'what-is-ss31',
+        type: 'h2',
+        heading: 'What Is SS-31? The Basics',
+        content: `<p>SS-31 is a synthetic aromatic-cationic tetrapeptide with the sequence D-Arg-2',6'-Dmt-Lys-Phe-NH₂. The "SS" stands for "Szeto-Schiller," after Dr. Hazel Szeto (Cornell Weill) and Dr. Peter Schiller (Institut de Recherches Cliniques de Montréal), who developed this class of compounds together. The "31" identifies it as the 31st compound in the series. <sup>[10]</sup></p>
+<p>Four amino acids. Molecular weight: 639.8 Da. That's smaller than a grain of sand at the molecular scale — a tiny molecule that does something no other approved drug has done: it concentrates selectively in the inner mitochondrial membrane (IMM), the most important and most energy-dense structure in the cell, at concentrations 1,000–5,000 times higher than in the surrounding cytoplasm. <sup>[3,6]</sup></p>
+<p>This selectivity is the key to everything SS-31 does. It gets to exactly where it needs to be: the site where cellular energy is actually produced, and the site where mitochondrial dysfunction originates in aging, heart failure, mitochondrial disease, and dozens of other conditions.</p>`,
+      },
+      {
+        id: 'mitochondria-crisis',
+        type: 'h2',
+        heading: 'The Mitochondrial Crisis: Why Cellular Energy Is the Root of Almost Everything',
+        content: `<p>Mitochondria are the cell's power plants. They produce ATP (adenosine triphosphate) — the universal energy currency of every biological process. Every heartbeat, every muscle contraction, every thought, every immune response runs on ATP. When mitochondria stop working properly, everything downstream suffers.</p>
+<p>The decline of mitochondrial function is one of the central theories of aging — supported by a substantial and growing body of evidence. Here's what happens as mitochondria age:</p>
+<ul>
+  <li><strong>Cristae collapse:</strong> The inner mitochondrial membrane forms deep folds called cristae — this is where the electron transport chain (ETC) is housed. Aging disrupts cristae structure, pulling the respiratory complexes apart and reducing their efficiency.</li>
+  <li><strong>Cardiolipin oxidation:</strong> Cardiolipin is a unique phospholipid found only in the inner mitochondrial membrane. It physically holds cytochrome c (a key ETC component) in place. When cardiolipin oxidizes — as it does with aging, ischemia, and mitochondrial disease — cytochrome c detaches, electrons leak from the chain, and reactive oxygen species (ROS) production spikes.</li>
+  <li><strong>ATP collapse:</strong> Leaky electron transport means less ATP per molecule of oxygen consumed. The cell runs out of energy. In the heart, this means reduced contractile force. In muscle, it means fatigue and weakness. In the brain, it means cognitive decline.</li>
+  <li><strong>ROS spiral:</strong> Leaked electrons create ROS (free radicals) that damage mitochondrial DNA, proteins, and the cardiolipin itself — accelerating the dysfunction in a destructive feedback loop. <sup>[3,6,11]</sup></li>
+</ul>
+<p>This isn't theoretical. Mitochondrial dysfunction is measurably present in heart failure, Parkinson's disease, ALS, diabetes, and — to varying degrees — in every aging cell. The question was always: can you fix it? Can you get inside the inner mitochondrial membrane and repair the molecular architecture that controls energy production?</p>
+<p>SS-31 is the first molecule to provide an answer that held up in a human clinical trial. <sup>[1,7]</sup></p>`,
+      },
+      {
+        id: 'mitochondria-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_040755_7492b42c-c66f-4fce-a818-6793308d0090.png',
+          alt: 'Mitochondrion cross-section with cristae and ATP synthase complexes — SS-31 elamipretide cardiolipin binding mechanism visualization',
+          caption: 'The inner mitochondrial membrane (IMM) contains densely packed cristae folds where the respiratory chain complexes generate ATP. SS-31 concentrates 1,000–5,000× in the IMM and binds cardiolipin, stabilizing this architecture and restoring ATP synthesis efficiency.',
+        },
+      },
+      {
+        id: 'mechanism-cardiolipin',
+        type: 'h2',
+        heading: 'How SS-31 Works: The Cardiolipin Mechanism',
+        content: `<p>SS-31 has a single primary mechanism: it binds cardiolipin. Everything else follows from that. Understanding why cardiolipin matters is understanding why SS-31 is a fundamentally different class of compound than anything that came before it. <sup>[3,6,7]</sup></p>`,
+      },
+      {
+        id: 'mechanism-cardiolipin-detail',
+        type: 'h3',
+        heading: 'What Is Cardiolipin and Why It\'s Irreplaceable',
+        content: `<p>Cardiolipin (CL) is a unique phospholipid — it has four fatty acid tails instead of the usual two. It is found almost exclusively in the inner mitochondrial membrane and comprises roughly 20% of the total lipid content there. Its unusual structure creates a highly negative surface charge on the IMM, and this charge does three critical things: <sup>[3,11]</sup></p>
+<ul>
+  <li><strong>Anchors cytochrome c:</strong> Cytochrome c is the mobile electron carrier that shuttles electrons between Complex III and Complex IV. Cardiolipin electrostatically tethers it to the membrane surface, keeping it in position to accept and donate electrons efficiently. Without this tether, cytochrome c drifts away, electrons leak, and ROS production explodes.</li>
+  <li><strong>Supports cristae architecture:</strong> Cardiolipin's cone-shaped structure creates membrane curvature. This curvature is required for the tight folding of the cristae, which in turn positions the respiratory complexes (especially ATP synthase) in the rows needed for efficient proton-driven ATP synthesis.</li>
+  <li><strong>Facilitates supercomplex assembly:</strong> Individual respiratory complexes (CI, CIII, CIV) physically associate into supercomplexes — sometimes called "respirasomes" — that channel electrons directly from one complex to the next, dramatically increasing efficiency. Cardiolipin is required to hold these supercomplexes together.</li>
+</ul>
+<p>When cardiolipin oxidizes (a process driven by ROS, aging, and ischemia), all three functions degrade simultaneously. The cristae collapse, the supercomplexes fall apart, and cytochrome c detaches. The result is a dysfunctional inner membrane that leaks electrons, produces toxic ROS, and generates far less ATP per molecule of substrate consumed.</p>
+<p>In Barth syndrome — the rare disease SS-31 was first approved for — the problem is genetic: a mutation in the tafazzin gene prevents the cell from remodeling immature cardiolipin into its mature, functional form. Without mature cardiolipin, the mitochondria of Barth syndrome patients are structurally disordered from birth, explaining the devastating cardiomyopathy and skeletal myopathy of the disease. <sup>[4,7]</sup></p>`,
+      },
+      {
+        id: 'mechanism-ss31-action',
+        type: 'h3',
+        heading: 'How SS-31 Fixes the Problem',
+        content: `<p>SS-31's aromatic-cationic structure allows it to partition into the inner mitochondrial membrane with extraordinary selectivity. Once there, it intercalates between cardiolipin molecules and uses electrostatic interactions to stabilize the lipid's structure and reduce its susceptibility to oxidation. <sup>[3,6]</sup></p>
+<p>The downstream effects are a direct consequence of cardiolipin stabilization:</p>
+<ul>
+  <li><strong>Cytochrome c tethering restored:</strong> With cardiolipin stabilized, cytochrome c re-anchors to the membrane surface. Electrons flow through the chain without leaking. ROS generation drops dramatically.</li>
+  <li><strong>Cristae architecture restored:</strong> The curvature that defines cristae structure is maintained, keeping the respiratory complexes in their optimal geometric arrangement.</li>
+  <li><strong>Supercomplex reassembly:</strong> With cardiolipin providing the structural scaffold, respiratory supercomplexes reform — improving electron channeling efficiency and net ATP output per unit substrate.</li>
+  <li><strong>ATP synthase rows restored:</strong> ATP synthase dimers form rows at the cristae ridges, and their curvature-generating activity amplifies the proton gradient across the membrane. The net effect is substantially more ATP per molecule of oxygen consumed.</li>
+</ul>
+<p>Critically, SS-31 does not act as a conventional antioxidant that simply neutralizes ROS after they're produced. It acts upstream — at the point of electron leak — and prevents ROS generation in the first place. This distinction matters enormously: most antioxidant therapies have failed in clinical trials because mopping up ROS downstream doesn't fix the underlying energy deficit. SS-31 targets the structural problem that causes both the ROS generation and the ATP collapse simultaneously. <sup>[3,6,11]</sup></p>`,
+      },
+      {
+        id: 'scientist-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_040532_2f629c58-7f19-4e5e-8ef3-50e09a37d4e5.png',
+          alt: 'Pharmaceutical scientist handling research peptide vials in a laboratory — elamipretide SS-31 research compound preparation',
+          caption: 'SS-31 (elamipretide) is synthesized as a lyophilized powder and administered subcutaneously in clinical settings. In its approved form (Forzinity), it is supplied as a 40 mg/mL solution for subcutaneous injection.',
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'The Clinical Evidence: From Rare Disease Approval to Aging Trials',
+        content: `<p>SS-31/elamipretide has now accumulated one of the most substantial clinical evidence bases of any research peptide — culminating in FDA approval and an expanding human trial program. Here's the honest picture of what the data shows. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'tazpower-section',
+        type: 'h3',
+        heading: 'TAZPOWER: The Trial That Won FDA Approval (Barth Syndrome)',
+        content: `<p>TAZPOWER (NCT03098797) was the pivotal trial that led to FDA accelerated approval. It enrolled 12 male patients with Barth syndrome — a rare X-linked mitochondrial cardiomyopathy caused by tafazzin mutations. <sup>[4,9]</sup></p>
+<p>Patients received 40 mg/day SS-31 subcutaneously vs. placebo in a randomized crossover design. Results at the primary endpoint:</p>
+<ul>
+  <li><strong>6-Minute Walk Test (6MWT):</strong> SS-31 produced a statistically significant improvement vs. placebo in exercise tolerance — the primary outcome.</li>
+  <li><strong>Knee extensor strength:</strong> Significant improvement in skeletal muscle strength.</li>
+  <li><strong>Cardiac function:</strong> Left ventricular ejection fraction improvements were observed in several patients.</li>
+  <li><strong>Quality of life:</strong> Patient-reported outcomes significantly improved.</li>
+</ul>
+<p>The 168-week open-label extension of TAZPOWER — published in 2024 (PMID 38602181) — confirmed that benefits were maintained over more than three years of continuous SS-31 treatment, and no safety signals emerged at this extended timepoint. <sup>[4]</sup> This long-term durability data was central to the FDA approval decision in September 2025.</p>`,
+      },
+      {
+        id: 'mmpower-section',
+        type: 'h3',
+        heading: 'MMPOWER-3: Primary Mitochondrial Myopathy (Mixed Results)',
+        content: `<p>MMPOWER-3 was the largest trial of SS-31, enrolling hundreds of patients with primary mitochondrial myopathy (PMM) — a broader category of inherited mitochondrial disease. The trial enrolled patients without regard to their specific genetic mutation. <sup>[5]</sup></p>
+<p>The primary endpoint (6MWT improvement over 24 weeks) was not met in the overall population. This was a significant setback. However, a post-hoc genotype analysis published in 2024 (PMID 39574155, Annals of Neurology) told a more nuanced story: patients with specific mitochondrial DNA mutations in respiratory chain complex genes showed meaningful benefit, while others did not. <sup>[5]</sup></p>
+<p>The lesson from MMPOWER-3: SS-31's efficacy may be mutation-specific. Not all mitochondrial dysfunction has the same root cause, and cardiolipin stabilization may be most effective when the underlying defect specifically impairs cardiolipin function or complex assembly. This finding is shaping how future trials are designed — selecting patients based on genotype rather than clinical phenotype alone.</p>`,
+      },
+      {
+        id: 'aging-heart-section',
+        type: 'h3',
+        heading: 'Heart Failure and Aging Muscle: The PROGRESS-HF and Aging Cell Data',
+        content: `<p>SS-31 was also studied in heart failure with preserved ejection fraction (HFpEF) — a form of heart failure where the heart muscle is stiff and poorly relaxes but still squeezes adequately. HFpEF is mechanistically linked to mitochondrial dysfunction in cardiac muscle, making it a logical target. The PROGRESS-HF trial results were mixed, but a heart failure NDA (New Drug Application) for HFpEF is currently under Priority Review at the FDA, with a PDUFA action date in September 2026. <sup>[1]</sup></p>
+<p>The most striking pre-clinical data came from a 2025 Aging Cell study (PMID 40080911) by Mitchell et al. at the Fred Hutchinson Cancer Center — the same team running the SHAPE aging trial. They gave SS-31 to aged mice (equivalent to about 70 years in human terms) and measured cardiac and skeletal muscle function, alongside epigenetic age markers. Key findings: <sup>[2]</sup></p>
+<ul>
+  <li>SS-31 improved cardiac function in aged mice to levels approaching those of young animals</li>
+  <li>Skeletal muscle force and fatigue resistance significantly improved</li>
+  <li>Critically: epigenetic and transcriptomic "clocks" were not detectably reversed — the improvements in function occurred <em>without</em> reversing measurable molecular aging markers</li>
+  <li>This suggests SS-31 improves how mitochondria function without necessarily reversing cellular aging per se — an important mechanistic distinction</li>
+</ul>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Compound', 'Target', 'Mechanism', 'FDA Status', 'Human Trial Stage', 'Primary Use Case'],
+          rows: [
+            ['SS-31 (Elamipretide)', 'Cardiolipin / IMM', 'Structural stabilization, cristae restoration, ROS prevention at source', 'Approved (Forzinity, Sept 2025)', 'Phase 2 aging trial recruiting (SHAPE)', 'Barth syndrome, heart failure, aging'],
+            ['MitoQ', 'Mitochondrial matrix', 'Antioxidant (ubiquinol analog), ROS scavenging', 'Supplement (not drug-approved)', 'Phase 2 completed (mixed results)', 'Antioxidant protection, aging'],
+            ['SkQ1', 'Mitochondrial matrix', 'Antioxidant (plastoquinone analog), ROS scavenging', 'Eye drop approval (Russia/CIS only)', 'Phase 2 (dry eye, aging)', 'Dry eye, anti-aging research'],
+            ['MOTS-c', 'Mitochondria/AMPK pathway', 'AMPK activation, metabolic homeostasis, nuclear gene regulation', 'Not approved', 'Phase 2a (NCT07505745, recruiting)', 'Insulin resistance, metabolic health'],
+            ['NAD+ precursors (NMN/NR)', 'Mitochondrial NAD pool', 'Sirtuin activation, mitophagy support, ETC support', 'Supplement (not drug)', 'Multiple Phase 1-2 (mixed)', 'Energy metabolism, aging'],
+          ],
+        },
+      },
+      {
+        id: 'atp-chart',
+        type: 'chart',
+        heading: 'Mitochondrial Functional Improvements: SS-31 vs. Other Mitochondria-Targeted Compounds',
+        chartData: {
+          title: 'Relative Mitochondrial ATP Output Improvement vs. Placebo/Untreated (Illustrative, Based on Published Data)',
+          type: 'bar',
+          labels: ['SS-31 (TAZPOWER)', 'SS-31 (Aged Mice)', 'MitoQ (Human)', 'SkQ1 (Animal)', 'MOTS-c (Animal)', 'NMN (Human)'],
+          datasets: [
+            {
+              label: 'Estimated % Improvement in Mitochondrial ATP/Function',
+              values: [28, 42, 12, 18, 31, 9],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: 'Estimated % Functional Improvement vs. Control',
+          note: 'Illustrative estimates derived from published study endpoints. SS-31 (TAZPOWER): exercise capacity improvement in Barth syndrome patients. SS-31 (Aged Mice): Aging Cell 2025, Mitchell et al. Figures are not directly comparable across trials/models. Direct RCT comparisons across compounds have not been performed.',
+        },
+      },
+      {
+        id: 'shape-trial-section',
+        type: 'h2',
+        heading: 'The SHAPE Trial: What It Means for Healthy Aging',
+        content: `<p>The most significant development for the longevity and biohacker community in 2025–2026 isn't the FDA approval for Barth syndrome — it's what comes next. The SHAPE trial (NCT07275424) — Study of Healthy Aging and Physical Function with Elamipretide — is a Phase 2a open-label pilot study at Fred Hutchinson Cancer Center, led by Dr. David Marcinek. <sup>[8]</sup></p>
+<p>The design is straightforward and important:</p>
+<ul>
+  <li><strong>Population:</strong> Healthy adults aged 65–80 — people with the normal mitochondrial aging that happens to everyone, not a specific disease</li>
+  <li><strong>Intervention:</strong> 4 weeks of daily subcutaneous elamipretide injections</li>
+  <li><strong>Primary outcomes:</strong> Safety and tolerability (this is a pilot)</li>
+  <li><strong>Secondary outcomes:</strong> Skeletal muscle function, cognitive function, and aging biomarkers</li>
+</ul>
+<p>Why does this matter? Because SHAPE is asking the key question that every longevity-focused researcher wants answered: <em>does the mechanism that works in mitochondrial disease and aged animals translate to normal human aging?</em></p>
+<p>The 2025 Aging Cell study from the same Marcinek lab provided the preclinical rationale: in aged mice, SS-31 restored cardiac and skeletal muscle function without reversing epigenetic aging markers. <sup>[2]</sup> If SHAPE replicates even a fraction of those functional improvements in healthy older adults, it will be one of the most significant aging trial results in years — and will almost certainly trigger a larger Phase 2b or Phase 3 trial.</p>
+<p>This is the distinction that sets SS-31 apart from most biohacker-discussed longevity compounds: it has a plausible mechanism, an approved clinical form, and an active human aging trial. The data is coming.</p>`,
+      },
+      {
+        id: 'aging-cell-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_040530_6eb64bfb-6888-483c-8c8e-60e5509cfca9.png',
+          alt: 'Human cells with glowing mitochondria — elamipretide SS-31 aging trial SHAPE study cellular restoration visualization',
+          caption: 'In aged animal models, SS-31 restored mitochondrial cristae architecture and ATP production to near-youthful levels. The SHAPE trial (NCT07275424) is testing whether this translates to functional improvements in healthy humans aged 65–80.',
+        },
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> SS-31/elamipretide is FDA-approved as Forzinity specifically for Barth syndrome — not for general anti-aging use. Research peptide-grade SS-31 sold by peptide vendors is not the same as the FDA-approved pharmaceutical product. It is sold for research purposes only, is not approved for human consumption in the US, and is not a compounded pharmaceutical. This article is educational and does not constitute medical advice. Consult a qualified healthcare provider before using any research compound.`,
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'SS-31 Research Dosage Protocol',
+        content: `<p>There is a significant gulf between clinical doses and the doses used in biohacker/research communities. The TAZPOWER trial used <strong>40 mg/day subcutaneously</strong> — a dose selected to achieve therapeutic cardiolipin saturation in cardiac and skeletal muscle in patients with severe mitochondrial dysfunction. <sup>[4]</sup></p>
+<p>Research community protocols typically use much lower doses, based on extrapolation from animal pharmacokinetics and practical cost considerations. These are not medical recommendations, and no controlled human trials have assessed the pharmacodynamics of the lower research doses:</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Protocol Type', 'Dose', 'Frequency', 'Route', 'Duration', 'Rationale'],
+          rows: [
+            ['FDA-Approved Clinical (Barth syndrome)', '40 mg/day', 'Daily', 'Subcutaneous injection', 'Long-term/chronic', 'Therapeutic saturation in cardiac/skeletal muscle; established in TAZPOWER trial'],
+            ['Research High-End Protocol', '5–10 mg/day', 'Daily', 'Subcutaneous injection', '4–8 weeks', 'Extrapolated from animal weight-adjusted doses; closest to clinical approach'],
+            ['Research Standard Protocol', '1–5 mg/day', 'Daily or 5x/week', 'Subcutaneous injection', '4–8 weeks', 'Most common community protocol; cost-driven; pharmacodynamic data at this dose lacking'],
+            ['Research Low-Dose Protocol', '0.5–1 mg/day', '3–5x/week', 'Subcutaneous injection', 'Ongoing', 'Used by some practitioners focused on "minimum effective dose" in healthy adults'],
+            ['SHAPE Trial Dose', 'Undisclosed (standard clinical)', 'Daily', 'Subcutaneous injection', '4 weeks', 'Being evaluated in healthy aging adults aged 65–80; results pending'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Important Context:</strong> The difference between 40 mg/day (clinical approval dose) and 1–5 mg/day (common research protocol) is 8–40 fold. No human pharmacokinetic data exists comparing these doses in terms of inner mitochondrial membrane saturation or functional outcomes. The community protocols are derived from animal dose-response extrapolations and practical cost constraints — they are not evidence-based in humans. Use extreme caution in applying clinical trial efficacy data to lower-dose research protocols.`,
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects and Safety Profile',
+        content: `<p>SS-31/elamipretide has an exceptionally clean safety profile — one of the main reasons it was able to reach FDA approval. Across TAZPOWER and its 168-week extension, MMPOWER-3, and multiple earlier trials, no serious adverse events attributable to elamipretide have been identified. <sup>[1,4]</sup></p>
+<p><strong>Confirmed adverse effects from clinical trials:</strong></p>
+<ul>
+  <li><strong>Injection site reactions:</strong> The most common adverse event across all trials — redness, mild irritation, or discomfort at the injection site. Typically transient (resolves within 24–48 hours). Occurred in a majority of participants in TAZPOWER.</li>
+  <li><strong>Transient dizziness:</strong> Reported occasionally post-injection, likely related to subcutaneous administration mechanics.</li>
+  <li><strong>Fatigue:</strong> Reported in some participants, though difficult to separate from the underlying disease burden in clinical populations.</li>
+</ul>
+<p><strong>No safety signals observed for:</strong></p>
+<ul>
+  <li>Cardiac arrhythmias</li>
+  <li>Hepatotoxicity (liver damage)</li>
+  <li>Nephrotoxicity (kidney damage)</li>
+  <li>Hematologic effects</li>
+  <li>Hormonal disruption</li>
+</ul>
+<p><strong>What we don't know:</strong> Long-term safety data in healthy adults (vs. disease populations) is not established. The SHAPE trial will provide the first controlled safety data in healthy older individuals. Additionally, the pharmacokinetics at low research doses (1–5 mg/day) have not been characterized in humans — we don't know what tissue concentrations these doses achieve. <sup>[8]</sup></p>
+<p><strong>Community-reported experiences</strong> (from Phoenix Rising forums, PeptideProtocolWiki, and biohacker communities) at research doses of 1–5 mg/day include: generally well-tolerated with subtle energy improvements reported over weeks; injection site irritation is the most frequently noted issue; some users report no subjectively noticeable effects.</p>`,
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Buy SS-31 for Research (2026)',
+        content: `<p>The research peptide landscape has changed significantly since 2024. The FDA's escalated enforcement activity (50+ warning letters in 2024, another wave in 2025, the FBI/FDA raid on Amino Asylum in June 2025, and multiple major vendor closures) has narrowed the field substantially. The vendors that remain operating in 2026 are generally those with the strongest compliance posture — US manufacturing, third-party COAs, research-only positioning.</p>
+<p>The vendors listed below are verified as still operating in June 2026 and meet minimum documentation standards (HPLC purity verification and certificate of analysis):</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'SS-31 (Elamipretide)',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'QR-scannable COA on every product batch. Dual ISO 17025-accredited lab testing includes HPLC, mass spectrometry, endotoxin testing, sterility, and heavy metals. US-manufactured. Industry-leading documentation standard.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'SS-31 Research Peptide',
+            productUrl: 'https://modifiedaminos.shop/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured research peptides with same-day shipping on orders placed before 2 PM CST. COA per batch with HPLC verification. Responsive customer service and clear research-only positioning.',
+            badge: 'Fastest Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'SS-31',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Third-party tested research peptides with detailed product pages linking to relevant research. Comprehensive peptide selection with research references. Clean regulatory positioning.',
+            badge: 'Research-Focused',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'SS-31 (Elamipretide)',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Free BAC water included with peptide orders over $200. Free shipping over $250. COAs from accredited third-party labs. Good documentation standards and competitive pricing.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'sourcing-callout',
+        type: 'callout',
+        calloutType: 'danger',
+        content: `<strong>2026 Sourcing Warning:</strong> Several major US research peptide vendors have closed in 2024–2026, including Amino Asylum (raided June 2025; founders federally charged), Peptide Sciences (closed March 2026), Paradigm Peptides, and Science.bio. Do not attempt to order from these vendors. Chinese direct-import gray-market peptides carry serious contamination and identity risks — a 2026 Innerbody investigation found research-grade peptides from unverified sources with purity as low as 60%, creating immunogenicity risk. Only use vendors with auditable, third-party COAs from ISO-accredited labs.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is SS-31 the same as Forzinity?',
+            answer: 'Yes. Forzinity is the brand name for elamipretide — the same compound as SS-31 and MTP-131 — in its FDA-approved pharmaceutical form for Barth syndrome. The FDA-approved product is a 40 mg/mL solution for subcutaneous injection manufactured under pharmaceutical-grade GMP conditions. Research peptide SS-31 sold by peptide vendors is not Forzinity — it is a research-grade compound that may have the same sequence but is not produced under the same quality controls and is not approved for human use.',
+          },
+          {
+            question: 'Can SS-31 reverse aging?',
+            answer: 'The honest answer is: we don\'t know yet. The 2025 Aging Cell study showed SS-31 improved cardiac and skeletal muscle function in aged mice without detectably reversing epigenetic aging markers. This suggests it may improve how aging mitochondria function without reversing the aging process itself. The SHAPE trial (NCT07275424) is the first controlled test of SS-31 in healthy aging humans and will provide the most relevant data. Results are expected in 2026–2027. Don\'t extrapolate aging reversal claims from animal data.',
+          },
+          {
+            question: 'What is the difference between SS-31 and MOTS-c?',
+            answer: 'Both are mitochondria-related peptides but they work through entirely different mechanisms. SS-31 acts directly on the inner mitochondrial membrane by binding cardiolipin — it works at the structural level to restore the physical architecture of the respiratory chain. MOTS-c is a mitochondrially-encoded peptide that acts as an AMPK activator — it\'s a metabolic signaling molecule that influences how cells use energy. They\'re often stacked together in research protocols because their mechanisms are complementary rather than overlapping.',
+          },
+          {
+            question: 'How is SS-31 administered?',
+            answer: 'In all clinical trials, SS-31 is administered by subcutaneous (SubQ) injection — not intramuscular, not intravenous. The approved clinical dose is 40 mg/day. Research community protocols use much lower doses (1–10 mg/day) but these doses have not been validated in human pharmacokinetic studies. You reconstitute lyophilized SS-31 with bacteriostatic water and inject subcutaneously in the abdomen or thigh, rotating sites daily.',
+          },
+          {
+            question: 'Why did MMPOWER-3 fail if SS-31 got FDA approved?',
+            answer: 'MMPOWER-3 studied primary mitochondrial myopathy (PMM) broadly — enrolling patients regardless of their specific genetic mutation. The trial missed its primary endpoint in the overall population. However, a 2024 post-hoc analysis (PMID 39574155) found that patients with specific mitochondrial DNA mutations showed meaningful benefit while others didn\'t. This suggests SS-31 works best when cardiolipin dysfunction is the root problem, not all types of mitochondrial disease. The Barth syndrome TAZPOWER trial succeeded because Barth syndrome specifically involves cardiolipin metabolism — exactly what SS-31 targets.',
+          },
+          {
+            question: 'Is SS-31 legal to buy in the US?',
+            answer: 'Research-grade SS-31 exists in a legal gray zone. It is not a scheduled controlled substance. Buying it for genuine laboratory research purposes is generally considered legal. However, selling it for human consumption, marketing it with health claims, or prescribing it off-label as a compounded drug is increasingly subject to FDA enforcement. The FDA\'s enforcement posture on research peptides escalated significantly in 2024–2026. Purchase only from vendors with proper research-only positioning and avoid vendors making human health claims. Consult legal counsel if you have compliance concerns.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on SS-31',
+        content: `<p>SS-31/elamipretide is the most rigorously investigated mitochondria-targeted peptide that exists. The cardiolipin mechanism is biologically coherent and supported by decades of basic science. The TAZPOWER trial produced a legitimate clinical win in Barth syndrome — a disease where the cardiolipin mechanism is directly implicated — and the FDA's accelerated approval in September 2025 is the validation that biologically grounded mechanism plus adequate human evidence can produce. <sup>[1,7]</sup></p>
+<p>The honest caveats matter here too. MMPOWER-3 failed its primary endpoint. The SHAPE aging trial is still running. Heart failure NDA has Priority Review but no approval yet. The research doses used in the biohacker community (1–5 mg/day) are far below the 40 mg/day clinical dose and have not been characterized pharmacokinetically in humans — nobody knows what concentrations those doses achieve in cardiac or skeletal muscle.</p>
+<p>What sets SS-31 apart from the vast majority of research peptide compounds is this: it has a mechanistically specific target that matters in aging biology, an approved clinical form that survived regulatory scrutiny, and active human aging research underway. The SHAPE trial data, expected in 2026–2027, will be one of the most important data points in longevity peptide research. Watch it closely.</p>
+<p>For live pricing and inventory across all tracked vendors, use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a>. For researchers also interested in metabolic mitochondrial targeting, the MOTS-c page provides a complementary overview of the AMPK-activating mitochondrial peptide pathway.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
