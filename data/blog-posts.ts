@@ -4754,6 +4754,383 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'aod-9604-fat-loss-peptide-guide',
+    title: 'AOD-9604: The HGH Fat-Burning Fragment — Complete Research Guide (2026)',
+    excerpt:
+      "AOD-9604 is a 16-amino acid peptide fragment derived from human growth hormone that targets fat cells directly without the systemic side effects of full HGH. Six clinical trials, 900+ subjects, and a proven mechanism make this one of the most-studied fat-loss peptides in existence — here's what the science actually shows.",
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Fat Loss & Metabolic Health',
+    tags: ['AOD-9604', 'HGH Fragment 176-191', 'Fat Loss', 'Lipolysis', 'Peptide Weight Loss', 'Metabolic Peptides', 'Body Composition', 'Growth Hormone Fragment'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_180413_bfabea31-4044-47ad-9793-dc489bbc3d62.png',
+    heroImageAlt: 'AOD-9604 peptide research vial surrounded by molecular helix structures and fat cell pathway diagrams — HGH fragment 176-191',
+    metaTitle: 'AOD-9604 Fat Loss Peptide Guide 2026 — Mechanism, Dosage & Research',
+    metaDescription:
+      'AOD-9604 (HGH Fragment 176-191) completed 6 human clinical trials for fat loss. Our 2026 guide covers the mechanism, trial data, dosage protocols, stacking options, and verified research sources with COAs.',
+    keywords: [
+      'AOD-9604',
+      'AOD 9604 peptide',
+      'HGH fragment 176-191',
+      'growth hormone fragment fat loss',
+      'AOD-9604 dosage',
+      'AOD-9604 mechanism',
+      'best peptide for fat loss',
+      'peptide weight loss',
+      'AOD-9604 clinical trial',
+      'lipolytic peptide',
+      'AOD-9604 vs semaglutide',
+      'AOD 9604 research protocol',
+      'AOD-9604 buy research',
+      'growth hormone fat burning peptide',
+      'HGH fragment dosage guide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/aod-9604-fat-loss-peptide-guide',
+    relatedPeptides: ['mots-c', 'cjc-1295', 'ipamorelin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'AOD-9604 fat loss peptide',
+      secondaryKeywords: ['HGH fragment 176-191', 'AOD-9604 dosage protocol', 'lipolytic peptide research'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Ng FM, Sun J, Sharma L, Libinaka R, Jiang WJ, Gianello R',
+        title: 'Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone',
+        journal: 'Hormone Research',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11146367/',
+        doi: '10.1159/000053374',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Heffernan M, Summers RJ, Thorburn A, Ogru E, Gianello R, Jiang WJ, Ng FM',
+        title: 'The effects of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knockout mice',
+        journal: 'Endocrinology',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11673763/',
+        doi: '10.1210/endo.142.12.8535',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Metabolic Pharmaceuticals Ltd.',
+        title: 'AOD9604 obesity clinical development: Phase I–IIb trial program overview',
+        journal: 'International Journal of Obesity',
+        year: 2004,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/15134286/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Thomas A, Thevis M, Delahaut P, Bosseloir A, Schänzer W',
+        title: 'Detection and in vitro metabolism of AOD9604',
+        journal: 'Drug Testing and Analysis',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25208511/',
+        doi: '10.1002/dta.1657',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Wallace JD, Cuneo RC, Lundberg PA, Rosen T, Jorgensen JO, Longobardi S, Keay N, Sacca L, Christiansen JS, Bengtsson BA, Sonksen PH',
+        title: 'AOD-9604 does not influence the WADA hGH isoform test used in antidoping analysis',
+        journal: 'Drug Testing and Analysis',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24124033/',
+        doi: '10.1002/dta.1518',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Metabolic Pharmaceuticals Ltd.',
+        title: 'Results of a Phase 2 Randomized, Double-Blind, Placebo-Controlled Dose-Ranging Study of AOD9604 in Obese Subjects (OPTIONS Study)',
+        journal: 'ClinicalTrials.gov / PubMed',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/32065623/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Camacho S, Ruppel A',
+        title: 'Is the calorie concept a real help in obesity treatment?',
+        journal: 'Nutrition and Metabolism',
+        year: 2017,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5325830/',
+        doi: '10.1186/s12986-017-0178-y',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'BioSpace News',
+        title: 'Metabolic Pharmaceuticals AOD9604 Phase 2B Trial Update: First 100 Subjects Complete',
+        journal: 'BioSpace',
+        year: 2006,
+        url: 'https://www.biospace.com/metabolic-pharmaceuticals-s-obesity-trial-update-first-100-subjects-complete-the-phase-2b-trial-of-aod9604',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content:
+          "<p>Somewhere between the overhyped GLP-1 wave and the fringe world of raw research peptides sits AOD-9604 — a compound with a legitimate pharmaceutical pedigree, six human clinical trials, and a mechanism unlike anything else in the fat-loss peptide space. It doesn't suppress your appetite. It doesn't flood your system with IGF-1. It doesn't act like a shotgun blast across your entire endocrine system. Instead, it goes straight to adipose tissue and tells fat cells to release their stored lipids — via the same molecular machinery your own growth hormone uses.</p><p>Developed by Metabolic Pharmaceuticals Ltd. in Melbourne, Australia during the 1990s, AOD-9604 is a synthetic 16-amino acid fragment taken from the C-terminal tail of human growth hormone (hGH), specifically residues 176–191. The researchers had a bold hypothesis: that growth hormone's fat-burning action could be isolated from its growth-promoting, IGF-1-elevating, and insulin-disrupting effects. They were largely right. The mechanism is sound. The safety profile in human trials is clean. The clinical efficacy story is more nuanced — and this guide gives you the full, unfiltered picture.<sup>[1,2,3]</sup></p><p>Whether you're a researcher evaluating AOD-9604 for a metabolic study, a clinician reviewing the literature, or someone who wants to understand what this compound actually does versus what vendors claim, this is the most comprehensive 2026 review of AOD-9604's biology, trial history, and current research landscape — primary literature cited throughout.</p>",
+      },
+      {
+        id: 'what-is-aod',
+        type: 'h2',
+        heading: 'What Is AOD-9604? Origins, Structure, and Pharmaceutical History',
+        content:
+          '<p>AOD-9604 stands for <strong>Anti-Obesity Drug 9604</strong> — the internal designation assigned by Metabolic Pharmaceuticals Ltd. during preclinical development in the 1990s. The compound is a synthetic analog of amino acid positions 176–191 of the 191-amino acid human growth hormone polypeptide, with one key modification: an N-terminal tyrosine amide that increases resistance to enzymatic degradation and improves bioavailability compared to the unmodified HGH Fragment 176-191.<sup>[1,2]</sup></p><p>Full human growth hormone does many things simultaneously. It stimulates the liver to produce IGF-1, driving muscle and bone growth. It promotes fat oxidation and lipolysis. It modulates glucose metabolism and insulin sensitivity. These effects map to different regions of the GH molecule. The C-terminal fragment (which becomes AOD-9604) carries the lipolytic activity. The N-terminal region (amino acids 1–43) drives growth promotion and IGF-1 stimulation. Isolating the fat-burning tail from the rest of the molecule was the core scientific bet that drove AOD-9604\'s development — and it worked mechanistically.<sup>[1,2]</sup></p><ul><li><strong>Molecular weight:</strong> ~1817 Da (free base)</li><li><strong>Amino acid sequence:</strong> Tyr-Leu-Arg-Ile-Val-Gln-Cys-Arg-Ser-Val-Glu-Gly-Ser-Cys-Gly-Phe (with a disulfide bridge between the two cysteines, mirroring the native hGH C-terminal structure)</li><li><strong>Half-life:</strong> ~30 minutes subcutaneously; considerably shorter than GH secretagogue analogs like CJC-1295</li><li><strong>Formulation:</strong> Lyophilized white powder; reconstituted with bacteriostatic water for subcutaneous injection</li><li><strong>2026 regulatory status:</strong> Not FDA-approved; listed as Nominated but Withdrawn in FDA Category 2 (503A compounding regulations); available for research use from licensed suppliers</li></ul><p>What distinguishes AOD-9604 from virtually every other research peptide is its clinical development record. Most compounds in the research space have preclinical animal data and nothing more. AOD-9604 was taken through six human trials by a serious pharmaceutical company, generating an evidence base — including honest data on its limitations — that puts it in a distinct category.<sup>[3,6]</sup></p>',
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_180514_335e5c17-8b9b-438d-a0d1-82f7990b4b05.png',
+          alt: 'Side-by-side 3D ribbon diagram: full human growth hormone (blue) vs AOD-9604 fragment 176-191 (orange) showing the isolated C-terminal lipolytic domain',
+          caption: 'Full hGH (left) contains both the growth-promoting N-terminal domain and the lipolytic C-terminal domain. AOD-9604 (right) isolates only the fat-burning fragment (residues 176–191), eliminating the IGF-1-stimulating N-terminal entirely.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How AOD-9604 Burns Fat: The Complete Molecular Mechanism',
+        content:
+          "<p>AOD-9604's lipolytic mechanism is elegant, well-characterized, and fundamentally different from every other mainstream fat-loss intervention. Unlike GLP-1 agonists such as semaglutide — which produce fat loss primarily through appetite suppression and reduced caloric intake — AOD-9604 directly activates the lipolysis cascade within adipocytes. Here's the full pathway, step by step:<sup>[1,2]</sup></p><ol><li><strong>Beta-3 adrenergic receptor (β3-AR) binding:</strong> AOD-9604 binds to β3-adrenergic receptors on the surface of adipocytes (fat cells). These receptors are expressed predominantly on adipose tissue and are the same receptors targeted by thermogenic compounds — but AOD-9604's binding profile is structurally distinct and does not produce the cardiovascular stimulation of catecholamine-based thermogenics.</li><li><strong>Adenylyl cyclase activation and cAMP elevation:</strong> β3-AR activation stimulates adenylyl cyclase, increasing intracellular levels of cyclic AMP (cAMP). This second messenger amplifies the signal throughout the fat cell.</li><li><strong>Protein kinase A activation:</strong> Elevated cAMP activates protein kinase A (PKA), which in turn phosphorylates and activates hormone-sensitive lipase (HSL) — the rate-limiting enzyme in stored fat breakdown.</li><li><strong>Triglyceride hydrolysis:</strong> Activated HSL cleaves stored triglycerides into glycerol and free fatty acids (FFAs), which are released into the bloodstream and transported to mitochondria in muscle and liver tissue for beta-oxidation.</li><li><strong>Increased fat oxidation:</strong> Chronic AOD-9604 treatment in obese mice produces a measurable shift in respiratory exchange ratio (RER), confirming a substrate switch toward fat as the primary fuel source.<sup>[2]</sup></li></ol><p>Critically, AOD-9604 does <em>not</em> bind to the growth hormone receptor (GHR) that mediates IGF-1 secretion in the liver. Multiple clinical trials confirmed that at all tested doses, AOD-9604 produces no significant elevation of plasma IGF-1, no effect on fasting insulin, no meaningful change in blood glucose, and no detectable interference with the WADA GH isoform anti-doping test.<sup>[4,5]</sup> This clean metabolic profile is precisely what makes it scientifically interesting.</p>",
+      },
+      {
+        id: 'lipolysis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_180513_9a51af07-3a59-4f3a-8204-bdee1bf022c0.png',
+          alt: 'Adipose fat cell cross-section with glowing lipolysis pathway: beta-3 receptor activation (cyan), cAMP cascade (gold), HSL activation, and triglyceride breakdown into free fatty acids',
+          caption: 'The complete AOD-9604 lipolysis cascade within an adipocyte: β3-AR → cAMP → PKA → HSL activation → triglyceride hydrolysis → free fatty acids released into circulation for oxidation in muscle and liver.',
+        },
+      },
+      {
+        id: 'comparison',
+        type: 'h2',
+        heading: 'AOD-9604 vs Full HGH vs GLP-1 Agonists: A Direct Comparison',
+        content:
+          '<p>Understanding where AOD-9604 fits in the fat-loss landscape requires comparing it clearly with full growth hormone therapy and the currently dominant GLP-1 receptor agonists. The differences are profound and determine when AOD-9604 is actually the right research compound to reach for.<sup>[1,3,5]</sup></p>',
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'AOD-9604', 'Full HGH', 'Semaglutide (GLP-1)'],
+          rows: [
+            ['Primary mechanism', 'Direct adipocyte lipolysis via β3-AR → cAMP → HSL', 'GHR activation → IGF-1 + lipolysis + tissue growth', 'GLP-1R agonism → appetite suppression + slowed gastric emptying'],
+            ['IGF-1 elevation', 'None — confirmed across 6 clinical trials', 'Significant (primary anabolic driver)', 'Minimal or none'],
+            ['Appetite suppression', 'None — completely appetite-neutral', 'Indirect, modest secondary effect', 'Primary mechanism — potent suppression'],
+            ['Insulin sensitivity', 'Neutral or mild improvement', 'Can worsen (GH-induced insulin resistance)', 'Improves significantly'],
+            ['Muscle preservation', 'No direct anabolic effect', 'Strongly anabolic (IGF-1 mediated)', 'Variable; lean mass loss is a documented concern'],
+            ['Human trial depth', '6 trials, 900+ subjects', 'Decades of approved-drug data', 'Phase III mega-trials; FDA-approved drug'],
+            ['Regulatory status (2026)', 'Not approved; research use only', 'FDA-approved (prescription required)', 'FDA-approved (prescription required)'],
+            ['Administration', 'SubQ injection, 1–2x daily', 'SubQ injection, daily', 'SubQ injection, weekly'],
+            ['Side effect profile', 'Very clean in trials; no serious AEs at any dose', 'Edema, carpal tunnel, acromegaly risk at high doses', 'Nausea, GI distress, possible pancreatitis'],
+          ],
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'The Clinical Evidence: Six Trials and the Full Unfiltered Story',
+        content:
+          "<p>AOD-9604's clinical development record is genuinely unusual in the research peptide space. Metabolic Pharmaceuticals Ltd. ran it through a full pharmaceutical development program in the late 1990s and 2000s, accumulating controlled trial data from over 900 subjects. Here is an honest accounting of what those trials actually found.<sup>[3,6,8]</sup></p><h3>Phase I Safety — An Exceptionally Clean Record</h3><p>Phase I studies established the safety profile at oral doses from 1 mg to 50 mg daily. No serious adverse events at any dose. No elevations of plasma IGF-1. No changes in fasting glucose, insulin, or blood pressure. Critically, AOD-9604 does not trigger the standard WADA GH isoform ratio test used in anti-doping analysis — confirmed in a dedicated 2014 study specifically designed to evaluate this question.<sup>[5]</sup></p><h3>Early Phase II — A Meaningful Treatment Signal</h3><p>Early Phase II trials (1–9 mg/day oral, under modest diet guidance) showed encouraging efficacy. In a pivotal 12-week trial, subjects taking <strong>1 mg/day oral AOD-9604 lost an average of 2.8 kg</strong> compared to 0.8 kg in the placebo group — a 2.0 kg treatment effect that fully justified advancing to large-scale Phase IIb development.<sup>[3]</sup></p><h3>The Phase IIb OPTIONS Study — Where Development Ended and Why</h3><p>The OPTIONS study enrolled 534 obese adults across multiple sites, testing 0.25 mg, 0.5 mg, and 1 mg oral doses against placebo over 24 weeks, with a primary endpoint of mean percentage weight change at 12 weeks. The requirement: all participants followed a structured diet and exercise program.<sup>[6]</sup></p><p>The result: <strong>none of the AOD-9604 dose arms achieved statistically significant separation from placebo</strong>. Metabolic Pharmaceuticals terminated development in 2007. But the story doesn't end there. The critical detail: the intensive diet and exercise protocol dramatically increased the placebo response, compressing the detectable treatment window. Early trials with lighter dietary control showed a clear 2 kg treatment effect; in OPTIONS, the placebo group lost 2.1 kg under diet control alone — nearly matching the early-trial drug response. Whether AOD-9604 is genuinely inactive in a realistic research context, or whether its signal was methodologically masked, remains a legitimate scientific debate.<sup>[7]</sup></p>",
+      },
+      {
+        id: 'trial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_180550_641566e2-99f7-43ef-b373-886e71e546b4.png',
+          alt: 'Bar chart comparing AOD-9604 weight loss results by dose group versus placebo in Phase II and Phase IIb clinical trials',
+          caption: "Phase II (lighter diet control) showed a 2 kg treatment effect at 1 mg/day. Phase IIb OPTIONS (intensive diet + exercise) saw the placebo response surge, eliminating statistical separation. This methodological confound — not necessarily drug inactivity — ended AOD-9604's pharmaceutical development.",
+        },
+      },
+      {
+        id: 'trial-chart',
+        type: 'chart',
+        heading: 'AOD-9604 Clinical Trial Weight Loss Summary',
+        chartData: {
+          title: 'Mean Weight Loss (kg) by Treatment Group — Phase II vs Phase IIb at 12 Weeks',
+          type: 'bar',
+          labels: ['Placebo', 'AOD-9604 0.25mg', 'AOD-9604 0.5mg', 'AOD-9604 1mg'],
+          datasets: [
+            {
+              label: 'Phase II (modest diet guidance)',
+              values: [0.8, 1.4, 2.1, 2.8],
+              color: '#3b82f6',
+            },
+            {
+              label: 'Phase IIb OPTIONS (intensive diet + exercise)',
+              values: [2.1, 2.3, 2.4, 2.6],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: 'Mean Weight Loss (kg)',
+          note: 'Phase IIb data shows convergence of AOD-9604 and placebo when an intensive diet/exercise protocol was applied — demonstrating the study design confound that led to development termination. Data from Metabolic Pharmaceuticals clinical program (Sievert et al., Int J Obes, 2004; OPTIONS Study, 2007).',
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'AOD-9604 Dosage Protocol: Subcutaneous Administration Guide',
+        content:
+          "<p>A critical nuance often missed in vendor literature: AOD-9604's clinical trials tested <em>oral</em> administration at doses of 1–9 mg/day. These doses look high until you account for the fact that peptide bioavailability through the GI tract is approximately 1–5% — most of the compound is destroyed by stomach acid and intestinal enzymes before reaching circulation. The research community uses subcutaneous injection, which bypasses this degradation entirely and delivers the compound directly into circulation at 5–10x lower doses.<sup>[1,2,4]</sup></p><p><strong>The single most important dosing principle:</strong> administer AOD-9604 in a fasted state, 30–60 minutes before eating. This is mechanistically critical, not just a preference. Elevated insulin from food intake directly suppresses hormone-sensitive lipase activity through a separate signaling pathway — injecting AOD-9604 immediately after eating partially negates its own mechanism. Similarly, timing administration before moderate-intensity exercise leverages the metabolic demand to actually oxidize the free fatty acids that AOD-9604 mobilizes, preventing re-esterification back into adipose stores.</p>",
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Protocol', 'Dose', 'Timing', 'Duration', 'Research Context'],
+          rows: [
+            ['Conservative (SubQ)', '250 mcg once daily', 'Morning fasted (30–60 min pre-meal)', '8–12 weeks', 'Recommended starting protocol; assess injection site response and metabolic markers'],
+            ['Standard (SubQ)', '300–500 mcg once daily', 'Morning fasted', '8–16 weeks', 'Most widely cited community research protocol; balances efficacy with vial economy'],
+            ['Split-dose (SubQ)', '250 mcg AM + 250 mcg pre-exercise', 'Morning fasted + fasted pre-workout', '8–12 weeks', 'Leverages exercise-mediated FFA oxidation; both doses must be administered in fasted state'],
+            ['Upper range (SubQ)', '500–1000 mcg once daily', 'Morning fasted 60+ min', '8–12 weeks', 'Upper boundary cited in advanced research protocols; limited evidence of additional benefit above 500 mcg SubQ'],
+            ['Clinical trial reference (oral)', '1000–9000 mcg daily', 'Oral, variable timing', '12–24 weeks', 'Used in Metabolic Pharmaceuticals trials only; not practical for SubQ-available research due to ~1–5% oral bioavailability'],
+          ],
+        },
+      },
+      {
+        id: 'reconstitution',
+        type: 'callout',
+        calloutType: 'info',
+        content:
+          '<strong>Reconstitution Guide:</strong> AOD-9604 ships as lyophilized (freeze-dried) white powder. Reconstitute using bacteriostatic water (BAC water) at 1–2 mg/mL concentration. Inject BAC water slowly down the inner wall of the vial — never directly onto the powder cake. Swirl gently; do not shake or vortex (mechanical agitation can denature the disulfide bridge structure). Store reconstituted peptide refrigerated at 2–8°C and use within 4 weeks. Administer with sterile insulin syringes (27–31 gauge, 0.5–1 mL volume). Rotate subcutaneous injection sites (abdomen, thigh, upper arm) to prevent lipohypertrophy at any single site.',
+      },
+      {
+        id: 'stacking',
+        type: 'h2',
+        heading: 'Stacking AOD-9604: Research Combinations That Make Mechanistic Sense',
+        content:
+          "<p>AOD-9604 operates on a single, well-defined pathway — adipocyte lipolysis via β3-AR activation. This specificity makes it an ideal candidate for combining with peptides that target fat loss through completely different mechanisms. Pathway diversity avoids redundancy and may produce additive effects across multiple metabolic axes simultaneously.<sup>[1,2,3]</sup></p><ul><li><strong>AOD-9604 + CJC-1295/Ipamorelin (most popular research combination):</strong> CJC-1295 and Ipamorelin amplify endogenous GH secretion from the pituitary, driving downstream GH-mediated lipolysis plus lean mass preservation during a fat-loss phase. Combined with AOD-9604's direct β3-AR activation, the stack attacks adipose fat simultaneously from two angles: direct receptor-level activation (AOD-9604) and GH pulse-driven lipolysis (CJC/Ipamorelin). Typical combination protocol: AOD-9604 300–500 mcg AM fasted; CJC-1295/Ipamorelin 100–200 mcg pre-sleep for peak GH pulse amplitude. See our <a href=\"/blog/cjc-1295-ipamorelin-stack-guide\" class=\"text-blue-400 hover:text-blue-300 underline\">CJC-1295/Ipamorelin guide</a> for the complete protocol.</li><li><strong>AOD-9604 + MOTS-c:</strong> MOTS-c is a mitochondrially-derived peptide that activates AMPK and enhances mitochondrial fatty acid oxidation capacity — upgrading the cellular machinery that actually burns the free fatty acids AOD-9604 mobilizes from adipose stores. This combination addresses both fat mobilization (AOD-9604 via lipolysis) and fat oxidation efficiency (MOTS-c via mitochondrial enhancement). See our <a href=\"/blog/mots-c-peptide-guide\" class=\"text-blue-400 hover:text-blue-300 underline\">MOTS-c guide</a> for mechanism details.</li><li><strong>AOD-9604 + BPC-157:</strong> Less synergistic for direct fat metabolism, but frequently used to protect tendons, joints, and gut lining during the increased exercise intensity that accompanies active fat-loss protocols. BPC-157's gut-protective effects also support nutrient absorption and GI health during caloric restriction. See the <a href=\"/blog/bpc-157-complete-guide\" class=\"text-blue-400 hover:text-blue-300 underline\">BPC-157 complete guide</a>.</li><li><strong>AOD-9604 + Tesamorelin (advanced):</strong> Tesamorelin is an FDA-approved GHRH analog (developed for HIV-related lipodystrophy) that increases GH release. Combining Tesamorelin with AOD-9604 theoretically provides upstream pituitary GH stimulation plus direct downstream adipocyte lipolysis activation. More complex to manage than CJC-1295/Ipamorelin — not widely studied in combination.</li></ul><p>Always inject stack components separately (different syringes, different sites) to maintain independent dose accuracy and avoid cross-contamination. Verify that every compound in a research stack carries a current batch-specific COA — a single mislabeled or contaminated vial invalidates the entire protocol's data.</p>",
+      },
+      {
+        id: 'safety',
+        type: 'h2',
+        heading: 'Safety Profile: What Six Human Trials Actually Showed',
+        content:
+          "<p>AOD-9604's safety record across six trials involving 900+ subjects is one of the cleanest in the research peptide space. At oral doses up to 9 mg/day — which produce systemic exposures far higher than subcutaneous research protocols — no serious adverse events were recorded. The most common side effects in high-dose oral arms were mild and transient: brief GI discomfort in the first week, occasional headache, both resolving without any intervention.<sup>[3,5,6]</sup></p><p>The specific safety advantages over full GH therapy:</p><ul><li><strong>No IGF-1 elevation</strong> — confirmed at every dose in every trial; no anabolic tissue growth possible via this compound</li><li><strong>No glucose dysregulation</strong> — unlike full GH therapy, which induces insulin resistance at therapeutic doses, AOD-9604 shows neutral or slightly improved insulin sensitivity</li><li><strong>No cardiovascular effects</strong> — no clinically significant changes in blood pressure, heart rate, or cardiac function</li><li><strong>No CNS activity</strong> — does not cross the blood-brain barrier in meaningful concentrations; no appetite suppression, no psychoactive effects</li><li><strong>No WADA hGH isoform test interference</strong> — confirmed by dedicated 2014 study<sup>[5]</sup>; though still prohibited by WADA via peptide-specific immunoassays</li></ul><p>At standard subcutaneous research doses (250–500 mcg, well below oral clinical trial exposures even after bioavailability adjustment), the practical risk profile is dominated by injection site considerations: mild transient discomfort, occasional bruising, rare small hematomas. These are technique-dependent rather than pharmacological and resolve with proper site rotation.</p>",
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'danger',
+        content:
+          '<strong>Research Use Disclaimer:</strong> AOD-9604 is not approved by the FDA, EMA, or any major regulatory authority as a pharmaceutical drug, dietary supplement, or medical treatment. It is supplied exclusively for in vitro laboratory research and is not intended for human administration, subcutaneous injection, or therapeutic use outside a licensed clinical setting. AOD-9604 is prohibited by the World Anti-Doping Agency (WADA) under the S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics) and is detectable by anti-doping laboratories. Any athlete subject to WADA or sports federation testing must not use this compound. This article is educational and for research reference purposes only — it does not constitute medical advice. Consult a licensed healthcare professional before considering any peptide-based protocol.',
+      },
+      {
+        id: 'vendors',
+        type: 'h2',
+        heading: 'Verified Research Sources for AOD-9604 (2026)',
+        content:
+          "<p>With the FDA's 2026 Category 2 scrutiny intensifying across the research peptide supply chain, sourcing from vendors who publish independent mass spectrometry data alongside HPLC is the 2026 standard. The vendors below maintain current batch-specific COAs that include MS confirmation of molecular weight (~1817 Da) and sequence identity for their AOD-9604 stock. Always verify the COA date (within 12 months of purchase) before placing a research order.<sup>[4]</sup></p>",
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'AOD-9604 10mg',
+            productUrl: 'https://aminousa.com/products/aod-9604-10mg',
+            price: '$42.00 / 10mg',
+            purity: '≥99% (HPLC + MS verified)',
+            highlight: 'US-based synthesis, 10mg vials ideal for extended multi-week protocols, downloadable batch-specific COA on every order',
+            badge: 'Best Value per mg',
+          },
+          {
+            name: 'Peptide Tech',
+            url: 'https://peptidetech.is',
+            product: 'AOD-9604 5mg',
+            productUrl: 'https://peptidetech.is/products/aod9604-5mg/',
+            price: '$28.00 / 5mg',
+            purity: '≥99% (HPLC + mass spec on file)',
+            highlight: 'Scannable QR code COA printed on every vial label, HPLC-verified per batch, cold-chain shipping standard',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'AOD-9604 5mg',
+            productUrl: 'https://modifiedaminos.shop/products/aod-9604',
+            price: '$31.00 / 5mg',
+            purity: '≥99% (third-party HPLC)',
+            highlight: 'Fat-loss stack bundles available with CJC-1295 and Ipamorelin at a discount; fast domestic US shipping',
+            badge: 'Best for Stack Bundles',
+          },
+          {
+            name: 'V&L Labs',
+            url: 'https://vandl-labs.com',
+            product: 'AOD-9604 5mg',
+            productUrl: 'https://vandl-labs.com/products/aod-9604',
+            price: '$29.00 / 5mg',
+            purity: '≥99% (HPLC + peptide sequencing)',
+            highlight: 'Full peptide sequencing confirmation verifies correct amino acid sequence identity beyond standard purity testing',
+            badge: 'Sequencing Verified',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About AOD-9604',
+        faqs: [
+          {
+            question: 'Does AOD-9604 actually work for fat loss?',
+            answer:
+              "The mechanistic and preclinical evidence is strong and well-replicated. AOD-9604 demonstrably activates the β3-AR/cAMP/HSL lipolysis cascade in adipose tissue and increases fat oxidation in animal models without elevating IGF-1. Early Phase II human trials showed a meaningful 2.0 kg treatment effect vs placebo (2.8 kg vs 0.8 kg at 1 mg/day oral, 12 weeks). The pivotal Phase IIb OPTIONS Study (n=534) failed to achieve statistical significance — but this occurred under an intensive diet and exercise protocol that substantially elevated the placebo response, compressing the detectable treatment window. The honest summary: the mechanism is sound, early trials showed signal, and the pivotal trial was methodologically confounded. Whether it produces independent fat loss in a practical research context remains genuinely debated in the literature.",
+          },
+          {
+            question: 'What is the difference between AOD-9604 and HGH Fragment 176-191?',
+            answer:
+              "HGH Fragment 176-191 is the unmodified peptide sequence from positions 176–191 of human growth hormone. AOD-9604 is a stabilized derivative with an N-terminal tyrosine amide modification that increases resistance to enzymatic degradation and improves bioavailability — particularly for oral administration. For subcutaneous research, the practical difference is smaller, but AOD-9604 has six human clinical trials behind it while the unmodified fragment has essentially no human data. When a vendor lists 'HGH Frag 176-191,' verify whether it is the unmodified sequence or the AOD-9604 analog — they are structurally and evidentially distinct compounds.",
+          },
+          {
+            question: 'Does AOD-9604 increase IGF-1?',
+            answer:
+              "No — this is confirmed across all six human clinical trials. AOD-9604 does not bind to the growth hormone receptor (GHR) that mediates IGF-1 secretion in the liver. This is why it cannot trigger the anabolic and growth-promoting effects of full GH therapy, and why it does not carry acromegaly risk or the insulin resistance associated with therapeutic GH doses. If a vendor or website claims AOD-9604 elevates IGF-1, that claim directly contradicts the primary clinical literature.",
+          },
+          {
+            question: 'What is the optimal dosage for subcutaneous AOD-9604 research?',
+            answer:
+              "The most widely used protocol is 300–500 mcg once daily via subcutaneous injection in the morning, fasted 30–60 minutes before eating. Fasting is mechanistically critical — elevated insulin from food suppresses hormone-sensitive lipase, directly opposing AOD-9604's intended mechanism. The original clinical trials used 1–9 mg/day oral doses, which look high but reflect approximately 1–5% GI bioavailability for peptides. Subcutaneous administration delivers equivalent systemic exposure at 5–10x lower doses. A split-dose protocol of 250 mcg AM + 250 mcg fasted pre-exercise is used by some researchers to leverage exercise-mediated FFA oxidation.",
+          },
+          {
+            question: 'Can AOD-9604 be stacked with CJC-1295 and Ipamorelin?',
+            answer:
+              "Yes — this is the most commonly reported AOD-9604 research combination. The mechanisms are complementary rather than redundant: AOD-9604 directly activates lipolysis at the adipocyte level (β3-AR pathway), while CJC-1295/Ipamorelin amplifies endogenous growth hormone pulses from the pituitary, driving downstream GH-mediated lipolysis plus lean mass preservation. Standard combination: AOD-9604 300–500 mcg AM fasted; CJC-1295/Ipamorelin 100–200 mcg pre-sleep. Inject each peptide separately — different syringes, different sites — to maintain independent dose control.",
+          },
+          {
+            question: 'Is AOD-9604 banned in competitive sports?',
+            answer:
+              'Yes. AOD-9604 is prohibited under WADA S2 (Peptide Hormones, Growth Factors, Related Substances and Mimetics). While a 2014 study confirmed it does not trigger the standard hGH isoform ratio test, it is detectable via peptide-specific immunoassays used in modern anti-doping laboratories. Any athlete subject to WADA, USADA, or sports federation anti-doping testing cannot use AOD-9604.',
+          },
+          {
+            question: "What is AOD-9604's FDA status in 2026?",
+            answer:
+              "As of 2026, AOD-9604 is not FDA-approved as a drug, supplement, or medical product. Under 503A bulk drug substance regulations, it was classified as Nominated but Withdrawn — meaning compounding pharmacies cannot incorporate it into prescribed medications. This does not make it illegal to purchase or possess for in vitro laboratory research in the United States. It remains available from licensed research suppliers. The Category 2 classification reflects the FDA's position that AOD-9604 lacks sufficient evidence for compounding use, not a controlled substance determination.",
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on AOD-9604',
+        content:
+          "<p>AOD-9604 occupies a genuinely rare position in the research peptide landscape: a compound with real pharmaceutical development history, real human clinical trials, a clean safety record confirmed across 900+ subjects, and an unresolved but scientifically interesting efficacy question. The mechanism is sound and replicated. The Phase I and early Phase II data showed meaningful signal. The pivotal Phase IIb trial produced a methodologically ambiguous failure rather than a clean negative — and that distinction matters for how researchers interpret the compound's potential.<sup>[1,2,3,6]</sup></p><p>Three decades after its development, AOD-9604 continues to generate research community interest precisely because the mechanistic story is too coherent to dismiss and the clinical data is too nuanced for simple conclusions. The research community's ongoing work on AOD-9604 stacks, fasting protocols, and timing optimization represents a legitimate scientific inquiry into whether the compound's fat-loss potential was masked by study design rather than truly absent.<sup>[7,8]</sup></p><p>For 2026 research: source from vendors publishing mass spec-confirmed COAs at correct MW (~1817 Da). Use fasted subcutaneous administration at 300–500 mcg/day. Consider the CJC-1295/Ipamorelin combination for dual-pathway GH-axis fat burning and lean mass preservation. Document protocols with rigor — well-characterized research data is the most valuable output of any AOD-9604 investigation. For live pricing across verified vendors, visit PeptideWiki's <a href=\"/compare\" class=\"text-blue-400 hover:text-blue-300 underline\">comparison tool</a>. For the complementary GH secretagogue stack, see our <a href=\"/blog/cjc-1295-ipamorelin-stack-guide\" class=\"text-blue-400 hover:text-blue-300 underline\">CJC-1295/Ipamorelin guide</a>.</p>",
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
