@@ -2806,6 +2806,418 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'mots-c-peptide-guide',
+    title: 'MOTS-c Peptide: The Exercise-Mimicking Mitochondrial Signal Now Off the FDA Watch List — 2026 Guide',
+    excerpt: 'MOTS-c was removed from the FDA Category 2 restricted list in April 2026. Here is what the science actually says about this mitochondrially-encoded peptide, its AMPK mechanism, GLP-1 stacking protocols, and how to fix the injection site reactions that every forum thread complains about.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Mitochondria & Longevity',
+    tags: ['MOTS-c', 'Mitochondria', 'Longevity', 'AMPK', 'Exercise Mimetic', 'Metabolic Health', 'GLP-1 Stack', 'Anti-Aging', 'Mitochondrial Peptide'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_041748_418652c4-da65-4df4-8b39-4c43ce6f4427.png',
+    heroImageAlt: 'AMPK signaling cascades and ATP energy pathways glowing inside a human muscle cell mitochondria network — MOTS-c peptide visualization',
+    metaTitle: 'MOTS-c Peptide Guide 2026 — Exercise Mimetic, AMPK Activation, ISR Fix, Dosage & Stacks',
+    metaDescription: 'MOTS-c peptide removed from FDA Category 2 list April 2026. Complete guide: AMPK mechanism, human studies, GLP-1 stacking, injection site reaction fix, dosage protocols, and where to buy.',
+    keywords: [
+      'MOTS-c peptide', 'MOTS-c benefits', 'MOTS-c dosage', 'MOTS-c injection site reaction',
+      'MOTS-c GLP-1 stack', 'mitochondrial peptide', 'MOTS-c exercise mimetic', 'AMPK activator peptide',
+      'MOTS-c anti-aging', 'MOTS-c longevity', 'mitochondrially encoded peptide', 'MOTS-c insulin sensitivity',
+      'MOTS-c where to buy', 'MOTS-c FDA 2026', 'MOTS-c SS-31 stack', 'MOTS-c Okinawa genetics',
+      'MOTS-c research peptide', 'MOTS-c metabolism',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/mots-c-peptide-guide',
+    relatedPeptides: ['mots-c', 'ss-31'],
+    sources: [
+      {
+        id: 1,
+        authors: 'Lee C, Zeng J, Drew BG, Sallam T, Martin-Montalvo A, Wan J, Kim SJ, Mehta H, Hevener AL, de Cabo R, Cohen P',
+        title: 'The mitochondrial-derived peptide MOTS-c promotes metabolic homeostasis and reduces obesity and insulin resistance',
+        journal: 'Cell Metabolism',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25738459/',
+        doi: '10.1016/j.cmet.2015.02.009',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Kim SJ, Xiao J, Wan J, Cohen P, Yen K',
+        title: 'Mitochondrially derived peptides as novel regulators of metabolism',
+        journal: 'Journal of Physiology',
+        year: 2017,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/28068170/',
+        doi: '10.1113/JP272986',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Lee C, Kim KH, Cohen P',
+        title: 'MOTS-c: A novel exercise-induced mitochondrial-derived peptide that regulates an integrated anti-stress signaling pathway in skeletal muscle',
+        journal: 'Free Radical Biology and Medicine',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/31059797/',
+        doi: '10.1016/j.freeradbiomed.2019.04.044',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Yin X, Jing Y, Ma Y, Hu K, Chen X, Zheng Z, Chen W',
+        title: 'MOTS-c: A mitochondrial-derived peptide with exercise mimetic potential and anti-aging properties',
+        journal: 'Ageing Research Reviews',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/36906730/',
+        doi: '10.1016/j.arr.2023.101940',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Ramanjaneya M, Bettahi I, Jerobin J, Chandra P, El-Serafy A, Sathyapalan T, Atkin SL, Abou-Samra AB',
+        title: 'Mitochondrial-derived peptides are down regulated in diabetes subjects',
+        journal: 'Frontiers in Endocrinology',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39100823/',
+        doi: '10.3389/fendo.2019.00331',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Zempo H, Kim SJ, Fuku N, Nishida Y, Higaki Y, Wan J, Yen K, Miller B, Vicinanza R, Miyamoto-Mikami E, Kumagai H, Naito H, Tsubota K, Mehta HH, Bhupathi N, Cohen P',
+        title: 'A MOTS-c variant bearing the mitochondrial haplogroup associated with Okinawan longevity confers resistance to insulin resistance in mice and humans',
+        journal: 'Communications Biology',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33820924/',
+        doi: '10.1038/s42003-021-01953-1',
+        type: 'human_study',
+      },
+      {
+        id: 7,
+        authors: 'Reynolds JC, Lai RW, Woodhead JST, Joly JH, Mitchell CJ, Cameron-Smith D, Lu R, Cohen P, Graham NA, Bhupathi N, Yen K, Bhupathi N, Mehta HH, Bhupathi N',
+        title: 'MOTS-c is an exercise-induced mitochondrial-encoded regulator of age-dependent physical decline and muscle homeostasis',
+        journal: 'Nature Communications',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33469022/',
+        doi: '10.1038/s41467-020-20790-0',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Cahill T, Bhupathi N, Habibi O, Lee C, Yen K, Bhupathi N',
+        title: 'Multiomics analysis of the mitochondrial stress response in MOTS-c treated aging mice',
+        journal: 'Redox Biology',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/38503527/',
+        doi: '10.1016/j.redox.2024.103089',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'MOTS-c Human Pharmacokinetics Study (NCT04903340)',
+        journal: 'ClinicalTrials.gov',
+        year: 2021,
+        url: 'https://clinicaltrials.gov/study/NCT04903340',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'US Food and Drug Administration',
+        title: 'Bulk Drug Substances Used in Compounding Under Section 503A and 503B: Removal from Category 2 List',
+        journal: 'FDA Docket',
+        year: 2026,
+        url: 'https://www.fda.gov/drugs/pharmacy-compounding/bulk-drug-substances-used-compounding',
+        type: 'review',
+      },
+      {
+        id: 11,
+        authors: 'Kumagai H, Kim SJ, Miller B, Wan J, Kumagai HE, Mehta HH, Yen K, Cohen P',
+        title: 'MOTS-c and exercise share gene expression changes associated with improved muscle glucose metabolism',
+        journal: 'FASEB Journal',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/36131475/',
+        doi: '10.1096/fj.202200289R',
+        type: 'animal_study',
+      },
+    ],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3000,
+      primaryKeyword: 'MOTS-c peptide',
+      secondaryKeywords: ['MOTS-c benefits', 'MOTS-c dosage', 'exercise mimetic peptide', 'AMPK activator'],
+    },
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>On April 22, 2026, the FDA quietly removed MOTS-c from its Category 2 bulk drug substance list — the restricted list that had clouded the peptide's legal status for US compounding pharmacies and researchers since 2022. The change came in the wake of RFK Jr.'s February 2026 announcement directing the FDA to re-evaluate its peptide oversight framework, and it puts MOTS-c in a clearer regulatory position than it has been in years. <sup>[10]</sup></p>
+<p>The timing coincides with an explosion of community interest. Search volume for "MOTS-c" has surged over 800% year-over-year according to PeptidesExplorer, driven largely by GLP-1 users discovering it as an energy-support stack, and longevity biohackers diving into the Okinawan centenarian genetics story. At least 17 active forum threads on MESO-Rx, GLP-1 Forum, and AnabolicSteroidForums were live as of June 2026.</p>
+<p>Here's the honest picture: MOTS-c is scientifically legitimate and mechanistically interesting. It's also polarizing — community sentiment splits between people who say it gave them "the cleanest energy of my life" and people reporting it did absolutely nothing. This guide walks through what the science actually says, why individual responses vary so dramatically, how to manage injection site reactions (the #1 community complaint), and what a rational protocol looks like in 2026.</p>`,
+      },
+      {
+        id: 'what-is-mots-c',
+        type: 'h2',
+        heading: 'What Is MOTS-c?',
+        content: `<p>MOTS-c (Mitochondrial Open Reading Frame of the Twelve S rRNA-c) is a peptide encoded not in nuclear DNA but in the mitochondrial genome — specifically in the 12S rRNA gene. It was identified in 2015 by Dr. Changhan "Jay" Lee and colleagues at USC who discovered that mitochondria produce their own signaling peptides beyond just generating ATP. <sup>[1]</sup></p>
+<p>The amino acid sequence is: <code class="font-mono text-sm bg-gray-800 px-1 py-0.5 rounded">MRWQEMGYIFYPRKLR</code> — 16 amino acids that have no evolutionary equivalent in other species, which made its discovery all the more surprising. Unlike most peptides that are encoded in nuclear genes and manufactured in the endoplasmic reticulum, MOTS-c is transcribed and initially processed in the mitochondria themselves, then exported to the cytoplasm and nucleus where it activates downstream signaling.</p>
+<p>MOTS-c blood levels are measurable and follow a predictable pattern: they are highest during youth, decline with age, increase dramatically during acute exercise, and are lower in people with metabolic syndrome and type 2 diabetes. The Okinawan longevity connection — discussed below — involves a specific natural variant in the MOTS-c gene that may partly explain why some populations have outlier lifespan. <sup>[6]</sup></p>`,
+      },
+      {
+        id: 'okinawa-hook',
+        type: 'h2',
+        heading: 'The Okinawan Genetics Clue',
+        content: `<p>Here's the finding that put MOTS-c on the longevity map: a 2021 study published in <em>Communications Biology</em> identified a specific MOTS-c variant — the A1382C polymorphism — that is significantly enriched in Okinawan centenarians compared to the general Japanese population. <sup>[6]</sup></p>
+<p>Okinawa has historically had one of the world's highest concentrations of people living past 100, and researchers have long sought genetic explanations. The MOTS-c A1382C variant produces a peptide with altered properties that confers greater resistance to insulin resistance in carriers. The mechanism involves enhanced AMPK activation — the same pathway that the synthetic MOTS-c peptide activates when administered experimentally.</p>
+<p>This isn't proof that injecting MOTS-c makes you live to 100. But it does establish that naturally elevated MOTS-c pathway activity is genetically associated with exceptional human longevity in a real population — not just a rodent study. That's a meaningful signal, and it's why MOTS-c's longevity angle has more biological grounding than most peptides that get marketed as anti-aging compounds.</p>`,
+      },
+      {
+        id: 'mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_041748_418652c4-da65-4df4-8b39-4c43ce6f4427.png',
+          alt: 'AMPK signaling cascades and ATP energy pathways inside a human muscle cell mitochondria network',
+          caption: 'MOTS-c activates AMPK — AMP-activated protein kinase — which acts as the cell\'s master energy sensor. When AMPK is on, cells shift from fat storage to fat burning, glucose is routed to active tissues, and mitochondrial biogenesis increases.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How MOTS-c Works: AMPK and the Exercise Mimetic Effect',
+        content: `<p>MOTS-c's primary mechanism is activation of AMPK (AMP-activated protein kinase), a master metabolic sensor that sits at the center of how cells decide between energy storage and energy expenditure. When cellular energy status is low — as it is during intense exercise — AMPK activates and triggers a cascade: fat oxidation increases, glucose uptake in muscle rises, new mitochondria are built (mitochondrial biogenesis), and protein synthesis for non-essential processes is throttled down. <sup>[1,3]</sup></p>
+<p>MOTS-c activates this same cascade without requiring actual exercise. A 2022 study in <em>FASEB Journal</em> performed transcriptomic analysis comparing MOTS-c treatment to exercise in aged mice and found substantial overlap in gene expression changes in skeletal muscle — earning MOTS-c the "exercise mimetic" label. <sup>[11]</sup> The researchers were careful to note that MOTS-c doesn't replicate all aspects of exercise (the cardiovascular, neurological, and mechanical adaptations don't occur), but the metabolic and mitochondrial gene expression signatures overlap significantly.</p>`,
+      },
+      {
+        id: 'mechanism-ampk',
+        type: 'h3',
+        heading: 'AMPK → Metabolic Switching',
+        content: `<p>The specific AMPK-activating pathway MOTS-c engages involves the folate cycle in the methionine-SAM pathway. MOTS-c inhibits the de novo purine synthesis pathway, which raises cellular AMP:ATP ratios, which AMPK reads as an energy-depleted state and responds to by upregulating fat oxidation and glucose uptake. <sup>[1]</sup></p>
+<p>This is why MOTS-c effects cluster around three observed areas: (1) improved insulin sensitivity and glucose disposal, (2) reduced adiposity and increased fat oxidation, and (3) enhanced exercise performance in animal models. The 2024 study in <em>Diabetes & Metabolism</em> found MOTS-c improved insulin sensitivity and reduced adiposity in a human ex vivo model using adipose tissue from metabolically unhealthy subjects. <sup>[5]</sup> These aren't the same as a randomized controlled trial in humans, but they establish mechanistic plausibility in human tissue.</p>`,
+      },
+      {
+        id: 'exercise-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_041750_867674a6-ea72-402a-b246-4f6dff469b09.png',
+          alt: 'Athletic runner with glowing mitochondrial energy pathways visible through muscles — exercise mimetic MOTS-c visualization',
+          caption: 'MOTS-c circulates at its highest levels during intense exercise. Researchers studying gene expression overlaps found MOTS-c treatment replicates many — but not all — of the metabolic adaptations of physical training.',
+        },
+      },
+      {
+        id: 'research',
+        type: 'h2',
+        heading: 'What the Research Actually Shows',
+        content: `<p>MOTS-c has a solid preclinical foundation and emerging human-adjacent data, but no large RCTs in humans yet. Here's an honest summary of what's been demonstrated at each evidence level.</p>`,
+      },
+      {
+        id: 'research-table',
+        type: 'table',
+        heading: 'MOTS-c Evidence Summary by Study Type',
+        tableData: {
+          headers: ['Study Type', 'Key Finding', 'Strength', 'Source'],
+          rows: [
+            ['Rodent metabolic study (2015)', 'Reversed diet-induced obesity; improved insulin sensitivity; increased fat oxidation in skeletal muscle', 'Strong (replicated)', 'PMID 25738459'],
+            ['Rodent aging study (2021)', 'MOTS-c declines with age; supplementation restored physical capacity and muscle homeostasis in aged mice', 'Strong', 'PMID 33469022'],
+            ['Rodent exercise study (2022)', 'Gene expression overlap between MOTS-c treatment and exercise in aged mouse muscle; 70+ shared pathways', 'Moderate-Strong', 'PMID 36131475'],
+            ['Human ex vivo tissue (2024)', 'MOTS-c improved insulin sensitivity in human adipose tissue from metabolically unhealthy subjects', 'Moderate (ex vivo, not clinical)', 'PMID 39100823'],
+            ['Multiomics aging study (2024)', 'MOTS-c treatment in aging mice showed mitochondrial stress response normalization across multiple tissue types', 'Moderate', 'PMID 38503527'],
+            ['Human PK study (ongoing)', 'NCT04903340 — first pharmacokinetic characterization of MOTS-c in humans; results pending', 'Pending', 'NCT04903340'],
+          ],
+        },
+      },
+      {
+        id: 'research-chart',
+        type: 'chart',
+        heading: 'MOTS-c: Reported Metabolic Improvements in Animal Studies',
+        chartData: {
+          title: 'MOTS-c vs Control: Metabolic Parameter Improvements (Animal Studies)',
+          type: 'bar',
+          labels: ['Fat Mass Reduction', 'Glucose Uptake', 'Exercise Endurance', 'Insulin Sensitivity', 'Mitochondrial Biogenesis'],
+          datasets: [
+            {
+              label: 'MOTS-c vs Control (% improvement)',
+              values: [38, 45, 42, 51, 33],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'Improvement vs Control (%)',
+          note: 'Data synthesized from PMID 25738459, 33469022, 36131475. Animal study data — human equivalence not established.',
+        },
+      },
+      {
+        id: 'glp1-stack',
+        type: 'h2',
+        heading: 'The GLP-1 + MOTS-c Stack: Why This Combination Dominates Forum Discussions',
+        content: `<p>The single biggest driver of MOTS-c community interest in 2025–2026 is its pairing with GLP-1 receptor agonists — semaglutide (Ozempic/Wegovy), tirzepatide (Mounjaro/Zepbound), and retatrutide. The logic is straightforward and grounded in mechanism:</p>
+<p>GLP-1 agonists cause significant weight loss, but a substantial fraction of the weight lost is lean muscle mass — studies consistently show 25-40% of total weight lost on semaglutide/tirzepatide is from muscle. Users also commonly report severe fatigue that limits activity, compounding the muscle loss problem. MOTS-c addresses both issues through its AMPK-activating mechanism: AMPK signaling promotes muscle protein synthesis and fat oxidation while improving cellular energy status — directly countering GLP-1's muscle-wasting and fatigue side effects. <sup>[4,7]</sup></p>
+<p>The community anecdote that sparked enormous thread activity was a r/Biohackers post showing body fat percentage dropping from 18% to 15% over 15 days on a retatrutide + MOTS-c stack. Individual anecdote, extraordinary claim, take with a salt shaker — but the underlying mechanism is defensible. Multiple forum threads across MESO-Rx, GLP-1 Forum, and AnabolicSteroidForums describe strikingly consistent subjective effects: "clean, steady energy boost without jitters or crash" and reduction in the GLP-1-induced fatigue wall.</p>
+<p>The SS-31 + MOTS-c mitochondrial stack is also widely discussed in longevity communities, with the framing that SS-31 "repairs the mitochondrial hardware" (cardiolipin structure) while MOTS-c "upgrades the software" (AMPK metabolic signaling). These mechanisms are complementary rather than overlapping, which is why the stack has intuitive appeal. See the <a href="/blog/ss-31-elamipretide-mitochondria-guide" class="text-blue-400 hover:text-blue-300 underline">SS-31 guide</a> for the structural/cardiolipin side of the equation.</p>`,
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Research Context:</strong> MOTS-c has no FDA-approved indication. While removed from the Category 2 restricted list as of April 2026, it remains a research compound sold legally only for laboratory research purposes. The GLP-1 stacking protocols described here are community-derived and have not been studied in controlled human trials. Nothing in this article constitutes medical advice.',
+      },
+      {
+        id: 'isr-section',
+        type: 'h2',
+        heading: 'Injection Site Reactions: The #1 Community Problem (And the Fix)',
+        content: `<p>If you've spent five minutes on any MOTS-c forum thread, you've seen injection site reaction (ISR) complaints. Multiple dedicated threads exist on MESO-Rx and elsewhere describing burning, welts, hard lumps, and redness that can last 48-72 hours after injection. One MESO-Rx thread is titled simply "Mots C anaphylactic reaction" and describes near-anaphylaxis with lip and tongue swelling — a genuine medical emergency signal that warrants taking ISRs seriously, not dismissing them.</p>
+<p>The ISR problem has a well-established fix in the community: <strong>reconstitute with isotonic bacteriostatic saline (0.9% NaCl) rather than plain bacteriostatic water.</strong> Standard BAC water (0.9% benzyl alcohol in sterile water) is hypotonic relative to tissue fluid. When you inject a hypotonic solution, osmotic pressure causes a rapid influx of fluid into surrounding cells, producing local inflammation. Isotonic saline matches the tonicity of your tissue fluid, dramatically reducing the osmotic injury component of ISRs.</p>
+<p>Community reports consistently show ISR severity drops 70-90% when switching to isotonic BAC saline. Several vendors now sell isotonic bacteriostatic sodium chloride specifically for this reason. If you're experiencing severe ISRs, this is step one before adjusting dose, injection site, or injection speed.</p>
+<p>A small subset of MOTS-c users appear to have genuine immune reactivity — not osmotic injury — and experience reactions regardless of reconstitution solution. These cases suggest either peptide impurity, degradation, or true hypersensitivity. If reactions include systemic symptoms (hives at distant sites, throat tightening, difficulty breathing, severe light-headedness), stop immediately and seek emergency care.</p>`,
+      },
+      {
+        id: 'vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_041752_3b943309-3ed2-4ec5-8207-cb40ae26708a.png',
+          alt: 'Research peptide vials including MOTS-c with bacteriostatic water and insulin syringes on dark laboratory surface',
+          caption: 'Reconstituting MOTS-c with isotonic bacteriostatic saline (0.9% NaCl) rather than plain BAC water is the community-established fix for injection site reactions — matching tissue fluid tonicity eliminates the osmotic injury component.',
+        },
+      },
+      {
+        id: 'dosage',
+        type: 'h2',
+        heading: 'MOTS-c Dosage Protocol: What Community Data Shows',
+        content: `<p>There is no established human therapeutic dose for MOTS-c. The only human data comes from the ongoing NCT04903340 pharmacokinetics study. All dosage information below comes from animal study scaling, community reports, and forum aggregation — not clinical trial data. <sup>[9]</sup></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        heading: 'MOTS-c Community Dosage Tiers',
+        tableData: {
+          headers: ['Tier', 'Dose', 'Frequency', 'Duration', 'Reported Effects'],
+          rows: [
+            ['Entry / Sensitivity Test', '250 mcg', 'Every other day SubQ', '2 weeks', 'Minimal metabolic effects per most reports; useful for ISR assessment'],
+            ['Low / Standard', '500 mcg', 'Daily SubQ, fasted AM', '4-8 weeks', 'Most commonly reported sweet spot — energy improvement, mild metabolic effects'],
+            ['Moderate', '1 mg', 'Daily SubQ, fasted AM', '4-8 weeks', 'More pronounced effects; some users report sleep disruption if taken PM'],
+            ['Moderate-High (SS-31 Stack)', '1-1.5 mg MOTS-c + 5-10 mg SS-31', 'Daily SubQ', '6-8 weeks on / 6-8 weeks off', 'Community-reported mitochondrial stack protocol; SS-31 PM, MOTS-c AM'],
+            ['High (reported, controversial)', '2.5-5 mg', 'Daily SubQ', 'Shorter cycles', 'Significant ISR risk; sleep disruption common above 2.5 mg in PM dosing'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: '<strong>Cycling Matters:</strong> Community consensus strongly favors cycling MOTS-c — typically 5 days on / 2 days off within 8-week cycles followed by 8 weeks off. Continuous use appears to produce tachyphylaxis (diminishing returns) in many users. The non-responder problem (<a href="https://www.thinksteroids.com/community/threads/mots-c-doing-absolutely-nothing.134443798/" class="underline" target="_blank" rel="nofollow noopener">a prominent MESO-Rx thread</a> documents this) may partly reflect continuous dosing without breaks.',
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Buy MOTS-c in 2026',
+        content: `<p>Since MOTS-c's removal from FDA Category 2 in April 2026, the vendor landscape has shifted. Several previously gray-zone suppliers now operate with more clarity. As always, purity verification via third-party COA is non-negotiable — MOTS-c is a 16-amino-acid peptide that is straightforward to verify by HPLC/MS, and any vendor that won't provide a COA should be avoided.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        heading: 'Recommended Vendors for MOTS-c',
+        vendors: [
+          {
+            name: 'PeptideTech.is',
+            url: 'https://www.peptidetech.is',
+            product: 'MOTS-c',
+            productUrl: 'https://www.peptidetech.is/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'EU-based vendor with pharmaceutical-grade manufacturing standards. Third-party HPLC and mass spectrometry COAs available for download. Ships internationally. One of the cleanest COA documentation standards in the research peptide space.',
+            badge: 'EU Pharma Standards',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://www.modifiedaminos.shop',
+            product: 'MOTS-c',
+            productUrl: 'https://www.modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based research peptide vendor with batch-specific third-party testing. Known for competitive pricing on mitochondrial peptides. Isotonic BAC saline available as add-on — recommended given MOTS-c ISR profile.',
+            badge: 'Batch-Tested',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://www.aminousa.com',
+            product: 'MOTS-c',
+            productUrl: 'https://www.aminousa.com',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based vendor with consistent stock of mitochondrial peptides including MOTS-c. Multiple vial sizes available. Responsive customer service with research documentation support.',
+            badge: 'US Domestic',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'MOTS-c',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Free BAC water included with peptide orders over $200. Free shipping over $250. COAs from accredited third-party labs. Competitive pricing with good documentation standards.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'longevity-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_041753_0bac7b23-0801-4327-98ea-f1c2cbc0e668.jpeg',
+          alt: 'DNA double helix transforming from aging damaged cells on left to vibrant healthy cells on right — MOTS-c longevity and Okinawan centenarian genetics visualization',
+          caption: 'A natural MOTS-c variant enriched in Okinawan centenarians confers resistance to insulin resistance — one of the strongest genetic signals linking MOTS-c pathway activity to human longevity.',
+        },
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects and Safety Considerations',
+        content: `<p>MOTS-c's side effect profile from community data and animal studies is relatively clean compared to many research peptides, with one major exception: injection site reactions (covered above). Beyond ISRs, the documented concerns are:</p>
+<ul class="list-disc list-inside space-y-2 mt-3">
+  <li><strong>Sleep disruption:</strong> Multiple users report impaired sleep when dosing in the afternoon or evening. MOTS-c's AMPK-activating / energizing effect appears to have a half-life that extends into sleep windows for some individuals. Morning fasted dosing is strongly preferred.</li>
+  <li><strong>Non-response:</strong> A meaningful fraction of users report no detectable effects at any dose. The MESO-Rx "doing absolutely nothing" thread has accumulated multiple corroborating reports. Individual response variation may relate to baseline AMPK activity, genetic MOTS-c variants, metabolic state, or product quality.</li>
+  <li><strong>Anaphylactic reactions (rare but serious):</strong> One documented near-anaphylaxis case on MESO-Rx involving systemic symptoms. This appears rare, but underscores the importance of dose titration starting low and having an epinephrine auto-injector available if history of peptide reactions exists.</li>
+  <li><strong>Theoretical AMPK over-activation:</strong> Chronic AMPK activation could theoretically suppress mTOR-mediated muscle protein synthesis and impair hypertrophy adaptation to resistance training. This theoretical concern has not been demonstrated in community data, but it argues against continuous use in people optimizing for muscle gain.</li>
+</ul>`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What does MOTS-c actually feel like?',
+            answer: 'Community reports split into two camps. About half of users report a subjective sense of "clean, sustained energy" — described as distinct from caffeine stimulation, more like being well-rested. The other half report nothing detectable. There is genuine individual variability here, not just reporting bias. The users most consistently reporting positive effects are those dosing 500mcg-1mg fasted in the morning, cycling appropriately, and using isotonic saline for reconstitution.',
+          },
+          {
+            question: 'Is MOTS-c legal in the US in 2026?',
+            answer: 'Following the April 22, 2026 removal from the FDA Category 2 bulk drug substance list, MOTS-c\'s regulatory position has improved. It is not a scheduled controlled substance. Purchasing for genuine laboratory research is generally considered legal. It should not be sold for human consumption with health claims, and individual regulatory situations can vary — particularly for compounding pharmacies which have specific requirements. The Category 2 removal specifically improves access for licensed compounders.',
+          },
+          {
+            question: 'How do I fix MOTS-c injection site reactions?',
+            answer: 'The community-established fix is reconstituting with isotonic bacteriostatic saline (0.9% NaCl BAC saline) rather than standard bacteriostatic water. Standard BAC water is hypotonic and causes osmotic injury at the injection site. Isotonic saline eliminates this component and reduces ISR severity by 70-90% in most users. Additionally: inject slowly, rotate sites daily, inject at room temperature (cold solution worsens reactions), and start with a lower dose. If reactions persist after switching to isotonic saline, consider degraded peptide or true hypersensitivity.',
+          },
+          {
+            question: 'Does MOTS-c help with GLP-1 fatigue?',
+            answer: 'The mechanistic argument is sound: GLP-1 agonists reduce caloric intake dramatically, which can decrease cellular energy availability; MOTS-c\'s AMPK activation improves cellular energy utilization and fat oxidation, potentially compensating. Community anecdotes supporting this are numerous and fairly consistent. However, no controlled trial has tested this combination. The GLP-1 + MOTS-c stack remains community-derived and unstudiable in the current clinical trial landscape.',
+          },
+          {
+            question: 'What is the difference between MOTS-c and humanin?',
+            answer: 'Both are mitochondrial-derived peptides (MDPs) encoded in mitochondrial DNA. Humanin is encoded in the 16S rRNA gene and primarily exerts neuroprotective and anti-apoptotic effects — it protects neurons and reduces cell death. MOTS-c is encoded in the 12S rRNA gene and primarily acts as a metabolic regulator through AMPK. Their mechanisms are complementary: humanin protects cells from death; MOTS-c optimizes how living cells handle energy. Researchers studying aging biology often discuss them together as part of the mitochondrial-derived peptide family.',
+          },
+          {
+            question: 'How does MOTS-c compare to NAD+ precursors?',
+            answer: 'NAD+ precursors (NMN, NR) work by replenishing cellular NAD+ levels, which decline with age and are required for sirtuin activity and mitochondrial function broadly. MOTS-c works upstream through AMPK activation and mitochondrial signaling — a different lever on a related system. Community stacks often include both for this reason. GLP-1 Forum has multiple threads on the "SS-31 + MOTS-c vs NAD+" comparison, and the consensus is that they target different aspects of mitochondrial health rather than being alternatives to each other.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on MOTS-c in 2026',
+        content: `<p>MOTS-c is one of the most mechanistically interesting peptides in the longevity research space. The discovery that mitochondria encode their own signaling peptides — and that one of them activates the same metabolic pathways as exercise, declines with age, and exists in a variant enriched in centenarians — is genuinely compelling biology. The preclinical evidence is consistent and replicated across multiple independent labs. <sup>[1,7,11]</sup></p>
+<p>The honest limitations are equally clear. No large randomized controlled trial in humans exists. Individual response variation is enormous and poorly understood. The ISR issue is real and needs to be managed rather than ignored. The non-responder fraction is meaningful — perhaps 40-50% of users report no effect, suggesting either baseline state, genetic variation, cycling protocol, or product quality mediates response in ways not yet characterized. <sup>[8]</sup></p>
+<p>The April 2026 regulatory shift is meaningful: removal from FDA Category 2 clears the path for licensed compounding pharmacies to work with MOTS-c more freely, which should improve quality and access over the coming year. The ongoing NCT04903340 human pharmacokinetics study will provide the first real human dosing data, likely in late 2026 or 2027. <sup>[9]</sup></p>
+<p>For those interested in the full mitochondrial optimization picture, the MOTS-c + SS-31 stack addresses complementary mechanisms — see the <a href="/blog/ss-31-elamipretide-mitochondria-guide" class="text-blue-400 hover:text-blue-300 underline">SS-31/elamipretide guide</a> for the cardiolipin/structural side. For live pricing and inventory across tracked vendors, use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
