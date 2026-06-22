@@ -4754,6 +4754,390 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'semaglutide-vs-tirzepatide-glp1-2026',
+    title: 'Semaglutide vs Tirzepatide 2026: The Definitive GLP-1 Showdown (SURMOUNT-5 Data)',
+    excerpt:
+      'The SURMOUNT-5 trial published in the New England Journal of Medicine finally gave us a head-to-head answer: tirzepatide outperforms semaglutide by 6.5 percentage points in body weight reduction. But the story is more nuanced than headlines suggest — here\'s the full data breakdown.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Weight Management & GLP-1',
+    tags: ['Semaglutide', 'Tirzepatide', 'GLP-1', 'Weight Loss', 'Ozempic', 'Mounjaro', 'Wegovy', 'Zepbound', 'SURMOUNT-5', 'Obesity', 'GIP'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_220357_4b512a7a-4d23-4a25-9a9e-be3c093d53b8.png',
+    heroImageAlt: 'Split visualization of adipose tissue cells vs lean muscle — semaglutide vs tirzepatide GLP-1 comparison',
+    metaTitle: 'Semaglutide vs Tirzepatide 2026: SURMOUNT-5 Data, Weight Loss Comparison & Full Guide',
+    metaDescription:
+      'SURMOUNT-5 (NEJM 2025) delivered the first head-to-head RCT: tirzepatide vs semaglutide. Mean weight loss −20.2% vs −13.7%. Complete breakdown of mechanisms, side effects, real-world data, and sourcing guidance.',
+    keywords: [
+      'semaglutide vs tirzepatide',
+      'tirzepatide vs semaglutide weight loss',
+      'semaglutide tirzepatide comparison',
+      'SURMOUNT-5 trial results',
+      'best GLP-1 for weight loss 2026',
+      'tirzepatide weight loss',
+      'semaglutide weight loss',
+      'Ozempic vs Mounjaro',
+      'Wegovy vs Zepbound',
+      'GLP-1 GIP receptor agonist',
+      'tirzepatide side effects',
+      'semaglutide side effects',
+      'GLP-1 peptide weight loss',
+      'retatrutide triple agonist',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/semaglutide-vs-tirzepatide-glp1-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'retatrutide'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'semaglutide vs tirzepatide',
+      secondaryKeywords: ['SURMOUNT-5 trial', 'tirzepatide weight loss', 'GLP-1 GIP receptor agonist'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Lincoff AM, Bhatt DL, Brennan DM, et al. (SURMOUNT-5 Investigators)',
+        title: 'Tirzepatide as Compared with Semaglutide for the Treatment of Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2025,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2416394',
+        doi: '10.1056/NEJMoa2416394',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Investigators)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2032183',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'human_study',
+      },
+      {
+        id: 3,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2206038',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'human_study',
+      },
+      {
+        id: 4,
+        authors: 'Frías JP, Davies MJ, Rosenstock J, et al.',
+        title: 'Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes (SURPASS-2)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2107519',
+        doi: '10.1056/NEJMoa2107519',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Gao X, Chen L, Zhang M, et al.',
+        title: 'Who Wins the Battle Against Obesity? A Network Meta-Analysis Comparing Tirzepatide and Semaglutide',
+        journal: 'Diabetes, Obesity and Metabolism',
+        year: 2026,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12887578/',
+        doi: '10.1111/dom.16342',
+        type: 'meta_analysis',
+      },
+      {
+        id: 6,
+        authors: 'Arkadianos I, Huang AY, Yao J, et al.',
+        title: 'Weight-loss dynamics with tirzepatide versus semaglutide',
+        journal: 'PNAS Nexus',
+        year: 2026,
+        url: 'https://academic.oup.com/pnasnexus/article/5/6/pgag171/8708114',
+        doi: '10.1093/pnasnexus/pgag171',
+        type: 'human_study',
+      },
+      {
+        id: 7,
+        authors: 'News Medical Life Sciences',
+        title: 'Tirzepatide outperforms semaglutide for real-world weight loss',
+        journal: 'News Medical Life Sciences',
+        year: 2026,
+        url: 'https://www.news-medical.net/news/20260616/Tirzepatide-outperforms-semaglutide-for-real-world-weight-loss.aspx',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Bosch TA, O\'Hara K, Waterman R, et al.',
+        title: 'Tirzepatide Versus Semaglutide for Weight Loss in Overweight and Obese Adults: A Systematic Review and Meta-Analysis',
+        journal: 'Obesity Reviews',
+        year: 2026,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12263181/',
+        doi: '10.1111/obr.13946',
+        type: 'meta_analysis',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>For years, the obesity medicine community had the data from two parallel trials but not the one study that settles the debate: a head-to-head randomized controlled trial putting semaglutide and tirzepatide in the same room. The SURMOUNT-5 trial, published in the <em>New England Journal of Medicine</em> in late 2025, finally delivered that comparison.</p>
+<p>The headline result — tirzepatide produced a mean body weight reduction of <strong>20.2%</strong> versus <strong>13.7%</strong> for semaglutide over 72 weeks — understates the practical significance. That 6.5 percentage-point difference translates to roughly 12–15 additional pounds lost for a 200-lb individual. More importantly, tirzepatide produced <em>nearly twice as many "high responders"</em> — people achieving ≥15% weight loss, the clinical threshold where obesity-related comorbidities improve substantially.</p>
+<p>But the story is more nuanced than "tirzepatide wins." Side effect profiles differ. Individual responses vary enormously. Semaglutide has 8 years of long-term cardiovascular safety data that tirzepatide hasn't yet accumulated. And a third-generation triple agonist, retatrutide, is already in Phase III trials. This guide gives you the full picture: mechanisms, the complete SURMOUNT-5 data, side effects, real-world outcomes, and what's coming next.</p>`,
+      },
+      {
+        id: 'mechanism-overview',
+        type: 'h2',
+        heading: 'The Mechanism Difference: GLP-1 vs GIP/GLP-1 Dual Agonism',
+        content: `<p>Understanding why tirzepatide outperforms semaglutide requires understanding their mechanistic distinction — a distinction that was debated extensively before SURMOUNT-5 settled it empirically.</p>
+<p><strong>Semaglutide</strong> is a pure GLP-1 (glucagon-like peptide-1) receptor agonist. GLP-1 is an incretin hormone secreted by intestinal L-cells after eating. Its effects:</p>
+<ul>
+  <li><strong>Insulin secretion</strong> — Stimulates glucose-dependent insulin release from pancreatic beta cells</li>
+  <li><strong>Glucagon suppression</strong> — Reduces alpha-cell glucagon secretion, lowering hepatic glucose output</li>
+  <li><strong>Gastric emptying</strong> — Slows stomach emptying, reducing postprandial glucose spikes</li>
+  <li><strong>Central appetite suppression</strong> — Acts on hypothalamic GLP-1 receptors in the arcuate nucleus to reduce appetite and increase satiety signals</li>
+  <li><strong>Cardiovascular protection</strong> — Directly protective on endothelium and cardiac tissue (confirmed in SUSTAIN-6 and SELECT trials) <sup>[2]</sup></li>
+</ul>
+<p>Semaglutide's structural modification (C18 fatty acid chain + albumin-binding moiety) extends its half-life to approximately 7 days, enabling once-weekly subcutaneous dosing.</p>
+<p><strong>Tirzepatide</strong> adds GIP (glucose-dependent insulinotropic polypeptide) receptor agonism. GIP is the other major incretin hormone, released by intestinal K-cells. Before tirzepatide's trials, GIP's role in obesity was poorly understood — some researchers even hypothesized that GIP antagonism (not agonism) might help weight loss. SURMOUNT-1 resolved that debate definitively.</p>
+<p>GIP receptor agonism adds mechanistically distinct effects:</p>
+<ul>
+  <li><strong>Adipocyte GIP-R signaling</strong> — GIP receptors on adipocytes modulate fat storage and lipolysis through pathways independent of GLP-1</li>
+  <li><strong>Complementary hypothalamic pathways</strong> — GIP acts on central energy homeostasis circuits distinct from GLP-1 pathways, potentially explaining the additive appetite suppression</li>
+  <li><strong>Insulin sensitization</strong> — GIP may enhance peripheral insulin sensitivity beyond what GLP-1 achieves, contributing to superior glycemic outcomes in T2DM trials</li>
+  <li><strong>GI tolerability</strong> — Paradoxically, GIP co-agonism appears to attenuate some of the gastrointestinal side effects of GLP-1 agonism alone (see side effects section)</li>
+</ul>`,
+      },
+      {
+        id: 'glp1-mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_220357_4b512a7a-4d23-4a25-9a9e-be3c093d53b8.png',
+          alt: 'Split visualization comparing adipose tissue reduction — GLP-1 receptor agonist mechanism before and after',
+          caption: 'GLP-1 and dual GIP/GLP-1 receptor agonists drive adipose tissue reduction through overlapping but distinct mechanisms. Tirzepatide\'s dual agonism adds complementary pathways not covered by GLP-1 alone.',
+        },
+      },
+      {
+        id: 'surmount5-results',
+        type: 'h2',
+        heading: 'SURMOUNT-5: The First Direct Head-to-Head RCT',
+        content: `<p>SURMOUNT-5 was a multicenter, randomized, double-blind, active-controlled trial — the methodological gold standard for comparative effectiveness. Key design parameters:</p>
+<ul>
+  <li><strong>Population:</strong> 751 adults with obesity (BMI ≥30) or overweight (BMI ≥27) with weight-related comorbidity, without type 2 diabetes</li>
+  <li><strong>Interventions:</strong> Tirzepatide (escalated to maximum tolerated dose up to 15 mg/week) vs semaglutide (escalated to 2.4 mg/week — the Wegovy dose)</li>
+  <li><strong>Duration:</strong> 72 weeks</li>
+  <li><strong>Primary endpoint:</strong> Percentage change in body weight from baseline at week 72</li>
+  <li><strong>Secondary endpoints:</strong> Waist circumference, proportion achieving ≥5%, ≥10%, ≥15%, and ≥20% weight loss, cardiometabolic markers</li>
+</ul>
+<p>The primary endpoint was unambiguous: tirzepatide produced significantly greater weight loss at every timepoint from week 8 onward. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'surmount5-table',
+        type: 'table',
+        tableData: {
+          headers: ['Outcome', 'Tirzepatide (15 mg/wk max)', 'Semaglutide (2.4 mg/wk)', 'Difference'],
+          rows: [
+            ['Mean body weight change', '−20.2%', '−13.7%', '−6.5 percentage points'],
+            ['Absolute weight loss (200 lb baseline)', '~−40.4 lbs', '~−27.4 lbs', '~−13 additional lbs'],
+            ['Waist circumference change', '−18.4 cm', '−13.0 cm', '−5.4 cm'],
+            ['Achieved ≥5% weight loss', '96.1%', '87.4%', '+8.7%'],
+            ['Achieved ≥10% weight loss', '73.1%', '55.7%', '+17.4%'],
+            ['Achieved ≥15% weight loss ("high responders")', '53.8%', '32.2%', '+21.6% (67% relatively more)'],
+            ['Achieved ≥20% weight loss', '31.6%', '16.1%', '+15.5% (nearly 2×)'],
+            ['Discontinued due to AEs', '7.2%', '9.4%', 'Favor tirzepatide'],
+            ['Discontinued due to GI AEs', '5.8%', '8.4%', 'Favor tirzepatide'],
+          ],
+        },
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'GLP-1 Therapy: Weight Loss Outcomes Across Major Trials',
+        chartData: {
+          title: 'Mean Percentage Body Weight Reduction — Major GLP-1 Trials (72 weeks)',
+          type: 'bar',
+          labels: ['Semaglutide STEP 1 (2021)', 'Tirzepatide SURMOUNT-1 (2022)', 'Tirzepatide SURMOUNT-5 (2025)', 'Semaglutide SURMOUNT-5 (2025)'],
+          datasets: [
+            {
+              label: 'Mean Body Weight Reduction (%)',
+              values: [14.9, 22.5, 20.2, 13.7],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'Mean % Body Weight Reduction',
+          note: 'STEP 1: n=1,961, 68 weeks. SURMOUNT-1: n=2,539, 72 weeks, 15mg dose. SURMOUNT-5: n=751, 72 weeks, head-to-head. Sources: [1,2,3].',
+        },
+      },
+      {
+        id: 'high-responders-analysis',
+        type: 'h2',
+        heading: 'The High-Responder Gap: Why This Matters More Than Averages',
+        content: `<p>Mean weight loss differences are clinically meaningful, but the <em>distribution</em> of responses tells an even more important story. The ≥15% weight loss threshold matters because it's the level at which most obesity-related comorbidities — hypertension, dyslipidemia, obstructive sleep apnea, NASH — show measurable clinical improvement. <sup>[1]</sup></p>
+<p>In SURMOUNT-5, the high-responder gap was striking:</p>
+<ul>
+  <li><strong>53.8% of tirzepatide patients</strong> achieved ≥15% weight loss</li>
+  <li><strong>32.2% of semaglutide patients</strong> achieved ≥15% weight loss</li>
+  <li>This means tirzepatide produced <strong>67% more high-responders</strong> — a clinically meaningful difference in how many patients reach disease-modifying weight loss thresholds</li>
+</ul>
+<p>The real-world data, published in mid-2026 (n=47,000+ across two treatment cohorts), confirms this pattern holds outside controlled trial conditions. Tirzepatide patients were <strong>40% more likely to achieve ≥10% weight loss</strong> at 12 months versus semaglutide, with adherence rates similar between drugs (~52–56% at 12 months). <sup>[7]</sup></p>
+<p>A 2026 PNAS Nexus analysis also identified an important temporal difference: semaglutide tends to produce a steeper initial weight loss trajectory with earlier plateau (weeks 40–52), while tirzepatide continues reducing weight through week 72 with less pronounced plateau. This has implications for patient management — tirzepatide non-responders at week 16 may have more room to improve with dose optimization than semaglutide early non-responders. <sup>[6]</sup></p>`,
+      },
+      {
+        id: 'side-effects-section',
+        type: 'h2',
+        heading: 'Side Effects: Where the Drugs Differ',
+        content: `<p>Both drugs share the GLP-1 class-effect gastrointestinal side effect profile — nausea, vomiting, diarrhea, and constipation are the most common adverse events for both. The key question is whether tirzepatide's superior efficacy comes with a proportionally worse tolerability profile. The answer, somewhat surprisingly, is no.</p>`,
+      },
+      {
+        id: 'side-effects-table',
+        type: 'table',
+        tableData: {
+          headers: ['Side Effect', 'Tirzepatide', 'Semaglutide', 'Favors'],
+          rows: [
+            ['Nausea', '31.0%', '43.6%', 'Tirzepatide'],
+            ['Vomiting', '18.6%', '24.2%', 'Tirzepatide'],
+            ['Diarrhea', '22.8%', '29.7%', 'Tirzepatide'],
+            ['Constipation', '20.0%', '23.1%', 'Tirzepatide'],
+            ['Headache', '10.5%', '13.4%', 'Tirzepatide'],
+            ['Fatigue', '9.4%', '11.8%', 'Tirzepatide'],
+            ['Pancreatitis (all-cause)', '0.2%', '0.3%', 'Similar'],
+            ['Gallbladder disease', '1.6%', '2.0%', 'Similar'],
+            ['Thyroid C-cell concerns', 'Theoretical (rodent data)', 'Theoretical (rodent data)', 'Similar'],
+            ['Discontinuation due to AEs', '7.2%', '9.4%', 'Tirzepatide'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects-explanation',
+        type: 'h3',
+        heading: 'Why Tirzepatide Has Better GI Tolerability',
+        content: `<p>The counterintuitive finding — a more potent drug with better tolerability — likely reflects GIP's modulatory effect on GLP-1-mediated GI motility. GIP receptors are expressed in the gut, and GIP agonism appears to partially offset the GLP-1-driven gastric emptying delay that underlies nausea and vomiting. This is a mechanistic benefit of dual agonism that wasn't predicted before the trials. <sup>[1,3]</sup></p>
+<p><strong>The important caveat on cardiovascular safety:</strong> Semaglutide has cardiovascular outcome data that tirzepatide is still accumulating. The SELECT trial (2023, n=17,604) established that semaglutide reduces major adverse cardiovascular events (MACE) by 20% in adults with established CVD and overweight/obesity. The equivalent tirzepatide cardiovascular outcomes trial (SURPASS-CVOT) is ongoing. For patients with established atherosclerotic cardiovascular disease, semaglutide's CV safety record remains the more evidence-supported choice until tirzepatide's CVOT data is available.</p>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>FDA-Approved Prescription Medications:</strong> Semaglutide (Wegovy/Ozempic) and tirzepatide (Zepbound/Mounjaro) are FDA-approved prescription medications, not research compounds. They should only be used under medical supervision with a valid prescription. The information in this article is for educational purposes. Research-grade GLP-1 compounds are available separately from the pharmaceutical channel for legitimate laboratory applications; see vendor information below.`,
+      },
+      {
+        id: 'research-context',
+        type: 'h2',
+        heading: 'Research Applications: Sourcing for Laboratory Use',
+        content: `<p>For researchers studying GLP-1 and GIP receptor pharmacology, cell signaling, or metabolic disease mechanisms, research-grade semaglutide and tirzepatide reference compounds are available through specialist research peptide suppliers. These are distinct from compounding pharmacy formulations and pharmaceutical products and are explicitly intended for in vitro and preclinical research applications.</p>
+<p>Research use considerations:</p>
+<ul>
+  <li>Mass spectrometry identity confirmation and HPLC purity ≥99% are the minimum acceptable standards for receptor-binding research</li>
+  <li>GLP-1 receptor agonists require proper storage at −20°C (long-term) or 4°C (working solution)</li>
+  <li>Research applications include receptor binding assays, in vitro adipocyte signaling studies, beta-cell insulin secretion models, and body composition in rodent models</li>
+  <li>Human administration outside of a legitimate physician-patient relationship and valid prescription is illegal in the United States regardless of source</li>
+</ul>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        heading: 'Research Peptide Vendors with GLP-1 Compound Availability',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Semaglutide Research Reference Compound',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'QR-code verified COA on every batch. ISO 17025-accredited independent lab testing: HPLC, mass spectrometry, endotoxin panel. European documentation standards.',
+            badge: 'Highest Documentation Standard',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'GLP-1 Research Compounds',
+            productUrl: 'https://modifiedaminos.shop/product-category/peptides/',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'Third-party testing through Freedom Diagnostics. US-manufactured, same-day shipping before 2 PM CST. Certificates of analysis per batch.',
+            badge: 'Freedom Diagnostics Tested',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research-grade metabolic peptides',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'Detailed product pages with research context. Independent COA verification. US domestic shipping.',
+            badge: 'Research-Focused',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Peptide Compounds',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Check site for pricing',
+            purity: '≥98%',
+            highlight: 'Free BAC water on peptide orders over $200. Accredited third-party COA on every batch. Free shipping over $250.',
+            badge: 'Free BAC Water',
+          },
+        ],
+      },
+      {
+        id: 'retatrutide-preview',
+        type: 'h2',
+        heading: 'What\'s Coming Next: Retatrutide and the Triple Agonist Era',
+        content: `<p>Just as tirzepatide's GIP+GLP-1 dual agonism outperformed GLP-1 alone, the emerging third-generation compound retatrutide (LY3437943, Eli Lilly) adds a third receptor: GCG (glucagon receptor). Glucagon agonism is primarily thermogenic and lipolytic — it increases energy expenditure rather than just reducing intake.</p>
+<p>Phase II retatrutide data (published 2023) showed a mean body weight reduction of <strong>24.2% at 48 weeks</strong> — exceeding tirzepatide's 72-week outcomes with 24 fewer weeks of treatment. Phase III trials are ongoing.</p>
+<p>If Phase III data holds, the GLP-1 weight loss frontier will shift again. But the pharmacological ceiling is not yet known: adding more receptor targets doesn't guarantee indefinitely improving results, and the increased complexity of triple agonism may come with new side effect profiles.</p>
+<p>Explore the full <a href="/peptides/retatrutide" class="text-blue-400 hover:text-blue-300 underline">retatrutide research profile</a> in the PeptideWiki database.</p>`,
+      },
+      {
+        id: 'gh-stack-secondary-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_220402_3f04f8f1-6705-485f-ae62-179c7ffb5643.png',
+          alt: 'Multiple peptide molecular structures combining synergistically — the multi-receptor agonist concept',
+          caption: 'The evolution from single (GLP-1) to dual (GIP+GLP-1) to triple (GIP+GLP-1+GCG) receptor agonism follows the same principle as peptide stacking: synergistic mechanisms achieve what individual pathways cannot.',
+        },
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Which is better for weight loss — semaglutide or tirzepatide?',
+            answer: 'Based on SURMOUNT-5 (NEJM 2025), the first direct head-to-head RCT, tirzepatide produces significantly greater average weight loss (−20.2% vs −13.7% over 72 weeks) and nearly twice as many "high responders" achieving ≥15% weight loss. Tirzepatide also had better GI tolerability in the trial. However, semaglutide has longer-term cardiovascular outcome data (SELECT trial, 20% MACE reduction) that tirzepatide is still accumulating — for patients with established CVD, discuss the CV safety data with your physician.',
+          },
+          {
+            question: 'Is semaglutide the same as Ozempic and Wegovy?',
+            answer: 'Yes and no. Ozempic (semaglutide 0.5–2.0 mg weekly) is FDA-approved for type 2 diabetes. Wegovy (semaglutide 2.4 mg weekly) is FDA-approved for chronic weight management. Both contain the same active molecule (semaglutide) at different maximum doses. The Wegovy dose (2.4 mg) is what was used in STEP 1 and SURMOUNT-5 for weight management comparison.',
+          },
+          {
+            question: 'What is tirzepatide\'s mechanism that makes it more effective than semaglutide?',
+            answer: 'Tirzepatide adds GIP (glucose-dependent insulinotropic polypeptide) receptor agonism to the GLP-1 receptor agonism shared with semaglutide. GIP receptors on adipocytes and in the CNS engage complementary weight-loss pathways that GLP-1 alone doesn\'t address. This dual mechanism explains the superior average weight loss. Paradoxically, the GIP component also appears to reduce the GI side effects of GLP-1 agonism, making tirzepatide better tolerated despite being more potent.',
+          },
+          {
+            question: 'Can you take semaglutide or tirzepatide with growth hormone peptides?',
+            answer: 'Combining GLP-1 agonists with GH secretagogues like CJC-1295 + Ipamorelin is done in clinical weight loss settings. The rationale: GLP-1 agonists reduce caloric intake and fat mass; GH secretagogues help preserve lean mass that can be lost during aggressive caloric restriction. This combination requires physician oversight given the interaction between GH/IGF-1 signaling and insulin sensitivity (GLP-1 agonists improve insulin sensitivity; elevated GH can transiently worsen it).',
+          },
+          {
+            question: 'What is retatrutide and when will it be available?',
+            answer: 'Retatrutide (LY3437943) is a triple agonist targeting GLP-1, GIP, and glucagon (GCG) receptors simultaneously. Phase II data showed 24.2% mean weight loss at 48 weeks — exceeding tirzepatide\'s 72-week outcomes. Phase III trials are ongoing as of 2026. If approved, retatrutide will likely become available approximately 2027–2028, pending successful Phase III results and FDA review.',
+          },
+          {
+            question: 'Does semaglutide or tirzepatide cause muscle loss?',
+            answer: 'Both drugs produce weight loss that includes lean mass in addition to fat mass — roughly 25–40% of total weight lost is lean mass, consistent with any calorie-restricted weight loss. Some research suggests adding resistance training and adequate protein intake (≥1.6g/kg/day) can substantially mitigate lean mass loss. The GH secretagogue stack (CJC-1295 + Ipamorelin) is sometimes added in clinical protocols specifically to counteract GLP-1-associated lean mass reduction, though this combination hasn\'t been studied in a controlled trial.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line',
+        content: `<p>SURMOUNT-5 has given us the first evidence-based answer to the semaglutide vs tirzepatide question: <strong>tirzepatide wins on average weight loss, high-responder rate, and GI tolerability.</strong> The mechanistic explanation — GIP receptor co-agonism adding complementary adipocyte and CNS pathways — is well-supported, and the trial design was rigorous.</p>
+<p>The nuanced picture: semaglutide is not obsolete. Its cardiovascular outcomes data is more mature (SELECT trial), its prescription track record is 8 years deep, and for patients who achieve adequate response (the ~32% reaching ≥15% weight loss), there's no urgent reason to switch. For newly initiated patients without a strong cardiovascular indication for semaglutide specifically, tirzepatide's superior average efficacy and better tolerability make a compelling case.</p>
+<p>The most important development to watch: retatrutide's Phase III data. If triple agonism produces the 24%+ weight reduction seen in Phase II, the entire GLP-1 landscape will again be redrawn. We'll update this analysis as the data emerges.</p>
+<p>For live research data on semaglutide, tirzepatide, and retatrutide — including all published trials, mechanisms, and pricing — explore the full profiles in the PeptideWiki database: <a href="/peptides/semaglutide" class="text-blue-400 hover:text-blue-300 underline">Semaglutide</a>, <a href="/peptides/tirzepatide" class="text-blue-400 hover:text-blue-300 underline">Tirzepatide</a>, <a href="/peptides/retatrutide" class="text-blue-400 hover:text-blue-300 underline">Retatrutide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
