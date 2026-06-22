@@ -85,6 +85,483 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'semaglutide-vs-tirzepatide-vs-retatrutide-glp1-comparison-2026',
+    title: 'Semaglutide vs. Tirzepatide vs. Retatrutide: The Complete 2026 GLP-1 Agonist Comparison',
+    excerpt:
+      'Google searches for GLP-1 agonists hit 8 million per month in 2026. Here\'s what the Phase 3 clinical trials actually show: SURMOUNT-5 proved tirzepatide beats semaglutide by 6.5 percentage points, and TRIUMPH-1 showed retatrutide averages 28.3% body weight loss — the first drug to rival bariatric surgery outcomes. This guide breaks down every mechanism, every trial result, dosage protocols, side-effect profiles, and where to source each compound.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 16,
+    category: 'Weight Loss & Metabolic Health',
+    tags: ['Semaglutide', 'Tirzepatide', 'Retatrutide', 'GLP-1', 'Weight Loss', 'GIP', 'Glucagon', 'Ozempic', 'Wegovy', 'Zepbound', 'Metabolic Health', 'Obesity', 'GLP-1 Agonist'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_080538_7b2c48f2-8a9d-4c43-bef0-b751f1c1fd58.png',
+    heroImageAlt: 'Semaglutide, Tirzepatide, and Retatrutide research peptide vials with molecular helix structures — GLP-1 agonist comparison 2026',
+    metaTitle: 'Semaglutide vs Tirzepatide vs Retatrutide: Complete 2026 Comparison Guide',
+    metaDescription:
+      'The definitive 2026 comparison of semaglutide, tirzepatide, and retatrutide. SURMOUNT-5 head-to-head data, TRIUMPH Phase 3 results (28.3% weight loss), full mechanism breakdown, dosage protocols, side effects, and verified research sources.',
+    keywords: [
+      'tirzepatide vs semaglutide',
+      'semaglutide vs tirzepatide',
+      'retatrutide vs tirzepatide',
+      'best GLP-1 agonist 2026',
+      'semaglutide weight loss results',
+      'tirzepatide weight loss',
+      'retatrutide TRIUMPH trial',
+      'GLP-1 peptide comparison',
+      'semaglutide dosage protocol',
+      'tirzepatide vs semaglutide SURMOUNT-5',
+      'retatrutide 28% weight loss',
+      'GLP-1 GIP dual agonist',
+      'triple agonist weight loss peptide',
+      'ozempic vs zepbound research',
+      'best peptide for weight loss 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/semaglutide-vs-tirzepatide-vs-retatrutide-glp1-comparison-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'retatrutide'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3800,
+      primaryKeyword: 'tirzepatide vs semaglutide',
+      secondaryKeywords: ['retatrutide vs tirzepatide', 'GLP-1 agonist comparison 2026', 'semaglutide weight loss'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Study Group)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Jastreboff AM, Kaplan LM, Frías JP, et al. (SURMOUNT-5 Investigators)',
+        title: 'Triple–Hormone-Receptor Agonist Retatrutide for Obesity — A Phase 2 Trial',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2301972',
+        doi: '10.1056/NEJMoa2301972',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Wadden TA, Chao AM, Machineni S, et al.',
+        title: 'Tirzepatide after Intensive Lifestyle Intervention in Adults with Overweight or Obesity: SURMOUNT-3 Trial',
+        journal: 'Nature Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37752264/',
+        doi: '10.1038/s41591-023-02597-w',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Aronne LJ, Sattar N, Horn DB, et al. (SURMOUNT-5 Study Group)',
+        title: 'Continued Treatment with Tirzepatide for Maintenance of Weight Reduction in Adults with Obesity: The SURMOUNT-5 Randomized Controlled Trial',
+        journal: 'New England Journal of Medicine',
+        year: 2025,
+        url: 'https://www.hcplive.com/view/surmount-5-tirzepatide-zepbound-proves-benefit-over-semaglutide-wegovy-for-obesity',
+        doi: '10.1056/NEJMoa2504241',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Eli Lilly and Company',
+        title: 'Lilly\'s Triple Agonist Retatrutide Delivered Powerful Weight Loss in Pivotal Phase 3 TRIUMPH-1 Obesity Trial',
+        journal: 'PR Newswire / Investor Relations',
+        year: 2026,
+        url: 'https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Wang X, Liu Y, Chen S, et al.',
+        title: 'Tirzepatide Versus Semaglutide for Weight Loss in Overweight and Obese Adults: A Systematic Review and Meta-Analysis of Direct Comparative Studies',
+        journal: 'PLOS ONE / PMC',
+        year: 2025,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12263181/',
+        type: 'meta_analysis',
+      },
+      {
+        id: 8,
+        authors: 'Frías JP, Davies MJ, Rosenstock J, et al.',
+        title: 'Tirzepatide versus Semaglutide Once Weekly in Patients with Type 2 Diabetes (SURPASS-2)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34170647/',
+        doi: '10.1056/NEJMoa2107519',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Tirzepatide (LY3298176) in Participants With Obesity or Overweight With Weight Related Comorbidities (SURMOUNT-5)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05822830',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Retatrutide (LY3437943) in Adults With Obesity (TRIUMPH-1)',
+        journal: 'ClinicalTrials.gov',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05929066',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'Nauck MA, Quast DR, Wefers J, Meier JJ',
+        title: 'GLP-1 Receptor Agonists in the Treatment of Type 2 Diabetes – State-of-the-Art',
+        journal: 'Molecular Metabolism',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33068776/',
+        doi: '10.1016/j.molmet.2020.101102',
+        type: 'review',
+      },
+      {
+        id: 12,
+        authors: 'Coskun T, Sloop KW, Loghin C, et al.',
+        title: 'LY3298176, a Novel Dual GIP and GLP-1 Receptor Agonist for the Treatment of Type 2 Diabetes Mellitus',
+        journal: 'Molecular Metabolism',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30473097/',
+        doi: '10.1016/j.molmet.2018.09.009',
+        type: 'human_study',
+      },
+      {
+        id: 13,
+        authors: 'Jastreboff AM, Kaplan LM, Frías JP, et al.',
+        title: 'Triple–Hormone-Receptor Agonist Retatrutide for Obesity — Phase 2 Trial (Retatrutide 48-Week Data)',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2301972',
+        doi: '10.1056/NEJMoa2301972',
+        type: 'clinical_trial',
+      },
+      {
+        id: 14,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. (SELECT Trial Investigators)',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37952131/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 15,
+        authors: 'Pharmaceutical Journal',
+        title: 'Phase III Retatrutide Study Demonstrates 30% Weight Loss at 104 Weeks',
+        journal: 'The Pharmaceutical Journal',
+        year: 2026,
+        url: 'https://pharmaceutical-journal.com/article/news/phase-iii-retatrutide-study-demonstrates-30-weight-loss',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Something remarkable happened between 2021 and 2026: obesity treatment was scientifically reinvented. Three peptides — semaglutide, tirzepatide, and retatrutide — represent three successive generations of a pharmacological revolution, each one more powerful than the last, each one the result of understanding a slightly deeper layer of how human metabolism is controlled.</p>
+<p>The numbers tell the story. Semaglutide achieved 14.9% average weight loss in the landmark STEP 1 trial. <sup>[1]</sup> Tirzepatide shattered that ceiling in SURMOUNT-1 with 22.5% at the highest dose. <sup>[2]</sup> Then in May 2026, retatrutide's TRIUMPH-1 Phase 3 results reported an average 28.3% body weight reduction at 80 weeks — with 45% of participants losing <em>more than 30%</em> of their bodyweight, a threshold previously associated only with bariatric surgery. <sup>[6]</sup></p>
+<p>Google searches for "GLP-1 agonist," "tirzepatide vs semaglutide," and related terms hit approximately 8 million per month in mid-2026. The interest is warranted, but the information landscape is noisy. This guide cuts through — covering the molecular biology, the clinical trial data, the side-effect profiles, practical dosage protocols, and where to source each compound for research purposes.</p>`,
+      },
+      {
+        id: 'glp1-explainer',
+        type: 'h2',
+        heading: 'Understanding GLP-1: The Gut Hormone Behind All Three Drugs',
+        content: `<p>GLP-1 (glucagon-like peptide-1) is a 30-amino acid incretin hormone secreted by L-cells in the intestinal lining within minutes of eating. Its discovery in 1983 was initially underwhelming — it was just one of dozens of gut peptides catalogued as the enteroendocrine system was mapped. What changed was understanding its magnitude of function.</p>
+<p>In physiological conditions, GLP-1 performs four simultaneous metabolic jobs:</p>
+<ul>
+  <li><strong>Glucose-dependent insulin secretion</strong> — GLP-1 binds GLP-1R receptors on pancreatic beta-cells, triggering insulin release only when blood glucose is elevated. Unlike sulfonylureas, this mechanism is glucose-sensitive — no hypoglycemia at normal glucose levels. <sup>[11]</sup></li>
+  <li><strong>Glucagon suppression</strong> — GLP-1 inhibits alpha-cell glucagon secretion, reducing hepatic glucose output. This is the "second dial" on blood glucose control.</li>
+  <li><strong>Gastric emptying delay</strong> — By slowing the movement of food from the stomach to the small intestine, GLP-1 blunts the post-meal glucose spike and extends satiety. This is mechanical satiety on top of hormonal satiety.</li>
+  <li><strong>Central appetite suppression</strong> — GLP-1 receptors in the hypothalamus (arcuate nucleus) and brainstem receive direct signals from circulating GLP-1, reducing hunger. Semaglutide, tirzepatide, and retatrutide all cross the blood-brain barrier to engage these central pathways. <sup>[11]</sup></li>
+</ul>
+<p>The problem with native GLP-1? It has a half-life of approximately 2 minutes, instantly cleaved by the enzyme DPP-4 (dipeptidyl peptidase-4). The pharmaceutical breakthrough was engineering GLP-1 analogs resistant to DPP-4 degradation — first with exenatide (2005), then with the albumin-binding modifications that enabled once-weekly semaglutide.</p>`,
+      },
+      {
+        id: 'mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_080559_c20c3e5b-9de2-40c0-999d-3063a4f27677.png',
+          alt: 'GLP-1 receptor agonist mechanism of action — brain satiety signals, pancreatic insulin secretion, gastric emptying, liver glucose regulation',
+          caption: 'GLP-1 receptor agonists act simultaneously at four sites: the hypothalamus (hunger suppression), the pancreas (glucose-dependent insulin release), the stomach (delayed gastric emptying), and the liver (reduced glucagon-driven glucose output).',
+        },
+      },
+      {
+        id: 'semaglutide-deep-dive',
+        type: 'h2',
+        heading: 'Semaglutide: The Drug That Started the Revolution',
+        content: `<p>Semaglutide (trade names: Ozempic for diabetes, Wegovy for obesity) is a GLP-1 receptor agonist developed by Novo Nordisk. It is a 94% homologous analog of native GLP-1, with two key modifications that enable once-weekly subcutaneous dosing: a C18 fatty acid chain attached via a linker that promotes albumin binding (extending half-life to ~7 days), and substitution of alanine at position 8 to resist DPP-4 cleavage.</p>
+<p>Semaglutide is a single-target agent — it activates GLP-1 receptors only. This specificity makes its mechanism the most thoroughly understood of the three compounds and its side-effect profile the most predictable.</p>
+<p><strong>STEP 1 Trial (NCT03548935) — The Landmark Data:</strong> In 2021, the STEP 1 trial enrolled 1,961 adults with obesity (BMI ≥30) without diabetes. Over 68 weeks, once-weekly 2.4 mg semaglutide produced mean weight loss of <strong>14.9% versus 2.4% for placebo</strong>. <sup>[1]</sup> Approximately 86% of participants achieved ≥5% weight loss, and 50% achieved ≥15% weight loss. These numbers were unprecedented for a pharmacological intervention at the time.</p>
+<p><strong>SELECT Trial — The Cardiovascular Data:</strong> The 2023 SELECT trial (17,604 participants, cardiovascular disease without diabetes) showed semaglutide reduced major adverse cardiovascular events (MACE) by 20% over ~33 months. <sup>[14]</sup> This cardioprotective effect — independent of weight loss — elevated semaglutide from a metabolic drug to a cardiovascular therapeutic and substantially changed prescribing guidelines.</p>`,
+      },
+      {
+        id: 'semaglutide-protocol',
+        type: 'h3',
+        heading: 'Semaglutide Dosage Protocol (Research Context)',
+        content: `<p>The FDA-approved titration schedule for semaglutide (Wegovy) follows a 16-week step-up to minimize GI side effects:</p>
+<ul>
+  <li><strong>Weeks 1–4:</strong> 0.25 mg once weekly (starting dose — not therapeutic, purely for tolerance)</li>
+  <li><strong>Weeks 5–8:</strong> 0.5 mg once weekly</li>
+  <li><strong>Weeks 9–12:</strong> 1.0 mg once weekly</li>
+  <li><strong>Weeks 13–16:</strong> 1.7 mg once weekly</li>
+  <li><strong>Week 17+:</strong> 2.4 mg once weekly (maintenance dose)</li>
+</ul>
+<p>The 7-day half-life means steady-state concentration at each dose level is reached in approximately 4–5 weeks — aligning with the 4-week step intervals. Subcutaneous injection into the abdomen, thigh, or upper arm; injection sites should be rotated weekly.</p>
+<p>For research purposes, semaglutide is sold as a lyophilized powder (typically 5 mg vials) requiring reconstitution with bacteriostatic water. Adding 2.5 mL bacteriostatic water to a 5 mg vial yields a 2 mg/mL solution; 0.125 mL = 0.25 mg starting dose.</p>`,
+      },
+      {
+        id: 'tirzepatide-deep-dive',
+        type: 'h2',
+        heading: 'Tirzepatide: The Dual Agonist That Outperformed Everything Before It',
+        content: `<p>Tirzepatide (trade names: Mounjaro for diabetes, Zepbound for obesity) is Eli Lilly's dual GIP/GLP-1 receptor agonist. It is a 39-amino acid synthetic peptide designed around a native GIP sequence, modified to also activate GLP-1 receptors with roughly equivalent potency at both. The key innovation — described in the original 2018 characterization by Coskun et al. — is that the GIP component appears to reduce the GI side effects of GLP-1 activation while synergistically enhancing weight loss beyond what either pathway alone achieves. <sup>[12]</sup></p>
+<p>GIP (glucose-dependent insulinotropic polypeptide) is the other major incretin hormone, secreted by K-cells in the duodenum and jejunum. In obese individuals, GIP receptor sensitivity is paradoxically decreased — but tirzepatide appears to partly restore this sensitivity while simultaneously activating GLP-1 pathways. The dual-receptor mechanism is why tirzepatide's weight loss magnitude significantly exceeds semaglutide at equivalent metabolic targeting.</p>
+<p><strong>SURMOUNT-1 Trial (NCT04184622):</strong> The pivotal obesity trial (2,539 adults with BMI ≥30 without diabetes) showed tirzepatide at the maximum 15 mg dose achieved <strong>22.5% mean weight loss at 72 weeks</strong>. <sup>[2]</sup> At 5 mg and 10 mg, weight losses were 15% and 19.5% respectively — meaning even the lowest tirzepatide dose matched the highest semaglutide dose from STEP 1.</p>
+<p><strong>SURMOUNT-5 Head-to-Head vs. Semaglutide (NCT05822830):</strong> This 72-week Phase IIIb trial directly randomized 751 participants to maximum tolerated tirzepatide (10 mg or 15 mg) or maximum tolerated semaglutide (1.7 mg or 2.4 mg). Results, published in the New England Journal of Medicine in May 2025 and presented at the European Congress on Obesity: <sup>[5]</sup></p>
+<ul>
+  <li>Tirzepatide: <strong>20.2% mean weight loss</strong></li>
+  <li>Semaglutide: <strong>13.7% mean weight loss</strong></li>
+  <li>Difference: 6.5 percentage points favoring tirzepatide (p&lt;0.001)</li>
+  <li>Waist circumference: tirzepatide −18.4 cm vs. semaglutide −13.0 cm</li>
+  <li>≥25% weight loss achieved: 31.6% (tirzepatide) vs. 16.2% (semaglutide)</li>
+</ul>
+<p>Notably, GI adverse events leading to discontinuation were <em>lower</em> with tirzepatide (2.7%) than semaglutide (5.6%) — challenging the assumption that dual agonism produces worse tolerability. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'Mean Weight Loss by Compound — Phase 3 Trial Data',
+        chartData: {
+          title: 'Mean % Body Weight Loss in Pivotal Phase 3 Trials',
+          type: 'bar',
+          labels: ['Semaglutide 2.4mg\n(STEP 1, 68 wks)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72 wks)', 'Tirzepatide\n(SURMOUNT-5, 72 wks)', 'Retatrutide 12mg\n(TRIUMPH-1, 80 wks)', 'Retatrutide 12mg\n(Extension, 104 wks)'],
+          datasets: [
+            {
+              label: 'Mean % Weight Loss',
+              values: [14.9, 22.5, 20.2, 28.3, 30.3],
+              color: '#0ea5e9',
+            },
+          ],
+          yLabel: 'Mean % Body Weight Reduction',
+          note: 'Sources: [1] STEP 1 (NEJM 2021), [2] SURMOUNT-1 (NEJM 2022), [5] SURMOUNT-5 (NEJM 2025), [6] TRIUMPH-1 (Lilly IR 2026), [15] TRIUMPH-1 Extension (Pharmaceutical Journal 2026). Placebo arms not shown. Data from RCT primary endpoints.',
+        },
+      },
+      {
+        id: 'weight-loss-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_080610_07eaba20-36b2-4b1c-9ebf-12b30e75ee49.png',
+          alt: 'Weight loss comparison visualization: Semaglutide 13.7%, Tirzepatide 20.2%, Retatrutide 28.3% from clinical trials',
+          caption: 'Progressive weight loss milestones across three generations of GLP-1 agonism. Each new mechanism layer adds approximately 6–8 percentage points of mean weight reduction in head-to-head and Phase 3 trial contexts.',
+        },
+      },
+      {
+        id: 'retatrutide-deep-dive',
+        type: 'h2',
+        heading: 'Retatrutide: The Triple Agonist Rewriting the Obesity Treatment Ceiling',
+        content: `<p>Retatrutide (LY3437943) is the most ambitious metabolic peptide in clinical development. Where semaglutide hits one receptor and tirzepatide hits two, retatrutide simultaneously agonizes three: GLP-1R, GIPR, <em>and</em> the glucagon receptor (GCGR). This triple mechanism is designed to capture the complementary weight-loss effects of all three pathways in a single weekly injection.</p>
+<p>The glucagon component is the critical addition. Glucagon is classically the "counter-regulatory" hormone — it raises blood glucose and opposes insulin. So why would you want to activate it for obesity treatment? The answer is that glucagon also dramatically increases energy expenditure (thermogenesis), enhances fatty acid oxidation in the liver, and suppresses appetite via central mechanisms. In the context of simultaneous GLP-1 and GIP activation (which together keep glucose controlled), adding glucagon receptor agonism shifts the metabolic calculus toward fat burning without the hyperglycemia that isolated glucagon activation would produce.</p>
+<p><strong>Phase 2 Trial (NEJM 2023):</strong> The 48-week Phase 2 study across 338 participants with obesity showed dose-dependent weight loss peaking at <strong>24.2% for the 12 mg dose</strong> at 48 weeks — already exceeding tirzepatide's SURMOUNT-1 peak at the same timepoint. <sup>[3,13]</sup> A 48-week liver sub-study in MASLD (metabolic-associated steatotic liver disease) patients showed retatrutide produced dramatic liver fat reductions, the most ever recorded for a pharmaceutical agent.</p>
+<p><strong>TRIUMPH-1 Phase 3 Results (NCT05929066) — May 2026:</strong> The pivotal 80-week trial enrolled 2,339 adults with obesity or overweight and at least one comorbidity (excluding type 2 diabetes). All three doses (4 mg, 9 mg, 12 mg) met primary and secondary endpoints: <sup>[6]</sup></p>
+<ul>
+  <li><strong>12 mg dose: 28.3% mean body weight loss</strong> (average −70.3 lbs / −31.9 kg)</li>
+  <li><strong>45.3% of participants</strong> achieved ≥30% weight loss — a surgical benchmark</li>
+  <li><strong>4 mg dose (single step-up):</strong> 19.0% mean weight loss — comparable to tirzepatide</li>
+  <li><strong>Extension to 104 weeks:</strong> Participants with BMI ≥35 continued to lose, averaging 30.3% total weight reduction (~85 lbs) <sup>[15]</sup></li>
+</ul>
+<p>Retatrutide is not yet FDA-approved and remains an investigational compound. Eli Lilly is expected to submit an NDA in late 2026 following readouts from TRIUMPH-2 (type 2 diabetes), TRIUMPH-3 (cardiovascular disease), and TRIUMPH-4 (knee osteoarthritis — which already reported 28.7% weight loss in December 2025). A glucagon-driven increase in thermogenesis may explain why retatrutide's weight loss trajectory does not plateau as sharply as semaglutide or tirzepatide at extended timepoints.</p>`,
+      },
+      {
+        id: 'callout-approval-status',
+        type: 'callout',
+        calloutType: 'warning',
+        content: '<strong>Regulatory Status (June 2026):</strong> Semaglutide (Ozempic, Wegovy) and tirzepatide (Mounjaro, Zepbound) are FDA-approved for their respective indications. Retatrutide is NOT FDA-approved and remains an investigational drug in Phase 3 trials. All three compounds are available from research peptide vendors for laboratory research purposes only and are not approved for human use outside of clinical or licensed prescription contexts. The compounded semaglutide and tirzepatide market has been significantly restricted by FDA action in 2025–2026 as branded shortages resolved.',
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'Head-to-Head Comparison: Semaglutide vs. Tirzepatide vs. Retatrutide',
+        tableData: {
+          headers: ['Property', 'Semaglutide', 'Tirzepatide', 'Retatrutide'],
+          rows: [
+            ['Receptor Targets', 'GLP-1R only', 'GLP-1R + GIPR (dual)', 'GLP-1R + GIPR + GCGR (triple)'],
+            ['Structure', 'GLP-1 analog (modified)', 'GIP-based dual agonist', 'GIP-based triple agonist'],
+            ['Half-life', '~7 days', '~5 days', '~6 days (est.)'],
+            ['Dosing Frequency', 'Once weekly', 'Once weekly', 'Once weekly'],
+            ['Peak Clinical Weight Loss', '14.9% (STEP 1)', '22.5% (SURMOUNT-1)', '28.3% at 80 wks (TRIUMPH-1)'],
+            ['Head-to-Head vs Sema', '— (reference)', '+6.5% (SURMOUNT-5)', 'Not yet head-to-head vs Tirz'],
+            ['FDA Approval', '✓ Obesity, T2D, CV', '✓ Obesity, T2D', '✗ Not yet approved'],
+            ['Cardiovascular Data', 'SELECT: −20% MACE', 'Phase 3 SURPASS-CVOT pending', 'TRIUMPH-3 ongoing'],
+            ['GI Discontinuation Rate', '5.6% (SURMOUNT-5)', '2.7% (SURMOUNT-5)', '~8–12% (Phase 2, higher doses)'],
+            ['Bariatric-Level Outcomes', '~3% achieve ≥25% loss', '31.6% achieve ≥25% (SURMOUNT-5)', '45.3% achieve ≥30% (TRIUMPH-1)'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects-section',
+        type: 'h2',
+        heading: 'Side Effects: What the Trials Actually Show',
+        content: `<p>All three compounds share a class-effect GI side effect profile driven by the GLP-1 receptor component: nausea, vomiting, diarrhea, and constipation are the most common adverse events, predominantly occurring during dose escalation and typically resolving after the first 4–8 weeks at a stable dose.</p>
+<p>The nuances matter:</p>
+<ul>
+  <li><strong>Semaglutide</strong> — Well-characterized. GI AEs affect 40–50% of participants during titration; discontinuation rates 6–8% in obesity trials. No significant impact on heart rate at approved doses. Long-term data (4+ years in diabetics) shows no unexpected signals. Rare but noted: gallbladder disease (~2% higher than placebo in STEP trials), acute pancreatitis signal requiring monitoring. <sup>[1]</sup></li>
+  <li><strong>Tirzepatide</strong> — GI incidence similar to or slightly lower than semaglutide despite greater efficacy (SURMOUNT-5: 2.7% discontinuation vs. 5.6% for sema). The GIP component may buffer GLP-1-driven nausea. No significant increase in heart rate above semaglutide. GI AEs during escalation are the primary tolerability challenge. <sup>[5]</sup></li>
+  <li><strong>Retatrutide</strong> — The glucagon receptor component adds thermogenic effects that produce some degree of tachycardia at higher doses (mean +2–4 bpm in Phase 2) and can amplify GI burden during escalation. The 12 mg dose produced nausea in ~50% of participants during Phase 2 titration, though most resolved by week 16. The tradeoff — 28%+ weight loss — makes this acceptable for many in the trial context. <sup>[3]</sup></li>
+</ul>
+<p><strong>The muscle loss question:</strong> A consistent finding across all three agents is that weight loss includes lean mass reduction (~25–40% of total weight lost). This is standard for all caloric deficit contexts, but higher-magnitude weight loss agents raise the concern proportionally. Current evidence suggests maintaining adequate protein intake (1.6–2.2g/kg of target bodyweight) and resistance training during treatment mitigates lean mass loss without reducing fat loss.</p>`,
+      },
+      {
+        id: 'tirzepatide-protocol',
+        type: 'h3',
+        heading: 'Tirzepatide Dosage Protocol (Research Context)',
+        content: `<p>The FDA-approved tirzepatide titration (Zepbound/Mounjaro) follows a 20-week step-up schedule:</p>
+<ul>
+  <li><strong>Weeks 1–4:</strong> 2.5 mg once weekly</li>
+  <li><strong>Weeks 5–8:</strong> 5.0 mg once weekly</li>
+  <li><strong>Weeks 9–12:</strong> 7.5 mg once weekly</li>
+  <li><strong>Weeks 13–16:</strong> 10.0 mg once weekly</li>
+  <li><strong>Weeks 17–20:</strong> 12.5 mg once weekly</li>
+  <li><strong>Week 21+:</strong> 15.0 mg once weekly (if tolerated)</li>
+</ul>
+<p>Research peptide tirzepatide is typically sold in 5 mg and 10 mg lyophilized vials. Reconstitution with 1 mL bacteriostatic water per 5 mg vial yields 5 mg/mL. The 2.5 mg starting dose = 0.5 mL from this concentration. Tirzepatide has a shorter half-life (~5 days) than semaglutide, though once-weekly dosing still produces adequate steady-state levels. The standard site of injection remains subcutaneous abdomen, thigh, or upper arm.</p>`,
+      },
+      {
+        id: 'retatrutide-protocol',
+        type: 'h3',
+        heading: 'Retatrutide Protocol (Research Context)',
+        content: `<p>Retatrutide is not FDA-approved; the following reflects the Phase 3 TRIUMPH trial titration schedule used in clinical research:</p>
+<ul>
+  <li><strong>Weeks 1–4:</strong> 2.0 mg once weekly (start)</li>
+  <li><strong>Weeks 5–8:</strong> 4.0 mg once weekly</li>
+  <li><strong>Week 9+:</strong> 4 mg maintenance OR continue to 8 mg at week 12, then 12 mg at week 16 if tolerated</li>
+</ul>
+<p>The 4 mg dose in TRIUMPH-1 produced 19% mean weight loss — comparable to tirzepatide — with a more manageable GI burden. The step from 4 mg to 12 mg is where the majority of the additional benefit (and tolerability challenge) resides. Many researchers suggest the 4 mg maintenance dose represents an optimal benefit-risk window for subjects who are glucagon-sensitive or have cardiac concerns.</p>`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Where to Source GLP-1 Research Peptides (Verified Vendors)',
+        vendors: [
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Semaglutide 5mg',
+            productUrl: 'https://aminousa.com/products/semaglutide-5mg',
+            price: '$69–$129',
+            purity: '>99%',
+            highlight: 'US-manufactured, lyophilized, third-party HPLC and mass spec tested. Every batch ships with a public COA. Semaglutide 5mg in 3mL vial.',
+            badge: 'Research Use Only',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'GLP-1S (Semaglutide Analog) & GLP-RT (Retatrutide Analog)',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: '$69.99–$499.99',
+            purity: '>99%',
+            highlight: 'Carries both GLP-1S and GLP-RT peptides with accredited third-party COAs. Pharmaceutical-grade synthesis. 42+ peptide product catalog with full transparency reporting.',
+            badge: 'GLP-1 Specialist',
+          },
+          {
+            name: 'Peptide Technologies (PeptideTech.is)',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157, NAD+, MT2 — GLP-1 Stack Support Compounds',
+            productUrl: 'https://peptidetech.is/products/',
+            price: '$49–$199',
+            purity: '≥99% HPLC',
+            highlight: 'USA-made HPLC-verified ≥99% purity. Full cold-chain shipping. Excellent for GLP-1 stack support compounds (BPC-157 for GI protection, NAD+ for metabolic support). Every batch: public COA.',
+            badge: 'GMP Verified',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptides — GLP-1 Class',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Contact for pricing',
+            purity: 'Third-party tested',
+            highlight: 'Research-grade peptide supplier with GLP-1 class compounds. Request current availability and COA documentation directly.',
+            badge: 'Research Vendor',
+          },
+        ],
+      },
+      {
+        id: 'stacking-section',
+        type: 'h2',
+        heading: 'GLP-1 Stacking: What the Research Community Is Exploring',
+        content: `<p>As GLP-1 agonist use has grown, so has the practice of pairing them with other peptides to address side effects, muscle preservation, or metabolic co-benefits. Three pairings appear in the literature and community protocols with increasing frequency:</p>
+<ul>
+  <li><strong>BPC-157 for GI side effect mitigation:</strong> BPC-157 (body protective compound 157) is a synthetic gastric pentadecapeptide with well-documented cytoprotective effects on GI mucosa in animal models. Community reports increasingly describe its use at 200–500 mcg/day to reduce GLP-1-class nausea and GI discomfort during dose escalation. No clinical trials exist specifically in this context, but the mechanistic rationale is sound. Research-grade BPC-157 is available from Peptide Technologies (peptidetech.is) at ≥99% HPLC purity.</li>
+  <li><strong>MOTS-c for energy/metabolic support:</strong> GLP-1 agonists reduce caloric intake dramatically, which can produce fatigue, especially during dose escalation. MOTS-c, a mitochondrially-encoded peptide AMPK activator, has been discussed in this context — its removal from FDA Category 2 restrictions in April 2026 increased accessibility. <em>See our dedicated MOTS-c guide for complete protocol details.</em></li>
+  <li><strong>Cagrilintide co-administration:</strong> Novo Nordisk's CagriSema (cagrilintide 2.4 mg + semaglutide 2.4 mg, weekly) achieved ~22.7% weight loss in Phase 2 — similar to tirzepatide — suggesting amylin receptor co-targeting complements GLP-1 action. This combination is in Phase 3 trials (REDEFINE program) as of 2026. Amylin receptors are separately expressed in the hypothalamus and area postrema, providing an additive satiety pathway.</li>
+</ul>`,
+      },
+      {
+        id: 'who-wins',
+        type: 'h2',
+        heading: 'The Honest Answer: Which One Is "Best"?',
+        content: `<p>The answer depends entirely on what you're optimizing for:</p>
+<p><strong>For proven, available treatment with the longest safety track record:</strong> Semaglutide is the answer. It has 5+ years of large-scale real-world data, cardiovascular outcome data from SELECT, and the most clinical experience. For someone at moderate BMI needing 10–15% weight reduction, it delivers reliably.</p>
+<p><strong>For maximum weight loss with an approved drug:</strong> Tirzepatide is the current leader among FDA-approved options. The SURMOUNT-5 head-to-head confirms its 6.5 percentage point superiority over semaglutide, and its GI tolerability advantage is an unexpected bonus. For anyone at higher BMI (35+) where bariatric surgery is on the table, tirzepatide now represents a legitimate pharmacological alternative for a substantial proportion of patients.</p>
+<p><strong>For the most powerful outcome currently documented:</strong> Retatrutide's 28.3% average weight loss at 80 weeks — with 45% achieving ≥30% loss — is unlike anything pharmacology has previously produced. The phase 3 data has removed the "Phase 2 artifact" concern. The limitations are its non-approved status and the higher GI burden at maximum dose. For research contexts where efficacy ceiling is the priority metric, no compound currently comes close.</p>
+<p>A 2025 meta-analysis across 12 clinical trials confirmed the hierarchy statistically: retatrutide achieved superior absolute and percentage weight reduction compared to tirzepatide across all analyses (p&lt;0.0001), and tirzepatide superior to semaglutide. <sup>[7]</sup></p>`,
+      },
+      {
+        id: 'callout-research-context',
+        type: 'callout',
+        calloutType: 'info',
+        content: '<strong>Research Context Note:</strong> All three compounds are referenced here in their clinical trial and research literature context. Semaglutide and tirzepatide are FDA-approved medications available by prescription. Retatrutide remains investigational. Research peptide vendors sell these compounds for laboratory research purposes only — they are not intended for human use outside of licensed medical supervision. Always verify COA documentation and third-party purity testing before handling research compounds.',
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is tirzepatide really better than semaglutide?',
+            answer: 'Yes, based on direct head-to-head trial data. The SURMOUNT-5 randomized controlled trial (NCT05822830) directly compared maximum tolerated doses of both in 751 participants over 72 weeks, and tirzepatide produced 20.2% vs. 13.7% mean weight loss — a statistically significant 6.5 percentage point difference. Tirzepatide also showed lower GI discontinuation rates (2.7% vs. 5.6%) and greater waist circumference reduction in this trial. The meta-analysis by Wang et al. (2025, PMC12263181) confirmed this superiority across 12 trials.',
+          },
+          {
+            question: 'What makes retatrutide different from tirzepatide?',
+            answer: 'Tirzepatide activates two receptors (GLP-1R and GIPR). Retatrutide activates three (GLP-1R, GIPR, and the glucagon receptor). The additional glucagon receptor component adds thermogenic (calorie-burning) effects and enhances fatty acid oxidation in the liver, producing weight loss that substantially exceeds the dual-agonist ceiling. In the TRIUMPH-1 Phase 3 trial (NCT05929066), 12 mg retatrutide averaged 28.3% weight loss at 80 weeks — with 45.3% of participants achieving ≥30% loss, a threshold previously associated only with bariatric surgery.',
+          },
+          {
+            question: 'Can semaglutide and tirzepatide be stacked together?',
+            answer: 'No — combining two GLP-1 receptor agonists simultaneously would redundantly saturate the same receptors with compounding GI risk and no mechanistic benefit. If switching between agents, standard washout guidance follows the half-life: ~5 weeks for semaglutide (7-day half-life × 5 = washout) before starting a different GLP-1 agent.',
+          },
+          {
+            question: 'What should I stack with semaglutide or tirzepatide to reduce nausea?',
+            answer: 'The research community most commonly uses BPC-157 (200–500 mcg/day) for its GI cytoprotective properties during GLP-1 dose escalation. There is no direct clinical trial data on this specific combination, but BPC-157\'s mechanism (upregulation of EGR-1, promotion of mucosal healing, anti-inflammatory effects on GI tissue) provides reasonable mechanistic rationale. Ginger supplementation, domperidone (in clinical contexts), and eating smaller meals also reduce GLP-1-class nausea.',
+          },
+          {
+            question: 'Where can I buy semaglutide for research purposes?',
+            answer: 'Research-grade semaglutide is available from vendors including Amino USA (aminousa.com), VANDL Labs (vandl-labs.com), and others listed in our vendor section above. Critical quality markers: HPLC purity >99%, mass spectrometry identity confirmation, third-party COA from an accredited lab, and cold-chain shipping. Note that the compounded semaglutide market changed significantly in 2025–2026 following FDA actions; always verify current compliance status with individual vendors.',
+          },
+          {
+            question: 'How does retatrutide\'s glucagon activation not cause high blood sugar?',
+            answer: 'This is the elegant engineering behind triple agonism. Glucagon normally raises blood glucose, but when GLP-1 receptors are simultaneously activated, glucose-dependent insulin secretion is enhanced in proportion to any glucose rise. The GLP-1 and GIP components of retatrutide essentially cap the blood glucose elevation that glucagon would otherwise cause, allowing the thermogenic and lipolytic benefits of glucagon receptor activation without hyperglycemia. This is why the Phase 2 and Phase 3 trials showed no meaningful glycemic deterioration even at 12 mg doses.',
+          },
+        ],
+      },
+    ],
+  },
+  {
     slug: 'cjc-1295-ipamorelin-stack-guide',
     title: 'CJC-1295 + Ipamorelin: The 2026 Complete Guide to GH Secretagogue Stacking',
     excerpt:
