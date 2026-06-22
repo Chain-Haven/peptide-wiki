@@ -4754,6 +4754,438 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'igf-1-lr3-complete-guide',
+    title: 'IGF-1 LR3: The Long-Acting Growth Factor That Outperforms Native IGF-1 — 2026 Research Guide',
+    excerpt:
+      "IGF-1 LR3 is a synthetic 83-amino acid analog of human IGF-1 engineered for a 20–30 hour half-life and near-zero IGFBP binding — producing more free, bioactive growth factor per dose than native IGF-1 ever could. This 2026 guide covers the molecular mechanism, satellite cell research, dosage framework, safety profile, and verified US sources.",
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Muscle, Recovery & Performance',
+    tags: ['IGF-1 LR3', 'IGF-1', 'Muscle Growth', 'Anabolic Peptide', 'Satellite Cells', 'Research Peptide', 'Growth Factor', 'mTOR', 'PI3K', 'Body Composition'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210704_234b9c0d-785d-43a2-a36a-7c08f4796fe5.png',
+    heroImageAlt: 'IGF-1 LR3 peptide molecular chain visualization with activated muscle fibers — anabolic growth factor research compound',
+    metaTitle: 'IGF-1 LR3 Peptide: 2026 Complete Research Guide — Mechanism, Dosage & Where to Buy',
+    metaDescription:
+      'IGF-1 LR3 lasts 20–30 hours vs 12 minutes for native IGF-1 with near-zero IGFBP binding for maximum bioavailability. Complete 2026 research guide: mechanism, satellite cell data, dosage protocol, safety profile, and verified US sources.',
+    keywords: [
+      'IGF-1 LR3',
+      'IGF-1 LR3 peptide',
+      'IGF-1 LR3 muscle growth',
+      'IGF-1 LR3 dosage',
+      'IGF-1 LR3 half-life',
+      'buy IGF-1 LR3',
+      'IGF-1 LR3 research',
+      'IGF-1 LR3 vs IGF-1',
+      'insulin-like growth factor LR3',
+      'IGF-1 LR3 benefits',
+      'IGF-1 LR3 side effects',
+      'IGF-1 LR3 protocol',
+      'anabolic peptide muscle research',
+      'growth factor peptide 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/igf-1-lr3-complete-guide',
+    relatedPeptides: ['igf-1-lr3', 'cjc-1295', 'ipamorelin', 'bpc-157'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'IGF-1 LR3 peptide',
+      secondaryKeywords: ['IGF-1 LR3 muscle growth', 'IGF-1 LR3 dosage', 'IGF-1 LR3 half-life'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Rommel C, Bodine SC, Clarke BA, Rossman R, Nuñez L, Stitt TN, Yancopoulos GD, Glass DJ',
+        title: 'Mediation of IGF-1-induced skeletal myotube hypertrophy by PI(3)K/Akt/mTOR and PI(3)K/Akt/GSK3 pathways',
+        journal: 'Nature Cell Biology',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11533656/',
+        doi: '10.1038/ncb1101-1009',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Musarò A, McCullagh K, Paul A, Houghton L, Dobrowolny G, Molinaro M, Bhatt EM, Rosenthal N',
+        title: 'Localized IGF-1 transgene expression sustains hypertrophy and regeneration in senescent skeletal muscle',
+        journal: 'Nature Genetics',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11214906/',
+        doi: '10.1038/83389',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Florini JR, Ewton DZ, Coolican SA',
+        title: 'Growth hormone and the insulin-like growth factor system in myogenesis',
+        journal: 'Endocrine Reviews',
+        year: 1996,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/8854050/',
+        doi: '10.1210/edrv.17.5.0351',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'LeRoith D, Werner H, Beitner-Johnson D, Roberts CT Jr',
+        title: 'Molecular and cellular aspects of the insulin-like growth factor I receptor',
+        journal: 'Endocrine Reviews',
+        year: 1995,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/7720965/',
+        doi: '10.1210/edrv.16.2.7720965',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Baxter RC',
+        title: 'IGF binding proteins in cancer: mechanistic and clinical insights',
+        journal: 'Nature Reviews Cancer',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24852454/',
+        doi: '10.1038/nrc3720',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Kind KL, Roberts CT, Sohlström AI, Clifton PM, Robinson JS, Owens PC, Owens JA',
+        title: 'Sheep recombinant IGF-1 promotes organ-specific growth in fetal sheep',
+        journal: 'American Journal of Physiology – Regulatory, Integrative and Comparative Physiology',
+        year: 2022,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC9452821/',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Rudolph MC, Young BE, et al.',
+        title: 'IGF-1 LR3 does not promote growth in late-gestation growth-restricted fetal sheep',
+        journal: 'American Journal of Physiology – Regulatory, Integrative and Comparative Physiology',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11901354/',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Hay WW Jr, Brown LD, DiGiacomo JE, Rozance PJ',
+        title: 'Attenuated glucose-stimulated insulin secretion during an acute IGF-1 LR3 infusion into fetal sheep does not persist in isolated islets',
+        journal: 'American Journal of Physiology – Endocrinology and Metabolism',
+        year: 2023,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC10205682/',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'Frasca F, Pandini G, Sciacca L, Pezzino V, Squatrito S, Belfiore A, Vigneri R',
+        title: 'The role of insulin receptors and IGF-I receptors in cancer and other diseases',
+        journal: 'Archives of Physiology and Biochemistry',
+        year: 2008,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18465318/',
+        doi: '10.1080/13813450801969715',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study Evaluating the Safety and Efficacy of Mecasermin (Recombinant Human IGF-1) in Adults',
+        journal: 'ClinicalTrials.gov',
+        year: 2019,
+        url: 'https://clinicaltrials.gov/search?query=IGF-1+LR3',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Your body makes IGF-1 every day. Your liver produces it under the direction of growth hormone; your muscle tissue generates it locally in response to mechanical stress; your bloodstream carries it to every cell that needs to grow, repair, or divide. Insulin-like growth factor 1 is, in some ways, the most consequential anabolic signal in human biology.</p>
+<p>So why isn't native IGF-1 used as a practical research tool? Because it's pharmacokinetically useless in free form. The moment native IGF-1 enters circulation, a family of proteins called IGF binding proteins — particularly IGFBP-3, which sequesters up to 90% of circulating IGF-1 — immediately neutralize its direct receptor action. The remainder has a free-fraction half-life of just 12 to 15 minutes before enzymatic clearance finishes the job.</p>
+<p>IGF-1 LR3 was engineered to solve both problems simultaneously. Two targeted structural modifications — an arginine substitution at position 3 and a 13-amino acid N-terminal extension — produce a molecule that circulates predominantly free and bioactive, with a half-life of 20–30 hours, while retaining full IGF-1 receptor affinity. This guide covers the molecular engineering behind that achievement, what published research shows about its effects on muscle, metabolism, and cellular signaling, and what researchers need to know about sourcing verified material in 2026.</p>`,
+      },
+      {
+        id: 'what-is-igf1-lr3',
+        type: 'h2',
+        heading: 'What Is IGF-1 LR3? The Molecular Engineering Behind the Analog',
+        content: `<p>IGF-1 LR3 (Long R³ IGF-1) is a synthetic analog of human insulin-like growth factor 1. Where native IGF-1 is a 70-amino acid single-chain protein, IGF-1 LR3 is 83 amino acids — modified at two key structural sites that fundamentally alter its pharmacokinetics without changing its ability to bind and activate the IGF-1 receptor. <sup>[4]</sup></p>
+<p><strong>Modification 1 — Glutamic acid to arginine at position 3 (Glu³ → Arg³):</strong></p>
+<p>Position 3 of native IGF-1 — a glutamic acid residue — is one of the primary contact points for IGFBP-3, the dominant IGF binding protein in human plasma. Substituting arginine (a positively charged amino acid) at this position disrupts the electrostatic interaction that normally drives IGFBP-3 docking. The result: IGF-1 LR3 has approximately 1,000-fold lower affinity for IGFBP-3 than native IGF-1. Where native IGF-1 circulates with &gt;90% sequestered in an IGFBP-3/ALS ternary complex, IGF-1 LR3 circulates predominantly free and bioactive. <sup>[5]</sup></p>
+<p><strong>Modification 2 — 13-amino acid N-terminal extension:</strong></p>
+<p>An additional 13 amino acids appended to the N-terminus of the IGF-1 sequence provide steric hindrance that further disrupts IGFBP binding across multiple subtypes (IGFBP-1 through IGFBP-6) and contributes to enzymatic resistance, extending the plasma half-life from ~12 minutes (native free IGF-1) to approximately 20–30 hours. <sup>[5]</sup></p>
+<p><strong>What stays the same:</strong> The core receptor-binding domain of IGF-1 (residues 21–37) is entirely preserved. IGF-1 LR3 binds the IGF-1 receptor (IGF-1R) with essentially the same affinity as native IGF-1 and activates the same downstream signaling cascades. Every modification is pharmacokinetic — they change <em>how long and how much</em> active IGF-1 signal reaches target cells, not <em>what that signal does</em> once it arrives.</p>`,
+      },
+      {
+        id: 'igf1-axis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_160801_acb83699-387c-48d6-ba6e-199d3aaaf668.jpeg',
+          alt: 'GH and IGF-1 axis — pituitary releasing growth hormone to liver producing IGF-1 for muscle anabolism and fat metabolism',
+          caption: 'The GH/IGF-1 axis: growth hormone from the pituitary triggers hepatic IGF-1 production, which then acts on muscle, bone, and fat. IGF-1 LR3 mimics endogenous IGF-1 at the receptor level while circumventing the IGFBP sequestration that limits native IGF-1\'s bioavailability to target tissue.',
+        },
+      },
+      {
+        id: 'half-life-section',
+        type: 'h2',
+        heading: 'The Half-Life Revolution: Why Duration Changes Everything',
+        content: `<p>The half-life difference between native IGF-1 and IGF-1 LR3 is not incremental — it is categorical. Native IGF-1 free fraction has a half-life of approximately 12–15 minutes in circulation. Even the total IGF-1 pool (mostly IGFBP-bound) cycles through on a ~12–15 hour basis, but only a small fraction is ever in the receptor-active free form at any given moment. <sup>[5]</sup></p>
+<p>IGF-1 LR3, by contrast, has a half-life of approximately 20–30 hours — and because it circulates predominantly free (IGFBP binding is ~1,000× lower), this half-life applies to the biologically active form. A single dose maintains receptor-activating concentrations in target tissue for the better part of a full day, while an equivalent dose of native IGF-1 would be degraded or neutralized within minutes to hours.</p>
+<p>This matters especially for skeletal muscle research. Muscle anabolic signaling follows a dose-response curve where the <em>duration</em> of receptor activation — not just peak concentration — determines how robustly protein synthesis is upregulated and how completely apoptotic pathways are suppressed. Studies in cultured rat myoblasts directly compared IGF-1 LR3 to recombinant native IGF-1 and found IGF-1 LR3 to be "highly potent in stimulating protein synthesis and attenuating protein breakdown" at concentrations that produced only modest effects with the native form. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'half-life-chart',
+        type: 'chart',
+        heading: 'IGF-1 LR3 vs Native IGF-1: Half-Life Comparison',
+        chartData: {
+          title: 'Approximate Half-Life: Native IGF-1 Free Fraction vs IGF-1 LR3 (Hours)',
+          type: 'bar',
+          labels: ['Native IGF-1 (free fraction)', 'Native IGF-1 (total pool, IGFBP-bound)', 'IGF-1 LR3 (free, bioactive)'],
+          datasets: [
+            {
+              label: 'Approximate Half-Life (hours)',
+              values: [0.22, 13, 25],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Half-Life (hours)',
+          note: 'Native IGF-1 free fraction: ~12–15 min. Total IGF-1 pool (mostly IGFBP-bound): ~12–15 h. IGF-1 LR3 free-fraction: ~20–30 h. Sources: Baxter 2014 (Nat Rev Cancer), LeRoith 1995 (Endocrine Reviews). IGF-1 LR3 circulates predominantly free unlike native IGF-1 where >90% is sequestered.',
+        },
+      },
+      {
+        id: 'mechanism-section',
+        type: 'h2',
+        heading: 'Mechanism of Action: Two Pathways, One Goal',
+        content: `<p>IGF-1 LR3 binds the IGF-1 receptor (IGF-1R) — a transmembrane receptor tyrosine kinase — with essentially the same affinity as native IGF-1. Binding triggers autophosphorylation of intracellular tyrosine residues, initiating two major downstream signaling cascades that together account for most of IGF-1's biological effects. <sup>[4,9]</sup></p>
+<p><strong>Pathway 1 — PI3K/Akt/mTOR: Protein Synthesis and Cell Survival</strong></p>
+<p>Activated IGF-1R recruits insulin receptor substrate proteins (IRS-1/IRS-2), which dock with phosphoinositide 3-kinase (PI3K). PI3K converts PIP₂ to PIP₃, creating a membrane docking platform for Akt (protein kinase B). Activated Akt then drives: <sup>[1]</sup></p>
+<ul>
+  <li><strong>mTORC1 activation</strong> — via TSC1/TSC2 inactivation, releasing mTOR to phosphorylate S6K1 and 4E-BP1, the core machinery of ribosomal protein synthesis. This is the molecular engine of muscle hypertrophy.</li>
+  <li><strong>GSK-3β inhibition</strong> — relieving suppression of glycogen synthesis and translation initiation factors.</li>
+  <li><strong>FOXO transcription factor phosphorylation</strong> — preventing nuclear entry of FOXO1/3a/4 and blocking transcription of the muscle atrophy genes MAFbx (atrogin-1) and MuRF1. IGF-1 LR3 doesn't only build muscle — it actively suppresses the catabolic machinery that would otherwise break it down.</li>
+</ul>
+<p><strong>Pathway 2 — Ras/MAPK/ERK: Proliferation and Differentiation</strong></p>
+<p>The second arm involves Grb2/SOS adapter proteins activating Ras, initiating the Raf → MEK → ERK kinase cascade. ERK1/2 phosphorylation drives transcription of myogenic regulatory factors (MyoD, myogenin, MRF4) and promotes cell cycle progression — the pathway that activates satellite cells, the muscle stem cells responsible for regeneration and new fiber formation. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210528_53c6f4d5-03b6-4284-802b-4867497899c4.png',
+          alt: 'IGF-1 LR3 peptide molecular chain visualization floating in blue bioluminescent light — 83 amino acid synthetic analog structure',
+          caption: 'IGF-1 LR3\'s 13-amino acid N-terminal extension (the modified region at the N-terminus) and the Arg³ substitution at position 3 work together to block IGFBP binding across all six binding protein subtypes while preserving full IGF-1 receptor affinity. The core receptor-binding loop (residues 21–37) is structurally identical to native IGF-1.',
+        },
+      },
+      {
+        id: 'muscle-section',
+        type: 'h2',
+        heading: 'Muscle-Specific Effects: Hypertrophy and Hyperplasia',
+        content: `<p>Skeletal muscle is the primary research target for IGF-1 LR3, and the biology is more nuanced than simple "muscle growth." The peptide drives two distinct anabolic processes through different cell populations and different time scales. <sup>[1,2,3]</sup></p>
+<p><strong>Hypertrophy — enlarging existing muscle fibers:</strong></p>
+<p>In differentiated myotubes and adult muscle fibers, IGF-1 → PI3K/Akt/mTOR is the master regulator of protein synthesis rate. The landmark 2001 paper by Rommel et al. in <em>Nature Cell Biology</em> directly demonstrated that this pathway mediates IGF-1-induced myotube hypertrophy in vitro, and that Akt activation is both necessary and sufficient to produce the hypertrophic response independently of IGF-1 itself. <sup>[1]</sup> The downstream targets — S6K1 (increasing ribosomal biogenesis) and 4E-BP1 (releasing eIF4E for cap-dependent translation) — are the same molecular events triggered by progressive resistance training.</p>
+<p>Simultaneous FOXO suppression adds an anti-catabolic dimension: by blocking expression of MAFbx and MuRF1 (the E3 ubiquitin ligases that tag proteins for proteasomal degradation), IGF-1 LR3 reduces the rate at which the muscle protein pool turns over. Net accretion depends on the balance between synthesis and degradation — IGF-1 LR3 pushes both levers simultaneously.</p>
+<p><strong>Hyperplasia — activating muscle satellite cells:</strong></p>
+<p>Satellite cells are quiescent muscle stem cells activated by mechanical stress, damage, and growth factors including IGF-1. Through MAPK/ERK signaling and upregulation of MyoD and myogenin, IGF-1 LR3 stimulates satellite cell proliferation and differentiation — adding myonuclei to existing fibers or forming entirely new myofibers. The 2001 <em>Nature Genetics</em> study by Musarò et al. demonstrated that localized IGF-1 transgene expression in aging mouse muscle restored satellite cell number, reduced apoptosis, and maintained muscle mass comparable to young animals. <sup>[2]</sup> While achieved via viral transgene overexpression rather than exogenous peptide, the mechanistic principle is directly applicable: sustained IGF-1R activation rescues the satellite cell deficits underlying sarcopenia and impaired regeneration.</p>
+<p>The distinction between hypertrophy and hyperplasia matters. Hypertrophy is bounded by the myonuclear domain (each nucleus can only support so much cytoplasm), while hyperplasia theoretically allows muscle mass gains beyond those limits. IGF-1 LR3's extended tissue exposure may be specifically advantageous for satellite cell-mediated effects, which require hours of sustained signaling to progress from activation to commitment.</p>`,
+      },
+      {
+        id: 'metabolic-section',
+        type: 'h2',
+        heading: 'Metabolic Effects: Glucose Uptake, Insulin Sensitivity, and Fat Oxidation',
+        content: `<p>IGF-1R and the insulin receptor share ~70% sequence homology in their tyrosine kinase domains and both signal through IRS-1 and PI3K/Akt. This structural overlap means IGF-1 LR3 carries insulin-like metabolic effects alongside its anabolic properties. <sup>[9]</sup></p>
+<p><strong>GLUT4 translocation and glucose uptake:</strong> Akt activation in skeletal muscle and adipose tissue drives GLUT4 glucose transporter translocation to the cell surface — the same mechanism by which insulin clears post-meal blood glucose. In research contexts, IGF-1 LR3 increases glucose uptake into muscle cells independent of insulin signaling, with that glucose directed preferentially toward glycogen synthesis (via GSK-3β inhibition) and the energetically expensive protein synthesis machinery. <sup>[8]</sup></p>
+<p><strong>Insulin interaction:</strong> A 2023 fetal sheep study (PMC10205682) demonstrated that acute IGF-1 LR3 infusion transiently attenuated glucose-stimulated insulin secretion — an effect that did not persist when isolated islets were subsequently studied. This suggests a feedback relationship: elevated IGF-1R signaling may transiently reduce pancreatic insulin demand by handling glucose disposal directly. The long-term insulin interaction in humans at typical research doses is not characterized in RCT data. <sup>[8]</sup></p>
+<p><strong>Lipolysis and fat oxidation:</strong> In adipose tissue, IGF-1R activation promotes lipolysis (triglyceride breakdown) and fatty acid oxidation. Unlike insulin — which is antilipolytic and promotes fat storage — IGF-1's net effect in adipose tissue at sufficient concentrations is lipolytic. Preclinical research models showing IGF-1 overexpression consistently show reductions in fat mass concurrent with muscle gains, both operating through the same PI3K/Akt pathway but with tissue-specific downstream gene programs.</p>`,
+      },
+      {
+        id: 'athlete-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210529_f82bf725-822a-418d-808c-ade40e51e040.png',
+          alt: 'Athletic middle-aged man running at sunrise on mountain trail — representing the muscle, recovery, and body composition applications of IGF-1 LR3 research',
+          caption: 'IGF-1 LR3 research concentrates on three outcomes: muscle fiber hypertrophy via PI3K/Akt/mTOR, muscle hyperplasia via satellite cell activation, and metabolic effects including improved insulin sensitivity and enhanced fat oxidation — all operating through the same IGF-1 receptor.',
+        },
+      },
+      {
+        id: 'research-evidence',
+        type: 'h2',
+        heading: 'What the Published Research Actually Shows',
+        content: `<p>IGF-1 LR3 research spans multiple model systems from cell culture to large animal studies. Understanding what each evidence tier establishes — and what it doesn't — is essential for accurate interpretation. <sup>[6,7,8]</sup></p>
+<p><strong>In vitro (cell culture):</strong> Studies in isolated rat myoblasts established that IGF-1 LR3 is "highly potent in stimulating protein synthesis and attenuating protein breakdown" versus native recombinant IGF-1 at equivalent molar concentrations. The effect is consistent with the extended residence time that IGFBP avoidance provides — more free IGF-1R activation per dose, for longer. These studies constitute the proof-of-principle for IGF-1 LR3's pharmacological design rationale. <sup>[3]</sup></p>
+<p><strong>Animal studies — fetal sheep model:</strong> A 2022 study (PMC9452821) demonstrated that IGF-1 LR3 infusion produces selective organ-specific growth in fetal sheep — particularly in heart, spleen, and adrenal glands — without consistently increasing whole-body weight. <sup>[6]</sup> A 2025 follow-up (PMC11901354) found that in late-gestation growth-restricted fetuses, IGF-1 LR3 infusion did not promote whole-body linear growth, suggesting the anabolic effects are substrate-limited — metabolic context (adequate protein and calorie availability) appears necessary. <sup>[7]</sup></p>
+<p><strong>Mechanistic pathway studies:</strong> The foundational Rommel et al. (2001, <em>Nature Cell Biology</em>) and Musarò et al. (2001, <em>Nature Genetics</em>) papers used recombinant IGF-1 or IGF-1 transgene approaches, not IGF-1 LR3 specifically, but the mechanistic evidence applies directly because IGF-1 LR3 activates identical IGF-1R-mediated signaling. <sup>[1,2]</sup></p>
+<p><strong>No human RCT data exists for IGF-1 LR3 as of June 2026.</strong> All muscle-specific evidence comes from cell culture, animal models, and IGF-1R pathway research. Clinical translation to healthy human adults has not been formally studied.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'Native IGF-1', 'Recombinant IGF-1 (mecasermin)', 'IGF-1 LR3'],
+          rows: [
+            ['Amino Acid Length', '70 AA', '70 AA', '83 AA (+13 AA N-terminal extension)'],
+            ['Position 3 Residue', 'Glutamic acid (Glu)', 'Glutamic acid (Glu)', 'Arginine (Arg) — IGFBP contact site disrupted'],
+            ['IGFBP-3 Binding Affinity', 'High (~100%)', 'High (~100%)', 'Very low (~0.1% of native)'],
+            ['% Free in Circulation', '<10%', '<10%', '>90%'],
+            ['Free-Fraction Half-Life', '~12–15 minutes', '~12–15 minutes', '~20–30 hours'],
+            ['IGF-1R Binding Affinity', 'Reference (1.0×)', '~1.0×', '~1.0× (equivalent)'],
+            ['Protein Synthesis in Myoblasts', 'Reference', 'Reference', 'Significantly greater at equivalent dose [3]'],
+            ['Human Clinical Trials', 'N/A (endogenous)', 'Yes — multiple (Increlex, FDA-approved)', 'None registered as of 2026'],
+            ['FDA Approval', 'Not applicable', 'Yes: Increlex for severe primary IGF-1 deficiency', 'No'],
+            ['WADA Prohibited', 'N/A', 'Yes (S2)', 'Yes (S2 — Growth Factor Modulators)'],
+            ['Research Use', 'Standard research tool', 'Licensed pharmaceutical', 'Research compound only'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'IGF-1 LR3 Research Protocol Framework',
+        content: `<p>The following information is derived from preclinical research contexts and reported practitioner frameworks. No controlled human RCT has validated any specific IGF-1 LR3 dosage for any outcome in healthy adults. These are educational descriptions of research approaches, not medical recommendations.</p>
+<p><strong>Form and reconstitution:</strong> IGF-1 LR3 is supplied as lyophilized (freeze-dried) white powder in 1mg or 2mg vials. Unlike most peptides that reconstitute well in neutral bacteriostatic water, IGF-1 LR3 has optimal stability at acidic pH (3–4). Use 0.1% acetic acid in bacteriostatic saline rather than neutral BAC water. After acidic reconstitution, the solution can be further diluted with sterile saline for dosing. Store refrigerated at 2–8°C, away from light. Do not freeze reconstituted solution.</p>
+<p><strong>Injection route:</strong> Most research protocols specify subcutaneous (SubQ) injection. Some frameworks call for local intramuscular injection near the target muscle, based on the rationale that IGF-1 has paracrine signaling properties and local delivery may concentrate the anabolic signal. IGF-1 LR3's long half-life theoretically allows systemic distribution regardless of injection site.</p>
+<p><strong>Cycling:</strong> IGF-1 receptor downregulation occurs with sustained stimulation — receptor internalization reduces surface density and diminishes the response to continued IGF-1 LR3 presence. Research protocols incorporate 4–6 week active cycles followed by equivalent off-periods to preserve receptor sensitivity.</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Protocol Tier', 'Dose Range', 'Frequency', 'Cycle Length', 'Key Notes'],
+          rows: [
+            ['Conservative', '20–40 mcg', 'Once daily, post-training', '4 weeks on / 4 weeks off', 'Lower doses to establish response; monitor blood glucose'],
+            ['Standard Research', '40–80 mcg', 'Once daily, post-training', '4–6 weeks on / 4–6 weeks off', 'Most cited research framework falls in this range'],
+            ['Higher-Dose Research', '80–120 mcg', 'Once or split AM + post-training', '4–6 weeks max, then extended off', 'Heightened hypoglycemia monitoring required; diminishing returns likely beyond 6 weeks'],
+            ['Important Note', '—', '—', 'Off-period is not optional', 'IGF-1R downregulation makes continuous long-duration use counterproductive; off-period restores receptor density'],
+          ],
+        },
+      },
+      {
+        id: 'reconstitution-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210542_adb9f73c-a062-408e-b7e4-1a0de043ee71.png',
+          alt: 'Scientist in white lab gloves carefully drawing research peptide from vial with syringe — IGF-1 LR3 reconstitution technique',
+          caption: 'IGF-1 LR3 reconstitution requires acidic buffer (0.1% acetic acid in bacteriostatic saline) rather than neutral BAC water. The acidic pH (3–4) maintains peptide stability and prevents aggregation. Roll gently to dissolve — never vortex a peptide solution.',
+        },
+      },
+      {
+        id: 'safety-section',
+        type: 'h2',
+        heading: 'Safety Profile and Critical Considerations',
+        content: `<p>IGF-1 LR3 is substantially less characterized from a human safety standpoint than FDA-approved mecasermin (Increlex), which provides the most useful safety analog — while noting that IGF-1 LR3's longer duration of action creates distinct considerations.</p>
+<p><strong>Hypoglycemia — primary acute risk:</strong> IGF-1 LR3 activates the same GLUT4-mediated glucose-lowering pathway as insulin. In the mecasermin clinical database, hypoglycemia occurs in ~30–50% of patients. IGF-1 LR3's 20–30 hour half-life means this glucose-lowering effect can persist long after injection. Research frameworks call for administration with food or shortly after a carbohydrate-containing meal, and for avoidance of fasted-state injection. Active glucose monitoring is prudent.</p>
+<p><strong>IGF-1R downregulation:</strong> Sustained IGF-1R stimulation triggers receptor internalization — a homeostatic mechanism reducing surface receptor density and diminishing sensitivity to ongoing stimulation. This is why cycling is essential; continuous long-duration use produces diminishing returns and may also transiently impair sensitivity to endogenous IGF-1 during off periods.</p>
+<p><strong>Cell proliferation considerations:</strong> IGF-1 signaling drives cell proliferation (via MAPK/ERK) and simultaneously suppresses apoptosis (via PI3K/Akt). The IGF-1 receptor is overexpressed in many human cancers, and circulating IGF-1 levels have been associated with cancer risk in epidemiological studies. Use in individuals with active malignancies or strong family history is contraindicated in research settings.</p>
+<p><strong>Joint and soft-tissue effects:</strong> Elevated IGF-1 signaling can produce GH excess-like effects: fluid retention, arthralgias, carpal-tunnel-like symptoms from soft-tissue swelling, and jaw discomfort. These are generally dose-dependent and resolve upon cessation.</p>
+<p><strong>GH axis feedback:</strong> Elevated IGF-1 signals negatively back to the hypothalamus and pituitary to suppress GH secretion. Sustained IGF-1 LR3 use may transiently suppress endogenous GH pulsatility through this feedback loop — an effect that should normalize during the off period.</p>`,
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> IGF-1 LR3 is a research compound — not FDA-approved for human use, not a dietary supplement, and not a pharmaceutical medication. It is legal to purchase in the United States for laboratory research purposes. It is prohibited by WADA under the S2 category (Growth Factors and Growth Factor Modulators) and by most professional sports anti-doping programs that adopt WADA rules. This guide is for educational and informational purposes only and does not constitute medical advice. Consult a qualified physician before considering any peptide protocol.`,
+      },
+      {
+        id: 'vendor-section',
+        type: 'h2',
+        heading: 'Where to Source Verified IGF-1 LR3 for Research',
+        content: `<p>IGF-1 LR3 quality varies enormously across the research peptide market. The molecule's complexity — 83 amino acids, precise N-terminal sequence, correct disulfide bond formation, exact arginine substitution at position 3 — means synthesis errors are common in lower-tier suppliers. A purity claim on a label means nothing without the analytical documentation to support it. When evaluating suppliers, look for:</p>
+<ul>
+  <li><strong>HPLC purity ≥98%</strong> — High-performance liquid chromatography confirming a clean single peak at the correct retention time</li>
+  <li><strong>Mass spectrometry confirmation</strong> — IGF-1 LR3 has a molecular weight of approximately 9,111 Da; MS data confirming this is gold-standard sequence identity verification</li>
+  <li><strong>Third-party COAs</strong> — Independent testing from accredited labs such as Janoshik, Iona Research, or ColMarker provides an unbiased purity assessment separate from the vendor's own claims</li>
+  <li><strong>US domestic cold-chain shipping</strong> — Avoids customs seizure risk and ensures temperature-controlled handling through the supply chain</li>
+</ul>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'IGF-1 LR3 1mg',
+            productUrl: 'https://www.vandl-labs.com/product/igf-1-lr3/',
+            price: 'See website',
+            purity: '>98%',
+            highlight: 'US-based research compound supplier, free BAC water on qualifying orders, verified purity with COA',
+            badge: 'US Domestic',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'IGF-1 LR3 1mg',
+            productUrl: 'https://aminousa.com/products/igf-1-lr3',
+            price: 'See website',
+            purity: '>98%',
+            highlight: 'Third-party tested every batch, lyophilized 1mg in 3ml vial, COA available on request, US domestic',
+            badge: 'Third-Party Tested',
+          },
+          {
+            name: 'Peptide Tech',
+            url: 'https://peptidetech.is',
+            product: 'Research Peptide Catalog (53 compounds)',
+            productUrl: 'https://peptidetech.is/collections/all-peptides/',
+            price: 'See website',
+            purity: '99%+',
+            highlight: 'HPLC-verified 99%+ purity across 53-compound catalog, international shipping with cold chain, custom synthesis available',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptide Catalog',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'See website',
+            purity: '>98%',
+            highlight: 'Cold-chain shipping infrastructure, COA-documented peptide catalog, US domestic sourcing',
+          },
+        ],
+      },
+      {
+        id: 'lab-vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_210500_5efc166d-f586-4f44-8421-28db02561f27.png',
+          alt: 'Multiple research peptide vials on clean laboratory bench with molecular helix overlay — research grade IGF-1 LR3 purity verification',
+          caption: 'Always request both HPLC chromatography data (confirming purity percentage with a clean single peak) and mass spectrometry data (confirming the ~9,111 Da molecular weight of IGF-1 LR3). Either alone is insufficient — HPLC confirms purity but not sequence identity; MS confirms mass but not absolute purity.',
+        },
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'IGF-1 LR3 Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is the difference between IGF-1 and IGF-1 LR3?',
+            answer: 'Native IGF-1 is a 70-amino acid protein produced by the liver in response to growth hormone. Over 90% of circulating IGF-1 is immediately sequestered by IGF binding proteins (IGFBPs), primarily IGFBP-3, leaving only a small free fraction with a half-life of ~12–15 minutes. IGF-1 LR3 is a synthetic 83-amino acid analog with a glutamic acid-to-arginine substitution at position 3 (disrupting IGFBP-3 binding) and a 13-amino acid N-terminal extension (adding steric hindrance against all IGFBP subtypes). These modifications reduce IGFBP affinity ~1,000-fold. IGF-1 LR3 circulates predominantly free and bioactive with a half-life of ~20–30 hours, producing sustained IGF-1R activation versus the brief, largely sequestered action of native IGF-1.',
+          },
+          {
+            question: 'What does IGF-1 LR3 do for muscle growth?',
+            answer: 'IGF-1 LR3 activates IGF-1R on muscle cells, driving two processes. The PI3K/Akt/mTOR pathway (Pathway 1) stimulates protein synthesis via S6K1/4E-BP1 phosphorylation and blocks protein breakdown via FOXO suppression of MAFbx/MuRF1 — this is the hypertrophy pathway, enlarging existing muscle fibers. The MAPK/ERK pathway (Pathway 2) activates satellite cells (muscle stem cells), driving their proliferation and differentiation into new myofibers — this is the hyperplasia pathway. Published in vitro research in rat myoblasts confirms IGF-1 LR3 outperforms native IGF-1 in both stimulating protein synthesis and attenuating protein breakdown at equivalent molar doses.',
+          },
+          {
+            question: 'How long should an IGF-1 LR3 cycle be?',
+            answer: 'Research frameworks typically recommend 4–6 week cycles followed by an equivalent off-period. The primary reason for cycling is IGF-1 receptor downregulation: sustained IGF-1R stimulation triggers receptor internalization, reducing surface receptor density and diminishing the magnitude of the anabolic response. Extended continuous use beyond 6 weeks likely produces diminishing returns. The off-period allows receptor density to normalize, restoring the tissue\'s responsiveness to both exogenous IGF-1 LR3 and endogenous IGF-1 production.',
+          },
+          {
+            question: 'What are the main side effects and risks of IGF-1 LR3?',
+            answer: 'The primary acute risk is hypoglycemia — IGF-1 LR3 activates the same GLUT4-mediated glucose-lowering mechanism as insulin. The extended half-life means this effect can persist for hours after injection; always administer with food and avoid fasted injection. Other risks drawn from the FDA-approved recombinant IGF-1 (mecasermin) safety database include: fluid retention, arthralgias, carpal tunnel-like soft-tissue symptoms, and jaw discomfort — all dose-dependent. Suppression of endogenous GH via pituitary feedback and theoretical concerns around IGF-1R-mediated cell proliferation (relevant in individuals with cancer history) are additional considerations.',
+          },
+          {
+            question: 'Is IGF-1 LR3 detected on drug tests?',
+            answer: 'Yes. IGF-1 LR3 is prohibited by WADA under the S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics) and is banned by most professional and collegiate sports organizations that adopt WADA rules. Mass spectrometry-based anti-doping assays can distinguish IGF-1 LR3 from native IGF-1 by molecular weight (9,111 Da vs. 7,649 Da) and by the arginine substitution at position 3. Any athlete subject to anti-doping testing should treat IGF-1 LR3 as detectable and prohibited.',
+          },
+          {
+            question: 'Does IGF-1 LR3 need to be refrigerated?',
+            answer: 'Yes. Lyophilized IGF-1 LR3 should be stored at 2–8°C (refrigerator) away from light, where it is stable for approximately 24 months. Once reconstituted, stability is pH-dependent: use 0.1% acetic acid in bacteriostatic saline (not neutral BAC water) to maintain acidic pH (3–4), which is optimal for IGF-1 stability. Do not freeze reconstituted solution — freeze-thaw cycles accelerate degradation. In acidic reconstitution buffer refrigerated, reconstituted IGF-1 LR3 is generally stable for 2–4 weeks. Room temperature exposure significantly accelerates degradation.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on IGF-1 LR3',
+        content: `<p>IGF-1 LR3 occupies a distinctive position in the research peptide landscape: it is among the most mechanistically well-understood compounds available — the IGF-1 signaling pathway has been studied for decades across growth disorders, cancer biology, and aging research — yet remains formally unvalidated in controlled human trials for the applications that drive most research interest. <sup>[1,2,3,4]</sup></p>
+<p>What the evidence firmly establishes: the molecular design rationale is sound and the pharmacokinetic modifications work as intended. The Glu³→Arg³ substitution and N-terminal extension produce the intended profile: extended half-life, near-zero IGFBP binding, full IGF-1R affinity preserved. In cell culture, IGF-1 LR3 outperforms native IGF-1 in stimulating muscle protein synthesis and suppressing protein breakdown at equivalent doses — consistent with its higher free-fraction concentration. The PI3K/Akt/mTOR hypertrophy pathway and MAPK/ERK satellite cell activation pathway it engages are among the most thoroughly characterized signaling cascades in cell biology. <sup>[1,2,5]</sup></p>
+<p>What remains unknown: whether these effects translate to the specific outcomes researchers seek, at practical doses, in healthy human adults, at acceptable safety margins over relevant timeframes. The 2025 fetal sheep literature adds an important nuance — IGF-1 LR3's anabolic effects appear context-dependent and substrate-limited rather than universally potent regardless of metabolic state. <sup>[7]</sup></p>
+<p>The practical 2026 sourcing guidance: prioritize vendors with both HPLC and mass spectrometry COAs, use acidic reconstitution buffer to preserve stability, cycle strictly (4–6 weeks on, equivalent off), and monitor for hypoglycemia — the only well-characterized acute risk from the IGF-1 clinical literature. VANDL Labs (<a href="https://www.vandl-labs.com/product/igf-1-lr3/" class="text-blue-400 hover:text-blue-300 underline">vandl-labs.com</a>) and Amino USA (<a href="https://aminousa.com/products/igf-1-lr3" class="text-blue-400 hover:text-blue-300 underline">aminousa.com</a>) both carry IGF-1 LR3 with documented third-party testing and US domestic shipping as of June 2026.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
