@@ -4754,6 +4754,453 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'bpc-157-fda-2026-regulatory-guide',
+    title: 'BPC-157 FDA Update 2026: Category 2 Removed, PCAC Vote July 23–24 — What Researchers Need to Know',
+    excerpt:
+      'In April 2026, the FDA quietly removed BPC-157 from its Category 2 "do not compound" list — and now a July 23–24 advisory committee vote could make it legally compoundable for the first time since 2023. Here is exactly what changed, what the science shows, and what comes next.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Research & Regulation',
+    tags: ['BPC-157', 'FDA 2026', '503A Compounding', 'PCAC Vote', 'Peptide Regulation', 'Healing', 'Regulatory Update', 'Research Peptides'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_070554_46fe4a30-f9e0-463e-bb3f-e887234dc4a5.png',
+    heroImageAlt: 'BPC-157 peptide research vials in laboratory with FDA regulatory documents and molecular visualization — 2026 regulatory update',
+    metaTitle: 'BPC-157 FDA 2026: Category 2 Removed, PCAC Vote July 23–24 — Researcher Guide',
+    metaDescription:
+      'BPC-157 was removed from FDA Category 2 in April 2026. A PCAC vote on July 23–24 could make it legally compoundable. Complete guide: what changed, the science, protocols, and where to source verified BPC-157 in 2026.',
+    keywords: [
+      'BPC-157 FDA 2026',
+      'BPC-157 legal status 2026',
+      'BPC-157 FDA update',
+      'BPC-157 503A compounding',
+      'BPC-157 PCAC vote',
+      'BPC-157 Category 2 removed',
+      'peptide compounding law 2026',
+      'BPC-157 regulatory',
+      'is BPC-157 legal 2026',
+      'BPC-157 research 2026',
+      'peptide FDA ruling 2026',
+      'BPC-157 July 2026',
+      'compounding pharmacy peptides 2026',
+      'BPC-157 where to buy 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-fda-2026-regulatory-guide',
+    relatedPeptides: ['bpc-157', 'tb-500'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'BPC-157 FDA 2026',
+      secondaryKeywords: ['BPC-157 legal status 2026', 'BPC-157 503A compounding', 'PCAC vote July 2026'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Rucker D, Danan D, Price F, Lavan MN, Finch K',
+        title: 'Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study',
+        journal: 'Alternative Therapies in Health and Medicine',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40131143/',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, Turkovic B, Rokotov DS, Brcic L, Sever M, Klicek R',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21827393/',
+        doi: '10.2174/138161211797361452',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Tkalcevic VI, Cuzic S, Brajsa K, Mildner B, Bokulic A, Situm K, Perovic D, Sedic M, Pavelic SK, Parnham MJ',
+        title: 'Enhancement by PL 14736 of granulation and growth of the experimental wound in the rat',
+        journal: 'European Journal of Pharmacology',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17320076/',
+        doi: '10.1016/j.ejphar.2007.01.033',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Gorkic M, Brcic L, Brcic I, Drmic D, Sikiric P',
+        title: 'From Regeneration to Analgesia: The Role of BPC-157 in Tissue Repair and Pain Management',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2026,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13026520/',
+        doi: '10.3390/ijms27062876',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'McGuire A, Herridge MS, Leaver SK, Lapinsky SE',
+        title: 'Regeneration or Risk? A Narrative Review of BPC-157 for Musculoskeletal Healing',
+        journal: 'PMC — Narrative Review',
+        year: 2026,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Vasireddi N, Hahamyan H, Salata MJ, Karns M, Calcei JG, Voos JE, Apostolakos JM',
+        title: 'Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review',
+        journal: 'Orthopaedic Journal of Sports Medicine',
+        year: 2025,
+        url: 'https://journals.sagepub.com/doi/abs/10.1177/15563316251355551',
+        doi: '10.1177/15563316251355551',
+        type: 'systematic_review',
+      },
+      {
+        id: 7,
+        authors: 'U.S. Food & Drug Administration',
+        title: 'Pharmacy Compounding Advisory Committee Meeting — July 23–24, 2026: Bulk Drug Substances Under Section 503A',
+        journal: 'FDA.gov',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Frier Levitt Government Relations',
+        title: 'FDA to Remove 12 Popular Peptides from the Category 2 "Do Not Compound" List',
+        journal: 'Frier Levitt — FDA Peptide Update',
+        year: 2026,
+        url: 'https://www.frierlevitt.com/articles/fda-peptides-do-not-compound-list-update-2026/',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'PCO-02 (BPC-157) Phase I Safety and Pharmacokinetics Study — NCT02637284',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02637284',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p><strong>BPC-157 is entering its most consequential regulatory moment since the 2023 compounding ban.</strong> On April 22, 2026, the FDA quietly removed BPC-157 from its Category 2 bulk drug substances list — the list that had effectively barred compounding pharmacies from preparing it. Three months later, on July 23–24, 2026, the FDA's Pharmacy Compounding Advisory Committee (PCAC) will vote on whether to formally add BPC-157 to the approved 503A bulks list, which would make it legally compoundable via prescription for the first time. This guide breaks down exactly what changed, what the vote means, what the science actually shows, and where researchers can source verified BPC-157 in 2026.</p>`,
+      },
+      {
+        id: 'april-removal',
+        type: 'h2',
+        heading: 'April 22, 2026: The Day BPC-157 Exited the FDA\'s "Do Not Compound" List',
+        content: `<p>Since 2023, BPC-157 had sat in the FDA's Category 2 bucket for 503A bulk drug substances — the regulatory equivalent of a red "do not compound" stamp. Category 2 is the list of substances the FDA has determined present significant safety risks or lack the data needed for safe compounding. Being on it meant compounding pharmacies could not lawfully include BPC-157 in any preparation, regardless of whether a physician wanted to prescribe it.<sup>[7,8]</sup></p>
+<p>Then, on April 22, 2026, the FDA published a Federal Register notice removing BPC-157 — both its acetate and free base forms — from Category 2. The reason was procedural rather than scientific: the parties who had originally nominated BPC-157 for Category 2 review formally withdrew their nominations. Under the FDA's 503A framework, withdrawal of a nomination triggers removal from Category 2.</p>
+<p>Critically, removal from Category 2 does <em>not</em> move BPC-157 to Category 1 (approved for compounding). It creates a regulatory limbo: BPC-157 is no longer explicitly prohibited, but it also isn't explicitly approved. That's where the July 2026 PCAC vote comes in.</p>`,
+      },
+      {
+        id: 'fda-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_070611_00f9f6c1-5627-4927-9664-fa782f5b8c1c.jpeg',
+          alt: 'FDA advisory committee hearing room with regulatory documents — PCAC meeting July 2026 for BPC-157 compounding review',
+          caption: 'The FDA\'s Pharmacy Compounding Advisory Committee (PCAC) will convene July 23–24, 2026 to vote on seven peptides including BPC-157. The outcome determines whether compounding pharmacies can legally prepare BPC-157 for individual patient prescriptions.',
+        },
+      },
+      {
+        id: '503a-framework',
+        type: 'h2',
+        heading: 'The 503A Compounding Framework Explained',
+        content: `<p>The FDA's 503A bulk drug substances framework governs what active pharmaceutical ingredients (APIs) traditional compounding pharmacies can legally use when preparing medications for individual patients. Understanding it is essential to interpreting what the April removal and July vote actually mean.<sup>[7]</sup></p>
+<p><strong>Category 1 (Approved Bulks List):</strong> Substances the FDA has evaluated and approved for use in compounding under Section 503A. A compounding pharmacy can legally prepare medications using these with a valid patient prescription. This is the "green light" category.</p>
+<p><strong>Category 2 (Do Not Compound List):</strong> Substances identified as presenting significant safety risks or lacking sufficient evidence for safe compounding. Explicitly prohibited for use by 503A pharmacies. BPC-157 was in this category from 2023 to April 22, 2026.</p>
+<p><strong>Nominated But Not Reviewed:</strong> Substances that have been nominated for the bulks list but haven't completed the review process. BPC-157's current status after its April Category 2 removal is effectively here — it exists in enforcement discretion territory pending the PCAC recommendation.</p>
+<p>The pathway from BPC-157's current limbo to Category 1 runs directly through the July 23–24 PCAC meeting. A positive vote by the advisory committee creates the recommendation the FDA needs to formally add BPC-157 to the approved bulks list.</p>`,
+      },
+      {
+        id: 'peptides-table',
+        type: 'table',
+        heading: 'The 7 Peptides Under PCAC Review — July 23–24, 2026',
+        tableData: {
+          headers: ['Peptide', 'Primary Research Application', 'Published Human Studies', 'Animal Studies (Est.)', 'PCAC Status'],
+          rows: [
+            ['BPC-157', 'Gut healing, tendon/ligament repair, wound healing', '3 (pilot)', '400+', 'Under Review'],
+            ['TB-500 (Tβ4 fragment)', 'Soft-tissue repair, angiogenesis, cardiac healing', '2 (pilot) + 1 Phase II enrolling', '200+', 'Under Review'],
+            ['KPV', 'Anti-inflammatory, gut IBD, wound healing', '1 (topical)', '50+', 'Under Review'],
+            ['MOTS-c', 'Metabolic regulation, longevity, exercise mimetic', '2 (metabolic)', '80+', 'Under Review'],
+            ['Emideltide (DSIP)', 'Sleep quality, delta-wave induction, stress response', '8 (sleep/stress)', '60+', 'Under Review'],
+            ['Epitalon', 'Telomere elongation, melatonin regulation, longevity', '3 (aging/oncology)', '40+', 'Under Review'],
+            ['Semax', 'Cognitive enhancement, neuroprotection, BDNF upregulation', '12+ (Russia-approved)', '100+', 'Under Review'],
+          ],
+        },
+      },
+      {
+        id: 'pcac-vote',
+        type: 'h2',
+        heading: 'The July 23–24 PCAC Meeting: What\'s at Stake',
+        content: `<p>The Pharmacy Compounding Advisory Committee (PCAC) is an independent FDA advisory body composed of pharmacologists, pharmacists, physicians, and patient representatives. Its role is to evaluate the evidence for bulk drug substances and make non-binding recommendations to the FDA on whether each substance should be placed on the 503A approved bulks list.<sup>[7]</sup></p>
+<p>The July 23–24 meeting is structured around two core questions the committee will evaluate for each of the seven peptides:</p>
+<ul>
+<li><strong>Clinical need:</strong> Is there a patient population with a medical need that this substance could address, where FDA-approved alternatives are inadequate or unavailable?</li>
+<li><strong>Safety and effectiveness:</strong> Does the available evidence support that the substance can be safely and effectively compounded?</li>
+</ul>
+<p><strong>If the PCAC votes favorably for BPC-157:</strong> The FDA could formally add it to the 503A Category 1 approved bulks list. This would allow licensed compounding pharmacies across the US to prepare BPC-157 under individual patient prescriptions for the first time since 2023. Physicians who want to prescribe it could do so through a compounding pharmacy — a major expansion of legitimate clinical access.</p>
+<p><strong>If the PCAC votes against:</strong> BPC-157 could remain in limbo or be re-placed on Category 2. The research community would continue accessing it through Research Use Only (RUO) suppliers rather than through prescription compounding pharmacies.</p>
+<p>The PCAC recommendation is advisory — the FDA is not bound by it. But historically, the FDA has followed PCAC recommendations in the majority of cases, making the July vote highly predictive of BPC-157's near-term regulatory trajectory.</p>`,
+      },
+      {
+        id: 'callout-distinction',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Critical Distinction: 503A Listing ≠ FDA Drug Approval',
+        content: `<p>A positive PCAC vote and subsequent 503A Category 1 listing would mean BPC-157 can be <em>compounded</em> by licensed pharmacies under individual prescriptions. It does <strong>not</strong> mean BPC-157 has received FDA drug approval (NDA or BLA). These are entirely different pathways. FDA approval requires Phase III randomized controlled trials and a formal new drug application — a process that typically takes 10–15 years and hundreds of millions of dollars. A 503A listing is a lower evidentiary bar specifically for compounding pharmacy access. Both pathways expand patient access; only FDA drug approval creates a commercially marketed drug product with full regulatory standing.</p>`,
+      },
+      {
+        id: 'science-intro',
+        type: 'h2',
+        heading: 'The Science the PCAC Committee Will Evaluate',
+        content: `<p>BPC-157's regulatory journey is inseparable from its unusual evidence profile: an enormous body of preclinical animal research spanning over three decades, and a remarkably thin human clinical trial record. The PCAC committee will have to weigh the depth of the animal evidence against the scarcity of human data when forming its recommendation.<sup>[4,5,6]</sup></p>`,
+      },
+      {
+        id: 'healing-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_070611_439f0b64-acef-425c-b8cc-9034f38a93f2.jpeg',
+          alt: 'BPC-157 molecular healing mechanism — peptide binding to tendon tissue with VEGF-driven angiogenesis and collagen regeneration visualization',
+          caption: 'BPC-157 acts through multiple converging repair pathways: VEGF upregulation drives angiogenesis (new blood vessel formation), while Akt-eNOS signaling produces cytoprotective nitric oxide and ERK1/2 activation promotes fibroblast proliferation and collagen synthesis.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h3',
+        heading: 'How BPC-157 Works: Multiple Converging Pathways',
+        content: `<p>BPC-157 is a pentadecapeptide — a 15-amino acid synthetic fragment derived from the Body Protection Compound found in human gastric juice. Its discovery is attributed to Dr. Predrag Sikiric's research group at the University of Zagreb, where it has been studied for over 30 years.<sup>[2]</sup></p>
+<p>Unlike many research peptides that target a single receptor, BPC-157 activates multiple overlapping repair cascades simultaneously:</p>
+<ul>
+<li><strong>VEGF/VEGFR2 pathway:</strong> BPC-157 upregulates vascular endothelial growth factor (VEGF) and its receptor VEGFR2, directly driving angiogenesis — the formation of new blood vessels essential for tissue repair. This is one of its most reproducible effects across preclinical models.<sup>[3,4]</sup></li>
+<li><strong>Akt-eNOS pathway:</strong> Activation of the PI3K/Akt signaling cascade leads to endothelial nitric oxide synthase (eNOS) phosphorylation, producing cytoprotective nitric oxide that protects cells from oxidative damage during injury repair.</li>
+<li><strong>ERK1/2 signaling:</strong> BPC-157 activates extracellular signal-regulated kinases 1 and 2, promoting fibroblast proliferation and migration into damaged tissue — critical for collagen synthesis and structural repair of tendons and ligaments.<sup>[4]</sup></li>
+<li><strong>GH receptor sensitization:</strong> Animal data suggests BPC-157 upregulates growth hormone receptor expression, amplifying the tissue-repair signaling of endogenous growth hormone at injury sites.</li>
+<li><strong>FAK/Paxillin modulation:</strong> BPC-157 influences focal adhesion kinase and paxillin pathways involved in cell adhesion and migration, facilitating the organized movement of repair cells to injured tissue.</li>
+</ul>
+<p>This multi-pathway mechanism is likely why BPC-157 shows effects across such diverse tissue types — gut mucosa, tendons, ligaments, bone, muscle, and neural tissue all appear responsive in animal models.<sup>[5]</sup></p>`,
+      },
+      {
+        id: 'animal-evidence',
+        type: 'h3',
+        heading: '400+ Animal Studies: The Preclinical Backbone',
+        content: `<p>The published preclinical literature on BPC-157 is unusually deep for a research peptide. Over 400 peer-reviewed animal studies have documented its effects, primarily from rodent models using rats and mice. The breadth of applications studied is remarkable: Achilles tendon transection, colitis, fistula healing, bone defects, spinal cord injury, traumatic brain injury, peripheral nerve damage, alcohol-induced liver damage, and even NSAID-induced organ toxicity.<sup>[2,4,5]</sup></p>
+<p>The consistency across independent research groups is notable — while the Sikiric laboratory at Zagreb University accounts for a majority of publications, replications by other groups have produced similar findings for core effects including angiogenesis, anti-inflammatory action, and accelerated tendon-to-bone healing in rodent models.<sup>[6]</sup></p>
+<p>The most important limitation: rodent pharmacology does not always translate to human biology. BPC-157 shows dramatically faster healing in animal models than would be expected in humans. The dose-response curves from rodent studies should not be directly extrapolated to human dosing — which is precisely why the limited human data is so critical for the PCAC evaluation.</p>`,
+      },
+      {
+        id: 'human-studies',
+        type: 'h3',
+        heading: 'The 3 Published Human Studies: A Thin but Meaningful Record',
+        content: `<p>As of June 2026, only three peer-reviewed human studies on BPC-157 have been published — a striking contrast to the 400+ animal studies. This evidence gap is the central challenge for BPC-157's regulatory progress and the core issue the PCAC must grapple with.<sup>[1,5,6]</sup></p>`,
+      },
+      {
+        id: 'human-studies-table',
+        type: 'table',
+        heading: 'Published Human Studies on BPC-157 (All Available as of June 2026)',
+        tableData: {
+          headers: ['Study', 'Year', 'Design', 'N', 'Key Finding', 'Limitation'],
+          rows: [
+            ['IV Safety & PK Pilot (Rucker et al.)', '2025', 'Open-label safety pilot', '2', 'IV infusion up to 20 mg was well-tolerated; no adverse events observed', 'No placebo; n=2'],
+            ['Interstitial Cystitis (Intravesical)', '2024', 'Uncontrolled pilot', '12', '80–100% symptom resolution with bladder-wall BPC-157 injection', 'No control arm; short follow-up'],
+            ['Knee Osteoarthritis / Pain', '2021', 'Observational pilot', '16', '87.5% of patients reported significant pain relief at 6–12 months', 'No randomization; no placebo'],
+          ],
+        },
+      },
+      {
+        id: 'evidence-chart',
+        type: 'chart',
+        chartData: {
+          title: 'BPC-157 Research Evidence Base (2026)',
+          type: 'bar',
+          labels: ['Animal Studies (All Types)', 'Human Studies (Published)', 'Registered Clinical Trials', 'Completed Phase II+ Trials'],
+          datasets: [
+            {
+              label: 'Number of Studies',
+              values: [412, 3, 1, 0],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Count',
+          note: 'Source: PubMed, ClinicalTrials.gov, PMC. As of June 2026. Animal studies include all preclinical rodent and cell-culture models. Registered trial NCT02637284 was cancelled without results.',
+        },
+      },
+      {
+        id: 'legal-status-2026',
+        type: 'h2',
+        heading: 'Research Use Status in 2026: What\'s Legal for Researchers',
+        content: `<p>The April 2026 Category 2 removal and the upcoming PCAC vote affect the <em>compounding pharmacy pathway</em> to BPC-157 — but they do not change its status as a Research Use Only (RUO) compound. This distinction matters enormously for researchers.<sup>[7,8]</sup></p>
+<p><strong>What RUO means:</strong> BPC-157 is legally purchasable as a research chemical from licensed research reagent suppliers operating under RUO status. This means the compound is manufactured, labeled, and sold for laboratory research and investigational use — not for human administration. The FDA does not regulate the purchase or possession of RUO compounds by researchers, and no prescription is required to purchase them.</p>
+<p><strong>What did not change in April 2026:</strong> The Category 2 removal and the pending PCAC vote have no impact on RUO access. Researchers who were purchasing BPC-157 from RUO suppliers before April 2026 can continue to do so under the same framework.</p>
+<p><strong>What could change after July 2026:</strong> A positive PCAC recommendation followed by FDA 503A Category 1 listing would create a <em>parallel</em> access pathway through licensed compounding pharmacies. Physicians could then prescribe BPC-157 as a compounded medication, and compounding pharmacies could prepare it legally. This would be a major expansion of clinical access that does not displace the existing RUO research pathway.</p>`,
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'Research Use Only Disclaimer',
+        content: `<p>BPC-157 is available from the vendors listed below as a research chemical intended for in vitro testing and laboratory experimentation. It is not approved by the FDA for human consumption. The research protocols discussed in this article are derived from preclinical data and limited human pilot studies — they do not constitute medical advice, individualized treatment recommendations, or prescriptions. Researchers should consult applicable regulations in their jurisdiction before working with research chemicals.</p>`,
+      },
+      {
+        id: 'recovery-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_070728_34379aae-b4d7-4176-a5d1-cf530b0275e9.png',
+          alt: 'Athlete recovering from knee injury in physical therapy clinic — representing tissue regeneration research applications of BPC-157',
+          caption: 'Musculoskeletal applications — tendon, ligament, and joint repair — represent the most active area of BPC-157 research interest. A 2025 systematic review in the Orthopaedic Journal of Sports Medicine screened 544 articles and found 35 preclinical studies consistently demonstrating accelerated structural healing in animal models.',
+        },
+      },
+      {
+        id: 'protocols',
+        type: 'h2',
+        heading: 'BPC-157 Research Protocols: What\'s Being Studied',
+        content: `<p>Research protocols for BPC-157 are derived from the animal study literature and the three published human pilot studies. No randomized controlled human trial has validated specific dosing parameters, so all protocols in current use represent investigator-derived frameworks based on preclinical data scaled to human equivalents.<sup>[1,2,6]</sup></p>
+<p>Two administration routes are studied: subcutaneous (SubQ) injection, which produces systemic distribution, and oral administration (capsules or solution), which appears to have gut-specific effects even with low oral bioavailability — a finding specific to BPC-157 that is not well-explained mechanistically but has been replicated in multiple rodent models of IBD and leaky gut.<sup>[2,4]</sup></p>
+<p>The subcutaneous route is preferred for systemic applications (tendon healing, systemic anti-inflammatory). Injection near the injury site, when anatomically accessible, is a common approach in research settings based on animal data showing enhanced local effects with proximal injection.<sup>[3,5]</sup></p>`,
+      },
+      {
+        id: 'protocol-section',
+        type: 'protocol',
+        heading: 'BPC-157 Research Protocol Framework',
+        protocol: {
+          title: 'Investigator-Derived Dosing Framework (Not Medical Advice)',
+          phases: [
+            {
+              name: 'Standard Research Loading',
+              duration: 'Weeks 1–4',
+              bpc157: '250 mcg twice daily (SubQ)',
+              tb500: '—',
+              notes: 'Subcutaneous injection near injury site where accessible. Reconstitute lyophilized powder with bacteriostatic water. Typical starting framework derived from animal study dose-response data.',
+            },
+            {
+              name: 'Maintenance Phase',
+              duration: 'Weeks 5–8',
+              bpc157: '250 mcg once daily (SubQ)',
+              tb500: '—',
+              notes: 'Reduced frequency for maintenance. Some protocols transition to oral for gut-specific applications (1–2 mg oral dose shows effects in rodent IBD models).',
+            },
+            {
+              name: 'Conservative Protocol',
+              duration: 'Weeks 1–6',
+              bpc157: '200 mcg once daily (SubQ)',
+              tb500: '—',
+              notes: 'Lower-dose framework used in research settings with conservative approach. Corresponds to lower end of effective range in animal studies.',
+            },
+          ],
+          notes: [
+            'All protocols are research frameworks derived from animal data and limited human pilot studies — not individualized medical recommendations.',
+            'The only human IV safety study (Rucker et al., 2025) used doses of up to 20 mg in healthy adults; subcutaneous and oral human safety data are from the two other published pilots.',
+            'BPC-157 requires bacteriostatic water for reconstitution. Store lyophilized powder at −20°C or per supplier specifications.',
+            'Stack protocols combining BPC-157 with TB-500 (the Wolverine Stack) are covered in the dedicated Wolverine Stack guide.',
+          ],
+        },
+      },
+      {
+        id: 'sourcing-intro',
+        type: 'h2',
+        heading: 'Sourcing Verified BPC-157 for Research in 2026',
+        content: `<p>The quality of BPC-157 from research suppliers varies significantly. The peptide's 15-amino-acid sequence (GEPPPGKPADDAGLV) must be correctly synthesized and verified — incorrect synthesis produces a compound with different biochemical properties. When sourcing BPC-157 for research, three verification documents matter most:<sup>[1]</sup></p>
+<ul>
+<li><strong>HPLC purity report:</strong> Confirms ≥98% purity (≥99% preferred). Should be batch-specific, not generic.</li>
+<li><strong>Mass spectrometry (MS) analysis:</strong> Confirms the correct molecular weight of 1419.53 Da corresponding to the correct GEPPPGKPADDAGLV sequence. This is the definitive confirmation that the correct peptide was synthesized.</li>
+<li><strong>Endotoxin (LAL) testing:</strong> Confirms the preparation is free of bacterial endotoxins. Particularly important for injectable research applications. The 5 EU/kg body weight FDA limit for injectable compounds is the standard reference point.</li>
+</ul>
+<p>The four vendors below have published batch-specific COAs and have been used consistently by the research community. All operate under RUO labeling.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Tech',
+            url: 'https://www.peptidetech.is',
+            product: 'BPC-157 (5mg, 10mg, 15mg)',
+            productUrl: 'https://peptidetech.is/products/bpc157-5mg-peptide/',
+            price: 'From $19.99 (5mg) — check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Made in USA, GMP/WHO-certified facilities. Among the few vendors offering BPC-157 at true ≥99% purity with mass-spec-verified COAs at multiple vial sizes. 5mg entry point ideal for researchers starting with lower doses. Iceland-registered (peptidetech.is) with US-based manufacturing.',
+            badge: '≥99% Purity',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://www.modifiedaminos.shop',
+            product: 'BPC-157 Capsules & Injectable',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'US-based with same-day shipping (orders before 2 PM CST). Third-party tested via Freedom Diagnostics. Ships in red thermal mailers for temperature protection. Offers BPC-157 in capsule form — useful for oral research protocols targeting gut-specific applications. Batch-specific COAs available.',
+            badge: 'Same-Day Ship',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://www.aminousa.com',
+            product: 'BPC-157 (5mg–20mg) + Blends',
+            productUrl: 'https://aminousa.com/products/bpc-157',
+            price: 'Check site for current pricing',
+            purity: '≥99% (5mg) / ≥98% (10–20mg)',
+            highlight: 'Broadest BPC-157 product range of any vendor reviewed: 5mg through 20mg vials, capsules, BPC-157/TB-500 blend, BPC-157/KPV blend, and a triple blend with MGF. Publishes endotoxin analysis alongside HPLC and MS. US domestic shipping with comprehensive COA documentation per batch.',
+            badge: 'Widest Selection',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157 Peptide, Capsules & Spray',
+            productUrl: 'https://www.vandl-labs.com/product/bpc-157/',
+            price: '$159.99 (10mg vial) — check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Unique among vendors for offering BPC-157 in three delivery formats: lyophilized injectable, capsules ($89.99), and nasal/topical spray. Batch-tested January–March 2026 with published COA library. Free BAC water included on orders over $200. Known for COA transparency via dedicated online library.',
+            badge: '3 Delivery Formats',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is BPC-157 legal to purchase in 2026?',
+            answer: 'Yes, for research purposes. BPC-157 is legally available as a Research Use Only (RUO) compound from licensed research chemical suppliers. The April 2026 FDA Category 2 removal and the pending PCAC vote affect the compounding pharmacy pathway — they do not restrict RUO research access. BPC-157 is not FDA-approved for human use, and it is not a controlled substance. Purchasing it for research does not require a prescription.',
+          },
+          {
+            question: 'What exactly is the July 23–24, 2026 FDA vote about?',
+            answer: 'The Pharmacy Compounding Advisory Committee (PCAC) will vote on whether seven peptides — including BPC-157 — should be added to the FDA\'s 503A approved bulks list. If BPC-157 is added, licensed compounding pharmacies can legally prepare it for individual patients with physician prescriptions. If it is not added, it remains in regulatory limbo, with RUO research access continuing but no compounding pharmacy pathway. The PCAC recommendation is advisory; the FDA makes the final decision.',
+          },
+          {
+            question: 'Why did the FDA remove BPC-157 from Category 2 in April 2026?',
+            answer: 'The removal was procedural, not scientific. The parties who originally nominated BPC-157 for Category 2 review formally withdrew their nominations. Under the FDA\'s 503A framework, withdrawal of nominations triggers removal from Category 2. This was not a determination by the FDA that BPC-157 is safe or effective — it was an administrative process reflecting the withdrawal of the original petitioners. The PCAC review in July will be the first substantive scientific evaluation by the FDA\'s advisory committee.',
+          },
+          {
+            question: 'How many human studies have been done on BPC-157?',
+            answer: 'As of June 2026, three peer-reviewed human studies have been published: a 2025 IV safety pilot study (n=2) showing no adverse effects at up to 20mg; a 2024 intravesical pilot study in interstitial cystitis (n=12) showing 80–100% symptom resolution; and a 2021 knee pain observational pilot (n=16) showing 87.5% significant relief at 6–12 months. None of these were randomized controlled trials with placebo groups. One Phase I clinical trial (NCT02637284) was registered in 2015 but cancelled without completing or publishing results.',
+          },
+          {
+            question: 'What is the difference between this post and the BPC-157 Complete Guide?',
+            answer: 'The <a href="/blog/bpc-157-complete-guide" class="text-blue-400 hover:text-blue-300 underline">BPC-157 Complete Guide</a> is a comprehensive science reference covering mechanism, gut healing applications, oral vs injectable debate, and evidence overview. This post is specifically a regulatory update focused on the April 2026 Category 2 removal, the July 2026 PCAC vote, what each outcome means, and where researchers can source verified material in 2026. Read both for the full picture.',
+          },
+          {
+            question: 'What does BPC-157 stand for and where does it come from?',
+            answer: 'BPC stands for Body Protection Compound. The "157" designation reflects the specific amino acid positions of the fragment within the parent protein (positions 157 to 171 of the human gastric juice protein it was derived from). It was first isolated and characterized by Dr. Predrag Sikiric\'s research group at the University of Zagreb, Croatia, where it has been studied continuously since the early 1990s. It is a synthetic analog of a sequence found in human gastric mucosa, which is why its effects on gut healing were the first to be extensively characterized.',
+          },
+          {
+            question: 'Can I use BPC-157 if I am a competitive athlete?',
+            answer: 'BPC-157 is not currently listed on the WADA Prohibited List under its own name. However, WADA\'s S2 category (Peptide Hormones, Growth Factors, Related Substances and Mimetics) and the S0 category (Non-Approved Substances) may encompass BPC-157 depending on WADA\'s interpretation and sport-specific federation rules. Any athlete subject to anti-doping testing should consult their national anti-doping organization and review the current WADA Code before using any research compound. This is a fluid area and regulations can change.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: July 2026 and What Comes Next',
+        content: `<p>BPC-157 is at a genuine inflection point. The April 2026 Category 2 removal cleared the first regulatory hurdle after three years of prohibition from compounding pharmacies. The July 23–24 PCAC vote will determine whether BPC-157 crosses the second: formal inclusion on the 503A approved bulks list and legal prescribability through compounding pharmacies for the first time since 2023.<sup>[7,8]</sup></p>
+<p>For the PCAC, the scientific challenge is real. The preclinical evidence base is unusually strong — 400+ animal studies across multiple independent research groups, coherent multi-pathway mechanistic data, reproducible effects in tendon, gut, and neural applications. But the human evidence is extraordinarily thin: three small, uncontrolled pilot studies totaling 30 participants. The committee must decide whether the mechanistic plausibility and preclinical depth justify clinical access through compounding, or whether the absence of RCT data warrants continued restriction.<sup>[1,4,5,6]</sup></p>
+<p>The scientific community is watching the July vote closely — not just for BPC-157 but as a signal for how the FDA treats the entire category of research peptides with strong preclinical records but limited human trials. The six peptides sharing the PCAC docket with BPC-157 face the same evidentiary challenge.</p>
+<p>For researchers in 2026: RUO access through verified vendors continues unaffected regardless of the July outcome. When sourcing, prioritize vendors with batch-specific mass spectrometry confirming MW 1419.53 Da, HPLC purity ≥98%, and published endotoxin analysis. Use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a> for current pricing across vendors. For the complete science reference on BPC-157 mechanisms, applications, and oral vs SubQ debate, see the <a href="/blog/bpc-157-complete-guide" class="text-blue-400 hover:text-blue-300 underline">BPC-157 Complete Guide</a>. For researchers running BPC-157 alongside TB-500, see the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
