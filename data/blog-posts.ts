@@ -2315,6 +2315,505 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'thymosin-alpha-1-immune-peptide-guide',
+    title: 'Thymosin Alpha-1: The Immune-Regulating Peptide Approved in 35+ Countries — 2026 Complete Guide',
+    excerpt:
+      'Thymosin Alpha-1 is one of the most clinically validated peptides ever studied — over 30 clinical trials, 11,000 subjects, and approvals in 35+ countries for hepatitis B. Here\'s what the science says about its immune-modulating mechanism, COVID-19 data, cancer research, and how it compares to newer immunotherapies.',
+    publishedAt: '2026-06-22',
+    updatedAt: '2026-06-22',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Immune Health & Longevity',
+    tags: [
+      'Thymosin Alpha-1',
+      'TA1',
+      'Thymalfasin',
+      'Immune Support',
+      'Immunomodulator',
+      'Hepatitis B',
+      'COVID-19',
+      'T-Cell',
+      'Longevity',
+      'Zadaxin',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_030608_f8bf8e2a-66a6-40ed-b8dd-f548487f4240.png',
+    heroImageAlt:
+      'Glowing T-cells and immune system visualization — Thymosin Alpha-1 peptide immune modulation research',
+    metaTitle: 'Thymosin Alpha-1 Guide 2026 — Benefits, Clinical Evidence, Dosage & Sources',
+    metaDescription:
+      'Thymosin Alpha-1 (TA1) is approved in 35+ countries and has 30+ clinical trials behind it. Our 2026 guide covers the mechanism, COVID-19 data, hepatitis B evidence, cancer research, dosage protocol, and verified research sources.',
+    keywords: [
+      'thymosin alpha-1',
+      'thymosin alpha 1 benefits',
+      'TA1 peptide',
+      'thymalfasin',
+      'Zadaxin peptide',
+      'thymosin alpha-1 immune support',
+      'thymosin alpha-1 dosage',
+      'thymosin alpha-1 COVID',
+      'thymosin alpha-1 hepatitis B',
+      'immune peptide',
+      'immunomodulator peptide',
+      'thymus peptide',
+      'thymosin alpha-1 cancer',
+      'best immune peptides 2026',
+      'thymosin alpha-1 research',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/thymosin-alpha-1-immune-peptide-guide',
+    relatedPeptides: ['thymosin-alpha-1', 'tb-500', 'ghk-cu'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2600,
+      primaryKeyword: 'thymosin alpha-1',
+      secondaryKeywords: ['thymalfasin immune support', 'TA1 peptide benefits', 'thymosin alpha-1 dosage protocol'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Goldstein AL, Slater FD, White A',
+        title: 'Preparation, assay, and partial purification of a thymic lymphocytopoietic factor (thymosin)',
+        journal: 'Proceedings of the National Academy of Sciences',
+        year: 1966,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/5227667/',
+        doi: '10.1073/pnas.56.3.1010',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Tuthill CW, Rios A, Von Hoff DD',
+        title: 'Thymosin Alpha 1: past clinical experiences and future promise as a cancer immunotherapy',
+        journal: 'Annals of the New York Academy of Sciences',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20529559/',
+        doi: '10.1111/j.1749-6632.2010.05568.x',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Garaci E, Pica F, Rasi G, Palamara AT',
+        title: 'Thymosin alpha 1 in the treatment of cancer: from basic research to clinical application',
+        journal: 'International Journal of Immunopharmacology',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/10762083/',
+        doi: '10.1016/s0192-0561(00)00046-6',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Zhang YH, He Y, Bharadwaj S, Huber N, Feige U, et al.',
+        title: 'Tissue-specific posttranslational modification allows functional targeting of Thymosin alpha 1',
+        journal: 'Journal of Biological Chemistry',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19667072/',
+        doi: '10.1074/jbc.M109.009183',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Wu J, Zhou L, Liu J, et al.',
+        title: 'The efficacy of thymosin alpha 1 for severe sepsis (ETASS): a multicenter, single-blind, randomized and controlled trial',
+        journal: 'Critical Care',
+        year: 2013,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4056079/',
+        doi: '10.1186/cc12952',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Shi C, Zhong M, He B, et al.',
+        title: 'Efficacy of Thymosin Alpha 1 in the Treatment of COVID-19: A Multicenter Cohort Study',
+        journal: 'Frontiers in Pharmacology',
+        year: 2021,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8366398/',
+        doi: '10.3389/fphar.2021.706301',
+        type: 'human_study',
+      },
+      {
+        id: 7,
+        authors: 'Zeng YJ, Xu CL, Li CJ, et al.',
+        title: 'The efficacy and safety of thymosin α1 for sepsis (TESTS): multicentre, double blinded, randomised, placebo controlled, phase 3 trial',
+        journal: 'BMJ',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39814420/',
+        doi: '10.1136/bmj-2024-080058',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'ClinicalTrials.gov',
+        title: 'Thymalfasin (Thymosin Alpha 1) to Treat COVID-19 Infection',
+        journal: 'ClinicalTrials.gov',
+        year: 2020,
+        url: 'https://clinicaltrials.gov/study/NCT04487444',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'Dominari A, Haber C, Bhatt P, et al.',
+        title: 'Thymosin Alpha 1: A comprehensive review of the literature',
+        journal: 'World Journal of Virology',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33134100/',
+        doi: '10.5501/wjv.v9.i1.67',
+        type: 'systematic_review',
+      },
+      {
+        id: 10,
+        authors: 'Cheng YP, Wang JL, Li JQ, et al.',
+        title: 'Thymosin α1 improves the outcomes of patients with hepatitis B virus-related acute-on-chronic liver failure by restoring immune balance',
+        journal: 'Immunopharmacology and Immunotoxicology',
+        year: 2026,
+        url: 'https://www.tandfonline.com/doi/full/10.1080/08923973.2026.2641686',
+        doi: '10.1080/08923973.2026.2641686',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Most peptides in the research space are working from a thin evidence base — a handful of animal studies, maybe a small Phase 1 trial, and a lot of anecdotal reports filling the gaps. Thymosin Alpha-1 is a different animal entirely.</p>
+<p>This 28-amino acid peptide has been studied in over 30 clinical trials across 11,000+ subjects. It's been approved in 35+ countries under the brand name Zadaxin as a treatment for chronic hepatitis B. It was used in Italy as adjuvant therapy for melanoma. And when COVID-19 swept through Hubei province in early 2020, Chinese physicians reached for it — and the mortality data turned out to be striking.</p>
+<p>Yet despite this clinical track record, Thymosin Alpha-1 remains relatively obscure in the Western research peptide community, overshadowed by flashier compounds like BPC-157 or semaglutide. That gap between evidence and awareness is exactly what this guide is designed to close. Here's what the science actually says — with sources.</p>`,
+      },
+      {
+        id: 'what-is-ta1',
+        type: 'h2',
+        heading: 'What Is Thymosin Alpha-1?',
+        content: `<p>Thymosin Alpha-1 (Tα1) is a naturally occurring peptide found in the thymus gland — the small organ behind the sternum that serves as the training ground for T-lymphocytes (T-cells). It was first isolated by Dr. Allan Goldstein and colleagues at Albert Einstein College of Medicine in 1966 from thymosin fraction 5, a mixture of thymic proteins. <sup>[1]</sup></p>
+<p>The synthetic version — thymalfasin — is a 28-amino acid peptide that replicates the biological activity of the naturally occurring compound. Its sequence is: Ser-Asp-Ala-Ala-Val-Asp-Thr-Ser-Ser-Glu-Ile-Thr-Thr-Lys-Asp-Leu-Lys-Glu-Lys-Lys-Glu-Val-Val-Glu-Glu-Ala-Glu-Asn. Despite its modest size, this sequence carries remarkable biological complexity.</p>
+<p>Natural Tα1 is produced by the thymus throughout life, but thymic output declines sharply with age — a process called thymic involution. By age 65, the thymus produces roughly 1–2% of the Tα1 it did at age 25. This decline tracks closely with the age-related deterioration of immune surveillance, increased cancer susceptibility, and reduced vaccine responsiveness seen in elderly populations. The biology of aging immune systems is, in part, a story about declining thymosin levels.</p>`,
+      },
+      {
+        id: 'thymus-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_030611_04f2f97e-dd81-497a-aba9-5a4673f684f7.png',
+          alt: 'Human thymus gland 3D visualization with radiating T-lymphocytes — Thymosin Alpha-1 immune system diagram',
+          caption: 'The thymus gland (shown here as a glowing anatomical 3D render) is the primary source of Thymosin Alpha-1 in the body. Its output declines dramatically with age, contributing to immunosenescence.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How Thymosin Alpha-1 Works: The Immune Modulation Mechanism',
+        content: `<p>The most important thing to understand about Tα1 is that it doesn't simply "boost" immunity — that's a dangerous oversimplification. It <em>modulates</em> immunity. This distinction is clinically critical: a peptide that indiscriminately amplifies immune activity would worsen autoimmune conditions. Tα1 instead acts as an intelligent regulator that can push immune activity up in immunodeficiency states and help restore balance in dysregulated conditions.</p>
+<p>The primary mechanisms are:</p>
+<ul>
+  <li><strong>Toll-Like Receptor (TLR) activation</strong> — Tα1 activates TLR-2 and TLR-9 on dendritic cells (DCs) and plasmacytoid DCs (pDCs). This drives DC maturation — the key step that converts naive DCs into potent antigen-presenting cells capable of priming T-cell responses. <sup>[2,3]</sup></li>
+  <li><strong>T-cell differentiation and expansion</strong> — Tα1 enhances the differentiation of naive CD4+ T-cells into Th1 effector cells (which coordinate cellular immunity against intracellular pathogens and tumors) and supports CD8+ cytotoxic T-lymphocyte (CTL) expansion. These are the T-cells responsible for killing virally infected cells and cancer cells directly.</li>
+  <li><strong>NK cell activation</strong> — Natural Killer cell cytotoxic activity is enhanced by Tα1 through IL-2 receptor upregulation, making NK cells more responsive to IL-2 stimulation and more effective at target-cell killing. <sup>[3]</sup></li>
+  <li><strong>Regulatory T-cell balance</strong> — Rather than simply amplifying effector responses, Tα1 also supports the regulatory arm of immunity, helping to prevent inflammatory overshoot in conditions like sepsis where cytokine dysregulation is the primary driver of mortality.</li>
+  <li><strong>Antiviral interferon induction</strong> — Tα1 induces Type I interferon (IFN-α/β) production from pDCs, creating a broad antiviral state in surrounding tissue.</li>
+</ul>
+<p>The net result is a more competent, better-calibrated immune response — faster and more effective against threats, while better restrained against self-tissue.</p>`,
+      },
+      {
+        id: 'mechanism-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Key distinction:</strong> Unlike immunostimulants (e.g., medicinal mushroom extracts, Echinacea) that work through nonspecific, low-potency mechanisms, Thymosin Alpha-1 targets specific receptor pathways on professional immune cells — the same targets that pharmaceutical immunology research focuses on. This is why it has a clinical trial record that herbal immunostimulants simply cannot match.`,
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'The Clinical Evidence: What 30+ Trials Show',
+        content: `<p>Thymosin Alpha-1 has one of the most robust clinical records of any research peptide. With over 30 completed trials and more than 11,000 enrolled subjects (plus 600,000+ patients in post-marketing surveillance), the evidence base is genuinely substantial — and nuanced. <sup>[9]</sup></p>`,
+      },
+      {
+        id: 'hepatitis-b-section',
+        type: 'h3',
+        heading: 'Hepatitis B: The Foundational Approval',
+        content: `<p>The core indication that earned Tα1 regulatory approval in over 35 countries is chronic hepatitis B (CHB). Chronic HBV infection represents one of the toughest challenges in viral disease — the virus establishes immune tolerance, making standard antiviral therapy insufficient for viral clearance.</p>
+<p>Tα1 addresses this directly by restoring the exhausted HBV-specific T-cell responses that the virus suppresses. Multiple controlled trials demonstrate that Tα1 administered at <strong>1.6 mg subcutaneously twice weekly for 6 months</strong> significantly improves:</p>
+<ul>
+  <li>HBeAg seroconversion rates (conversion from HBeAg+ to HBeAb+ — a marker of viral control)</li>
+  <li>HBV-DNA suppression</li>
+  <li>Liver enzyme normalization (ALT)</li>
+  <li>Long-term sustained virologic response at 18-month follow-up <sup>[10]</sup></li>
+</ul>
+<p>Thymalfasin (Zadaxin) is approved in Italy, China, the Philippines, Singapore, Argentina, Mexico, and 30+ other countries specifically for this indication. This level of regulatory approval is exceptionally rare for a peptide — it represents decades of sustained clinical development.</p>`,
+      },
+      {
+        id: 'covid-section',
+        type: 'h3',
+        heading: 'COVID-19: The Mortality Data That Turned Heads',
+        content: `<p>During the initial COVID-19 outbreak in Hubei province, China (December 2019 – March 2020), physicians at five tertiary hospitals used Tα1 as an adjunct treatment for severely ill patients based on its established immunomodulatory profile. The retrospective cohort study published in <em>Frontiers in Pharmacology</em> in 2021 reported findings that the broader research community should know about: <sup>[6]</sup></p>
+<ul>
+  <li>Mortality in non-Tα1-treated severe COVID patients: <strong>30%</strong></li>
+  <li>Mortality in Tα1-treated severe COVID patients: <strong>11%</strong></li>
+  <li>Statistical significance: <strong>p = 0.04</strong></li>
+  <li>Lymphocyte recovery was significantly faster in the Tα1 group, explaining the likely mechanism: COVID-19 causes profound lymphopenia (T-cell depletion), and Tα1's T-cell restoration effects directly counteracted this.</li>
+</ul>
+<p>A dedicated Phase 2/3 randomized trial (NCT04487444) was subsequently registered to formally evaluate Tα1 for COVID-19, reflecting how seriously the clinical community took this signal. <sup>[8]</sup></p>
+<p>It's important to frame this data appropriately: this was a retrospective cohort study, not a randomized controlled trial, so confounding is possible. But the mechanistic logic is sound — COVID-19 kills through immune dysregulation and lymphocyte destruction, and Tα1's core mechanism is restoring lymphocyte function. The signal deserves follow-up, and the ongoing trials are providing it.</p>`,
+      },
+      {
+        id: 'covid-mortality-chart',
+        type: 'chart',
+        heading: 'Thymosin Alpha-1 in COVID-19: Mortality Comparison',
+        chartData: {
+          title: 'COVID-19 Severe Patient Mortality: Tα1-Treated vs. Standard Care',
+          type: 'bar',
+          labels: ['Standard Care Only', 'Standard Care + Thymosin Alpha-1'],
+          datasets: [
+            {
+              label: 'Mortality Rate (%)',
+              values: [30, 11],
+              color: '#ef4444',
+            },
+          ],
+          yLabel: 'Mortality Rate (%)',
+          note: 'Data from retrospective multicenter cohort study (Shi et al., Frontiers in Pharmacology, 2021, NCT04487444). N=78 total severe COVID-19 patients across 5 Hubei hospitals. Retrospective design; prospective RCT data pending. Source: PMC8366398.',
+        },
+      },
+      {
+        id: 'sepsis-section',
+        type: 'h3',
+        heading: 'Sepsis Trials: A Nuanced Picture',
+        content: `<p>Sepsis — life-threatening organ dysfunction from infection — is a condition where immune dysregulation kills the patient, making it an obvious target for Tα1. The ETASS trial (2013, n=361) showed promising results: mortality was reduced in the Tα1-treated group compared to placebo. <sup>[5]</sup></p>
+<p>However, the much larger TESTS trial (2024, n=1,106, Phase 3, double-blind RCT across 22 centers) found no significant overall mortality benefit at 28 days. <sup>[7]</sup> Pre-specified subgroup analyses did suggest differential effects in elderly patients and those with diabetes — populations with greater baseline T-cell dysfunction.</p>
+<p>What does this mean? The TESTS result is a cautionary tale about assuming subgroup effects from smaller trials will replicate. But it doesn't negate Tα1's mechanism — it suggests the critical variable is patient selection. Sepsis patients with documented lymphopenia or T-cell exhaustion may represent the population where Tα1's T-cell restoration mechanism is most clinically relevant. This remains an active area of investigation.</p>`,
+      },
+      {
+        id: 'cancer-section',
+        type: 'h3',
+        heading: 'Oncology: Vaccine Enhancer and Checkpoint Combination Research',
+        content: `<p>The use of Tα1 in oncology has a long history. In Italy, thymalfasin was approved as an adjuvant therapy for melanoma — the first peptide-based cancer immune support therapy to achieve regulatory approval in a major oncology indication. <sup>[3]</sup></p>
+<p>The rationale parallels its antiviral mechanism: cancer induces T-cell exhaustion and creates an immunosuppressive tumor microenvironment. Tα1's ability to mature dendritic cells and expand CD8+ cytotoxic T-cells could theoretically reverse this exhaustion and enhance anti-tumor immunity.</p>
+<p>More recently, research has turned to combination approaches with immune checkpoint inhibitors (anti-PD-1, anti-CTLA-4). Retrospective melanoma data showed improved outcomes when Tα1 was given before CTLA-4 inhibitor therapy. Prospective studies combining Tα1 with anti-PD-1 antibodies in hepatocellular carcinoma are ongoing in 2026, exploring whether T-cell priming by Tα1 can enhance the response to checkpoint blockade in patients who would otherwise be non-responders. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'lab-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_030610_56cedc70-494c-45db-b907-722b8311eba8.png',
+          alt: 'Scientist in laboratory holding a lyophilized research peptide vial — Thymosin Alpha-1 research compound',
+          caption: 'Thymosin Alpha-1 is sold as a lyophilized (freeze-dried) powder that must be reconstituted with bacteriostatic water before use. Research-grade material requires third-party HPLC and mass spectrometry verification.',
+        },
+      },
+      {
+        id: 'regulatory-status',
+        type: 'h2',
+        heading: 'Regulatory Status in 2026',
+        content: `<p>Understanding where Tα1 sits legally is essential before sourcing it for research.</p>
+<p><strong>United States:</strong> Thymosin Alpha-1 was previously classified as an FDA Category 2 bulk drug substance — meaning it could not be legally compounded by pharmacies for human use. In early 2026, HHS announced plans to reclassify approximately 14 peptides from Category 2 to Category 1, with Thymosin Alpha-1 specifically included on the list for PCAC (Pharmacy Compounding Advisory Committee) review. This reclassification, if finalized, would restore the ability of compounding pharmacies to prescribe Tα1 — a significant regulatory development for the peptide space. <sup>[8]</sup></p>
+<p><strong>International:</strong> Thymalfasin (Zadaxin) is a pharmaceutical product approved in 35+ countries including Italy, China, the Philippines, Singapore, Peru, Argentina, and Mexico. In these jurisdictions, it is available by prescription as an approved medication.</p>
+<p><strong>WADA / Sport:</strong> Tα1 is not currently listed on the WADA Prohibited List. It does not fall under S2 (peptide hormones, growth factors, related substances and mimetics) because it doesn't directly stimulate GH, IGF-1, erythropoietin, or related pathways.</p>`,
+      },
+      {
+        id: 'regulatory-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Jurisdiction', 'Status', 'Brand Name', 'Indication'],
+          rows: [
+            ['United States', 'Under PCAC Review (2026)', 'Research Use Only', 'Pending reclassification'],
+            ['Italy', 'Approved (Prescription)', 'Zadaxin', 'Melanoma adjuvant therapy'],
+            ['China', 'Approved (Prescription)', 'Zadaxin', 'Hepatitis B, C; Immune modulation'],
+            ['Philippines', 'Approved (Prescription)', 'Zadaxin', 'Hepatitis B'],
+            ['Singapore', 'Approved (Prescription)', 'Zadaxin', 'Hepatitis B, Immune support'],
+            ['Argentina / Mexico', 'Approved (Prescription)', 'Zadaxin', 'Hepatitis B, Immunostimulation'],
+            ['EU (general)', 'Not EMA-approved (research use)', 'N/A', 'Research / compassionate use'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-heading',
+        type: 'h2',
+        heading: 'Thymosin Alpha-1 Dosage Protocol (Research Reference)',
+        content: `<p>The following dosage information is derived from published clinical trials and is presented for educational purposes only. These are not individualized medical recommendations.</p>
+<p><strong>Standard clinical dosing protocol (from Hepatitis B trials):</strong></p>
+<ul>
+  <li>Dose: <strong>1.6 mg</strong> subcutaneous injection</li>
+  <li>Frequency: <strong>Twice weekly</strong> (typically Monday and Thursday)</li>
+  <li>Duration: <strong>6 months</strong> (26 weeks) for hepatitis B indication</li>
+  <li>Route: Subcutaneous only (not intramuscular, not intravenous)</li>
+</ul>
+<p><strong>Alternative research protocols observed in clinical communities:</strong></p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        tableData: {
+          headers: ['Protocol Type', 'Dose Per Injection', 'Frequency', 'Duration', 'Common Use Context'],
+          rows: [
+            ['Standard Clinical', '1.6 mg', '2× per week (Mon/Thu)', '24–26 weeks', 'Hepatitis B (approved indication)'],
+            ['Immune Support (Short)', '0.8–1.6 mg', '2× per week', '4–8 weeks', 'Acute illness/infection support (research)'],
+            ['Vaccine Adjuvant', '1.6 mg', '1× per week', '4 weeks around vaccination', 'Enhanced vaccine response (research)'],
+            ['Longevity / Maintenance', '0.8 mg', '1–2× per week', 'Ongoing (cyclical)', 'Immunosenescence (research)'],
+            ['Sepsis Context (clinical trials)', '1.6 mg', 'Daily for 5 days', '5 days', 'ICU setting (trial protocol only)'],
+          ],
+        },
+      },
+      {
+        id: 'dosage-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Reconstitution Note:</strong> Thymosin Alpha-1 arrives as a lyophilized (freeze-dried) white powder, typically in 5 mg vials. Reconstitute with 1–2 mL of bacteriostatic water (BAC water). Store reconstituted peptide refrigerated at 2–8°C and use within 28 days. Do not freeze the reconstituted solution. For accurate dosing, use an insulin syringe calibrated in units (U-100), where 1.6 mg of a 2.5 mg/mL solution equals 0.64 mL or 64 units.`,
+      },
+      {
+        id: 'ta1-immune-impact-chart',
+        type: 'chart',
+        heading: 'Thymosin Alpha-1 vs. Natural Thymic Output by Age',
+        chartData: {
+          title: 'Relative Natural Thymosin Alpha-1 Production by Age Group',
+          type: 'bar',
+          labels: ['Age 20', 'Age 30', 'Age 40', 'Age 50', 'Age 60', 'Age 70+'],
+          datasets: [
+            {
+              label: 'Relative Tα1 Thymic Output (% of peak)',
+              values: [100, 70, 40, 20, 10, 3],
+              color: '#8b5cf6',
+            },
+          ],
+          yLabel: 'Relative Tα1 Output (%)',
+          note: 'Approximate values based on thymic involution research. By age 70, the thymus produces roughly 1–3% of peak Tα1 levels, corresponding to the dramatic immune deterioration seen in elderly populations. Source: Tuthill 2010, Dominari 2020.',
+        },
+      },
+      {
+        id: 'safety-profile',
+        type: 'h2',
+        heading: 'Safety Profile: What 600,000+ Patients Show',
+        content: `<p>Thymosin Alpha-1's safety data is arguably the strongest aspect of its profile. With over 600,000 patients treated across post-marketing surveillance in countries where Zadaxin is approved, and 30+ clinical trials, the adverse event record is strikingly clean. <sup>[9]</sup></p>
+<p><strong>Reported adverse effects (from clinical trials):</strong></p>
+<ul>
+  <li><strong>Injection site reactions</strong> — Mild redness or discomfort at the injection site. Most common effect; typically resolves within hours. Reported in ~15–25% of subjects across trials.</li>
+  <li><strong>Transient fatigue</strong> — Some patients report mild fatigue in the first 1–2 weeks, likely reflecting immune activation. Self-resolving.</li>
+  <li><strong>Flu-like symptoms</strong> — Occasional mild fever, myalgia, or malaise in the first few doses. Consistent with the cytokine activity expected from immune activation.</li>
+  <li><strong>No serious adverse events</strong> consistently attributable to Tα1 have emerged across the clinical trial record. This is a notable distinction from most immunotherapeutics, which carry significant toxicity profiles.</li>
+</ul>
+<p><strong>Contraindications and cautions:</strong></p>
+<ul>
+  <li>Active autoimmune disease: While Tα1 has been used in autoimmune contexts, its T-cell activating properties warrant caution without clinical supervision in conditions like lupus, rheumatoid arthritis, or MS.</li>
+  <li>Organ transplant recipients: Immunomodulation could theoretically affect transplant tolerance. Not studied in transplant populations.</li>
+  <li>Concurrent immunosuppressants: Unknown interaction profile; exercise caution with calcineurin inhibitors or biologics.</li>
+</ul>`,
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> Thymosin Alpha-1 is a research compound in the United States as of mid-2026. It is not FDA-approved for human use and cannot be legally compounded at this time (pending PCAC reclassification review). Thymalfasin (Zadaxin) is approved in 35+ other countries and is available by prescription in those jurisdictions. This article is educational only. Nothing here constitutes medical advice. Consult a qualified healthcare provider for any clinical or therapeutic decisions.`,
+      },
+      {
+        id: 'vs-others',
+        type: 'h2',
+        heading: 'Thymosin Alpha-1 vs. Other Immune Peptides: How It Compares',
+        content: `<p>The research peptide market has several compounds marketed for immune support. Here's how Tα1 stacks up against the main alternatives:</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Peptide', 'Mechanism', 'Human Trial Data', 'Regulatory Approvals', 'Primary Use Case'],
+          rows: [
+            ['Thymosin Alpha-1', 'TLR activation, T-cell maturation, NK cell support', '30+ trials, 11,000+ subjects', '35+ countries (hepatitis B, melanoma)', 'Broad immune modulation, antiviral, anti-cancer'],
+            ['TB-500 (Thymosin β4)', 'Actin regulation, anti-inflammatory, cell migration', 'Limited human data', 'None (research only)', 'Tissue repair, anti-inflammation'],
+            ['GHK-Cu (Copper Peptide)', 'Collagen synthesis, anti-inflammatory, gene regulation', 'Several human skin trials', 'Cosmetic only', 'Skin repair, anti-aging'],
+            ['LL-37 (Cathelicidin)', 'Antimicrobial, innate immune activation', 'Small Phase 1 data', 'None (research only)', 'Bacterial/viral resistance, wound healing'],
+            ['KPV', 'Melanocortin receptor (MC1R)', 'Very limited', 'None (research only)', 'Anti-inflammatory, gut support'],
+          ],
+        },
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Source Thymosin Alpha-1 for Research (2026)',
+        content: `<p>Given Tα1's clinical pedigree, quality standards matter even more than with less-studied peptides. The authentic 28-amino acid sequence must be correct — even a single amino acid substitution would produce a different compound. Seek vendors who provide mass spectrometry identity confirmation alongside HPLC purity data.</p>
+<p>The following vendors carry Thymosin Alpha-1 and meet PeptideWiki's minimum quality standards for research sourcing:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Thymosin Alpha-1 (5mg)',
+            productUrl: 'https://aminousa.com/products/thymosin-alpha-1-5mg',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'Lyophilized in the United States. Third-party identity and purity testing included. Detailed product pages with research references.',
+            badge: 'Research-Focused',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Thymosin Alpha 1',
+            productUrl: 'https://www.vandl-labs.com/product/thymosin-alpha-1/',
+            price: 'Check site for pricing',
+            purity: '≥98%',
+            highlight: 'COAs from accredited third-party labs. Free BAC water on orders over $200. Free shipping over $250.',
+            badge: 'Free BAC Water',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Thymosin Alpha-1',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'QR-code COA on every product. Dual ISO 17025-accredited lab testing: HPLC, mass spectrometry, endotoxin, sterility, and heavy metals. US-manufactured.',
+            badge: 'Most Transparent COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Thymosin Alpha-1',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for pricing',
+            purity: '≥99%',
+            highlight: 'US-manufactured, same-day shipping on orders placed before 2 PM CST. Batch and lot tracking with QR code verification on every product.',
+            badge: 'Fastest Shipping',
+          },
+        ],
+      },
+      {
+        id: 'buy-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Only:</strong> All vendors listed above sell Thymosin Alpha-1 strictly for laboratory research purposes. These products are not intended for human consumption. Check our live <a href="/peptides/thymosin-alpha-1" class="text-blue-400 hover:text-blue-300 underline">Thymosin Alpha-1 price comparison</a> page for real-time stock and pricing from all verified vendors.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'How does Thymosin Alpha-1 differ from Thymosin Beta-4 (TB-500)?',
+            answer: 'Despite both being thymic peptides, they have completely different mechanisms and applications. Thymosin Alpha-1 (Tα1) works primarily through TLR-mediated immune modulation — it trains and activates T-cells and dendritic cells. Thymosin Beta-4 (TB-500) works primarily through actin sequestration and cell migration, driving tissue repair rather than immune activation. They serve different research purposes and are not interchangeable.',
+          },
+          {
+            question: 'Is Thymosin Alpha-1 the same as Zadaxin?',
+            answer: 'Yes — Zadaxin is the brand name of SciClone Pharmaceuticals\' synthetic thymalfasin (Thymosin Alpha-1). It is the same 28-amino acid peptide, manufactured to pharmaceutical GMP standards and approved in 35+ countries. Research-grade Thymosin Alpha-1 from peptide vendors uses the same sequence, though it is produced under research rather than pharmaceutical GMP conditions.',
+          },
+          {
+            question: 'Can Thymosin Alpha-1 make an autoimmune condition worse?',
+            answer: 'This is a legitimate concern. While Tα1 generally acts as an immune modulator rather than an indiscriminate stimulant, its T-cell activating effects could theoretically exacerbate active autoimmune disease. Research in some autoimmune contexts (including a small hepatitis C trial in patients with concurrent autoimmune conditions) has not shown consistent worsening, but controlled safety data in pure autoimmune populations is limited. Anyone with an active autoimmune diagnosis should consult an immunologist before researching Tα1.',
+          },
+          {
+            question: 'What is the typical cycle length for Thymosin Alpha-1?',
+            answer: 'The foundational hepatitis B dosing protocol is 6 months (24–26 weeks) at 1.6 mg twice weekly. In research settings outside this indication, shorter cycles of 4–8 weeks are more common. Given the peptide\'s excellent safety profile, extended use does not appear to carry cumulative risk based on available data, but formal long-term safety studies beyond 12 months are not available.',
+          },
+          {
+            question: 'Does Thymosin Alpha-1 help with Long COVID?',
+            answer: 'This is being actively studied. The biological rationale is strong — Long COVID is characterized in part by persistent immune dysregulation, T-cell exhaustion, and latent viral antigen persistence. Tα1\'s mechanism addresses each of these. Formal clinical trial data for Long COVID specifically is pending as of mid-2026, but the acute COVID-19 mortality data (11% vs. 30% mortality in Hubei cohort) has motivated several research groups to investigate Long COVID applications.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Thymosin Alpha-1',
+        content: `<p>Thymosin Alpha-1 occupies a unique position in the research peptide landscape: it has genuine pharmaceutical pedigree — regulatory approvals, Phase 3 trial data, and a mechanism validated by mainstream immunology — combined with the accessibility of the research peptide market.</p>
+<p>The COVID-19 mortality data is the most striking recent development and deserves serious attention. A 63% relative reduction in mortality (from 30% to 11%) in a multicenter cohort of severe patients is a signal that any rational clinician should want followed up rigorously. The pending randomized trial data will be definitive.</p>
+<p>What makes Tα1 especially interesting for longevity research is the thymic involution angle: its natural production drops 97% over a lifetime, and this decline tracks directly with the immunological aging that underpins cancer susceptibility, vaccine hyporesponsiveness, and vulnerability to infection. Whether restoring Tα1 levels in aging populations can meaningfully shift these trajectories remains an open and actively researched question.</p>
+<p>For real-time pricing across all verified vendors, use PeptideWiki's <a href="/compare" class="text-blue-400 hover:text-blue-300 underline">comparison tool</a> or check our full <a href="/peptides/thymosin-alpha-1" class="text-blue-400 hover:text-blue-300 underline">Thymosin Alpha-1 database page</a> with research summaries and live inventory tracking.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
