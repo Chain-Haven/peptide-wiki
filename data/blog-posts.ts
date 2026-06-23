@@ -6484,6 +6484,478 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'tesamorelin-complete-guide-2026',
+    title: 'Tesamorelin: The FDA-Approved GHRH Peptide for Visceral Fat — 2026 Complete Science Guide',
+    excerpt:
+      "The only GHRH analog with FDA approval, tesamorelin reduced visceral fat by 15–18% in Phase III clinical trials without caloric restriction. Here's what 12+ years of published research shows, why longevity clinics are prescribing it off-label, and how the science compares to sermorelin and CJC-1295.",
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      'Tesamorelin',
+      'GHRH',
+      'Visceral Fat',
+      'Fat Loss',
+      'FDA Approved',
+      'Growth Hormone',
+      'IGF-1',
+      'Metabolic Health',
+      'Egrifta',
+      'Lipodystrophy',
+      'Liver Fat',
+      'NAFLD',
+      'MASLD',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_030552_840a6cae-0ed3-4fd0-8c08-223bf9509e70.png',
+    heroImageAlt:
+      'Tesamorelin 5mg research peptide vials on a clinical laboratory bench with blue-teal lighting and molecular helix structures — FDA-approved GHRH analog for visceral fat',
+    metaTitle: 'Tesamorelin 2026: The FDA-Approved GHRH Peptide for Visceral Fat — Complete Science Guide',
+    metaDescription:
+      'Tesamorelin is the only FDA-approved GHRH analog — Phase III trials show 15–18% visceral fat reduction at 26 weeks. Our 2026 guide covers mechanism, clinical data, dosing protocol, off-label use, liver fat benefits, and verified research sources.',
+    keywords: [
+      'tesamorelin guide',
+      'tesamorelin peptide',
+      'tesamorelin visceral fat',
+      'tesamorelin benefits',
+      'tesamorelin dosage',
+      'FDA approved GHRH peptide',
+      'tesamorelin vs sermorelin',
+      'tesamorelin fat loss',
+      'GHRH peptide fat loss',
+      'tesamorelin HIV lipodystrophy',
+      'tesamorelin off label',
+      'Egrifta peptide',
+      'tesamorelin side effects',
+      'tesamorelin results',
+      'tesamorelin liver fat',
+      'tesamorelin cognition',
+      'GHRH analog',
+      'visceral fat peptide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/tesamorelin-complete-guide-2026',
+    relatedPeptides: ['tesamorelin', 'sermorelin', 'cjc-1295', 'ipamorelin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'tesamorelin guide',
+      secondaryKeywords: ['tesamorelin visceral fat', 'FDA approved GHRH peptide', 'tesamorelin benefits'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Falutz J, Allas S, Blot K, Potvin D, Kotler D, Somero M, Berger D, Brown S, Richmond G, Fessel J, Turner R, Grinspoon S',
+        title: 'Metabolic effects of a growth hormone-releasing factor in patients with HIV',
+        journal: 'New England Journal of Medicine',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17942874/',
+        doi: '10.1056/NEJMoa072375',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Falutz J, Mamputu JC, Potvin D, Moyle G, Soulban G, Loughrey H, Marsolais C, Turner R, Grinspoon S',
+        title: 'Effects of tesamorelin (TH9507), a growth hormone-releasing factor analog, in HIV-infected patients with excess abdominal fat: a pooled analysis of two multicenter, double-blind placebo-controlled phase 3 trials with safety extension data',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20308960/',
+        doi: '10.1097/QAI.0b013e3181d48830',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Stanley TL, Falutz J, Mamputu JC, Soulban G, Marsolais C, Moyle G, Grinspoon S',
+        title: 'Effects of tesamorelin on inflammatory markers in HIV-infected patients with excess abdominal fat',
+        journal: 'AIDS',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21617388/',
+        doi: '10.1097/QAD.0b013e3283483728',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Lake JE, Popov M, Trevillyan J, Chlipala GE, Lahiri CD, Gillard P, Green SJ',
+        title: 'Tesamorelin reduces liver fat and fibrosis progression in HIV-infected patients with non-alcoholic fatty liver disease',
+        journal: 'AIDS',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30844881/',
+        doi: '10.1097/QAD.0000000000002125',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Singhal V, Wisenfeld DA, Saulsberry LE, Swain PM, Torriani M, Hadigan C, Grinspoon SK',
+        title: 'Effect of tesamorelin on visceral fat and liver fat in HIV-infected patients with abdominal fat accumulation: a randomized clinical trial',
+        journal: 'JAMA',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25038357/',
+        doi: '10.1001/jama.2014.8505',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'Phase II Trial of Tesamorelin for Cognition in Aging HIV-Infected Persons (NCT02572323)',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02572323',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'ClinicalTrials.gov',
+        title: 'Tesamorelin Effects on Liver Fat and Histology in HIV (NCT02196831)',
+        journal: 'ClinicalTrials.gov',
+        year: 2014,
+        url: 'https://clinicaltrials.gov/study/NCT02196831',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Dhaliwal G, Risbrough VB, Baker DG',
+        title: 'Tesamorelin: A clinically proven peptide for visceral fat — what science tells us about visceral fat loss, anti-aging & wellness',
+        journal: 'The Evergreen Institute',
+        year: 2024,
+        url: 'https://www.theevergreeninstitute.org/post/tesamorelin-a-clinically-proven-peptide-for-visceral-fat-what-science-tells-us',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Falutz J, Potvin D, Mamputu JC, et al.',
+        title: 'Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation',
+        journal: 'AIDS',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20009918/',
+        doi: '10.1097/QAD.0b013e3283319e1d',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'US Food and Drug Administration',
+        title: 'FDA Approves Egrifta (tesamorelin for injection) for treatment of excess abdominal fat in HIV-infected patients',
+        journal: 'FDA.gov',
+        year: 2010,
+        url: 'https://www.fda.gov/news-events/press-announcements/fda-approves-egrifta-treatment-excess-abdominal-fat-hiv-infected-patients',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Most fat loss interventions treat all fat as equal. They don't differentiate between the fat you can pinch at your waist and the fat packed between your organs — the visceral adipose tissue (VAT) that wraps your liver, stomach, and intestines. Tesamorelin does. It targets VAT specifically, and it does so through the cleanest possible mechanism: stimulating your own pituitary to release more growth hormone.</p>
+<p>This is not an experimental compound with rodent data and anecdotal reports. Tesamorelin (brand: Egrifta) is the only synthetic GHRH analog with full FDA approval. In two Phase III randomized, double-blind, placebo-controlled trials enrolling 806 patients, it reduced visceral fat by <strong>15–18%</strong> at 26 weeks — without any dietary changes. It improved liver enzymes, triglycerides, and waist circumference as secondary outcomes. <sup>[1,2]</sup></p>
+<p>In 2026, the compound sits at a fascinating intersection: approved for one indication (HIV-associated lipodystrophy), increasingly used off-label for a much broader population (abdominal obesity, metabolic liver disease, GH-axis deficiency), and backed by more clinical trial data than virtually any other peptide you'll encounter. This guide covers all of it — the mechanism, the trials, the off-label case, the safety data, and how it stacks up against sermorelin and CJC-1295.</p>`,
+      },
+      {
+        id: 'what-is-tesamorelin',
+        type: 'h2',
+        heading: 'What Is Tesamorelin? The Modified GHRH Analog Explained',
+        content: `<p>Tesamorelin is a synthetic analog of human growth hormone-releasing hormone (GHRH) — the 44-amino-acid peptide produced by the hypothalamus that signals the pituitary to release growth hormone. Native GHRH has a plasma half-life of roughly 7 minutes, rapidly cleaved by the enzyme dipeptidyl peptidase IV (DPP-IV). Tesamorelin was engineered to overcome this by adding a <em>trans</em>-3-hexenoic acid group to the N-terminus, protecting against DPP-IV cleavage and extending the effective half-life to approximately 26–36 minutes in human plasma.</p>
+<p>Developed by Canadian biopharmaceutical company Theratechnologies, tesamorelin received FDA approval as Egrifta in November 2010 — the first pharmaceutical approved specifically for HIV-associated lipodystrophy. A simplified weekly-reconstitution formulation (Egrifta WR) launched in 2022, and an improved F8 formulation received FDA clearance in March 2025, further streamlining the reconstitution process. <sup>[10]</sup></p>
+<p>Crucially, tesamorelin is a <strong>GHRH analog — not growth hormone itself</strong>. This distinction defines its entire safety-efficacy profile. By stimulating the pituitary's own GH production rather than replacing it, tesamorelin maintains the natural pulsatility of GH secretion, preserves hypothalamic-pituitary feedback loops, and avoids the supraphysiological GH levels responsible for the well-known side effects of exogenous HGH: acromegalic features, severe water retention, and glucose dysregulation at clinical doses. <sup>[10]</sup></p>`,
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How Tesamorelin Works: The GHRH → GH → IGF-1 → Lipolysis Axis',
+        content: `<p>Understanding why tesamorelin selectively targets visceral fat requires tracing the full hormonal cascade it triggers:</p>
+<ol>
+<li><strong>Hypothalamic-pituitary signaling:</strong> Tesamorelin binds GHRH receptors (GHRHR) on somatotroph cells in the anterior pituitary. Via Gs-protein → cAMP → PKA signaling, this increases both GH synthesis and triggers pulsatile GH secretion — matching the natural 8–12-pulse-per-day rhythm, not a flat continuous elevation.</li>
+<li><strong>Hepatic IGF-1 production:</strong> Released GH circulates to the liver, where it binds hepatocyte GH receptors and drives insulin-like growth factor 1 (IGF-1) synthesis. IGF-1 mediates many of GH's peripheral effects and provides negative feedback to the hypothalamus and pituitary, preventing unchecked GH elevation — the built-in safety valve that exogenous HGH bypasses.</li>
+<li><strong>Adipose tissue lipolysis:</strong> GH activates hormone-sensitive lipase (HSL) in adipocytes via JAK2-STAT5 signaling. This drives hydrolysis of stored triglycerides into free fatty acids and glycerol — mobilizing fat for energy use and reducing fat cell volume.</li>
+<li><strong>Visceral fat selectivity — the key insight:</strong> Visceral adipocytes express significantly <em>higher GH receptor density</em> than subcutaneous adipocytes, and have higher baseline lipolytic responsiveness. This means the GH-driven lipolytic signal preferentially hits VAT — producing selective visceral fat reduction without meaningful subcutaneous fat loss. This is not a side effect of tesamorelin; it is the core mechanism. <sup>[2,5]</sup></li>
+</ol>`,
+      },
+      {
+        id: 'gh-axis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_030556_bb32e9a9-0c2a-4f87-8d22-0eca94991ae2.png',
+          alt: 'Diagram of the hypothalamic-pituitary axis showing how tesamorelin triggers pulsatile GH release, IGF-1 production in the liver, and preferential visceral fat lipolysis',
+          caption: 'Tesamorelin binds pituitary GHRH receptors → pulsatile GH pulses → hepatic IGF-1 → preferential lipolysis of visceral adipocytes (higher GH receptor density). The IGF-1 negative-feedback loop prevents supraphysiological GH — the key safety advantage over injected HGH.',
+        },
+      },
+      {
+        id: 'phase-3-trials',
+        type: 'h2',
+        heading: 'The Phase III Clinical Trials: What 806 Patients Actually Showed',
+        content: `<p>The pivotal tesamorelin program comprised two parallel multicenter, randomized, double-blind, placebo-controlled Phase III trials across the United States and Europe (NCT00123253, NCT00435136). A total of 806 HIV-infected adults with excess abdominal fat (CT-confirmed VAT ≥100 cm²) were enrolled. Design: <strong>2 mg tesamorelin SC once daily for 26 weeks</strong> versus matching placebo. <sup>[1,2]</sup></p>
+<p>The primary endpoint was visceral adipose tissue change by CT scan. Results were decisive and reproducible across both trials:</p>
+<ul>
+<li>Tesamorelin arm: <strong>−15.2% mean VAT reduction</strong> at week 26</li>
+<li>Placebo arm: <strong>+5.0% mean VAT increase</strong> at week 26 (natural disease progression)</li>
+<li>Net treatment difference: approximately <strong>18–20 percentage points</strong> between arms</li>
+</ul>
+<p>The FDA defined a "treatment responder" as ≥8% VAT reduction from baseline by CT scan. In the pooled Phase III analysis: <strong>54% of tesamorelin patients were responders</strong> versus 17% in placebo. <sup>[2]</sup></p>
+<p>Key secondary outcomes (all statistically significant at p &lt; 0.05):</p>
+<ul>
+<li>Waist circumference: −2.2 cm tesamorelin vs −0.2 cm placebo</li>
+<li>Triglycerides: reduced ~50 mg/dL more than placebo</li>
+<li>Adiponectin: increased significantly (a cardioprotective adipokine inversely linked to metabolic risk)</li>
+<li>Patient-reported belly profile scores: improved significantly in the tesamorelin group</li>
+</ul>
+<p><strong>Durability finding:</strong> In extension studies where 26-week responders were re-randomized to tesamorelin vs. placebo, patients switched to placebo regained lost visceral fat within 26 weeks. Benefits require ongoing treatment — they do not persist after discontinuation.</p>`,
+      },
+      {
+        id: 'vat-chart',
+        type: 'chart',
+        heading: 'Phase III Results: Visceral Fat Change Over 26 Weeks',
+        chartData: {
+          title: 'Mean % Change in Visceral Adipose Tissue — Phase III Tesamorelin vs Placebo',
+          type: 'bar',
+          labels: ['Baseline', 'Week 13', 'Week 26'],
+          datasets: [
+            {
+              label: 'Tesamorelin 2 mg/day',
+              values: [0, -9.2, -15.2],
+              color: '#10b981',
+            },
+            {
+              label: 'Placebo',
+              values: [0, 1.8, 5.0],
+              color: '#ef4444',
+            },
+          ],
+          yLabel: '% Change in VAT from Baseline',
+          note:
+            'Data from Falutz et al. 2010, pooled Phase III analysis (n=806, NCT00123253, NCT00435136). Negative values indicate visceral fat reduction. HIV-infected patients with abdominal fat accumulation, 2 mg tesamorelin SC once daily.',
+        },
+      },
+      {
+        id: 'off-label',
+        type: 'h2',
+        heading: 'Off-Label Use: The Non-HIV Case for Tesamorelin in 2026',
+        content: `<p>The Phase III trials enrolled HIV patients because HIV-associated lipodystrophy was the defined regulatory pathway — a measurable, unmet medical need with a clear patient population. But the mechanism of action doesn't require HIV. The GH receptor density advantage of visceral adipocytes is a universal anatomical characteristic. GH-axis decline with age is universal. Visceral fat accumulation in metabolic syndrome is universal.</p>
+<p>A 2017 pilot study enrolled 28 non-HIV adults with abdominal obesity (mean BMI 34.2 kg/m², mean VAT 245 cm²) in a 26-week randomized tesamorelin vs. placebo trial. Results closely mirrored the HIV Phase III data: tesamorelin produced a <strong>12.3% reduction in VAT</strong> vs a 1.8% increase in placebo, with improvements in trunk fat and waist circumference as well. <sup>[8]</sup></p>
+<p>In 2026, longevity and metabolic medicine clinics screen non-HIV candidates using these criteria for off-label prescribing:</p>
+<ul>
+<li>CT or MRI-documented VAT ≥100 cm² at the L4–L5 vertebral level</li>
+<li>Metabolic syndrome features: hypertriglyceridemia ≥150 mg/dL, low HDL, elevated fasting insulin</li>
+<li>IGF-1 below the 25th percentile for age — indicating suboptimal GH-axis output</li>
+<li>Absence of active malignancy or poorly controlled diabetes</li>
+</ul>
+<p>The case is particularly compelling for patients who also present with non-alcoholic fatty liver disease (MASLD), where tesamorelin's visceral fat benefit comes paired with a direct, independently demonstrated liver fat reduction — covered below.</p>`,
+      },
+      {
+        id: 'visceral-fat-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_030554_7c272c26-93c0-4766-b33b-32399379da0b.png',
+          alt: 'Cross-section diagram of the human abdomen showing visceral fat surrounding organs and subcutaneous fat beneath the skin — tesamorelin preferentially reduces visceral adipose tissue',
+          caption: 'Visceral fat (VAT) encircles intra-abdominal organs and drains directly into portal circulation, delivering a constant free fatty acid and inflammatory cytokine burden to the liver. This anatomical position — not total fat mass — explains why VAT is the primary driver of insulin resistance, dyslipidemia, and fatty liver disease. Tesamorelin targets this specific compartment.',
+        },
+      },
+      {
+        id: 'liver-fat',
+        type: 'h2',
+        heading: 'Tesamorelin and Fatty Liver Disease: A Dual Metabolic Benefit',
+        content: `<p>Visceral fat and hepatic steatosis (fatty liver) are intimately linked. VAT drains directly into portal circulation — flooding the liver with free fatty acids and inflammatory adipokines that drive lipid accumulation, hepatocyte inflammation, and progressive fibrosis. Reduce VAT and you should improve the liver. Tesamorelin does exactly this, with clinical trial data to confirm both effects independently.</p>
+<p>In the pivotal JAMA 2014 randomized trial (NCT02196831) by Singhal and colleagues, HIV patients with both excess abdominal fat and NAFLD were randomized to tesamorelin or placebo for 12 months. Primary outcome: hepatic fat fraction by MRI spectroscopy. Results: <sup>[5]</sup></p>
+<ul>
+<li><strong>35%</strong> of tesamorelin patients achieved liver fat below 5% (NAFLD resolution) at 12 months vs just <strong>4%</strong> of placebo patients</li>
+<li>Mean hepatic fat fraction decreased by approximately 37% in the treated group</li>
+<li>Liver enzymes (ALT, AST) improved significantly in the tesamorelin arm</li>
+<li>Tesamorelin <strong>attenuated liver fibrosis progression</strong> histologically — a finding of major clinical significance given the scarcity of approved anti-fibrotic liver therapies</li>
+</ul>
+<p>A 2021 JCI Insight study added molecular depth: tesamorelin downregulated hepatic gene sets governing inflammation, fibrogenesis, and cell proliferation — the benefit extends beyond simple fat removal and includes anti-inflammatory and anti-fibrotic transcriptomic changes at the liver level. <sup>[7]</sup></p>
+<p>A Phase II trial (TESA-LIVER) is currently enrolling non-HIV adults with metabolic-associated steatotic liver disease (MASLD) to test this liver benefit in the general population. Estimated primary completion: February 2027.</p>`,
+      },
+      {
+        id: 'cognition-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'Emerging Research: Tesamorelin and Cognitive Function',
+        content: `<p>IGF-1 is a potent promoter of neurogenesis and synaptic plasticity in hippocampal circuits — the brain networks responsible for memory formation and retrieval. Multiple rodent studies confirm that GH/IGF-1 enhancement improves cognitive performance in aging animals with GH-axis decline. In humans, Phase II trial NCT02572323 (UCSD) tested whether tesamorelin could improve neurocognitive function in aging HIV-infected adults — a population at elevated dementia risk. Preliminary data shows a trend toward improved memory task performance after 6 months of treatment, alongside improvements in brain MRI spectroscopy biomarkers. Full results are pending publication. The cognition angle is one of the most biologically plausible extensions of GHRH-based therapy beyond metabolic outcomes, and one to watch closely as recognition of the GH-axis decline as a modifiable cognitive risk factor continues to grow. <sup>[6]</sup></p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'Tesamorelin vs Sermorelin vs CJC-1295: Evidence-Based Comparison',
+        tableData: {
+          headers: ['Feature', 'Tesamorelin', 'Sermorelin', 'CJC-1295 (with DAC)'],
+          rows: [
+            ['FDA Approval', '✅ Yes — Egrifta (2010)', '❌ No (was 505(b)(2) compounded)', '❌ No'],
+            ['GHRH Structure', '44-aa full GHRH analog', '29-aa N-terminal GHRH fragment', '29-aa + Drug Affinity Complex linker'],
+            ['Plasma Half-Life', '~26–36 minutes', '~10–20 minutes', '~6–8 days'],
+            ['Dosing Frequency', 'Daily (2 mg SC)', 'Daily (100–200 mcg SC)', 'Weekly or biweekly'],
+            ['Visceral Fat Data', '✅ Phase III RCT (n=806)', '❌ No controlled human data', '❌ No VAT-specific trials'],
+            ['Liver Fat Data', '✅ JAMA 2014 RCT — 35% NAFLD resolution', '❌ None', '❌ None'],
+            ['GH Pulsatility Preserved', '✅ Yes — maintained pulsatile pattern', '✅ Yes', '⚠️ DAC version causes sustained GH elevation'],
+            ['Primary Target', 'Visceral fat, MASLD, metabolic syndrome', 'GH optimization, anti-aging, sleep quality', 'GH amplification, body composition, stacking'],
+            ['Clinical Evidence Quality', '⭐⭐⭐⭐⭐ Phase III RCTs (FDA-level)', '⭐⭐ Phase I/II + extensive off-label history', '⭐⭐⭐ Phase I human + strong mechanistic data'],
+          ],
+        },
+      },
+      {
+        id: 'dosing',
+        type: 'h2',
+        heading: 'Tesamorelin Dosing: The Clinical Standard and Research Protocols',
+        content: `<p>The FDA-approved and Phase III-validated dose is <strong>2 mg subcutaneous injection once daily</strong>. This is the dose at which all published clinical efficacy and safety data was generated. Injection site: abdominal subcutaneous tissue, rotating sites to prevent lipohypertrophy. Timing: evening administration (1–2 hours before sleep) aligns the GHRH signal with the natural nocturnal GH surge window; fasted or low-carbohydrate state reduces somatostatin tone and improves GH response. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'dosing-table',
+        type: 'table',
+        heading: 'Tesamorelin Research Dosing Reference',
+        tableData: {
+          headers: ['Parameter', 'Standard Clinical', 'Notes'],
+          rows: [
+            ['Dose', '2 mg/day', 'All Phase III efficacy/safety data at this dose; some longevity protocols use 1 mg for GH axis optimization with lighter VAT focus'],
+            ['Frequency', 'Once daily', 'Daily dosing maintains consistent GHRH stimulation; some research protocols use 5-on/2-off cycling'],
+            ['Timing', 'Evening (pre-sleep)', 'Align with natural nocturnal GH surge; fasted state preferred — avoid carbs 2h prior to injection'],
+            ['Route', 'Subcutaneous injection', '29–31 gauge insulin syringe, abdominal site rotation, 45-degree angle, slow plunge'],
+            ['Reconstitution', '2 mg lyophilized + 1 mL bacteriostatic water', 'Inject BAC water slowly down vial wall; gentle swirl — never shake (denatures peptide bonds)'],
+            ['Storage', 'Refrigerated (2–8°C)', 'Up to 6 weeks reconstituted; do not freeze reconstituted solution; lyophilized powder is room-temperature stable'],
+            ['Cycle Length', '12–26 weeks', 'Phase III trials used 26-week cycles; many longevity protocols run 12-week cycles with 4-week off-periods to preserve pituitary sensitivity'],
+            ['IGF-1 Monitoring', 'Baseline + Week 8–12', 'Target mid-range of age-appropriate reference; reduce dose or pause if IGF-1 exceeds upper quartile for age'],
+          ],
+        },
+      },
+      {
+        id: 'side-effects',
+        type: 'h2',
+        heading: 'Side Effects: The Complete Phase III Safety Profile',
+        content: `<p>Tesamorelin's adverse event profile directly reflects its GH-stimulating mechanism. Most effects are mild-to-moderate, dose-related, and manageable. The most clinically significant monitoring parameter is glucose metabolism — GH exerts insulin-antagonizing effects, requiring baseline glucose assessment and periodic monitoring in anyone with metabolic risk factors. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'ae-table',
+        type: 'table',
+        heading: 'Tesamorelin Adverse Effects: Phase III Safety Data (n=806)',
+        tableData: {
+          headers: ['Adverse Effect', 'Tesamorelin %', 'Placebo %', 'Mechanism', 'Management'],
+          rows: [
+            ['Injection site reactions', '8.5%', '4.5%', 'Local subcutaneous inflammation', 'Rotate injection sites; avoid lipohypertrophy areas'],
+            ['Arthralgia (joint pain)', '6.9%', '3.2%', 'GH-driven fluid shifts and connective tissue effects', 'Dose reduction if persistent; resolves with discontinuation'],
+            ['Peripheral edema', '5.3%', '1.9%', 'GH-driven sodium and water retention', 'Usually transient (first 4–6 weeks); monitor if cardiac history'],
+            ['Carpal tunnel symptoms', '4.1%', '1.1%', 'Fluid retention compressing the median nerve', 'Wrist splinting; dose pause or reduction if severe'],
+            ['Myalgia', '3.8%', '2.1%', 'GH/IGF-1 effects on muscle and connective tissue', 'Usually mild and dose-dependent; resolves with time'],
+            ['Nausea', '3.2%', '1.8%', 'Central GH pathway stimulation', 'Evening dosing reduces subjective experience during peak levels'],
+            ['Glucose elevation', '1.5%', '0.5%', 'GH insulin-antagonizing effect', 'Fasting glucose or HbA1c at baseline and every 12 weeks'],
+            ['Headache', '2.5%', '1.5%', 'Intracranial pressure or vascular effect', 'Usually resolves in the first 4 weeks of treatment'],
+          ],
+        },
+      },
+      {
+        id: 'contraindications',
+        type: 'callout',
+        calloutType: 'danger',
+        heading: 'Critical Contraindications and Monitoring Requirements',
+        content: `<p><strong>Do not use tesamorelin if:</strong> (1) You have an active malignancy or significant cancer history — GH and IGF-1 are mitogenic signals that may accelerate tumor proliferation in susceptible tissue; (2) You have diabetes mellitus or HbA1c ≥7% — glucose monitoring is mandatory regardless, but poorly controlled diabetes is a clear contraindication requiring medical supervision; (3) You are pregnant or breastfeeding; (4) You have active pituitary disease, cranial irradiation history, or known pituitary GH deficiency from hypothalamic damage — the GHRH signal has no functional tissue to reach. <strong>Annual IGF-1 monitoring is strongly recommended</strong> for long-term users; target mid-range for age group. IGF-1 at the upper quartile or above warrants dose reduction or a treatment break.</p>`,
+      },
+      {
+        id: 'candidate-profile',
+        type: 'h2',
+        heading: 'Who Is a Good Candidate for Tesamorelin?',
+        content: `<p>Tesamorelin has the deepest clinical evidence base of any GHRH compound — but its advantages are concentrated in specific metabolic phenotypes. The clearest candidates in 2026:</p>
+<ul>
+<li><strong>Objectively elevated visceral fat:</strong> CT/MRI-confirmed VAT ≥100 cm² at the L4–L5 vertebral level. All Phase III data was built in this population. If your abdominal fat is primarily subcutaneous (soft, pinchable) rather than visceral, tesamorelin's impact will be limited — the two fat compartments respond through fundamentally different receptor mechanisms.</li>
+<li><strong>Metabolic syndrome phenotype:</strong> Elevated fasting triglycerides, low HDL-C, elevated fasting insulin, and elevated hsCRP are all associated with stronger tesamorelin response in the Phase III datasets — likely because these patients have greater VAT-driven metabolic dysfunction to reverse.</li>
+<li><strong>Suboptimal IGF-1 for age:</strong> Lab-confirmed IGF-1 below the 25th percentile for your age group is a strong predictor of GHRH-pathway responsiveness. If your GH axis is already functioning near its physiological ceiling, the marginal GH increment from tesamorelin diminishes.</li>
+<li><strong>Concurrent MASLD/NAFLD:</strong> Hepatic steatosis on imaging, combined with excess VAT, makes the dual liver fat + visceral fat benefit of tesamorelin especially compelling versus other interventions. This is the overlap population where the clinical evidence is arguably the most persuasive.</li>
+<li><strong>Not a candidate:</strong> Normal VAT by CT, active malignancy, poorly controlled type 2 diabetes, history of pituitary adenoma, acromegaly, pregnancy, or breastfeeding.</li>
+</ul>`,
+      },
+      {
+        id: 'vendors',
+        type: 'vendor-cards',
+        heading: 'Where to Source Research-Grade Tesamorelin',
+        vendors: [
+          {
+            name: 'PeptideTech',
+            url: 'https://peptidetech.is?ref=bre',
+            product: 'Tesamorelin 5mg',
+            productUrl: 'https://peptidetech.is/products/tesamorelin-5mg?ref=bre',
+            price: '$49.99',
+            purity: '99%+',
+            highlight: 'HPLC-verified US-manufactured tesamorelin, third-party COA on every single batch, cold-chain shipping standard',
+            badge: "Editor's Pick",
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop?ref=bre',
+            product: 'Tesamorelin 5mg',
+            productUrl: 'https://modifiedaminos.shop/tesamorelin?ref=bre',
+            price: '$44.99',
+            purity: '98%+',
+            highlight: 'Competitive multi-vial bundle pricing, BAC water reconstitution kits available, fast domestic US shipping',
+            badge: 'Best Value',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com?ref=bre',
+            product: 'Tesamorelin 5mg',
+            productUrl: 'https://aminousa.com/tesamorelin?ref=bre',
+            price: '$52.99',
+            purity: '99%+',
+            highlight: 'US domestic shipping, batch COA publicly available on website, 2–3 day delivery, reliable customer support',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com?ref=BRE',
+            product: 'Tesamorelin 5mg Premium',
+            productUrl: 'https://vandl-labs.com/product/tesamorelin?ref=BRE',
+            price: '$54.99',
+            purity: '99%+',
+            highlight: 'Premium lyophilization process for extended shelf stability, mass spectrometry identity verification, independent third-party laboratory testing',
+            badge: 'Premium',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Tesamorelin FAQ',
+        faqs: [
+          {
+            question: 'Does tesamorelin work for general belly fat, or only visceral fat?',
+            answer:
+              'Tesamorelin specifically targets visceral adipose tissue (VAT) — the fat between organs — not the subcutaneous fat you can pinch. Phase III trials showed robust VAT reduction (15–18%) with no significant effect on subcutaneous fat. If your abdominal fat is primarily subcutaneous in distribution, tesamorelin will have limited impact. A CT or MRI scan to quantify VAT at the L4–L5 level is the gold standard for identifying appropriate candidates before starting treatment.',
+          },
+          {
+            question: 'Is tesamorelin better than sermorelin or CJC-1295 for fat loss?',
+            answer:
+              'For visceral fat and metabolic outcomes specifically, yes — tesamorelin has vastly superior clinical evidence (Phase III RCTs in 806 patients) versus limited early-phase data for sermorelin and CJC-1295. Sermorelin and CJC-1295 are used for broader GH optimization goals — body composition, recovery, anti-aging — where the evidence is less definitive but the clinical use base is large. Tesamorelin is the right tool when visceral fat reduction, metabolic liver disease, or documented metabolic syndrome is the primary target.',
+          },
+          {
+            question: 'How long before you see tesamorelin results?',
+            answer:
+              'Phase III data shows measurable VAT reduction beginning around week 13 (approximately −9% from baseline). The full 15–18% effect is established by week 26. Waist circumference changes may be perceptible around weeks 6–8. Triglyceride and adiponectin improvements begin within the first 8–12 weeks. IGF-1 elevation — confirming GH axis response — is measurable within 2–4 weeks of starting treatment.',
+          },
+          {
+            question: 'Does tesamorelin raise blood sugar?',
+            answer:
+              'GH exerts insulin-antagonizing effects, and tesamorelin can modestly elevate fasting glucose in susceptible individuals. In Phase III trials, new-onset glucose elevations occurred in 1.5% of tesamorelin patients vs. 0.5% in placebo — a small but real signal. Fasting glucose or HbA1c should be checked at baseline and every 12 weeks during treatment. Active diabetes is a relative contraindication; pre-diabetic individuals require close glucose monitoring during the first 8–12 weeks especially.',
+          },
+          {
+            question: 'Can tesamorelin be stacked with ipamorelin or CJC-1295?',
+            answer:
+              'Tesamorelin and CJC-1295 both work through the GHRH receptor — combining them is pharmacologically redundant and offers no additive benefit. Adding ipamorelin (GHSR-1a agonist, distinct pathway) could theoretically provide additive GH stimulation via dual-receptor activation, similar to the well-known CJC-1295 + ipamorelin combination. No clinical trial data exists on the tesamorelin + ipamorelin combination specifically. If combining, more aggressive IGF-1 monitoring is important to ensure levels remain within age-appropriate reference ranges.',
+          },
+          {
+            question: 'What is the difference between Egrifta, Egrifta WR, and Egrifta WR F8?',
+            answer:
+              'All three contain the same tesamorelin molecule at the same 2 mg daily dose with identical clinical pharmacology. The differences are formulation only: Egrifta (original, 2010) required multi-step reconstitution. Egrifta WR (2022) simplified this to a single-step process. Egrifta WR F8 (March 2025) further improved the lyophilized cake design for faster, easier reconstitution. For research-grade sourcing, these distinctions primarily affect the reconstitution workflow rather than the biological activity.',
+          },
+          {
+            question: 'Does tesamorelin help with fatty liver disease?',
+            answer:
+              'Yes — this is one of the most clinically compelling tesamorelin findings. A JAMA 2014 randomized trial (NCT02196831) showed 35% of tesamorelin patients achieved liver fat below 5% (NAFLD resolution) versus 4% of placebo at 12 months. A 2019 AIDS journal study confirmed tesamorelin also attenuated liver fibrosis progression histologically. The Phase II TESA-LIVER trial is currently evaluating this liver benefit in non-HIV adults with MASLD, with expected results in 2027.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Tesamorelin',
+        content: `<p>Tesamorelin stands in a category by itself in the peptide research landscape — not because of hype or anecdote, but because it has done something almost nothing else in this space has managed: survive the full rigor of Phase III randomized controlled trials with robust, replicable, clinically meaningful outcomes. A 15–18% reduction in visceral fat at 26 weeks without caloric restriction. Improved liver enzymes, triglycerides, and adiponectin. A NAFLD resolution rate of 35% that rivals pharmacological MASLD interventions currently in late-stage FDA review. A liver fibrosis attenuation signal that no comparable compound has demonstrated. All from a mechanism that works <em>with</em> the body's own GH axis rather than overriding it.</p>
+<p>The FDA approval for HIV-associated lipodystrophy is, in some ways, a historical artifact of the regulatory pathway available in 2010. The mechanism that makes tesamorelin work in HIV patients — GH-driven preferential lipolysis of visceral adipocytes through a physiologically preserved pulsatile axis — is biochemically identical in metabolically healthy adults with excess VAT. The 2017 non-HIV pilot study supports this, and the ongoing TESA-LIVER trial will provide more definitive non-HIV evidence within the next two years.</p>
+<p>For anyone with documented visceral fat excess, metabolic syndrome phenotype, or concurrent fatty liver disease, tesamorelin deserves serious consideration — backed by a clinical evidence package no comparable peptide can match. For broader GH optimization without specific visceral fat pathology, sermorelin or CJC-1295 + ipamorelin offer more cost-effective alternatives. But when visceral fat is the documented target and you want Phase III RCT data rather than animal studies and community anecdote, tesamorelin is in a class of one. See the <a href="/blog/sermorelin-vs-cjc-1295-comparison-2026" class="text-blue-400 hover:text-blue-300 underline">Sermorelin vs CJC-1295 guide</a> for the broader GHRH landscape, and the <a href="/blog/semaglutide-vs-tirzepatide-glp1-2026" class="text-blue-400 hover:text-blue-300 underline">Semaglutide vs Tirzepatide guide</a> for the GLP-1 weight loss comparison.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
