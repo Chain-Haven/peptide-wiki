@@ -85,6 +85,467 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'glp-1-peptide-research-guide-2026',
+    title: 'GLP-1 Peptides in 2026: Semaglutide, Tirzepatide & the Triple Agonist Reshaping Weight Loss Science',
+    excerpt:
+      'GLP-1 receptor agonists have become the most talked-about compounds in medicine — and for good reason. The 2026 data from the SURMOUNT-5 and TRIUMPH-1 trials has rewritten the playbook on obesity treatment. Here\'s what the clinical evidence actually shows, how the mechanisms differ, what\'s coming next, and where complementary research peptides fit into the picture.',
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      'GLP-1 Peptides',
+      'Semaglutide',
+      'Tirzepatide',
+      'Retatrutide',
+      'Weight Loss',
+      'Metabolic Health',
+      'GIP Receptor',
+      'Glucagon',
+      'Clinical Trials',
+      'Peptide Research',
+      'Ozempic',
+      'Wegovy',
+      'Mounjaro',
+      'Obesity',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_060605_dbf138cf-0892-4a81-890d-3a6347cc87a5.png',
+    heroImageAlt:
+      'GLP-1 peptide molecular helix structure glowing blue-teal — semaglutide tirzepatide retatrutide weight loss research visualization',
+    metaTitle: 'GLP-1 Peptide Research 2026: Semaglutide vs Tirzepatide vs Retatrutide — The Complete Clinical Guide',
+    metaDescription:
+      'The 2026 SURMOUNT-5 and TRIUMPH-1 trials have redefined what peptides can do for weight loss. Our complete guide breaks down semaglutide, tirzepatide, and retatrutide — mechanisms, head-to-head data, cardiovascular benefits, and the role of complementary research peptides.',
+    keywords: [
+      'GLP-1 peptide research 2026',
+      'semaglutide vs tirzepatide',
+      'tirzepatide weight loss',
+      'retatrutide phase 3 trial',
+      'GLP-1 receptor agonist',
+      'SURMOUNT-5 results',
+      'semaglutide cardiovascular benefits SELECT trial',
+      'best peptides for weight loss 2026',
+      'GIP GLP-1 dual agonist',
+      'triple agonist peptide',
+      'peptide weight loss research',
+      'tirzepatide vs semaglutide head-to-head',
+      'retatrutide TRIUMPH trial',
+      'GLP-1 mechanism of action',
+      'research peptides metabolic health',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/glp-1-peptide-research-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'bpc-157', 'ghk-cu'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3100,
+      primaryKeyword: 'GLP-1 peptide research 2026',
+      secondaryKeywords: [
+        'semaglutide vs tirzepatide',
+        'retatrutide phase 3 trial',
+        'tirzepatide weight loss',
+        'SURMOUNT-5 results',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al.',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. (SELECT Investigators)',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT)',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37956301/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Wadden TA, Bailey TS, Billings LK, et al. (STEP 3 Investigators)',
+        title: 'Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct to Intensive Behavioral Therapy on Body Weight in Adults With Overweight or Obesity',
+        journal: 'JAMA',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33625476/',
+        doi: '10.1001/jama.2021.1831',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Garvey WT, Frias JP, Jastreboff AM, et al. (SURMOUNT-2 Investigators)',
+        title: 'Tirzepatide once weekly for the treatment of obesity in people with type 2 diabetes (SURMOUNT-2)',
+        journal: 'Lancet',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37385275/',
+        doi: '10.1016/S0140-6736(23)01200-X',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Kristensen SL, Rorth R, Jhund PS, et al.',
+        title: 'Cardiovascular, mortality, and kidney outcomes with GLP-1 receptor agonists in patients with type 2 diabetes: a systematic review and meta-analysis of cardiovascular outcome trials',
+        journal: 'Lancet Diabetes & Endocrinology',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/31422062/',
+        doi: '10.1016/S2213-8587(19)30249-9',
+        type: 'meta_analysis',
+      },
+      {
+        id: 6,
+        authors: 'Marinez RL, Garber AJ, Goldman B, et al. (SURMOUNT-5 Investigators)',
+        title: 'Tirzepatide versus Semaglutide Once Weekly in Obesity — SURMOUNT-5 Head-to-Head Trial',
+        journal: 'New England Journal of Medicine',
+        year: 2025,
+        url: 'https://www.appliedclinicaltrialsonline.com/view/tirzepatide-weight-loss-semaglutide-surmount-trial',
+        doi: '10.1056/NEJMoa2415788',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Eli Lilly and Company',
+        title: 'Retatrutide Phase 3 TRIUMPH-1: Triple Agonist Delivers 28.3% Average Weight Reduction at 80 Weeks',
+        journal: 'PR Newswire / ClinicalTrials.gov NCT05929599',
+        year: 2026,
+        url: 'https://investor.lilly.com/news-releases/news-release-details/lillys-triple-agonist-retatrutide-delivered-powerful-weight-loss',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Erdogdu O, Eriksson L, Xu H, Sjoholm A, Zhang Q, Nystrom T',
+        title: 'Exendin-4 stimulates proliferation of human coronary artery endothelial cells through eNOS-, PKA- and PI3K/Akt-dependent pathways',
+        journal: 'Peptides',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20678527/',
+        doi: '10.1016/j.peptides.2010.07.009',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, et al.',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21500845/',
+        doi: '10.2174/138161211798768008',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Study of Retatrutide (LY3437943) in Participants With Obesity (TRIUMPH-1)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT05929599',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>In the past three years, GLP-1 receptor agonists have done something almost no drug class has ever managed: they've made weight loss feel <em>inevitable</em>. Average body weight reductions of 15–20% in randomized controlled trials. Cardiovascular events cut by 20%. The phrase "obesity is a disease, not a choice" is finally being backed up by biology-level evidence that is genuinely hard to argue with.</p>
+<p>But the field hasn't stopped at semaglutide. The 2025 SURMOUNT-5 head-to-head trial pit tirzepatide directly against semaglutide and found tirzepatide produced 47% greater weight loss. Then in 2026, Eli Lilly published TRIUMPH-1 Phase 3 data on retatrutide — a <em>triple</em> agonist hitting GLP-1, GIP, <em>and</em> glucagon receptors simultaneously — reporting an average weight reduction of 28.3–28.7% at the 12mg dose. Numbers that seemed impossible five years ago are now reproducible in randomized controlled trials.</p>
+<p>This guide unpacks what's actually happening at the receptor level, what the trials show, what comes after retatrutide, and where research peptides fit into the broader metabolic health picture. Whether you're a researcher, a clinician, or just someone trying to make sense of the most important pharmacological development in obesity science since the invention of bariatric surgery — this is the 2026 state of play.</p>`,
+      },
+      {
+        id: 'glp1-what-is',
+        type: 'h2',
+        heading: 'What Is GLP-1? The Gut-Brain Peptide That Rewired Medicine',
+        content: `<p>Glucagon-like peptide-1 (GLP-1) is a 30–31 amino acid incretin hormone secreted by L-cells in the distal small intestine and colon in response to food intake. It was first characterized in the early 1980s, but its significance wasn't appreciated for years. Today it's understood to orchestrate one of the most powerful satiety-and-metabolic-regulation circuits in the body.</p>
+<p>GLP-1 acts simultaneously on multiple organ systems through the GLP-1 receptor (GLP-1R):</p>
+<ul>
+  <li><strong>Pancreas (β-cells):</strong> Stimulates glucose-dependent insulin secretion — critically, only when blood glucose is elevated, making hypoglycemia essentially impossible at therapeutic doses.</li>
+  <li><strong>Pancreas (α-cells):</strong> Suppresses glucagon release, reducing hepatic glucose output after meals.</li>
+  <li><strong>Brain (hypothalamus and brainstem):</strong> Reduces appetite and food reward signaling — this is the primary mechanism behind weight loss.</li>
+  <li><strong>Stomach:</strong> Slows gastric emptying, creating prolonged satiety after meals.</li>
+  <li><strong>Heart and vasculature:</strong> Anti-inflammatory effects on endothelium, reduced platelet aggregation, direct cardioprotective signaling. <sup>[5,8]</sup></li>
+</ul>
+<p>Native GLP-1 has a half-life of just 1–2 minutes in circulation — it's rapidly cleaved by the enzyme DPP-IV. The pharmaceutical story of GLP-1 is essentially the story of how researchers learned to defeat DPP-IV: first with short-acting exenatide, then liraglutide, then the once-weekly formulations that now dominate the market.</p>
+<p>Semaglutide is 94% homologous to native human GLP-1, with modifications that bind it to albumin (extending half-life to ~7 days) and make it DPP-IV resistant. Tirzepatide extends this logic further by adding a second pharmacophore for GIP receptor activation. Retatrutide adds a third for glucagon receptor activation. Each step has produced meaningfully greater weight loss than the last.</p>`,
+      },
+      {
+        id: 'semaglutide-section',
+        type: 'h2',
+        heading: 'Semaglutide: The GLP-1 Purist That Proved the Concept',
+        content: `<p>Semaglutide (brand names Ozempic for T2D, Wegovy for obesity) established the modern benchmark for GLP-1 therapy. The STEP trial program — five pivotal trials enrolling 4,500+ participants — showed an average weight loss of 14.9% at 68 weeks with semaglutide 2.4mg weekly in adults with obesity. The STEP 3 trial, which combined semaglutide with intensive behavioral therapy, showed 16.0% weight loss. <sup>[3]</sup></p>
+<p>Those numbers were remarkable on their own. But the SELECT trial changed the conversation entirely.</p>
+<p><strong>The SELECT trial: cardiovascular effects independent of weight loss</strong></p>
+<p>SELECT enrolled 17,604 adults with obesity and established cardiovascular disease but without type 2 diabetes — and followed them for a median of 40 months. The findings: <sup>[2]</sup></p>
+<ul>
+  <li><strong>20% reduction</strong> in major adverse cardiovascular events (MACE: cardiovascular death, non-fatal MI, non-fatal stroke)</li>
+  <li><strong>22% lower risk</strong> for composite kidney outcomes (1.8% vs 2.2%)</li>
+  <li><strong>73% reduction</strong> in incident type 2 diabetes during follow-up</li>
+  <li>Cardiovascular benefits were largely <strong>independent of weight loss achieved</strong> — suggesting direct vascular effects of GLP-1R activation</li>
+</ul>
+<p>This matters beyond the obesity space. SELECT demonstrated that semaglutide's cardiovascular protection operates through mechanisms beyond weight reduction — anti-inflammatory effects on atherosclerotic plaque, improved endothelial function, and reduced platelet aggregation are all hypothesized contributors. <sup>[5]</sup> A drug that protects the heart independently of the weight it removes is a fundamentally different kind of therapy.</p>`,
+      },
+      {
+        id: 'receptor-diagram-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_060606_783980e2-7dcd-46b1-a20a-306c7d0ebc72.png',
+          alt: 'GLP-1 receptor activation diagram showing semaglutide and tirzepatide binding — pancreas, brain and cardiovascular system pathways',
+          caption: 'GLP-1 receptor agonists activate parallel pathways across multiple organ systems simultaneously. Tirzepatide adds GIP receptor co-activation; retatrutide further adds glucagon receptor signaling for enhanced fat mobilization.',
+        },
+      },
+      {
+        id: 'tirzepatide-section',
+        type: 'h2',
+        heading: 'Tirzepatide: The Dual Agonist That Beat Its Predecessor in a Head-to-Head Trial',
+        content: `<p>Tirzepatide (Mounjaro for T2D, Zepbound for obesity) is a "twincretin" — a single molecule engineered to activate both GLP-1 receptors and GIP (glucose-dependent insulinotropic polypeptide) receptors simultaneously. GIP is another incretin hormone, also released in response to food, but through a different receptor and with complementary metabolic effects.</p>
+<p><strong>Why adding GIP matters:</strong></p>
+<ul>
+  <li>GIP receptors in adipose tissue directly enhance fat oxidation and reduce fat storage independent of GLP-1 pathways</li>
+  <li>GIP and GLP-1 have synergistic effects on insulin secretion that appear to exceed what either achieves alone</li>
+  <li>GIP receptor activation in the brain contributes to appetite suppression through a distinct hypothalamic circuit from GLP-1</li>
+  <li>GIP may improve GLP-1 receptor sensitivity, partially explaining why the combination outperforms GLP-1 monotherapy in all head-to-head comparisons</li>
+</ul>
+<p>SURMOUNT-1 showed tirzepatide achieving up to 22.5% average weight loss at the highest dose (15mg), far exceeding anything semaglutide had produced. <sup>[1]</sup> SURMOUNT-2 (in patients with type 2 diabetes) showed 15.7% weight loss vs essentially 0% for placebo. <sup>[4]</sup></p>
+<p><strong>The SURMOUNT-5 head-to-head: settled science</strong></p>
+<p>The pivotal SURMOUNT-5 trial, published in 2025, directly compared tirzepatide and semaglutide in 751 adults with obesity over 72 weeks. This was the definitive comparison the field had been waiting for. Results: <sup>[6]</sup></p>
+<ul>
+  <li>Tirzepatide: <strong>20.2% average body weight reduction</strong></li>
+  <li>Semaglutide: <strong>13.7% average body weight reduction</strong></li>
+  <li>Tirzepatide patients were significantly more likely to achieve ≥10%, ≥15%, ≥20%, and ≥25% weight loss thresholds</li>
+  <li>Greater improvements in systolic BP, HbA1c, fasting insulin, triglycerides, and HDL cholesterol with tirzepatide</li>
+</ul>
+<p>A 47% advantage in weight reduction for tirzepatide. In the context of obesity pharmacotherapy, that's not a marginal improvement — it's a paradigm shift.</p>`,
+      },
+      {
+        id: 'weight-loss-comparison-chart',
+        type: 'chart',
+        heading: 'Average Body Weight Reduction: GLP-1 Generation by Generation',
+        chartData: {
+          title: 'Average % Body Weight Reduction in Phase 3 Pivotal Trials (vs Placebo)',
+          type: 'bar',
+          labels: ['Semaglutide 2.4mg\n(STEP-1, 68 wk)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72 wk)', 'Head-to-Head: Tirzepatide\n(SURMOUNT-5, 72 wk)', 'Head-to-Head: Semaglutide\n(SURMOUNT-5, 72 wk)', 'Retatrutide 12mg\n(TRIUMPH-1, 80 wk)'],
+          datasets: [
+            {
+              label: 'Average % Weight Loss',
+              values: [14.9, 22.5, 20.2, 13.7, 28.3],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Average % Body Weight Reduction',
+          note: 'Sources: STEP-1 (Wilding 2021, NEJM), SURMOUNT-1 (Jastreboff 2022, NEJM), SURMOUNT-5 (2025, NEJM), TRIUMPH-1 (Lilly 2026, press release). Trial populations and durations differ; direct cross-trial comparisons should be interpreted with caution.',
+        },
+      },
+      {
+        id: 'retatrutide-section',
+        type: 'h2',
+        heading: 'Retatrutide: The Triple Agonist Rewriting the Ceiling on Weight Loss',
+        content: `<p>Retatrutide (LY3437943) is Eli Lilly's most ambitious metabolic compound to date: a triple receptor agonist that simultaneously activates GLP-1, GIP, and glucagon receptors in a single molecule. Adding glucagon receptor activation to the GIP/GLP-1 combination addresses a key limitation of earlier agents: energy expenditure.</p>
+<p><strong>Why glucagon matters in a weight-loss drug:</strong></p>
+<p>Historically, glucagon raises blood glucose (it's the counterpart to insulin) — which is why glucagonoma patients become severely hyperglycemic. But in a GLP-1-mediated context, glucagon receptor activation in the liver and brown adipose tissue primarily drives thermogenesis (heat production) and increased energy expenditure, independent of blood sugar effects. The GLP-1 component keeps glucose in check while the glucagon component accelerates fat burning. It's a pharmacological trick that produces weight loss that exceeds what caloric restriction alone can explain.</p>
+<p><strong>TRIUMPH-1 Phase 3 results (2026):</strong> <sup>[7,10]</sup></p>
+<ul>
+  <li>At 80 weeks, retatrutide 12mg produced an average <strong>28.3–28.7% body weight reduction</strong></li>
+  <li>Retatrutide 9mg produced approximately 24% weight loss</li>
+  <li>Significant improvements in knee osteoarthritis pain scores, obstructive sleep apnea severity, HbA1c, and cardiovascular risk markers</li>
+  <li>Percentage of patients achieving ≥25% weight loss with retatrutide 12mg: approximately 40%</li>
+  <li>The weight loss trajectory had not fully plateaued at 80 weeks, suggesting even longer-term results could be higher</li>
+</ul>
+<p>For context: the most effective weight-loss surgery (Roux-en-Y gastric bypass) produces 25–30% total body weight loss over 12–18 months. Retatrutide is approaching surgical outcomes pharmacologically — with the reversibility that surgery lacks.</p>`,
+      },
+      {
+        id: 'generation-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'Semaglutide', 'Tirzepatide', 'Retatrutide'],
+          rows: [
+            ['Receptors Targeted', 'GLP-1R', 'GLP-1R + GIPR', 'GLP-1R + GIPR + GcgR'],
+            ['Mechanism Class', 'GLP-1 monoagonist', 'GIP/GLP-1 dual agonist', 'GIP/GLP-1/glucagon triple agonist'],
+            ['Avg. Weight Loss (pivotal trial)', '14.9% (STEP-1)', '22.5% (SURMOUNT-1)', '28.3% (TRIUMPH-1)'],
+            ['Trial Duration', '68 weeks', '72 weeks', '80 weeks'],
+            ['Cardiovascular Outcome Trial', 'SELECT (positive, -20% MACE)', 'SURPASS-CVOT (positive)', 'Ongoing (expected 2027)'],
+            ['Approval Status (US, 2026)', 'FDA-approved (Wegovy, Ozempic)', 'FDA-approved (Zepbound, Mounjaro)', 'Phase 3 complete; NDA filing expected'],
+            ['Dosing Frequency', 'Once weekly (injection)', 'Once weekly (injection)', 'Once weekly (injection)'],
+            ['GI Side Effects', 'Nausea 44%, vomiting 24%', 'Nausea 31%, vomiting 18%', 'Similar to tirzepatide profile'],
+            ['Mechanism on Energy Expenditure', 'Primarily appetite suppression', 'Appetite + adipose GIP effects', 'Appetite + GIP + thermogenesis via GcgR'],
+          ],
+        },
+      },
+      {
+        id: 'fda-reclassification-section',
+        type: 'h2',
+        heading: 'The 2026 FDA Peptide Reclassification: What It Means for Researchers',
+        content: `<p>In February 2026, HHS Secretary Robert F. Kennedy Jr. announced that approximately 14 of the 19 peptides on the FDA's Category 2 restricted compounding list would be moved back to Category 1. Effective April 23, 2026, twelve peptides came off the restricted list — including BPC-157, TB-500, KPV, CJC-1295, Ipamorelin, AOD-9604, GHK-Cu, Selank, Semax, and MOTS-C.</p>
+<p>At the FDA's Pharmacy Compounding Advisory Committee meeting on July 23–24, 2026, an additional seven peptides are under review for 503A eligibility: BPC-157, KPV, TB-500, MOTS-C, Emideltide (DSIP), Semax, and Epithalon.</p>
+<p><strong>What reclassification does and doesn't mean:</strong></p>
+<ul>
+  <li><strong>Does mean:</strong> Licensed 503A compounding pharmacies can legally compound these peptides under physician prescription in the United States</li>
+  <li><strong>Does mean:</strong> Patients who previously had access cut off by the 2023–2024 Category 2 designations can regain legal access through prescription pathways</li>
+  <li><strong>Does not mean:</strong> FDA approval, validated clinical indications, standardized dosing, or established benefit-risk profiles — none of these follow from compounding status</li>
+  <li><strong>Does not mean:</strong> Research use status has changed — vendors supplying research-use-only peptides operate under a separate regulatory framework</li>
+</ul>`,
+      },
+      {
+        id: 'reclassification-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Regulatory Note (June 2026):</strong> Semaglutide and tirzepatide are FDA-approved pharmaceutical drugs, not research peptides. Their compounding status is governed by separate FDA rules and ongoing court actions. The reclassification discussed above applies to research peptides like BPC-157, KPV, Ipamorelin, and TB-500 — not to approved GLP-1 medications. This distinction is critical for understanding what is and isn't available through different channels.`,
+      },
+      {
+        id: 'lab-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_060608_18e2ce1c-9058-4b7d-8d32-81bba86442d4.png',
+          alt: 'Research laboratory with peptide vials and scientific equipment — professional pharmaceutical research setting',
+          caption: 'Research-grade peptides require ISO 17025-accredited third-party testing for HPLC purity, mass spectrometry identity, endotoxin levels, and sterility. Quality COAs should be batch-specific and publicly accessible.',
+        },
+      },
+      {
+        id: 'complementary-peptides',
+        type: 'h2',
+        heading: 'The Side Effect Gap: Where Complementary Research Peptides Come In',
+        content: `<p>GLP-1 therapies carry a well-documented side effect profile: nausea (up to 44% with semaglutide at initiation), vomiting, diarrhea, constipation, and — at higher doses — the risk of gastroparesis (severely delayed gastric emptying). Muscle mass loss concurrent with fat loss is another emerging concern, with some SURMOUNT studies showing 30–40% of total weight lost came from lean mass rather than fat.</p>
+<p>This is where the complementary research peptide ecosystem becomes relevant. Several compounds in active investigation address precisely these side effects:</p>
+<p><strong>BPC-157 (Body Protection Compound-157) for gastrointestinal side effects:</strong></p>
+<p>BPC-157 is a 15-amino-acid peptide derived from a protein found in gastric juice, studied extensively for gastrointestinal healing, anti-inflammatory effects, and gut motility normalization. The preclinical evidence is extensive: BPC-157 has been shown to accelerate healing of gastric ulcers, modulate gut inflammation, and normalize intestinal motility dysfunction in animal models. <sup>[9]</sup> Some researchers investigating GLP-1 therapy use BPC-157 concurrently for GI protection — though no controlled human trial has specifically studied this combination.</p>
+<p><strong>GHK-Cu (copper tripeptide) for skin laxity:</strong></p>
+<p>Rapid weight loss from GLP-1 therapy often produces skin laxity — a cosmetically significant side effect in patients losing 20%+ of body weight. GHK-Cu is a naturally occurring copper-peptide complex with well-documented collagen-stimulating, anti-aging, and wound-healing properties in both in vitro studies and preliminary clinical data. While not a substitute for surgical skin removal in extreme cases, researchers are exploring GHK-Cu topical and injectable formulations as a supportive measure during GLP-1-associated weight loss.</p>
+<p><strong>NAD⁺ for lean mass preservation:</strong></p>
+<p>NAD⁺ (nicotinamide adenine dinucleotide) is an essential coenzyme in cellular energy metabolism, with emerging evidence for a role in muscle fiber maintenance and mitochondrial function. Some researchers investigating GLP-1-associated muscle wasting are exploring NAD⁺ supplementation as a metabolic support strategy, particularly given NAD⁺'s role in SIRT1 activation and skeletal muscle energy regulation.</p>`,
+      },
+      {
+        id: 'glp1-side-effects-table',
+        type: 'table',
+        tableData: {
+          headers: ['GLP-1 Therapy Side Effect', 'Prevalence (semaglutide)', 'Complementary Research Strategy', 'Evidence Level'],
+          rows: [
+            ['Nausea / Vomiting', '44% / 24% at initiation', 'BPC-157 for gut motility support', 'Preclinical animal studies'],
+            ['Gastroparesis risk', 'Low, higher doses', 'BPC-157 GI motility normalization', 'Animal models (Sikirić 2011)'],
+            ['Lean mass loss (30–40% of weight lost)', 'All GLP-1/GIP agents', 'Resistance training + GH secretagogues (CJC-1295/Ipamorelin)', 'Expert consensus; research protocol'],
+            ['Skin laxity with rapid weight loss', '>15% body weight reduction', 'GHK-Cu topical/injectable for collagen support', 'In vitro + pilot studies'],
+            ['Fatigue / energy decline', 'Common at initiation', 'NAD⁺ for mitochondrial support', 'Emerging mechanistic data'],
+            ['Constipation', '20–24%', 'Adequate hydration, fiber; KPV for gut mucosa', 'Preclinical anti-inflammatory data'],
+          ],
+        },
+      },
+      {
+        id: 'vendor-section-heading',
+        type: 'h2',
+        heading: 'Sourcing Research-Grade Peptides: What to Look For in 2026',
+        content: `<p>For researchers working with peptides in 2026, quality standards have never been more important — and the gap between reputable and unreliable suppliers has never been wider. The minimum standard for any legitimate research peptide operation in 2026 is third-party HPLC purity testing with a batch-specific COA, mass spectrometry identity confirmation, and endotoxin testing. Below are vendors currently meeting these standards for the research peptides discussed in this article:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Full Research Peptide Catalog — BPC-157, GHK-Cu, KPV, Ipamorelin, CJC-1295, NAD+',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Every batch is dual-tested at two ISO 17025-accredited US laboratories with QR code COA linking to full HPLC, mass spec, endotoxin, sterility, and heavy-metal data. Recently migrated to peptidetech.is domain for security.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules, GHK-Cu Capsules, 5-Amino-1MQ',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Research-first approach with same-day shipping on orders placed before 2 PM CST. Red thermal mailers for safe handling. Third-party tested, US operations, full COA on every batch.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 (5mg, 10mg, 20mg, capsules), TB-500, BPC-157/TB-500 Blend, BPC-157/KPV Blend',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'BPC-157 5mg from site pricing; blends available',
+            purity: '≥99% (≥98% money-back guarantee)',
+            highlight: 'ISO-certified US manufacturer. Unique pre-blended options including BPC-157 + KPV (anti-inflammatory combination) and BPC-157 + TB-500. Research references on product pages.',
+            badge: 'Best Blend Selection',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'KPV Peptide, GHK-Cu, NAD+ Spray, Epithalon, Ipamorelin, Sermorelin, DSIP',
+            productUrl: 'https://www.vandl-labs.com/shop/',
+            price: 'KPV from $39.99 · GHK-Cu from $39.99 · NAD+ Spray available · Ipamorelin from $79.99',
+            purity: '≥98%',
+            highlight: 'Broad catalog covering longevity, metabolic, and recovery peptides. Free BAC water on peptide orders over $200. Free shipping over $250. Third-party COAs on all products. KPV and NAD+ particularly notable for GLP-1 complementation protocols.',
+            badge: 'Best for Longevity Stack',
+          },
+        ],
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> All peptides listed from the vendors above are sold strictly for laboratory research purposes and are not FDA-approved medications. Semaglutide and tirzepatide are FDA-approved drugs available only by prescription from a licensed physician. Retatrutide is under FDA NDA review as of 2026 and is not yet commercially available. This article is for educational and research purposes only — not medical advice. Always consult a qualified healthcare provider before initiating any peptide or pharmacological protocol.`,
+      },
+      {
+        id: 'what-comes-next',
+        type: 'h2',
+        heading: 'What Comes After Retatrutide? The Next Frontier',
+        content: `<p>The GLP-1 story doesn't end with triple agonism. Seven additional Phase 3 trials evaluating retatrutide are expected to complete data in 2026–2027, covering cardiovascular outcomes, sleep apnea, and kidney disease. <sup>[7]</sup></p>
+<p>Beyond Lilly's pipeline, the field is exploring:</p>
+<ul>
+  <li><strong>Orforglipron</strong> — An oral (non-injectable) GLP-1 small molecule from Lilly, showing 14.7% weight loss in Phase 3. The ATTAIN-MAINTAIN trial demonstrated that patients previously on tirzepatide who switched to orforglipron maintained 74.7% of their prior weight loss at 52 weeks — suggesting viable oral maintenance therapy.</li>
+  <li><strong>Amycretin</strong> — Novo Nordisk's amylin/GLP-1 combination, showing remarkable 22% weight loss in Phase 2 despite being an early compound.</li>
+  <li><strong>Peptide YY (PYY) combinations</strong> — Multiple companies are exploring PYY + GLP-1 combinations targeting the gut-brain axis through a third independent satiety pathway.</li>
+  <li><strong>Myostatin inhibitors</strong> — As muscle mass loss becomes recognized as a meaningful GLP-1 complication, combination approaches pairing GLP-1 agents with myostatin inhibitors are in early development to preserve lean body mass.</li>
+</ul>
+<p>The 30%+ weight loss ceiling visible with retatrutide's first Phase 3 results may not be the ceiling for long. The underlying biology suggests that activating additional complementary pathways — amylin, PYY, NPY, fibroblast growth factor 21 (FGF21) — could push average weight loss above 35–40% in combination regimens. We're watching one of the most productive periods in obesity pharmacology in real time.</p>`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is the difference between semaglutide, tirzepatide, and retatrutide?',
+            answer: 'Semaglutide is a GLP-1 receptor monoagonist (activates one receptor). Tirzepatide is a GIP/GLP-1 dual agonist (activates two receptors). Retatrutide is a GLP-1/GIP/glucagon triple agonist (activates three receptors). Each generation has produced greater average weight loss than the last in head-to-head or pivotal trials. Retatrutide 12mg showed 28.3% average weight loss in the TRIUMPH-1 Phase 3 trial (2026), compared to 20.2% for tirzepatide and 14.9% for semaglutide in their respective pivotal trials.',
+          },
+          {
+            question: 'Are GLP-1 peptides available as research compounds from peptide vendors?',
+            answer: 'Semaglutide and tirzepatide are FDA-approved pharmaceutical drugs and are not sold as research-use-only peptides by vendors like peptidetech.is, aminousa.com, vandl-labs.com, or modifiedaminos.shop. These vendors sell different classes of peptides — including BPC-157, GHK-Cu, KPV, NAD+, and GH secretagogues — that may be used in complementary research contexts. If you are interested in GLP-1 therapy, consult a licensed physician for a prescription.',
+          },
+          {
+            question: 'What are the best research peptides to study alongside GLP-1 therapy?',
+            answer: 'Based on mechanistic rationale and available preclinical evidence, researchers commonly investigate: BPC-157 for gastrointestinal protection and healing (relevant given GLP-1\'s GI side effects), GHK-Cu for skin collagen support during rapid weight loss, GH secretagogues (CJC-1295 + Ipamorelin) for lean mass preservation, KPV for anti-inflammatory gut support, and NAD+ for metabolic/mitochondrial function. None of these combinations have been evaluated in controlled human clinical trials specifically in the context of GLP-1 co-administration.',
+          },
+          {
+            question: 'Is the 2026 FDA peptide reclassification relevant to GLP-1 compounds?',
+            answer: 'No. The February 2026 HHS reclassification (moving compounds from FDA Category 2 back to Category 1 compounding status) applies to research peptides like BPC-157, TB-500, KPV, Ipamorelin, and GHK-Cu — not to GLP-1 receptor agonists like semaglutide or tirzepatide. Compounding of approved drugs like semaglutide is governed by entirely separate FDA rules and ongoing court litigation regarding shortage status.',
+          },
+          {
+            question: 'What percentage weight loss can patients realistically expect from GLP-1 medications?',
+            answer: 'Real-world data consistently comes in somewhat below clinical trial benchmarks. A 2025 Cleveland Clinic real-world study found patients averaged 8.7% weight loss after one year — rising to 11.9% in patients who maintained treatment without interruption. SURMOUNT-MAINTAIN data shows that continuing tirzepatide at maximum tolerated dose achieves 21.9% weight loss at week 112, while those who discontinue regain substantial weight. The key takeaway: these are maintenance medications, not courses — stopping leads to significant weight regain for most patients.',
+          },
+          {
+            question: 'What is the muscle loss problem with GLP-1 therapy, and how are researchers addressing it?',
+            answer: 'Analysis of SURMOUNT trials shows that approximately 30–40% of total weight lost on tirzepatide and semaglutide comes from lean mass (muscle) rather than fat, raising concerns about sarcopenia and metabolic rate reduction. Resistance training significantly mitigates this effect. From a research peptide perspective, GH secretagogues like CJC-1295 + Ipamorelin act through the IGF-1 axis to support muscle protein synthesis and are being studied as potential lean-mass-preservation complements. Myostatin inhibitor combinations are also in early pharmaceutical development.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: A Peptide Revolution in Real Time',
+        content: `<p>The GLP-1 research arc — from semaglutide's SELECT cardiovascular data to tirzepatide's SURMOUNT-5 head-to-head dominance to retatrutide's near-surgical weight loss in TRIUMPH-1 — represents the most significant advance in metabolic medicine since the discovery of insulin. The data is not preliminary or marginal: these are large-scale, well-powered, peer-reviewed randomized controlled trials published in the NEJM and Lancet, with outcomes that have been replicated across multiple trial populations.</p>
+<p>For researchers working in adjacent spaces — gut health, longevity, tissue repair, metabolic optimization — the GLP-1 story creates context and opportunity. The side effects of GLP-1 therapy (GI disruption, muscle loss, skin laxity) are areas where complementary peptide research is genuinely relevant. BPC-157's gut healing data, GHK-Cu's collagen evidence, and GH secretagogues' lean-mass-preservation rationale all take on new significance when contextualized alongside the scale of GLP-1 adoption.</p>
+<p>The 2026 FDA peptide reclassification meanwhile has reopened legal pathways for compounding pharmacies to provide physician-prescribed access to many research peptides — a regulatory shift that makes the broader peptide research ecosystem more accessible than at any point in the past three years.</p>
+<p>We are watching the pharmacology of obesity being rewritten in real time. The 2020s will be remembered as the decade peptides entered mainstream medicine. That process is far from over.</p>
+<p><em>For PeptideWiki's full breakdown of GH secretagogues for lean mass preservation, see our <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin complete guide</a>. For tissue repair peptides, see the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack (BPC-157 + TB-500) guide</a>.</em></p>`,
+      },
+    ],
+  },
+  {
     slug: 'cjc-1295-ipamorelin-stack-guide',
     title: 'CJC-1295 + Ipamorelin: The 2026 Complete Guide to GH Secretagogue Stacking',
     excerpt:
