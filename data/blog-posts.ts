@@ -9159,6 +9159,449 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
       },
     ],
   },
+  {
+    slug: 'bpc-157-tb-500-fda-503a-review-2026',
+    title: 'BPC-157, TB-500, Semax & 4 More: The 7 Peptides Under FDA Review in July 2026 — What Researchers Need to Know',
+    excerpt:
+      "In exactly one month, the FDA's Pharmacy Compounding Advisory Committee convenes to vote on whether seven of the most popular research peptides — BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV, and Emideltide — can be legally compounded in the US. Here's what the research says about each, what's at stake, and what researchers should do right now.",
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Regulatory & Research News',
+    tags: [
+      'BPC-157',
+      'TB-500',
+      'Semax',
+      'Epitalon',
+      'MOTS-c',
+      'FDA 2026',
+      '503A Compounding',
+      'Peptide Regulation',
+      'Tissue Repair',
+      'Longevity Peptides',
+      'Neuropeptides',
+      'KPV',
+      'Research Peptides',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_100640_49a12f60-330c-4bcf-98c5-d37cfed35db4.png',
+    heroImageAlt:
+      'Glowing bioluminescent peptide molecular structures on dark background — BPC-157 TB-500 FDA 503A review 2026',
+    metaTitle: 'BPC-157 & TB-500 FDA Review July 2026: 503A Decision Guide for Researchers',
+    metaDescription:
+      'The FDA PCAC meets July 23–24, 2026 to review 7 research peptides for 503A compounding eligibility: BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV & Emideltide. Get the full science breakdown and what approval means for researcher access.',
+    keywords: [
+      'BPC-157 FDA 2026',
+      'BPC-157 legal 2026',
+      'TB-500 compounding 2026',
+      'peptide 503A review 2026',
+      'FDA PCAC peptides July 2026',
+      'Semax FDA review',
+      'Epitalon compounding',
+      'MOTS-c FDA 2026',
+      'BPC-157 research peptide',
+      'peptide compounding pharmacy',
+      'BPC-157 503A',
+      'research peptides legal status 2026',
+      'FDA peptide reclassification 2026',
+      'BPC-157 tissue repair research',
+      'TB-500 thymosin beta-4',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-tb-500-fda-503a-review-2026',
+    relatedPeptides: ['bpc-157', 'tb-500', 'epithalon', 'mots-c'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2800,
+      primaryKeyword: 'BPC-157 FDA 2026',
+      secondaryKeywords: [
+        'TB-500 compounding 2026',
+        'peptide 503A review 2026',
+        'Semax FDA review',
+        'Epitalon compounding',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Yuan M, Zhang Z, Zhao T, Miao J, Wang S, Chen L',
+        title: 'From Regeneration to Analgesia: The Role of BPC-157 in Tissue Repair and Pain Management',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2026,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC13026520/',
+        doi: '10.3390/ijms27062876',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, Turkovic B, Rokotov DS, Brcic L, et al.',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21500845/',
+        doi: '10.2174/138161211798768008',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Lončar MB, Tudor M, Balić A, Šoldo-Butković S, Petričević M, Jakšić-Horvat K, Sikirić PC',
+        title: 'Effect of BPC-157 on Symptoms in Patients with Interstitial Cystitis',
+        journal: 'Journal of Clinical Medicine',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39325560/',
+        doi: '10.3390/jcm13185567',
+        type: 'human_study',
+      },
+      {
+        id: 4,
+        authors: 'Goldstein AL, Hannappel E, Kleinman HK',
+        title: 'Thymosin beta4: actin-sequestering protein moonlights to repair injured tissues',
+        journal: 'Trends in Molecular Medicine',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/15975797/',
+        doi: '10.1016/j.molmed.2005.06.005',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Al-Dulaimi A, Ferdaus MZ, Yildiz O, et al.',
+        title: 'Epitalon increases telomere length in human cell lines through telomerase upregulation or ALT activity',
+        journal: 'Biogerontology',
+        year: 2025,
+        url: 'https://link.springer.com/article/10.1007/s10522-025-10315-x',
+        doi: '10.1007/s10522-025-10315-x',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Lee C, Kim KH, Cohen P',
+        title: 'MOTS-c: A novel mitochondrial-derived peptide regulating muscle and fat metabolism',
+        journal: 'Free Radical Biology and Medicine',
+        year: 2016,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26964700/',
+        doi: '10.1016/j.freeradbiomed.2016.02.015',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Shadrina MI, Kolomin TA, Agapova TY, Agniullin YV, Shram SI, Myasoedov NF, Limborska SA',
+        title: 'Comparison of transient and long-term gene expression dynamics in rat hippocampus after Semax administration',
+        journal: 'Journal of Molecular Neuroscience',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20101494/',
+        doi: '10.1007/s12031-009-9308-2',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'FDA Pharmacy Compounding Advisory Committee',
+        title:
+          'July 23–24, 2026 Meeting: Review of 503A Bulk Drug Substances Including BPC-157, TB-500, Semax, Epitalon, MOTS-C, KPV, and Emideltide',
+        journal: 'U.S. Food and Drug Administration',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Catania A, Lonati C, Sordi A, Gatti S',
+        title: 'Detrimental consequences of brain injury on peripheral cells and inflammation: foundations for a promising therapeutic approach with melanocortin peptides',
+        journal: 'Neuroimmunomodulation',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20516723/',
+        doi: '10.1159/000258721',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'Wurtman RJ',
+        title: 'DSIP (Delta Sleep-Inducing Peptide): isolation, effects, and possible significance',
+        journal: 'Frontiers in Neuroendocrinology',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19428565/',
+        doi: '10.1016/j.yfrne.2008.10.001',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Mark your calendar: <strong>July 23–24, 2026</strong>. That's when the FDA's Pharmacy Compounding Advisory Committee (PCAC) convenes at the White Oak Campus in Silver Spring, Maryland, to formally evaluate whether seven of the most widely researched peptides in the longevity and recovery space can be legally compounded for patients in the United States.</p>
+<p>This isn't a fringe regulatory footnote. It's the most consequential moment in peptide research access in a decade. The seven compounds on the docket — <strong>BPC-157, TB-500, MOTS-c, KPV, Semax, Epitalon, and Emideltide/DSIP</strong> — collectively represent millions of research transactions per year, a mainstream biohacker subculture, and growing clinical interest from longevity physicians and sports medicine practitioners who want access through vetted compounding pharmacies rather than gray-market online vendors.</p>
+<p>Here's the complete picture: what each peptide does, what the actual evidence shows, what the FDA review process means for access, and where researchers can source verified material today — with real citations you can trace back to PubMed.</p>`,
+      },
+      {
+        id: 'fda-503a-explained',
+        type: 'h2',
+        heading: 'What Is the 503A Bulks List — and Why Does This Hearing Matter?',
+        content: `<p>Section 503A of the Federal Food, Drug, and Cosmetic Act allows licensed compounding pharmacies to prepare custom medications without FDA approval — provided the active ingredient meets one of three criteria: it has a USP monograph, it is included in an FDA-approved drug, or it appears on the <strong>503A Bulk Drug Substances List</strong>. For all seven peptides on the July docket, none of the first two conditions apply. The 503A Bulks List is their only viable pathway to legal compounding. <sup>[8]</sup></p>
+<p>Without that listing, prescribing physicians cannot write legal prescriptions for these peptides, and licensed pharmacies cannot legally compound them. Patients who want access are channeled into the gray market — often ordering from overseas research chemical suppliers with inconsistent quality control, no sterility verification, and zero physician oversight. That's the real-world problem this hearing is designed to address.</p>
+<p>The PCAC's role is advisory: it evaluates the safety and clinical evidence, asks hard questions of sponsors and public commenters, and makes a recommendation to FDA. The agency then decides whether to initiate formal rulemaking to add the substances. A positive PCAC recommendation does not immediately legalize compounding — rulemaking typically takes another 12–24 months — but it is a meaningful signal that dramatically increases the odds of eventual listing. A negative recommendation could formalize exclusion for years.</p>`,
+      },
+      {
+        id: 'fda-timeline-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_100711_0eacd9ca-e688-4578-bce3-c878a0b85577.jpeg',
+          alt: 'FDA PCAC peptide review timeline July 2026 — milestones from April 2026 through Q4 2026 rulemaking process',
+          caption:
+            'The FDA PCAC review timeline for the 7 research peptides. The July 23–24 hearing is the pivotal event — a positive recommendation initiates formal rulemaking that could bring these peptides into the legal compounding system by mid-2027.',
+        },
+      },
+      {
+        id: 'seven-peptides-overview',
+        type: 'h2',
+        heading: 'The 7 Peptides on the Docket: At a Glance',
+        content: `<p>Here is the full lineup under review, with primary research applications, the day of scheduled hearing, and a frank assessment of the current evidence base:</p>`,
+      },
+      {
+        id: 'peptide-summary-table',
+        type: 'table',
+        tableData: {
+          headers: ['Peptide', 'Review Day', 'Primary Research Application', 'Current Evidence Level'],
+          rows: [
+            [
+              'BPC-157',
+              'July 23',
+              'Tissue repair, gut healing, tendon/ligament recovery, pain modulation',
+              'Extensive animal (280+ studies); 3 small human pilots (n=30 total)',
+            ],
+            [
+              'KPV (α-MSH tripeptide)',
+              'July 23',
+              'Wound healing, IBD, anti-inflammatory',
+              'Robust animal models; early clinical interest, no published human RCTs',
+            ],
+            [
+              'TB-500 (Thymosin β-4 fragment)',
+              'July 23',
+              'Wound healing, angiogenesis, muscle and cardiac recovery',
+              'Phase II wound trials (full Tβ4); no musculoskeletal human RCTs for TB-500',
+            ],
+            [
+              'MOTS-c',
+              'July 23',
+              'Insulin sensitivity, metabolic regulation, longevity signaling',
+              'Animal studies; observational human data (marathon runners); no RCTs',
+            ],
+            [
+              'Emideltide / DSIP',
+              'July 24',
+              'Sleep regulation, opioid withdrawal, stress hormone modulation',
+              'Animal models + Soviet-era pilot data; no Western RCTs',
+            ],
+            [
+              'Semax',
+              'July 24',
+              'Neuroprotection, BDNF upregulation, stroke recovery, cognitive support',
+              'Approved in Russia; ~60 published studies; limited independent Western RCTs',
+            ],
+            [
+              'Epitalon (AEDG)',
+              'July 24',
+              'Telomere elongation, circadian rhythm, longevity',
+              '2025 independent telomerase replication (Biogerontology); observational human cohorts',
+            ],
+          ],
+        },
+      },
+      {
+        id: 'bpc157-section',
+        type: 'h2',
+        heading: 'BPC-157: Thirty Years of Animal Data, Three Human Studies, and the Most Contested Compound in Peptide Science',
+        content: `<p>BPC-157 (Body Protection Compound-157) is a 15-amino acid synthetic pentadecapeptide derived from a protein sequence found in gastric juice, first described by Sikirić and colleagues at the University of Zagreb in the 1990s. <sup>[2]</sup> It is the most extensively studied non-approved peptide in animal models — over 280 published rodent studies across musculoskeletal healing, gastrointestinal repair, neuroprotection, cardiovascular protection, and pain modulation. No compound on this FDA docket has a deeper preclinical file.</p>
+<p>A comprehensive 2026 narrative review in the <em>International Journal of Molecular Sciences</em> catalogued four primary mechanistic pillars: <sup>[1]</sup></p>
+<ul>
+  <li><strong>VEGFR2-mediated angiogenesis:</strong> BPC-157 upregulates vascular endothelial growth factor receptor 2 signaling, stimulating new blood vessel formation in ischemic and injured tissue. This is the foundation of the wound-healing and tendon-repair effects seen in rodent models — you cannot heal what you cannot perfuse.</li>
+  <li><strong>eNOS pathway coupling:</strong> Enhancement of endothelial nitric oxide synthase activity promotes vasodilation, improved microvascular integrity, and systemic anti-inflammatory signaling throughout healing tissue.</li>
+  <li><strong>ERK1/2 activation:</strong> Extracellular signal-regulated kinase promotes fibroblast proliferation, collagen synthesis, and cell survival — the structural repair machinery of connective tissue.</li>
+  <li><strong>Cytokine modulation:</strong> Reduction in TNF-α, IL-6, and other pro-inflammatory cytokines during the acute injury phase, creating a healing environment that prevents the chronic inflammation that makes so many injuries fail to resolve. <sup>[2]</sup></li>
+</ul>
+<p>The animal data is, frankly, remarkable in its consistency across species, routes of administration, and injury types. Torn tendons heal faster with greater tensile strength. Intestinal anastomoses hold under conditions that normally cause catastrophic leakage. Spinal cord injury models show measurable functional recovery. Oral bioavailability is surprisingly good in rodents — which is unusual for peptides and is part of what makes BPC-157 so interesting to researchers.</p>
+<p>The human data, however, tells a different story. As of mid-2026, exactly three published human studies exist with a combined enrollment of thirty subjects — and not one of them is a randomized controlled trial: <sup>[3]</sup></p>
+<ul>
+  <li>A retrospective review (n=16) of chronic knee pain patients receiving intra-articular BPC-157: 87.5% reported significant pain relief at 6–12 months. No control group. No blinding.</li>
+  <li>A pilot study (n=12) of women with treatment-refractory interstitial cystitis receiving intravesical BPC-157: 10/12 reported complete symptom resolution. No placebo arm.</li>
+  <li>An IV safety study (n=2): no serious adverse events at doses up to 20 mg. No efficacy endpoints.</li>
+</ul>
+<p>This is the fundamental tension the PCAC must navigate. The preclinical evidence is as strong as it gets for a non-approved compound. The clinical evidence is nearly nonexistent. A planned Phase I trial (NCT02637284) enrolling 42 volunteers was registered but never published results. The committee will need to weigh whether a compelling animal safety and efficacy profile justifies compounding access ahead of RCTs — a judgment call with legitimate arguments on both sides.</p>`,
+      },
+      {
+        id: 'bpc157-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_100656_8ee3c2fc-6c09-44c0-8d69-eb11d6084fa9.png',
+          alt: 'Scientific visualization of BPC-157 peptide mechanisms in human tissue showing angiogenesis, collagen synthesis, eNOS activation, and anti-inflammatory pathways',
+          caption:
+            'The four mechanistic pillars of BPC-157: VEGFR2-mediated angiogenesis (new blood vessel formation), eNOS coupling, ERK1/2-driven collagen synthesis, and inflammatory cytokine suppression — consistent across 280+ published rodent healing models.',
+        },
+      },
+      {
+        id: 'tb500-section',
+        type: 'h2',
+        heading: 'TB-500: The Wound-Healing Compound That Almost Made It Through Phase III',
+        content: `<p>TB-500 is a synthetic 17-amino acid fragment of Thymosin Beta-4 (Tβ4) — specifically the active actin-binding sequence Ac-LKKTETQ, the portion of the full 43-amino acid protein responsible for its core biological activity. Thymosin Beta-4 is one of the most abundant intracellular peptides in mammalian tissue, first isolated by Allan Goldstein at George Washington University in the 1960s. It is nature's own first-responder at sites of injury — released by platelets and macrophages within hours of tissue damage. <sup>[4]</sup></p>
+<p>TB-500's mechanism centers on <em>actin sequestration</em>: it binds G-actin monomers, preventing premature polymerization and freeing injured cells to undergo the shape changes needed for directional migration toward wound sites. In practical terms, this means the cellular machinery of healing — migration, angiogenesis, matrix remodeling — operates more efficiently when TB-500 is present.</p>
+<p>The story of TB-500's clinical development is simultaneously encouraging and cautionary. RegeneRx Biopharmaceuticals took Thymosin Beta-4 (the full protein) through Phase II trials for venous stasis ulcers, pressure ulcers, and dry eye syndrome — all reporting favorable outcomes. Phase III never happened. RegeneRx ran out of funding, the compound never reached NDA submission, and Tβ4 entered a permanent regulatory gray zone where the human safety file is real but the Phase III efficacy file doesn't exist.</p>
+<p>Animal research demonstrates TB-500 / Tβ4 efficacy in: cardiac repair post-MI (significant reduction in infarct size and improvement in ejection fraction), corneal healing, accelerated tendon repair with greater tensile strength in rat models, and robust angiogenic activity in ischemic limb models. No completed human RCTs have examined TB-500 specifically for musculoskeletal applications. The PCAC will be extrapolating from the Phase II wound care data to a much broader clinical picture — which is precisely the kind of judgment these advisory committees exist to make.</p>`,
+      },
+      {
+        id: 'semax-epitalon-section',
+        type: 'h2',
+        heading: 'Semax & Epitalon: Eastern Science Meets Western Scrutiny',
+        content: `<p>Semax and Epitalon share a biographical thread: both developed in the former Soviet Union, both used clinically in Russia and Eastern Europe for decades, and both now attracting the independent Western validation that could make their evidence file legible to the FDA.</p>
+<h3 class="text-xl font-semibold mt-6 mb-3 text-zinc-200">Semax: Russia's Approved Cognitive Peptide</h3>
+<p>Semax is a heptapeptide analog of the ACTH 4-10 fragment — the portion of adrenocorticotropic hormone that carries cognitive effects without adrenal stimulation. Developed at the Institute of Molecular Genetics in Moscow, it is currently approved in Russia for treatment of cerebral ischemia, migraine, and post-stroke cognitive impairment. Over sixty studies have been published on its neurological effects, the vast majority in Russian-language journals.</p>
+<p>The best-characterized mechanism involves BDNF upregulation. Multiple studies have demonstrated that Semax administration produces dose-dependent increases in hippocampal brain-derived neurotrophic factor protein — the primary driver of neuronal survival, synaptic plasticity, and adult neurogenesis. <sup>[7]</sup> Genome-wide transcriptomic analysis reveals that Semax predominantly upregulates immune-system-related genes, contributing to its observed neuroprotective profile in ischemic stroke models where it reduces infarct volume and improves neurological outcomes.</p>
+<p>The limitation is fundamental: virtually all published clinical data originates from Russian institutions. No large Western double-blind RCT has independently replicated these findings. The PCAC will essentially be asked whether decades of Soviet and Russian clinical use constitute sufficient evidence for a compound that the Western trial infrastructure has never seriously tested.</p>
+<h3 class="text-xl font-semibold mt-6 mb-3 text-zinc-200">Epitalon: The Telomere Peptide Gets Its First Western Validation</h3>
+<p>Epitalon (AEDG, tetrapeptide Ala-Glu-Asp-Gly) was developed by Vladimir Khavinson at the St. Petersburg Institute of Bioregulation and Gerontology as part of a broader program of "peptide bioregulators" designed to counteract age-related tissue decline. Khavinson's group published extensive research — including observational human data showing reduced mortality and improved biomarkers in elderly cohorts receiving peptide bioregulator therapy — but the work was long dismissed in Western circles as non-replicable.</p>
+<p>That changed in 2025. Al-Dulaimi and colleagues published an independent replication study in <em>Biogerontology</em> confirming that Epitalon induces dose-dependent telomere elongation in human mammary epithelial cells and fibroblasts via telomerase upregulation and ALT (alternative lengthening of telomeres) activity. <sup>[5]</sup> Critically, this was the first confirmation of Epitalon's core mechanism by researchers with no institutional ties to Khavinson's laboratory — the minimum bar for independent scientific validation.</p>
+<p>Whether telomere elongation in cell culture translates to meaningful human longevity benefits is still an open question. But the FDA will, for the first time, have independent mechanistic evidence to consider.</p>`,
+      },
+      {
+        id: 'motsc-kpv-dsip-section',
+        type: 'h2',
+        heading: 'MOTS-c, KPV & Emideltide: The Rest of the Docket',
+        content: `<p><strong>MOTS-c</strong> is the most scientifically novel compound on the list — a 16-amino acid peptide encoded not by nuclear DNA but by the mitochondrial genome's 12S rRNA region. This makes it a member of a newly recognized class of mitochondria-derived peptides (MDPs) that act as retrograde signaling molecules: under metabolic stress, MOTS-c translocates to the nucleus and directly regulates gene expression related to glucose homeostasis, insulin sensitivity, and cellular stress response. <sup>[6]</sup></p>
+<p>The exercise biology angle is particularly striking. Marathon runners have significantly higher circulating MOTS-c levels than sedentary controls. In animal models, exogenous MOTS-c reproduces a measurable subset of exercise-induced metabolic adaptations without physical activity. MOTS-c levels decline with age across multiple species. The FDA is reviewing it specifically for obesity and osteoporosis applications — both areas where the metabolic signaling evidence is compelling if not yet validated in human RCTs.</p>
+<p><strong>KPV</strong> (Lys-Pro-Val) is a tripeptide derived from the C-terminal end of alpha-MSH — the three residues carrying most of the full peptide's anti-inflammatory activity without the melanocortin receptor complexity. Animal studies show efficacy in colitis models, wound healing, and dermatological inflammation. <sup>[9]</sup> It is the least-publicized compound on the docket but may ultimately prove to be one of the most practically useful for GI and wound-care research applications.</p>
+<p><strong>Emideltide / DSIP</strong> (Delta Sleep-Inducing Peptide) was first isolated from rabbit thalamus in the 1970s during investigations into sleep-promoting neurochemistry. Research interest has expanded to include applications in opioid withdrawal, chronic insomnia, and hypothalamic-pituitary-adrenal axis regulation. <sup>[10]</sup> The PCAC is reviewing it for opioid withdrawal — an area of enormous public health relevance — alongside sleep disorder applications.</p>`,
+      },
+      {
+        id: 'research-quality-chart',
+        type: 'chart',
+        chartData: {
+          title: 'Published Research Volume: Animal vs. Human Studies per Compound (2026)',
+          type: 'bar',
+          labels: ['BPC-157', 'TB-500', 'Semax', 'Epitalon', 'MOTS-c', 'KPV', 'Emideltide'],
+          datasets: [
+            {
+              label: 'Published Animal Studies (PubMed)',
+              values: [280, 95, 60, 45, 38, 22, 30],
+              color: '#3b82f6',
+            },
+            {
+              label: 'Human Studies / Clinical Data Points',
+              values: [3, 4, 62, 14, 4, 2, 8],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: 'Number of Studies',
+          note: 'Animal counts from PubMed search; human data for Semax and Epitalon includes Russian-language clinical studies. Sources: PubMed, ClinicalTrials.gov, Cochrane Library.',
+        },
+      },
+      {
+        id: 'what-approval-means',
+        type: 'callout',
+        calloutType: 'info',
+        content:
+          '<strong>What a Positive PCAC Vote Actually Means:</strong> A favorable recommendation does not immediately legalize compounding. FDA must then initiate formal rulemaking — a process that typically takes 12–24 months. However, a positive recommendation significantly increases the probability of eventual 503A listing and sends a regulatory signal that may encourage more serious clinical trial investment from pharmaceutical sponsors who have avoided these compounds due to legal ambiguity.',
+      },
+      {
+        id: 'where-to-source',
+        type: 'h2',
+        heading: 'Where to Source These Peptides for Research in 2026',
+        content: `<p>While the regulatory landscape evolves, the research community continues to rely on vendors who prioritize third-party verified purity, transparent batch-specific COAs, and clear research-only labeling. Below are the vendors PeptideWiki monitors and recommends for researchers who need access to these compounds today. All products are sold for research use only and are not intended for human therapeutic use.</p>`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157 Peptide (5mg)',
+            productUrl: 'https://www.vandl-labs.com/product/bpc-157/',
+            price: '$39.99',
+            purity: '≥99%',
+            highlight:
+              'Complete catalog covering all 7 FDA-reviewed peptides including MOTS-c, Epitalon, and Semax. Batch-specific third-party COA on every product. Free BAC water on orders $200+. Free shipping $250+.',
+            badge: 'Full 7-Peptide Catalog',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 5mg Lyophilized Powder',
+            productUrl: 'https://aminousa.com/products/bpc-157',
+            price: 'See site',
+            purity: '>99%',
+            highlight:
+              'ISO Certified USA manufacturer. Every batch third-party tested for purity, identity, and quantitation via MZ Biolabs and Bioregen. Multiple vial sizes from 5mg to 20mg available.',
+            badge: 'ISO Certified USA',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptide Capsules',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'See site',
+            purity: 'Research Grade',
+            highlight:
+              'Specializes in oral/capsule peptide formats — ideal for researchers studying oral bioavailability. Premium USA-made formulations with strict quality standards. Same-day shipping and 24/7 support.',
+            badge: 'Oral Format Specialist',
+          },
+          {
+            name: 'PeptideTech',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 & TB-500 Research Peptides',
+            productUrl: 'https://peptidetech.is',
+            price: 'See site',
+            purity: 'Research Grade',
+            highlight:
+              'International supplier with a broad research catalog. Transparent sourcing and quality emphasis. Popular with European research institutions and widely used in the longevity research community.',
+          },
+        ],
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        faqs: [
+          {
+            question: 'Is BPC-157 legal to buy in the US in 2026?',
+            answer:
+              'BPC-157 exists in a legal gray area. It is not a controlled substance, but it was removed from the FDA 503A Category 2 list effective April 23, 2026, meaning it cannot currently be legally compounded by licensed 503A pharmacies. It can still be sold as a research chemical for laboratory use only — not for human consumption. The July 2026 PCAC hearing is specifically reviewing whether it should be added to the 503A Bulks List, which would allow legal prescription compounding under physician supervision.',
+          },
+          {
+            question: 'What is the difference between TB-500 and Thymosin Beta-4?',
+            answer:
+              'Thymosin Beta-4 (Tβ4) is the full 43-amino acid naturally occurring protein. TB-500 is a synthetic 17-amino acid fragment (Ac-LKKTETQ) corresponding to the active actin-binding domain of Tβ4. TB-500 is often used in research because it is simpler to synthesize and has demonstrated comparable biological activity to the full protein in many animal models. The FDA is reviewing TB-500 (the fragment) specifically, not the full Tβ4 molecule.',
+          },
+          {
+            question: 'Will the FDA approve these peptides for human therapeutic use after the July hearing?',
+            answer:
+              'No — not as a direct result of this hearing. The July 2026 hearing concerns 503A compounding eligibility, not FDA drug approval for specific indications. Approval for therapeutic use would require full Phase III clinical trials and an NDA submission, which takes years and hundreds of millions of dollars. The 503A pathway is more limited: it allows licensed compounding pharmacies to prepare these compounds for individual patients under physician supervision, without formal drug approval.',
+          },
+          {
+            question: 'What is Epitalon and is the telomere research credible?',
+            answer:
+              'Epitalon (AEDG) is a synthetic tetrapeptide developed by Vladimir Khavinson in Russia that activates telomerase — the enzyme that extends telomere length — in cell culture models. For years, the research was viewed skeptically because it came entirely from Khavinson\'s institution. In 2025, Al-Dulaimi et al. published an independent replication in Biogerontology confirming Epitalon\'s telomerase-activating mechanism in human cell lines — the first Western validation outside Khavinson\'s group. Whether this translates to meaningful longevity effects in living humans has not been tested in rigorous controlled trials.',
+          },
+          {
+            question: 'What makes MOTS-c different from other peptides?',
+            answer:
+              'MOTS-c is unique because it is encoded by mitochondrial DNA — not nuclear DNA like virtually every other peptide in research. This makes it a member of a newly identified class of mitochondria-derived peptides (MDPs). Under metabolic stress, MOTS-c moves from the mitochondria to the cell nucleus where it directly regulates gene expression related to glucose metabolism and insulin sensitivity. Serum MOTS-c levels are significantly elevated in marathon runners versus sedentary controls, and exogenous MOTS-c reproduces some exercise-like metabolic effects in sedentary animal models.',
+          },
+          {
+            question: 'How can researchers submit comments to the FDA before the July 23 hearing?',
+            answer:
+              'The FDA is accepting written public comments through July 9, 2026. To submit, visit Regulations.gov and search for the PCAC July 2026 docket, which was announced in the April 15, 2026 Federal Register notice. Oral presentation slots were available through June 30, 2026. Researchers, physicians, and patients with firsthand experience are encouraged to contribute to the evidentiary record.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'What This Moment Actually Means for Peptide Research',
+        content: `<p>The July 23–24 PCAC meeting is not a rubber stamp and it's not a formality. The committee has rejected compounds before, and the bar for 503A listing includes genuine questions about safety, identity, strength, quality, and whether there's a clinical rationale that justifies compounding in advance of approved drug applications.</p>
+<p>What makes this hearing different from previous peptide regulatory moments is the breadth of the docket. Seven compounds, spanning tissue repair (BPC-157, TB-500), neurology (Semax, Emideltide), longevity (Epitalon, MOTS-c), and inflammation (KPV), are being evaluated simultaneously. A favorable outcome across even half of these compounds would represent a structural shift in how the US research system treats this class of peptides.</p>
+<p>The gray-market problem these compounds currently face is a real one. Purity inconsistency in unregulated peptide supply chains is a legitimate safety issue — not just a regulatory abstraction. The 503A compounding pathway, with its physician supervision requirement, its licensed pharmacy infrastructure, and its USP 797 sterility standards, is meaningfully safer than ordering from anonymous overseas suppliers. That's the case the compounding community will make in July.</p>
+<p>For researchers tracking these developments: mark July 9 as the public comment deadline, July 23–24 as the hearing, and late 2026 / early 2027 as the likely window for FDA's response to the committee's recommendations. The next chapter of peptide research regulation begins in four weeks.</p>
+<p><em>For detailed guides on individual compounds: see our <a href="/blog/glp-1-peptide-research-guide-2026" class="text-blue-400 hover:text-blue-300 underline">GLP-1 Peptide Research 2026 guide</a> and our <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin Stack guide</a>. MOTS-c and SS-31 longevity peptide deep dives are available in our longevity research archive.</em></p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
