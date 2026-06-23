@@ -6945,6 +6945,483 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'cagrilintide-amylin-analog-cagriseema-guide-2026',
+    title: 'Cagrilintide & CagriSema in 2026: The Amylin Analog That Outperformed Semaglutide in Phase 3',
+    excerpt:
+      "The REDEFINE 1 trial published in the NEJM showed CagriSema delivering 22.7% weight loss — beating semaglutide by 6.6 percentage points. Here's the complete 2026 guide to cagrilintide: how amylin signaling works at the neural level, what the Phase 3 data actually shows, and where the field is heading next.",
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      'Cagrilintide',
+      'CagriSema',
+      'Amylin Analog',
+      'Weight Loss',
+      'GLP-1',
+      'Semaglutide',
+      'REDEFINE Trial',
+      'Metabolic Health',
+      'Clinical Trials',
+      'Peptide Research',
+      'Obesity',
+      'Novo Nordisk',
+      'Amylin Receptor',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_080704_2c627271-cb3c-4ae2-b5ef-bb191f76f9a1.png',
+    heroImageAlt:
+      'Next-generation weight loss peptide research — syringe with glowing blue liquid beside molecular peptide chain structure on deep navy background',
+    metaTitle: 'Cagrilintide & CagriSema 2026: The Amylin Analog That Beat Semaglutide (REDEFINE Results)',
+    metaDescription:
+      'REDEFINE 1 showed CagriSema delivering 22.7% weight loss vs semaglutide\'s 16.1%. Complete 2026 guide: cagrilintide mechanism, DVC brainstem pathways, Phase 3 trial data, safety, and research sourcing.',
+    keywords: [
+      'cagrilintide amylin analog',
+      'CagriSema weight loss',
+      'REDEFINE 1 trial results',
+      'cagrilintide semaglutide combination',
+      'amylin receptor agonist',
+      'cagrilintide mechanism of action',
+      'cagrilintide 2026',
+      'CagriSema vs semaglutide',
+      'amylin peptide weight loss',
+      'REDEFINE clinical trial',
+      'cagrilintide research peptide',
+      'dorsal vagal complex amylin',
+      'new weight loss peptides 2026',
+      'cagrilintide Novo Nordisk',
+      'best peptides for weight loss 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/cagrilintide-amylin-analog-cagriseema-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'bpc-157', 'ghk-cu'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3200,
+      primaryKeyword: 'cagrilintide amylin analog',
+      secondaryKeywords: [
+        'CagriSema weight loss',
+        'REDEFINE 1 trial results',
+        'cagrilintide semaglutide combination',
+        'amylin receptor agonist',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Rubino DM, Greenway FL, Khalid U, et al. (REDEFINE 1 Investigators)',
+        title: 'Coadministered Cagrilintide and Semaglutide in Adults with Overweight or Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2025,
+        url: 'https://www.nejm.org/doi/full/10.1056/NEJMoa2502081',
+        doi: '10.1056/NEJMoa2502081',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Novo Nordisk A/S',
+        title: 'CagriSema 2.4 mg / 2.4 mg demonstrated superior HbA1c reduction in REIMAGINE 2 Phase 3 trial',
+        journal: 'Novo Nordisk Press Release / ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://www.novonordisk.com/content/nncorp/global/en/news-and-media/news-and-ir-materials/news-details.html?id=916481',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Lau DCW, Erichsen L, Francisco AM, et al.',
+        title: 'Efficacy and safety of co-administered once-weekly cagrilintide 2.4 mg with once-weekly semaglutide 2.4 mg in type 2 diabetes: a multicentre, randomised, double-blind, active-controlled, phase 2 trial',
+        journal: 'Lancet',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37364590/',
+        doi: '10.1016/S0140-6736(23)01151-0',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Lause M, et al.',
+        title: 'A cross-species atlas of the dorsal vagal complex reveals neural mediators of the effects of cagrilintide on energy balance',
+        journal: 'Nature Metabolism',
+        year: 2026,
+        url: 'https://www.nature.com/articles/s42255-026-01539-3',
+        doi: '10.1038/s42255-026-01539-3',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Haaber JL, et al.',
+        title: 'Cagrilintide lowers bodyweight through brain amylin receptors 1 and 3',
+        journal: 'eBioMedicine (The Lancet)',
+        year: 2025,
+        url: 'https://www.thelancet.com/journals/ebiom/article/PIIS2352-3964(25)00280-4/fulltext',
+        doi: '10.1016/j.ebiom.2025.105664',
+        type: 'animal_study',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Research Study to See How Well CagriSema Helps People With Excess Body Weight Lose Weight (REDEFINE 1)',
+        journal: 'ClinicalTrials.gov NCT05567796',
+        year: 2023,
+        url: 'https://clinicaltrials.gov/study/NCT05567796',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'American Diabetes Association (ADA)',
+        title: 'ADA 2025: CagriSema Demonstrates Dual Benefit in Obesity and Type 2 Diabetes — REDEFINE Trial Results',
+        journal: 'ADA Scientific Sessions 2025 / HCPLive',
+        year: 2025,
+        url: 'https://www.hcplive.com/view/ada-2025-cagrisema-demonstrates-dual-benefit-in-obesity-and-type-2-diabetes',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'Understanding the Effect of CagriSema, Cagrilintide, and Semaglutide on Muscle Health (Role of Amylin Signature in Muscle Health)',
+        journal: 'ClinicalTrials.gov NCT07527195',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT07527195',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Wadden TA, Bailey TS, Billings LK, et al. (STEP-3 Investigators)',
+        title: 'Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct to Intensive Behavioral Therapy on Body Weight in Adults With Overweight or Obesity (STEP-3)',
+        journal: 'JAMA',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33625476/',
+        doi: '10.1001/jama.2021.1831',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>For thirty years, amylin was the forgotten satiety hormone. GLP-1 got the headlines. Semaglutide became Ozempic, then Wegovy, then a cultural phenomenon. But in biology's playbook, amylin — the peptide co-secreted with insulin after every meal, signaling the brainstem to stop eating — was always part of the architecture. Researchers just hadn't figured out how to make it last long enough to be useful as a drug.</p>
+<p>That changed with cagrilintide — a long-acting amylin analog developed by Novo Nordisk that solved the stability problem and enabled once-weekly subcutaneous dosing. Combined with semaglutide as CagriSema, the result delivered something the weight loss world hadn't seen before: <strong>22.7% average body weight reduction</strong> in the REDEFINE 1 Phase 3 trial, published in the <em>New England Journal of Medicine</em> in June 2025. <sup>[1]</sup> Not 14%. Not 16%. Twenty-two point seven — with 60% of participants crossing the ≥20% threshold that was once considered surgical territory.</p>
+<p>This is the complete 2026 guide to cagrilintide: the biology behind amylin signaling, how cagrilintide was engineered for clinical use, what the REDEFINE trial data actually shows, the cardiometabolic benefits beyond the scale, and where this compound sits in the rapidly evolving landscape of metabolic peptide research. Whether you're a researcher following the pipeline, a clinician evaluating emerging therapies, or simply trying to understand what comes after Ozempic — this is the current state of play.</p>`,
+      },
+      {
+        id: 'what-is-amylin',
+        type: 'h2',
+        heading: 'What Is Amylin? The Satiety Hormone That Was There All Along',
+        content: `<p>Amylin (islet amyloid polypeptide, IAPP) is a 37-amino-acid peptide hormone co-secreted with insulin from pancreatic β-cells in response to food intake. It was first identified in 1986 in the amyloid deposits of type 2 diabetic patients — the "amyloid" in its name comes from those same insoluble deposits that clog the islets of T2D patients. Its satiety-signaling function was not characterized until the early 1990s, and it remained a pharmacological backwater for decades despite clear mechanistic evidence that amylin matters for appetite regulation.</p>
+<p>In people with type 2 diabetes, amylin levels are severely reduced as β-cell function declines. This contributes to impaired postprandial satiety signaling in T2D patients — one reason blood glucose becomes difficult to control through biology alone. Pramlintide (brand: Symlin), a short-acting synthetic amylin analog, was FDA-approved in 2005 for T1D and T2D, providing proof-of-concept that pharmacological amylin receptor activation reduces food intake and body weight in humans. But pramlintide required 2–3 daily injections and produced only 2–4% weight loss — a consequence of its short half-life, not a ceiling for the pathway.</p>
+<p>Amylin's mechanisms in energy regulation are distinct from GLP-1's and complement it directly:</p>
+<ul>
+  <li><strong>Brainstem satiety signaling:</strong> Amylin acts primarily on the area postrema (AP) and nucleus of the solitary tract (NTS) in the dorsal vagal complex — brainstem regions that lie outside the blood-brain barrier and receive direct signals from the gut and bloodstream. <sup>[4]</sup></li>
+  <li><strong>Gastric emptying:</strong> Like GLP-1, amylin slows gastric emptying, extending postprandial satiety.</li>
+  <li><strong>Glucagon suppression:</strong> Amylin suppresses postprandial glucagon, reducing hepatic glucose output and contributing to glycemic control.</li>
+  <li><strong>Food reward modulation:</strong> Unlike GLP-1, amylin acts powerfully on food reward circuits — specifically through mesolimbic dopamine pathways — producing stronger suppression of hedonic eating in CagriSema patients than semaglutide alone achieves.</li>
+  <li><strong>Lean mass effects:</strong> Emerging 2025–2026 research suggests amylin signaling has a distinct interaction with muscle metabolism, with an ongoing ClinicalTrials.gov study (NCT07527195) specifically designed to characterize it. <sup>[9]</sup></li>
+</ul>
+<p>The key insight for drug development: amylin and GLP-1 reach the brain through complementary, non-overlapping pathways. GLP-1 acts heavily on the hypothalamus (arcuate nucleus, paraventricular nucleus). Amylin's primary site is the AP and NTS in the brainstem. Activating both simultaneously produces synergistic rather than simply additive appetite suppression — which is why CagriSema outperforms either compound in isolation by a margin that exceeds arithmetic prediction. <sup>[1,3]</sup></p>`,
+      },
+      {
+        id: 'cagrilintide-engineering',
+        type: 'h2',
+        heading: 'Cagrilintide: Engineering Amylin for Once-Weekly Dosing',
+        content: `<p>The fundamental engineering challenge with amylin analogs is stability. Native amylin self-aggregates rapidly — those amyloid plaques in diabetic pancreases are literally misfolded amylin. Even pramlintide (which substitutes three prolines to prevent aggregation) has a half-life of only 48 minutes, requiring multiple daily injections and delivering inconsistent coverage between doses.</p>
+<p>Cagrilintide (Novo Nordisk compound AM833) solved this with a multi-layered modification strategy analogous to what made semaglutide the dominant GLP-1 agent:</p>
+<ul>
+  <li><strong>Dual amylin receptor selectivity:</strong> Engineered to bind amylin receptor subtypes AMY₁R and AMY₃R — the exact receptors identified as necessary and sufficient for cagrilintide's weight loss effects in the 2025 eBioMedicine preclinical research. <sup>[5]</sup></li>
+  <li><strong>C18 fatty diacid chain:</strong> A lipid modification enabling albumin binding and dramatically extending plasma half-life, exactly analogous to the fatty acid modification in semaglutide. This is the core innovation enabling once-weekly dosing.</li>
+  <li><strong>Aggregation resistance:</strong> Strategic amino acid substitutions maintaining solubility and preventing the self-aggregation that made early analogs impractical at therapeutic concentrations.</li>
+  <li><strong>Receptor potency:</strong> Cagrilintide achieves greater than 100-fold potency improvement at amylin receptors compared to pramlintide, with a plasma half-life enabling true weekly pharmacokinetics.</li>
+</ul>
+<p>The result: sustained 24/7 amylin receptor activation across the weekly dosing interval, producing continuous brainstem satiety signaling rather than a brief post-injection spike. This converts an 11.8% weight loss from cagrilintide alone (REDEFINE 1 monotherapy arm) versus the 2–4% historically observed with pramlintide — the same receptor target, transformed by pharmacokinetics.</p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_080632_f52eb949-5599-4455-851c-b6586c59b757.png',
+          alt: 'Cagrilintide molecular structure visualization — long-chain peptide helix with glowing receptor binding sites in gold against dark background',
+          caption: 'Cagrilintide\'s C18 fatty diacid chain modification (not shown) enables albumin binding and once-weekly dosing — the same structural strategy that extended semaglutide\'s half-life from ~90 minutes to ~7 days.',
+        },
+      },
+      {
+        id: 'dvc-mechanism',
+        type: 'h3',
+        heading: 'How Cagrilintide Works: The Dorsal Vagal Complex Connection',
+        content: `<p>A landmark 2026 study published in <em>Nature Metabolism</em> created the first cross-species atlas of the dorsal vagal complex (DVC) specifically to map cagrilintide's neural targets — revealing a circuit more sophisticated than earlier models suggested. <sup>[4]</sup></p>
+<p>The DVC consists of three interconnected brainstem regions:</p>
+<ul>
+  <li><strong>Area Postrema (AP):</strong> A circumventricular organ outside the blood-brain barrier — one of the few brain regions where circulating peptide hormones directly cross to activate neurons. Cagrilintide rapidly activates Calcr/Ramp3-expressing neurons here.</li>
+  <li><strong>Nucleus of the Solitary Tract (NTS):</strong> The primary termination site of vagal afferents from gut, liver, and metabolic sensors. Long-term cagrilintide treatment upregulates prolactin-releasing hormone (Prlh) expression in NTS Calcr/Prlh neurons — a population conserved across rodents, macaques, and humans. <sup>[4]</sup></li>
+  <li><strong>Dorsal Motor Nucleus of the Vagus (DMV):</strong> Governs parasympathetic outflow to the gut, including gastric emptying rate.</li>
+</ul>
+<p>The 2025 eBioMedicine research confirmed that cagrilintide's weight loss depends specifically on <strong>AMY₁R and AMY₃R</strong> — the amylin receptors formed by calcitonin receptor (CALCR) combined with receptor activity-modifying proteins RAMP1 and RAMP3. <sup>[5]</sup> Blocking either receptor attenuates weight loss, confirming dual-receptor engagement as necessary for full effect. This mechanistic specificity is important: it means cagrilintide's brainstem circuit is well-defined and targetable, supporting rational development of next-generation analogs.</p>`,
+      },
+      {
+        id: 'pathway-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_080621_dd2986f4-a662-429a-81f9-0b4650d2c50b.png',
+          alt: 'Amylin and GLP-1 receptor dual pathway illustration showing brainstem and hypothalamus activation — teal and gold molecular visualization on dark navy background',
+          caption: 'Amylin acts on the brainstem dorsal vagal complex (area postrema, NTS) while GLP-1 acts on the hypothalamic arcuate and paraventricular nuclei. CagriSema activates both circuits simultaneously, producing synergistic satiety that exceeds either pathway alone. <em>Source: adapted from DVC atlas, Nature Metabolism 2026 [4]</em>',
+        },
+      },
+      {
+        id: 'cagriseema-combination',
+        type: 'h2',
+        heading: 'CagriSema: The Logic Behind Combining Two Weekly Peptides',
+        content: `<p>CagriSema is co-formulated cagrilintide 2.4mg + semaglutide 2.4mg in a single weekly subcutaneous injection. The combination exploits the non-overlapping neural targets of the two peptides — brainstem amylin circuits plus hypothalamic GLP-1 circuits — producing satiety suppression across both homeostatic hunger and hedonic food reward simultaneously.</p>
+<p>Phase 2 proof-of-concept data in type 2 diabetes patients (published in <em>The Lancet</em>, 2023) demonstrated the synergy clearly: <sup>[3]</sup></p>
+<ul>
+  <li>CagriSema: <strong>–15.6% body weight</strong> at 32 weeks</li>
+  <li>Cagrilintide monotherapy: –8.1%</li>
+  <li>Semaglutide monotherapy: –5.1%</li>
+  <li>Placebo: –2.4%</li>
+</ul>
+<p>The combination more than doubled semaglutide monotherapy weight loss in a T2D population where GLP-1 response is typically blunted. The 15.6% vs an expected additive 13.2% (5.1 + 8.1%) indicates genuine synergy — not simple addition. <sup>[3]</sup> Beyond weight loss, the phase 2 data showed superior HbA1c reductions, improved fasting plasma glucose, and favorable tolerability when dose-escalated appropriately. These results justified launching the REDEFINE Phase 3 program.</p>`,
+      },
+      {
+        id: 'redefine-1-results',
+        type: 'h2',
+        heading: 'REDEFINE 1: The Phase 3 Trial That Moved the Weight Loss Ceiling',
+        content: `<p>REDEFINE 1 (NCT05567796) enrolled <strong>3,417 adults</strong> with obesity (BMI ≥30) or overweight (BMI 27–30 with ≥1 comorbidity) without type 2 diabetes, randomized 2:1:1:2 across four arms: CagriSema 2.4/2.4mg, cagrilintide 2.4mg, semaglutide 2.4mg, and placebo — all as weekly subcutaneous injections over 68 weeks. <sup>[1,6]</sup> The four-arm design with active comparators makes it uniquely informative — not just "did it work," but "how much better than the current gold standard."</p>
+<p><strong>Primary endpoint results at week 68 (trial product estimand):</strong></p>
+<ul>
+  <li><strong>CagriSema 2.4/2.4mg: −22.7% body weight</strong></li>
+  <li>Semaglutide 2.4mg: −16.1%</li>
+  <li>Cagrilintide 2.4mg: −11.8%</li>
+  <li>Placebo: −2.3%</li>
+</ul>
+<p><strong>Responder rates — CagriSema arm: <sup>[1,7]</sup></strong></p>
+<ul>
+  <li><strong>60%</strong> of CagriSema participants achieved ≥20% body weight reduction</li>
+  <li><strong>23%</strong> achieved ≥30% body weight reduction — a threshold historically only accessible via bariatric surgery</li>
+  <li>Semaglutide arm comparator: 27% achieved ≥20% loss; 7% achieved ≥30%</li>
+</ul>
+<p>The 6.6 percentage-point advantage over semaglutide translates to roughly 16.5 lbs of additional fat loss in a 250-pound person. The responder-rate divergence tells an even more striking story: CagriSema more than doubled the proportion of patients reaching ≥20% loss (60% vs 27%), and tripled those reaching ≥30% (23% vs 7%). In a field where "response" historically meant crossing the 5% threshold, these are paradigm-shifting numbers.</p>
+<p><strong>Confirmatory secondary endpoints — CagriSema vs semaglutide:</strong></p>
+<ul>
+  <li>Systolic blood pressure: Superior reduction with CagriSema (statistically significant)</li>
+  <li>Waist circumference: Greater reduction confirming visceral fat loss</li>
+  <li>Prediabetes reversal: <strong>88% of CagriSema participants with prediabetes returned to normoglycemia</strong></li>
+  <li>Fasting glucose: Greater reduction in CagriSema arm</li>
+  <li>LDL, triglycerides: Significant improvements in both active arms</li>
+</ul>
+<p>The REDEFINE 2 trial (T2D population) showed <strong>15.7% weight loss</strong> with CagriSema versus approximately 7.5% with semaglutide — a consistent ~8 percentage-point advantage across metabolic populations. The REIMAGINE 2 Phase 3 trial (2026 readout) reported CagriSema achieving superior HbA1c reduction of 1.91% versus semaglutide in T2D. <sup>[2,7]</sup></p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'Mean % Body Weight Reduction: REDEFINE 1 vs the GLP-1 Landscape',
+        chartData: {
+          title: 'Mean % Body Weight Reduction — Phase 3 Pivotal Trials 2021–2025',
+          type: 'bar',
+          labels: [
+            'Semaglutide 2.4mg\n(STEP-1, 68 wk)',
+            'Cagrilintide 2.4mg\n(REDEFINE 1 arm, 68 wk)',
+            'Tirzepatide 15mg\n(SURMOUNT-1, 72 wk)',
+            'CagriSema 2.4/2.4mg\n(REDEFINE 1, 68 wk)',
+          ],
+          datasets: [
+            {
+              label: 'Average % Body Weight Reduction',
+              values: [14.9, 11.8, 22.5, 22.7],
+              color: '#06b6d4',
+            },
+          ],
+          yLabel: 'Average % Body Weight Reduction',
+          note: 'Sources: STEP-1 (Wilding 2021, NEJM), REDEFINE 1 (Rubino et al., NEJM June 2025, NCT05567796), SURMOUNT-1 (Jastreboff 2022, NEJM). Trial populations and durations differ; cross-trial comparisons should be interpreted with caution. CagriSema and tirzepatide have not been compared in a head-to-head trial.',
+        },
+      },
+      {
+        id: 'trial-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Trial / Compound', 'NCT / Year Published', 'Population', 'Duration', 'Avg. Weight Loss', 'Key Responder Data'],
+          rows: [
+            ['STEP-1 (Semaglutide 2.4mg)', 'NCT03548935 / 2021', 'Obesity, no T2D', '68 wk', '14.9%', '32% ≥15% weight loss'],
+            ['SURMOUNT-1 (Tirzepatide 15mg)', 'NCT04184622 / 2022', 'Obesity, no T2D', '72 wk', '22.5%', '57% ≥20% weight loss'],
+            ['REDEFINE 1 — Semaglutide arm', 'NCT05567796 / 2025', 'Obesity, no T2D', '68 wk', '16.1%', '27% ≥20%; 7% ≥30%'],
+            ['REDEFINE 1 — Cagrilintide arm', 'NCT05567796 / 2025', 'Obesity, no T2D', '68 wk', '11.8%', 'Monotherapy amylin data'],
+            ['REDEFINE 1 — CagriSema arm', 'NCT05567796 / 2025', 'Obesity, no T2D', '68 wk', '22.7%', '60% ≥20%; 23% ≥30%'],
+            ['REDEFINE 2 (CagriSema in T2D)', 'Phase 3 / 2025', 'Overweight/obese T2D', '68 wk', '15.7%', 'Superior HbA1c vs sema'],
+            ['REIMAGINE 2 (CagriSema vs sema)', 'Phase 3 / 2026', 'Type 2 diabetes', '68 wk', 'Pending full data', '1.91% HbA1c reduction vs sema'],
+          ],
+        },
+      },
+      {
+        id: 'cardiometabolic-benefits',
+        type: 'h2',
+        heading: 'Beyond the Scale: Cardiometabolic Benefits of the Amylin Pathway',
+        content: `<p>Weight loss is the headline, but the metabolic biology of cagrilintide extends further than the scale suggests. Amylin receptor activation in the brainstem DVC reaches pathways governing autonomic cardiovascular function, glycemic control, and potentially lean mass regulation — effects that are not entirely explained by weight reduction alone.</p>
+<p><strong>Glycemic control:</strong> The 88% prediabetes reversal rate in REDEFINE 1 is extraordinary by any benchmark. For context, the Diabetes Prevention Program lifestyle trial produced ~58% reversal over three years. CagriSema delivered 88% reversal in 68 weeks. In the T2D-specific REDEFINE 2 population, HbA1c was reduced by ~2% — substantially more than semaglutide alone. The amylin pathway's direct glucagon suppression provides complementary glycemic control to GLP-1's insulin-stimulation mechanism, producing additive glucose-lowering. <sup>[7]</sup></p>
+<p><strong>Blood pressure:</strong> CagriSema produced statistically superior systolic blood pressure reductions compared to semaglutide in REDEFINE 1, independent of weight lost. The mechanism is not fully characterized but likely involves the DVC's role in autonomic cardiovascular regulation — the same brainstem nucleus targeted by cagrilintide also governs vagal tone and sympathetic outflow to the cardiovascular system.</p>
+<p><strong>Lean mass questions:</strong> GLP-1 agents are known to produce 30–40% of total weight loss from lean mass rather than fat, raising concerns about sarcopenia. The amylin pathway's distinct mechanism raises the question of whether cagrilintide produces a different lean-to-fat loss ratio. A dedicated ClinicalTrials.gov trial (NCT07527195) is specifically studying "the Role of Amylin Signature in Muscle Health" with CagriSema, cagrilintide, and semaglutide as separate arms. <sup>[9]</sup> Preliminary mechanistic data suggests amylin may interact favorably with skeletal muscle sympathetic regulation, but this remains hypothesis-generating pending the trial readout.</p>`,
+      },
+      {
+        id: 'safety-section',
+        type: 'h2',
+        heading: 'Safety Profile: GI Tolerability, Titration, and What REDEFINE 1 Showed',
+        content: `<p>The most common adverse events with CagriSema mirror those seen with semaglutide and tirzepatide, with gastrointestinal events dominating the safety profile.</p>
+<p><strong>GI adverse events (REDEFINE 1): <sup>[1]</sup></strong></p>
+<ul>
+  <li>Any GI adverse event: <strong>79.6%</strong> with CagriSema vs 39.9% with placebo</li>
+  <li>Nausea: approximately 50–55% (worst in first 4–8 weeks of dose escalation)</li>
+  <li>Vomiting: approximately 30% of CagriSema participants</li>
+  <li>Discontinuation due to GI events: approximately 10%</li>
+</ul>
+<p>These rates are higher than semaglutide monotherapy — logically, two satiety pathways activated simultaneously contribute additively to gut motility changes. The key mitigation: the titration protocol dose-escalates both compounds over 16+ weeks, substantially reducing tolerability burden compared to starting at maintenance doses. Clinicians managing CagriSema in trials report that titration adherence is the primary determinant of tolerability outcomes.</p>
+<p><strong>Gallbladder events:</strong> Cholelithiasis risk is a class-wide consequence of rapid weight loss with GLP-1 agents. REDEFINE 1 showed gallbladder events in 2–3% of the CagriSema arm, consistent with the class. Ursodiol prophylaxis is used in some clinical settings as a preventive measure during active weight loss.</p>
+<p><strong>Thyroid safety:</strong> The FDA black-box warning on GLP-1 agents regarding C-cell thyroid tumors (based on animal data) applies to the semaglutide component of CagriSema. No elevation above semaglutide-class rates was observed in REDEFINE 1 data for thyroid-related events.</p>
+<p><strong>Regulatory status (June 2026):</strong> Novo Nordisk filed for FDA approval based on the REDEFINE program in early 2026. US regulatory approval is anticipated late 2026 or early 2027. EMA review is proceeding in parallel. CagriSema would enter a market alongside approved Wegovy (semaglutide) and Zepbound (tirzepatide), with its superior responder rates — particularly the 23% achieving ≥30% weight loss — as the primary differentiation argument.</p>`,
+      },
+      {
+        id: 'research-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use and Regulatory Disclaimer (June 2026):</strong> CagriSema is an investigational pharmaceutical combination drug developed by Novo Nordisk — it is not yet FDA-approved and is not a research peptide available through standard research channels. Semaglutide (Wegovy, Ozempic) is an FDA-approved pharmaceutical drug available only by prescription. Cagrilintide as a standalone amylin analog is available as a research-use-only compound through select vendors including VANDL Labs. All research vendor peptides are sold strictly for laboratory research purposes only and are not FDA-approved medications. This article is for educational purposes only and does not constitute medical advice. Always consult a licensed physician for clinical applications.`,
+      },
+      {
+        id: 'lab-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_080630_0b8602a7-2f46-45ae-a6dd-445be85ac18a.png',
+          alt: 'Scientist in modern pharmaceutical research laboratory examining peptide vial surrounded by HPLC equipment and molecular data screens',
+          caption: 'Research-grade cagrilintide requires the same documentation standards as all quality research peptides: batch-specific COAs, HPLC purity confirmation ≥98%, mass spectrometry identity verification, and proper cold-chain handling from manufacturer to researcher.',
+        },
+      },
+      {
+        id: 'research-compound-section',
+        type: 'h2',
+        heading: 'Cagrilintide as a Research Compound: Sourcing in 2026',
+        content: `<p>As CagriSema moves through the regulatory pipeline, cagrilintide as a standalone amylin analog has emerged as a significant research compound. Unlike semaglutide — an approved pharmaceutical drug unavailable through research channels — cagrilintide occupies the category of novel research peptide: substantial peer-reviewed preclinical and clinical evidence, defined receptor pharmacology, and accessible through research vendors for laboratory investigation.</p>
+<p>Active research applications include:</p>
+<ul>
+  <li><strong>Amylin receptor pharmacology:</strong> Cagrilintide provides a long-acting, high-potency tool for studying AMY₁R and AMY₃R activation and downstream effects on energy balance, brainstem circuitry, and metabolic parameters in research settings.</li>
+  <li><strong>Muscle health investigation:</strong> Given the pending NCT07527195 trial and preliminary mechanistic data suggesting distinct amylin effects on lean mass, researchers are exploring cagrilintide's interaction with skeletal muscle metabolism independently.</li>
+  <li><strong>Complementary metabolic protocols:</strong> Researchers studying GLP-1 compounds are investigating whether adding amylin receptor activation addresses limitations of GLP-1 monotherapy — particularly food reward suppression, glycemic control, and cardiometabolic optimization.</li>
+</ul>
+<p>Below are vendors meeting research-grade quality standards for cagrilintide and related metabolic research peptides:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Cagrilintide Peptide, GLP-1S, NAD+ Spray, GROW Peptide, Glow Blend, Full 42-Product Catalog',
+            productUrl: 'https://www.vandl-labs.com/product/cagrilintide/',
+            price: 'Cagrilintide available — check site for current pricing. NAD+ Spray, GLP-1S, GROW also available.',
+            purity: '≥98% (third-party verified COA)',
+            highlight: 'VANDL Labs is one of the few vendors offering cagrilintide as a standalone research compound in 2026. Full catalog spans longevity, metabolic, and recovery peptides. Ships within EU from European warehouse. Free BAC water on peptide orders over $200. Free shipping over $250. QR-verified COAs on every product batch.',
+            badge: 'Cagrilintide Available',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'Full Research Peptide Catalog — BPC-157, GHK-Cu, KPV, Ipamorelin, CJC-1295, NAD+',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99% (dual ISO 17025-accredited lab testing)',
+            highlight: 'Gold standard COA documentation: every batch dual-tested at two independent ISO 17025-accredited US laboratories. HPLC purity, mass spec identity, endotoxin, sterility, and heavy metal data publicly accessible via QR code. Recently migrated to peptidetech.is for security.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157, TB-500, BPC-157/TB-500 Blend, BPC-157/KPV Blend, GHK-Cu, Ipamorelin, Sermorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'BPC-157 5mg — check site; blends competitively priced',
+            purity: '≥99% (≥98% money-back guarantee)',
+            highlight: 'ISO-certified US manufacturer with in-house lyophilization. Unique pre-blended formulations including BPC-157/KPV and BPC-157/TB-500. Research references on all product pages. Strong track record for metabolic and recovery research compounds.',
+            badge: 'ISO-Certified Manufacturing',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules, GHK-Cu Capsules, 5-Amino-1MQ, Research Peptide Catalog',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥99% (third-party tested)',
+            highlight: 'Research-first approach with same-day shipping on orders placed before 2 PM CST. Red thermal mailers for temperature-controlled delivery. Full batch and lot tracking with QR code verification on every product. US-based 24/7 support.',
+            badge: 'Same-Day Shipping',
+          },
+        ],
+      },
+      {
+        id: 'looking-ahead',
+        type: 'h2',
+        heading: 'Looking Ahead: Oral Formulations and the Triple Combination Horizon',
+        content: `<p>The CagriSema Phase 3 story extends well beyond REDEFINE 1. At least three additional Phase 3 trials are underway or completed:</p>
+<ul>
+  <li><strong>REDEFINE 3:</strong> CagriSema in non-alcoholic steatohepatitis (NASH/MASH) — where both amylin and GLP-1 pathways have mechanistic rationale through liver fat reduction and anti-inflammatory effects</li>
+  <li><strong>REDEFINE 4:</strong> CagriSema in heart failure with preserved ejection fraction (HFpEF) — extending the SELECT and STEP-HFpEF cardiovascular precedent</li>
+  <li><strong>REIMAGINE 2 (complete 2026):</strong> CagriSema in T2D — already reporting superior HbA1c reduction of 1.91% versus semaglutide <sup>[2]</sup></li>
+</ul>
+<p><strong>Oral amylin development:</strong> The injectable burden of weekly subcutaneous dosing remains a barrier. Novo Nordisk has active programs exploring oral amylin analogs, following the oral semaglutide (Rybelsus) precedent. Oral cagrilintide-equivalent would substantially expand accessibility — though the bioavailability challenges of oral peptide delivery remain significant engineering problems.</p>
+<p><strong>The triple combination horizon:</strong> With CagriSema activating GLP-1R + amylin receptors, and retatrutide activating GLP-1R + GIPR + glucagon receptor, the natural question is what a GLP-1 + amylin + GIP triple would produce. Early pharmacology modeling suggests potential average weight loss approaching 30–35% in such a combination — approaching what retatrutide alone achieved in TRIUMPH-1. Novo Nordisk and multiple other companies are exploring this design space. The ceiling on pharmacological weight loss through appetite/satiety pathways is not yet visible.</p>
+<p><strong>Muscle preservation research:</strong> The NCT07527195 lean mass trial — comparing CagriSema, cagrilintide, and semaglutide specifically on muscle health outcomes — will provide critical data on whether the amylin pathway produces a more favorable fat-to-lean loss ratio. If confirmed, this would represent a clinically meaningful advantage beyond the weight loss percentage headline.</p>`,
+      },
+      {
+        id: 'dataviz-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_080656_b8360eca-39a4-4840-a408-25ace8753c59.png',
+          alt: 'Data visualization showing rising weight loss comparison bars across peptide therapy generations — teal and white infographic on dark slate background',
+          caption: 'Each generation of weight loss pharmacotherapy has added meaningfully to average outcomes. Cagrilintide\'s introduction of the amylin pathway into CagriSema pushes the combined response beyond what single-pathway GLP-1 or dual GLP-1/GIP agents achieve alone.',
+        },
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Cagrilintide & CagriSema: Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is cagrilintide and how is it different from semaglutide?',
+            answer: 'Cagrilintide is a long-acting amylin analog that activates amylin receptors (AMY₁R and AMY₃R) in the brainstem dorsal vagal complex, producing satiety through a pathway completely distinct from GLP-1. Semaglutide is a GLP-1 receptor agonist acting primarily on the hypothalamus and pancreas. CagriSema combines both in a single weekly injection — delivering 22.7% average weight loss in the REDEFINE 1 Phase 3 trial versus 16.1% with semaglutide alone in the same trial.',
+          },
+          {
+            question: 'Is CagriSema FDA approved in 2026?',
+            answer: 'As of June 2026, CagriSema has not received FDA approval. Novo Nordisk filed for FDA approval based on REDEFINE Phase 3 data in early 2026, with regulatory decision anticipated late 2026 or early 2027. EMA review is proceeding in parallel. CagriSema would join semaglutide (Wegovy) and tirzepatide (Zepbound) in the approved obesity pharmacotherapy market upon approval.',
+          },
+          {
+            question: 'How does cagrilintide differ from pramlintide (Symlin)?',
+            answer: 'Pramlintide was the original FDA-approved amylin analog (2005), requiring 2-3 daily injections and producing only 2-4% weight loss. Cagrilintide achieves once-weekly dosing through a C18 fatty acid chain modification enabling albumin binding, and delivers 11.8% weight loss as monotherapy — a 3-6 fold improvement. The engineering breakthrough is sustained half-life: continuous 24/7 amylin receptor activation versus pramlintide\'s brief post-injection spike.',
+          },
+          {
+            question: 'Can cagrilintide be sourced as a research peptide?',
+            answer: 'Yes. Unlike semaglutide and tirzepatide (FDA-approved pharmaceutical drugs unavailable through research channels), cagrilintide as a standalone amylin analog is available as a research-use-only compound. VANDL Labs currently offers cagrilintide in their research peptide catalog at vandl-labs.com. As with all research peptides, it is sold strictly for laboratory research purposes only — not for human use or as an FDA-approved medication.',
+          },
+          {
+            question: 'What are the main side effects of CagriSema?',
+            answer: 'REDEFINE 1 reported gastrointestinal adverse events in 79.6% of CagriSema participants — primarily nausea (50-55%) and vomiting (~30%) — most pronounced in the first 4-8 weeks of dose escalation. Discontinuation due to GI events occurred in approximately 10% of participants. Gallbladder events (cholelithiasis) were observed consistent with the GLP-1 class. Gradual titration over 16+ weeks significantly reduces tolerability burden.',
+          },
+          {
+            question: 'How does CagriSema compare to tirzepatide?',
+            answer: 'CagriSema and tirzepatide were not compared in a head-to-head trial. In respective Phase 3 trials: CagriSema produced 22.7% weight loss (REDEFINE 1, 68 weeks) and tirzepatide produced 22.5% (SURMOUNT-1, 72 weeks) — statistically similar averages. However, CagriSema\'s responder data is notably stronger: 60% achieved >=20% loss vs approximately 57% with tirzepatide 15mg. The populations were comparable but not identical, so direct comparison has limitations. A head-to-head trial has not been announced as of mid-2026.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: The Amylin Era Has Arrived',
+        content: `<p>Cagrilintide and CagriSema represent the most important development in obesity pharmacotherapy since tirzepatide — and the REDEFINE 1 data makes a compelling case that amylin was always part of the biology the field needed. The 22.7% average weight loss, 60% responder rate at ≥20%, and 23% rate at ≥30% are numbers that were surgical outcomes just five years ago. They are now Phase 3 randomized controlled trial results from a compound expected to reach clinical approval by early 2027. <sup>[1]</sup></p>
+<p>The mechanistic story is equally compelling. Amylin does not simply add more weight loss to GLP-1 — it adds <em>different</em> weight loss, through brainstem circuits operating independently of the hypothalamic GLP-1 pathway. The 2026 DVC atlas published in <em>Nature Metabolism</em> reveals neural specificity conserved across rodents, macaques, and humans — Calcr/Prlh neurons in the NTS that are genuine, targetable elements of the appetite regulatory architecture, not peripheral modulators. <sup>[4]</sup></p>
+<p>For the research community, cagrilintide opens new experimental questions with real clinical stakes. What happens to lean mass when the amylin pathway is activated alongside GLP-1? Does brainstem amylin signaling carry cardiovascular effects independent of weight? Can oral delivery achieve subcutaneous-equivalent clinical outcomes? These are active research questions with trials in progress, and the answers will define the next chapter of metabolic peptide pharmacology.</p>
+<p><em>For PeptideWiki's complete breakdown of the GLP-1 landscape — semaglutide, tirzepatide, and retatrutide — see our <a href="/blog/glp-1-peptide-research-guide-2026" class="text-blue-400 hover:text-blue-300 underline">GLP-1 Peptide Research 2026 guide</a>. For the retatrutide triple agonist specifically, see the <a href="/blog/retatrutide-triple-agonist-guide-2026" class="text-blue-400 hover:text-blue-300 underline">Retatrutide TRIUMPH-1 guide</a>. For mitochondrial and longevity research peptides, see our <a href="/blog/mots-c-peptide-guide" class="text-blue-400 hover:text-blue-300 underline">MOTS-c guide</a> and <a href="/blog/ss-31-elamipretide-mitochondria-guide" class="text-blue-400 hover:text-blue-300 underline">SS-31 Elamipretide guide</a>.</em></p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
