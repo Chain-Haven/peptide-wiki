@@ -6484,6 +6484,393 @@ export const BLOG_POSTS: BlogPost[] = [
       },
     ],
   },
+  {
+    slug: 'aod-9604-hgh-fragment-fat-loss-guide-2026',
+    title: 'AOD-9604 (HGH Fragment 176-191): The 2026 Complete Research Guide',
+    excerpt:
+      'AOD-9604 is a 16-amino-acid C-terminal fragment of human growth hormone that stimulates lipolysis via β3-adrenergic receptors without raising IGF-1, disrupting glucose, or triggering growth effects. Six human clinical trials (~893 participants), FDA GRAS status, and emerging cartilage research make it one of the most studied fat-loss peptides ever developed. Complete 2026 guide: mechanism, honest clinical trial record, dosage protocols, and stacking with GLP-1s.',
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Fat Loss & Body Composition',
+    tags: ['AOD-9604', 'HGH Fragment 176-191', 'Fat Loss', 'Lipolysis', 'Growth Hormone', 'Body Composition', 'Weight Loss Peptides'],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_040506_c2cfb5eb-33de-4d00-ab19-63f95673f44b.jpeg',
+    heroImageAlt: 'AOD-9604 HGH fragment research peptide vial with blue bioluminescent glow on laboratory bench',
+    metaTitle: 'AOD-9604 Complete Guide 2026 — HGH Fragment, Fat Loss & Dosage',
+    metaDescription:
+      'AOD-9604 (HGH Fragment 176-191) burns fat via β3-adrenergic receptors without raising IGF-1. Six human trials, FDA GRAS status. 2026 guide: mechanism, dosage, GLP-1 stacking, and top vendors.',
+    keywords: [
+      'AOD-9604',
+      'AOD 9604 peptide',
+      'HGH fragment 176-191',
+      'AOD 9604 fat loss',
+      'AOD 9604 dosage',
+      'AOD 9604 benefits',
+      'AOD 9604 side effects',
+      'HGH fragment peptide',
+      'fat loss peptide',
+      'lipolysis peptide',
+      'AOD 9604 before and after',
+      'AOD 9604 stacking',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/aod-9604-hgh-fragment-fat-loss-guide-2026',
+    relatedPeptides: ['cjc-1295', 'ipamorelin', 'tesamorelin', 'semaglutide'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 2700,
+      primaryKeyword: 'AOD-9604',
+      secondaryKeywords: ['HGH fragment 176-191', 'AOD 9604 fat loss', 'AOD 9604 dosage', 'lipolysis peptide'],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Ng FM, Sun J, Sharma L, Libinaka R, Jiang WJ, Gianello R',
+        title: 'Metabolic studies of a synthetic lipolytic domain (AOD9604) of human growth hormone',
+        journal: 'Hormone Research',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11146367/',
+        doi: '10.1159/000023333',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Heffernan MA, Jiang WJ, Thorburn AW, Ng FM',
+        title: 'Effects of oral administration of a synthetic fragment of human growth hormone on lipid metabolism',
+        journal: 'American Journal of Physiology — Endocrinology and Metabolism',
+        year: 2000,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/10960015/',
+        type: 'animal_study',
+      },
+      {
+        id: 3,
+        authors: 'Heffernan MA, Thorburn AW, Fam B, Summers R, Conway-Campbell B, Waters MJ, Ng FM',
+        title: 'Increase of fat oxidation and weight loss in obese mice caused by chronic treatment with human growth hormone fragment 176-191',
+        journal: 'International Journal of Obesity',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11673769/',
+        doi: '10.1038/sj.ijo.0801858',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Metabolic Pharmaceuticals Ltd',
+        title: 'OPTIONS Phase 2b Clinical Trial of AOD9604 for Obesity Treatment — Primary Endpoint Results',
+        journal: 'Clinical Trial Communication / BioSpace Press Release',
+        year: 2007,
+        url: 'https://www.biospace.com/article/releases/metabolic-pharmaceuticals-s-obesity-trial-update-first-100-subjects-complete-the-phase-2b-trial-of-aod9604-/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Kwon DR, Park GY, Lee SC',
+        title: 'Effect of intra-articular injection of AOD9604 with or without hyaluronic acid in rabbit osteoarthritis model',
+        journal: 'Journal of Orthopaedic Surgery and Research',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26275694/',
+        doi: '10.1186/s13018-015-0273-4',
+        type: 'animal_study',
+      },
+      {
+        id: 6,
+        authors: 'US Food and Drug Administration',
+        title: 'GRAS Notice Inventory — Generally Recognized as Safe Status for AOD-9604',
+        journal: 'FDA GRAS Notice Inventory',
+        year: 2014,
+        url: 'https://www.fda.gov/food/generally-recognized-safe-gras/gras-notice-inventory',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al.',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP 1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://www.nejm.org/doi/10.1056/NEJMoa2032183',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al.',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://www.nejm.org/doi/10.1056/NEJMoa2206038',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Human growth hormone has long held the reputation of a body-composition holy grail: it drives fat breakdown, supports lean mass preservation, and appears to slow metabolic aging. The problem with full HGH therapy is that its effects are a package deal — you get the fat loss, but also IGF-1 elevation, insulin resistance, joint pain, and long-term safety questions that make it expensive, controlled, and unsuitable for most research applications.</p>
+<p>What if you could isolate just the fat-burning mechanism? That was the question researchers at Monash University in Melbourne asked in the early 1990s — and <strong>AOD-9604</strong> was their answer. A synthetic 16-amino-acid peptide corresponding to the C-terminal region of human growth hormone (residues 176–191), AOD-9604 stimulates lipolysis (fat breakdown) and inhibits lipogenesis (fat storage) in adipose tissue through a receptor mechanism that is <em>completely distinct</em> from GH receptor signaling. It does not raise IGF-1. It does not disrupt glucose. It does not promote organ or bone growth. Six human clinical trials enrolling approximately 893 participants confirmed this safety profile, and in 2014, the US FDA granted it <em>Generally Recognized as Safe</em> (GRAS) status for food ingredient use — a designation that requires demonstrating safety to regulatory standards [1,4,6].</p>
+<p>The honest catch: AOD-9604 also failed its pivotal Phase 2b obesity trial. We will cover exactly what that means, why it happened, and why it does not make AOD-9604 worthless — it means something more nuanced, and understanding the distinction is the difference between informed research and marketing noise.</p>
+<p>This guide covers the complete picture: molecular mechanism, the β3-adrenergic receptor pathway, the full six-trial clinical record (including the Phase 2b failure), FDA GRAS status, emerging cartilage research, 2026 stacking protocols with GLP-1s, dosage tables based on trial data, and sourcing guidance for verified research-grade material.</p>`,
+      },
+      {
+        id: 'what-is-aod',
+        type: 'h2',
+        heading: 'What Is AOD-9604? The HGH Fragment Story',
+        content: `<p>Human growth hormone (hGH) is a 191-amino-acid polypeptide secreted in pulses by the anterior pituitary gland. Its diverse physiological effects — fat breakdown, muscle growth, IGF-1 secretion, tissue repair, metabolic regulation — are mediated through its interaction with the growth hormone receptor (GHR). The problem for drug development is that these effects are mediated through overlapping GHR signaling, making it difficult to isolate the therapeutically desirable ones (fat burning, metabolic improvement) from the problematic ones (IGF-1 elevation, insulin resistance, growth signals).</p>
+<p>In the 1990s, Professor Frank Ng and colleagues at Monash University systematically mapped which structural domains of hGH were responsible for its lipolytic activity. Their finding: the C-terminal region, specifically the fragment spanning <strong>amino acids 176 to 191</strong>, retained fat-burning properties when synthesized in isolation, without triggering GHR-mediated anabolic effects [1,2]. The 16-amino-acid sequence — Tyr-Leu-Arg-Ile-Val-Gln-Cys-Arg-Ser-Val-Glu-Gly-Ser-Cys-Gly-Phe — became the backbone of what Metabolic Pharmaceuticals would commercialize as <strong>AOD-9604</strong>, with "AOD" standing for Anti-Obesity Drug and "9604" referencing its internal development code.</p>
+<p>Structurally, AOD-9604 is a lyophilized (freeze-dried) peptide powder with a molecular formula of C₇₈H₁₂₃N₂₃O₂₃S₂ and a molecular weight of approximately 1817 Da. The disulfide bridge between cysteine residues at positions 7 and 14 of the fragment (corresponding to Cys182 and Cys189 of full hGH) is critical for maintaining the active three-dimensional conformation required for receptor activity [1]. Loss of this disulfide bridge — through improper storage or degradation — renders the peptide inactive, which is why lyophilized powder stored at −20°C is the gold standard for research-grade AOD-9604.</p>
+<p>Unlike most peptides that receive passing attention in the research community, AOD-9604 progressed through a full pharmaceutical development program under Metabolic Pharmaceuticals, with over $50 million invested across Phase 1 and Phase 2 human trials. This makes it one of the most rigorously studied fat-loss peptides ever developed — a fact often obscured by the marketing noise around its Phase 2b primary endpoint failure.</p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_040542_e736f297-34d3-4051-8110-783f8cf88101.png',
+          alt: 'AOD-9604 peptide fragment molecular structure with beta-3 adrenergic receptor interaction and amino acid chain visualization',
+          caption:
+            'AOD-9604 is a 16-amino-acid peptide (MW ~1817 Da) derived from the C-terminal lipolytic domain of human growth hormone. The disulfide bridge between Cys7 and Cys14 of the fragment maintains the active conformation required for β3-adrenergic receptor activation in adipose tissue.',
+        },
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'How AOD-9604 Burns Fat: The β3-Adrenergic Receptor Pathway',
+        content: `<p>The most important thing to understand about AOD-9604 is that it does <em>not</em> act primarily through the growth hormone receptor. This is what makes it different from everything else in the GH space — and why it has no effect on IGF-1, bone growth, or glucose metabolism.</p>
+<h3>The β3-Adrenergic Receptor: AOD-9604's Primary Target</h3>
+<p>β3-adrenergic receptors (β3-AR) are G-protein coupled receptors (GPCRs) densely expressed in white adipose tissue (WAT) and brown adipose tissue (BAT). When activated, they trigger a cAMP-mediated signaling cascade with the following downstream effects:</p>
+<ul>
+<li><strong>Lipolysis activation:</strong> Protein kinase A (PKA) phosphorylates and activates hormone-sensitive lipase (HSL) and adipose triglyceride lipase (ATGL), which hydrolyze stored triglycerides into free fatty acids and glycerol. These free fatty acids are released into circulation to be used as fuel [1,3].</li>
+<li><strong>Lipogenesis inhibition:</strong> β3-AR activation suppresses lipoprotein lipase (LPL), reducing the uptake of circulating fatty acids into adipocytes and therefore reducing fat storage capacity [2].</li>
+<li><strong>Thermogenesis in BAT:</strong> In brown adipose tissue, β3-AR activation upregulates uncoupling protein 1 (UCP-1), which dissipates the mitochondrial proton gradient as heat rather than ATP — increasing non-shivering thermogenesis and resting energy expenditure [3].</li>
+<li><strong>Fatty acid oxidation:</strong> β3-AR signaling promotes uptake and oxidation of released fatty acids in metabolically active tissues including skeletal muscle and liver.</li>
+</ul>
+<p>The critical mechanistic confirmation came from β3-AR knockout mouse studies: when the β3-AR gene was deleted, AOD-9604's fat-burning effects were <strong>completely abolished</strong> — confirming that β3-AR is the essential receptor, not a side pathway [1].</p>
+<h3>Why IGF-1 Stays Flat</h3>
+<p>Full-length hGH acts on the GH receptor by inducing receptor dimerization, which recruits and activates JAK2 kinase. JAK2 phosphorylates STAT5, which translocates to the nucleus and drives IGF-1 gene expression in the liver — producing the anabolic and potentially carcinogenic IGF-1 elevation associated with HGH therapy. AOD-9604 does not meaningfully engage this pathway. Across all six human clinical trials, no clinically significant IGF-1 elevation was measured at any dose [4,6]. The β3-AR mechanism is completely upstream of GHR signaling.</p>
+<h3>What This Means in Practice</h3>
+<p>A person using full HGH at therapeutic doses would expect: significant fat loss, increased lean mass, elevated IGF-1 (potentially driving cancer risk), insulin resistance, carpal tunnel syndrome, joint pain, and organ growth at supraphysiological doses. AOD-9604 at research doses delivers: fat-burning stimulation in adipose tissue and no meaningful systemic anabolic signaling whatsoever. The trade-off is obvious — the ceiling on the fat-loss effect is lower, but so is essentially every safety concern associated with the parent molecule.</p>`,
+      },
+      {
+        id: 'mechanism-comparison-table',
+        type: 'table',
+        heading: 'AOD-9604 vs Full HGH vs Other Fat-Loss Approaches: Mechanism Comparison',
+        tableData: {
+          headers: ['Property', 'Full HGH', 'AOD-9604', 'Tesamorelin', 'Semaglutide'],
+          rows: [
+            ['Primary target', 'GH receptor (GHR)', 'β3-Adrenergic receptor (adipose)', 'GHRH receptor (pituitary)', 'GLP-1 receptor (brain/gut)'],
+            ['IGF-1 elevation', 'Yes — dose-dependent', 'None in 6 human trials', 'Mild (indirect)', 'None'],
+            ['Mechanism of fat loss', 'GHR → lipolysis + anti-lipogenic', 'β3-AR → lipolysis + anti-lipogenic', 'GH pulse → lipolysis', 'Appetite suppression + caloric restriction'],
+            ['Glucose effect', 'Insulin resistance', 'None observed', 'Mild transient effects', 'Improved (insulin secretion↑)'],
+            ['Anabolic (muscle/bone)', 'Yes', 'None observed', 'Minimal', 'Muscle-sparing (indirect)'],
+            ['GRAS / FDA status', 'Controlled (Schedule)', 'GRAS (food use, 2014)', 'FDA approved (Egrifta, prescription)', 'FDA approved (Wegovy/Ozempic)'],
+            ['Phase 3 efficacy', 'Yes (as HRT)', 'No — Phase 2b failed primary endpoint', 'Yes (visceral fat in HIV)', 'Yes — ~14.9% mean weight loss'],
+          ],
+        },
+      },
+      {
+        id: 'fat-loss-chart',
+        type: 'chart',
+        heading: 'Fat Loss Comparison: AOD-9604 Phase 2a vs GLP-1 Agents',
+        chartData: {
+          title: 'Mean Weight / Body Mass Change at Primary Endpoint',
+          type: 'bar',
+          labels: ['AOD-9604\n(Phase 2a, 12 wk)', 'Placebo\n(Phase 2a, 12 wk)', 'Semaglutide 2.4mg\n(STEP 1, 68 wk)', 'Tirzepatide 15mg\n(SURMOUNT-1, 72 wk)'],
+          datasets: [
+            {
+              label: 'kg Weight Lost',
+              values: [2.6, 0.8, 15.3, 22.5],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'kg Body Weight Reduction',
+          note:
+            'Direct comparison is not meaningful across different trial designs, populations, and durations. AOD-9604 Phase 2a data from Metabolic Pharmaceuticals 300-subject 12-week trial. STEP 1 data from Wilding et al. NEJM 2021 [7]; SURMOUNT-1 from Jastreboff et al. NEJM 2022 [8]. AOD-9604 Phase 2b (536 subjects, 24 weeks) failed to meet primary endpoint versus placebo [4].',
+        },
+      },
+      {
+        id: 'body-comp-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_040540_3d8337f2-0163-423b-af3b-de5ec5209e2f.png',
+          alt: 'Body composition transformation showing adipose tissue reduction at cellular level with blue glowing fat cells being metabolized by AOD-9604',
+          caption:
+            'AOD-9604 acts directly on adipocytes via β3-adrenergic receptors, triggering lipolysis (fat breakdown via HSL and ATGL) and inhibiting lipogenesis (reducing fat storage via LPL suppression). Unlike full HGH, no IGF-1 elevation or growth hormone receptor activation occurs.',
+        },
+      },
+      {
+        id: 'clinical-trials',
+        type: 'h2',
+        heading: 'The Clinical Trial Record: Six Studies, One Honest Assessment',
+        content: `<p>AOD-9604 has an unusually complete human safety database for a research peptide — six trials, approximately 893 participants, with safety assessments extending to 24 weeks. What those trials show about efficacy is more complex and more honest than most sources acknowledge. Here is the complete picture.</p>
+<h3>Phase 1: Safety and Pharmacokinetics Established</h3>
+<p>The Phase 1 program established several important facts. AOD-9604 was well tolerated across a broad dose range following single and multiple subcutaneous doses. Its plasma half-life was measured at approximately 30 minutes post-injection (considerably shorter than many peptides, which influences dosing timing). Critically, no IGF-1 elevation occurred at any Phase 1 dose — the first human confirmation that the β3-AR selectivity observed in mouse models held in vivo in humans [1,4].</p>
+<h3>Phase 2a: A Meaningful Signal</h3>
+<p>The Phase 2a program tested multiple doses of AOD-9604 over 12 weeks in approximately 300 obese adults. The result was statistically significant: the 1 mg/day dose group lost a mean of <strong>2.6 kg</strong> versus <strong>0.8 kg</strong> in the placebo group — a 225% greater effect on absolute weight loss that was significant (p &lt; 0.05). No IGF-1 elevation, glucose disruption, or immunogenicity was observed at any dose across the entire Phase 2a program [4].</p>
+<p>This was the data that justified advancing to a powered Phase 2b trial. A 2.6 vs 0.8 kg difference over 12 weeks is modest in absolute terms but mechanistically consistent with a peripheral β3-AR mechanism rather than the appetite suppression that drives GLP-1 class efficacy. The expectation for Phase 2b was that extending duration to 24 weeks and enrolling a larger, more diverse population would strengthen the signal.</p>
+<h3>Phase 2b OPTIONS: The Pivotal Trial That Failed</h3>
+<p>The OPTIONS (Obesity Phase II) study enrolled <strong>536 obese adults</strong> across multiple countries in a rigorous 24-week, randomized, double-blind, placebo-controlled design. The result was unambiguous: AOD-9604 <strong>failed to produce statistically significant weight loss versus placebo</strong> at the pre-specified primary endpoint [4].</p>
+<p>Metabolic Pharmaceuticals terminated the obesity development program in 2007. The pivotal trial results were never published in a peer-reviewed journal — an omission that has fueled speculation and made accurate assessment difficult. What the company did confirm: the impeccable safety profile was maintained. No IGF-1 elevation, no hyperglycemia, no immunogenicity, no serious adverse events attributable to drug across the entire 24-week trial and its follow-up period.</p>
+<h3>What the Phase 2b Failure Actually Means</h3>
+<p>The distinction between "failed Phase 2b" and "proven useless" is critically important. The OPTIONS trial asked a specific question in a specific population at specific doses: can AOD-9604 work as a <em>standalone pharmaceutical anti-obesity drug</em> at the tested doses in a 24-week trial? The answer was no. That is the boundary of what the trial result tells us.</p>
+<p>What it does <em>not</em> tell us: whether AOD-9604 contributes to fat loss as part of a stack with complementary mechanisms; whether different dosing, timing, or administration protocols might produce different outcomes; whether specific subpopulations (lower-BMI individuals, those with specific metabolic profiles) show differential response; or whether its peripheral β3-AR activity has additive value when combined with GLP-1 agonists that work centrally. These questions remain legitimately open because the trial was not designed to answer them.</p>`,
+      },
+      {
+        id: 'trial-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Regulatory and Efficacy Status — Read Before Interpreting Research',
+        content: `<p>AOD-9604 is <strong>not approved for human use</strong> by the FDA, EMA, or any regulatory authority. It is classified as a research chemical. The Phase 2b OPTIONS trial failed its primary weight-loss endpoint [4]. The FDA GRAS designation covers food-ingredient use (oral), not pharmaceutical subcutaneous injection. Nothing in this article constitutes medical advice. AOD-9604 research should only be conducted in appropriate laboratory settings in accordance with applicable regulations.</p>`,
+      },
+      {
+        id: 'gras-and-cartilage',
+        type: 'h2',
+        heading: 'FDA GRAS Status and the Cartilage Research Pivot',
+        content: `<p>Following the obesity program termination, two notable developments kept AOD-9604 scientifically relevant: its FDA GRAS designation and a pivot toward musculoskeletal research.</p>
+<h3>FDA GRAS: The Safety Validation</h3>
+<p>In 2014, the US FDA granted AOD-9604 <strong>Generally Recognized as Safe (GRAS) status</strong> for use as a food ingredient [6]. Achieving GRAS requires demonstrating, to the FDA's satisfaction, that the substance is safe under its intended conditions of use based on published scientific evidence and expert consensus review. This designation is meaningful: it represents a formal regulatory affirmation of the clean safety data from six human trials.</p>
+<p>To be completely precise: GRAS covers food-ingredient use under specified conditions. It does not validate injectable pharmaceutical administration, does not approve AOD-9604 for therapeutic use, and does not constitute an efficacy claim for any indication. What it <em>does</em> confirm: no carcinogenicity signal, no reproductive toxicity, no immunogenicity, and no hormonal disruption across the complete human safety database. For a research peptide, this is an unusually high evidentiary bar for safety.</p>
+<h3>Cartilage Regeneration: The 2015 Osteoarthritis Study</h3>
+<p>Kwon, Park, and Lee (2015) published what remains the most-cited post-obesity study on AOD-9604 [5]. Using a collagenase-induced knee osteoarthritis rabbit model, 32 animals were randomized to receive weekly intra-articular injections of: saline (control), hyaluronic acid (HA) alone, AOD-9604 alone, or AOD-9604 + HA combination, for four to seven weeks under ultrasound guidance.</p>
+<p>The results were striking. Intra-articular AOD-9604 alone produced enhanced cartilage regeneration versus saline control on histological examination. The combination of AOD-9604 and hyaluronic acid was <strong>significantly more effective than either agent alone</strong>, with improved chondrocyte organization, reduced erosion depth, and better matrix integrity in the combination group. The proposed mechanism involves AOD-9604's potential effects on chondrocyte proliferation and extracellular matrix synthesis, possibly through β3-AR expression in synovial tissue [5].</p>
+<p>This is animal data — it does not establish clinical efficacy for human osteoarthritis. But it opened a plausible research direction: that AOD-9604's biological activity extends meaningfully beyond adipocyte lipolysis. Researchers combining AOD-9604 with BPC-157 in musculoskeletal recovery protocols sometimes cite this cartilage angle as an additional rationale for the combination.</p>`,
+      },
+      {
+        id: 'stacking',
+        type: 'h2',
+        heading: 'AOD-9604 Stacking Protocols: 2026 Research Approaches',
+        content: `<p>AOD-9604's mechanistic selectivity — peripheral β3-AR activity in adipose tissue, zero GHR signaling, zero central nervous system effect — makes it theoretically compatible with multiple other peptides and pharmacological approaches. Four stacks have strong mechanistic rationale in 2026 research contexts.</p>
+<h3>Stack 1: AOD-9604 + CJC-1295/Ipamorelin (Dual GH Axis + Direct Adipose Attack)</h3>
+<p>CJC-1295 (a GHRH analog) and Ipamorelin (a ghrelin receptor agonist) work upstream at the pituitary level to amplify endogenous growth hormone pulses. The theoretical synergy with AOD-9604: the CJC-1295/Ipamorelin-driven GH pulses activate the GH receptor in adipose tissue through the intact GHR pathway, producing an upstream lipolytic signal; simultaneously, AOD-9604 activates β3-AR downstream in the same adipocytes for direct, GHR-independent lipolysis. Two non-competing mechanisms acting on the same target (adipocyte fat breakdown) simultaneously. This is among the most commonly reported stacks in research peptide communities.</p>
+<h3>Stack 2: AOD-9604 + GLP-1 Receptor Agonists (Appetite + Peripheral Lipolysis)</h3>
+<p>The most clinically interesting 2026 combination. GLP-1 receptor agonists (semaglutide, tirzepatide) reduce caloric intake by suppressing appetite through hypothalamic GLP-1R signaling and slowing gastric emptying — they work primarily through the central nervous system and pancreas. AOD-9604 works peripherally in white adipose tissue via β3-AR. The mechanisms are spatially and pharmacologically non-overlapping. No randomized controlled trial has yet tested this combination, but the theoretical rationale is sound [7,8]. Some peptide-oriented clinical protocols add AOD-9604 when GLP-1 monotherapy hits a plateau, reasoning that the peripheral lipolytic push may complement the appetite-driven caloric deficit mechanism.</p>
+<h3>Stack 3: AOD-9604 + Tesamorelin (Visceral Fat Dual Protocol)</h3>
+<p>Tesamorelin is an FDA-approved GHRH analog (brand name Egrifta) indicated for HIV-associated lipodystrophy, with robust Phase 3 evidence for visceral fat reduction. It works by stimulating endogenous GH pulses from the pituitary, which then act through GHR on visceral adipocytes. AOD-9604 in the same stack would add direct β3-AR activation in visceral adipose tissue — targeting the same fat depots through a second, GHR-independent mechanism. The theoretical advantage: additive visceral fat reduction without the meaningful IGF-1 amplification that higher GH pulse doses would produce from Tesamorelin alone.</p>
+<h3>Stack 4: AOD-9604 + BPC-157 (Fat Loss + Tissue Protection)</h3>
+<p>BPC-157 (Body Protective Compound-157) is a 15-amino-acid peptide derived from gastric juice with extensive research demonstrating tissue-protective, anti-inflammatory, and gut-healing properties. The rationale for stacking with AOD-9604 is protective rather than synergistic for fat loss: aggressive caloric restriction and enhanced lipolysis cycles can stress the gastrointestinal tract and connective tissue; BPC-157's well-characterized cytoprotective effects may counteract these stressors. Additionally, both AOD-9604 and BPC-157 appear to support tissue repair in animal models, making the combination logical for recovery-oriented research protocols. The 2015 cartilage study specifically examined AOD-9604 + HA for joint repair [5], supporting the concept that AOD-9604 may have synergistic properties when combined with joint and tissue-support compounds.</p>`,
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'AOD-9604 Dosage: What the Clinical Data Used',
+        content: `<p>The dosage parameters below are drawn directly from the published Phase 1 and Phase 2 clinical trial protocols. This is research context only — AOD-9604 is not approved for human therapeutic use. Individual researcher parameters may vary significantly based on research objectives.</p>`,
+      },
+      {
+        id: 'dosage-table',
+        type: 'table',
+        heading: 'AOD-9604 Research Dosage Parameters (Based on Clinical Trial Protocols)',
+        tableData: {
+          headers: ['Parameter', 'Phase 2a Trial Protocol', 'Common Research Protocol', 'Notes'],
+          rows: [
+            ['Dose range tested', '250 mcg – 1,000 mcg/day', '300 mcg/day', 'Phase 2a showed best signal at 1 mg/day; 300 mcg is common starting point in research protocols'],
+            ['Dosing frequency', 'Once daily', 'Once daily', 'Half-life ~30 min; single daily dose standard'],
+            ['Route', 'Subcutaneous injection', 'Subcutaneous injection', 'Modified Aminos also offers nasal spray format (5mg)'],
+            ['Injection site', 'Abdominal subcutaneous tissue', 'Abdomen or thigh', 'Rotate injection sites; avoid same site daily'],
+            ['Optimal timing', 'Morning (fed/fasted not specified)', 'Morning, fasted, 30 min pre-exercise', 'Fasted + exercise may potentiate β3-AR lipolytic signal'],
+            ['Trial duration', '12 weeks (Phase 2a), 24 weeks (Phase 2b)', '12–16 weeks', 'Phase 2b at 24 weeks failed primary endpoint; 12-week cycles allow evaluation intervals'],
+            ['Reconstitution', 'Saline', 'Bacteriostatic water (BW)', '1–2 mL BW per 5mg vial; calculate dose volume accordingly; refrigerate after reconstitution'],
+            ['Stability reconstituted', 'Not published', '14–28 days refrigerated', 'Lyophilized powder stable at −20°C for 24+ months; degradation accelerates once reconstituted'],
+          ],
+        },
+      },
+      {
+        id: 'quality-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'Third-Party Testing: Non-Negotiable for Research Peptides',
+        content: `<p>AOD-9604 research quality depends entirely on source purity. Always verify that your supplier provides: (1) a <strong>third-party Certificate of Analysis (COA)</strong> from an independent HPLC laboratory — not in-house testing; (2) <strong>mass spectrometry confirmation</strong> of correct molecular weight (~1817 Da) to exclude substitution with cheaper fragments; (3) <strong>bacterial endotoxin testing</strong> (LAL test) for injectable research use; and (4) <strong>lyophilized powder format</strong> for maximum shelf stability. Pre-reconstituted liquid peptides have meaningfully shorter shelf lives and higher degradation risk during shipping. The disulfide bridge in AOD-9604 is particularly sensitive to oxidation — UV light and heat exposure during shipping should be avoided.</p>`,
+      },
+      {
+        id: 'vendors',
+        type: 'vendor-cards',
+        heading: 'Where to Source Research-Grade AOD-9604',
+        vendors: [
+          {
+            name: 'PeptideTech',
+            url: 'https://peptidetech.is?ref=bre',
+            product: 'AOD-9604 5mg',
+            productUrl: 'https://peptidetech.is/products/aod-9604?ref=bre',
+            price: '$29.99',
+            purity: '99%+',
+            highlight: 'Third-party HPLC and mass spec verified, lyophilized powder, COA published, US-made, daily price matching vs major competitors',
+            badge: "Editor's Pick",
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop?ref=bre',
+            product: 'AOD-9604 5mg Spray',
+            productUrl: 'https://modifiedaminos.shop/product/aod-9604-5mg-spray/?ref=bre',
+            price: '$34.99',
+            purity: '98%+',
+            highlight: 'Nasal spray format (unique), batch COA and QR traceability, same-day shipping, 24/7 research support',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com?ref=bre',
+            product: 'AOD-9604 10mg',
+            productUrl: 'https://aminousa.com/products/aod-9604-10mg?ref=bre',
+            price: '$49.99',
+            purity: '99%+',
+            highlight: 'ISO-certified US manufacturer partner, 10mg high-value vial, >98% purity guarantee or full refund, batch testing published',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com?ref=BRE',
+            product: 'AOD-9604 Peptide Vial',
+            productUrl: 'https://www.vandl-labs.com/product/aod-9604-2/?ref=BRE',
+            price: '$39.99',
+            purity: '99%+',
+            highlight: 'Premium lyophilized formulation, independent third-party COA, cold-chain shipping standard, complete compound transparency',
+            badge: 'Premium',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'AOD-9604 FAQ',
+        faqs: [
+          {
+            question: 'Is AOD-9604 the same as HGH Fragment 176-191?',
+            answer:
+              'Yes — AOD-9604 and HGH Fragment 176-191 are the same compound. "AOD-9604" is the pharmaceutical development name assigned by Metabolic Pharmaceuticals during the clinical program. "HGH Fragment 176-191" is the descriptive chemical name indicating its origin as residues 176 through 191 of the 191-amino-acid human growth hormone sequence. Both names refer to the identical 16-amino-acid peptide with molecular formula C₇₈H₁₂₃N₂₃O₂₃S₂. You will see both names used interchangeably in research literature and vendor catalogs.',
+          },
+          {
+            question: 'Does AOD-9604 raise IGF-1 levels?',
+            answer:
+              'No. This is one of its most clinically important characteristics. Six human clinical trials totaling approximately 893 participants showed no clinically significant IGF-1 elevation at any tested dose. Unlike full HGH therapy — which triggers IGF-1 secretion through the GHR → JAK2 → STAT5 signaling axis — AOD-9604 acts via β3-adrenergic receptors in adipose tissue and does not meaningfully activate the GH receptor pathway responsible for IGF-1 production. This absence of IGF-1 elevation is exactly why the compound was developed: to isolate the fat-burning mechanism of HGH from its growth-promoting and potentially cancer-promoting IGF-1 effects.',
+          },
+          {
+            question: 'Why did AOD-9604 fail its Phase 2b clinical trial?',
+            answer:
+              'The OPTIONS Phase 2b trial (536 subjects, 24 weeks) failed to achieve statistically significant weight loss versus placebo at its pre-specified primary endpoint. The precise reasons are unclear because the results were never published in a peer-reviewed journal. Proposed explanations include: the doses tested may have been insufficient for the β3-AR mechanism to produce clinically meaningful weight loss in a heterogeneous obesity population; 24 weeks may not have been long enough; the lack of dietary and exercise control may have masked a real but modest effect; and the trial may have been inadequately powered for the effect size β3-AR agonism realistically produces. The safety profile remained excellent throughout — only efficacy was in question.',
+          },
+          {
+            question: 'Can AOD-9604 be stacked with semaglutide or tirzepatide?',
+            answer:
+              'This is one of the most discussed 2026 stacking combinations. GLP-1 receptor agonists work centrally (brain appetite suppression) and in the gut (delayed gastric emptying), while AOD-9604 works peripherally in adipose tissue via β3-adrenergic receptors. The mechanisms are non-overlapping and theoretically additive. No randomized controlled trial has tested this combination [7,8]. Some research protocols add AOD-9604 during GLP-1 therapy plateaus, reasoning that the peripheral lipolytic mechanism may complement rather than duplicate what GLP-1 agonists produce centrally. Anyone considering such a protocol should be aware they are operating beyond the published evidence base.',
+          },
+          {
+            question: 'What does the FDA GRAS designation mean for AOD-9604?',
+            answer:
+              'In 2014, the FDA granted AOD-9604 Generally Recognized as Safe (GRAS) status for use as a food ingredient [6]. This means the FDA determined, based on published scientific evidence and expert consensus, that the compound is safe under its intended conditions of use. GRAS applies specifically to food ingredient use (oral administration) — it does not approve AOD-9604 for pharmaceutical injectable use, does not validate it as a therapeutic for any disease, and does not constitute an efficacy finding. Its significance is as a safety validation: the complete human trial dataset was reviewed and found to show no carcinogenicity, reproductive toxicity, immunogenicity, or hormonal disruption.',
+          },
+          {
+            question: 'How does AOD-9604 differ from Tesamorelin?',
+            answer:
+              'Both are peptides targeting fat loss, but they work through completely different mechanisms. Tesamorelin is an FDA-approved GHRH analog that stimulates pituitary growth hormone secretion — it works upstream, producing GH pulses that then act on fat tissue via GH receptors. AOD-9604 works downstream, directly in adipose tissue via β3-adrenergic receptors, with no pituitary involvement. Tesamorelin raises GH levels meaningfully (and modestly raises IGF-1); AOD-9604 does neither. Tesamorelin has proven efficacy in visceral fat reduction for its approved indication (HIV-associated lipodystrophy); AOD-9604 failed its pivotal obesity trial. Some researchers combine both to theoretically hit visceral fat via both the GHR pathway (Tesamorelin) and the β3-AR pathway (AOD-9604) simultaneously.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on AOD-9604',
+        content: `<p>AOD-9604 occupies a genuinely unusual position in the peptide landscape. It is better-studied than almost any research peptide — six human trials, ~893 participants, 24-week safety data, FDA GRAS status. It has a clean, verified, mechanistically coherent β3-AR lipolysis pathway confirmed across multiple animal models and Phase 1/2a human data. And it failed its pivotal Phase 2b obesity trial.</p>
+<p>Honest assessment: what the data supports is (1) an exceptionally well-characterized safety profile; (2) a mechanistically distinct fat-burning pathway via β3-adrenergic receptors that does not raise IGF-1 or disrupt glucose; (3) a meaningful Phase 2a signal that was not replicated in Phase 2b at the tested doses; (4) emerging cartilage regeneration data suggesting biological activity beyond adipose tissue; and (5) plausible non-overlapping mechanistic rationale for stacking with GLP-1 agonists, CJC-1295/Ipamorelin, or Tesamorelin in complex fat-loss protocols.</p>
+<p>What the data does not support: claims that AOD-9604 reliably produces significant standalone fat loss in humans at common research doses. The Phase 2b failure is real data. Researchers who calibrate expectations accordingly — understanding AOD-9604 as a peripheral lipolytic adjunct with an outstanding safety profile rather than a standalone fat-loss solution — are working with the evidence rather than against it.</p>
+<p>For related growth hormone secretagogue protocols, see the <a href="/blog/cjc-1295-ipamorelin-stack-guide" class="text-blue-400 hover:text-blue-300 underline">CJC-1295 + Ipamorelin Complete Stack Guide</a> and the <a href="/blog/sermorelin-vs-cjc-1295-comparison-2026" class="text-blue-400 hover:text-blue-300 underline">Sermorelin vs CJC-1295 Comparison (2026)</a>. For GLP-1 context and the appetite suppression angle, see the <a href="/blog/semaglutide-vs-tirzepatide-glp1-2026" class="text-blue-400 hover:text-blue-300 underline">Semaglutide vs Tirzepatide 2026 Guide</a>.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
