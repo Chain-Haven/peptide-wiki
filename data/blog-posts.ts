@@ -9670,6 +9670,392 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
       },
     ],
   },
+  {
+    slug: '5-amino-1mq-nnmt-inhibitor-fat-loss-guide',
+    title: '5-Amino-1MQ: The NNMT Inhibitor Turning Fat Cells Into Metabolic Engines',
+    excerpt:
+      'Before GLP-1 agonists dominated obesity research, scientists were quietly hunting a different target: an enzyme called NNMT that essentially taxes your cells\' energy metabolism. 5-Amino-1MQ — a small molecule NNMT inhibitor — has produced some of the most mechanistically interesting fat loss data in recent preclinical science, shrinking fat mass without touching food intake. Here\'s what the research actually shows.',
+    publishedAt: '2026-06-23',
+    updatedAt: '2026-06-23',
+    author: 'PeptideWiki Research Team',
+    readingTime: 11,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      '5-Amino-1MQ',
+      'NNMT Inhibitor',
+      'Fat Loss',
+      'NAD+',
+      'Metabolic Health',
+      'Obesity Research',
+      'Longevity',
+      'SAM Cycle',
+      'Adipose Tissue',
+      'Research Compounds',
+      'Insulin Resistance',
+      'Fatty Liver',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_170614_829a1f21-0554-4f0e-b6c4-1c13e3b2a1c5.png',
+    heroImageAlt:
+      '5-Amino-1MQ molecular structure glowing teal with NAD+ energy pathway visualization in dark lab environment — NNMT inhibitor metabolic research',
+    metaTitle: '5-Amino-1MQ: NNMT Inhibitor Guide 2026 — Fat Loss, NAD+ & Metabolic Research',
+    metaDescription:
+      'The complete 2026 research guide to 5-Amino-1MQ, the NNMT inhibitor shown in preclinical studies to reduce fat mass by 72%, improve insulin sensitivity, and reverse hepatic steatosis — without suppressing appetite.',
+    keywords: [
+      '5-amino-1MQ',
+      'NNMT inhibitor',
+      '5-amino-1MQ fat loss',
+      'NNMT obesity research',
+      'nicotinamide N-methyltransferase inhibitor',
+      'NAD+ metabolism research',
+      '5-amino-1MQ research guide 2026',
+      'NNMT and adipose tissue',
+      '5-amino-1MQ vs semaglutide',
+      'metabolic research peptides',
+      'NAD+ longevity research',
+      'best compounds for fat loss research 2026',
+      'NNMT insulin resistance',
+      '5-amino-1MQ mechanism of action',
+      '5-amino-1MQ preclinical data',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/5-amino-1mq-nnmt-inhibitor-fat-loss-guide',
+    relatedPeptides: ['nad-plus', 'ghk-cu', 'mots-c', 'igf-1-lr3'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: '5-amino-1MQ NNMT inhibitor',
+      secondaryKeywords: [
+        '5-amino-1MQ fat loss research',
+        'NNMT obesity preclinical',
+        'NAD+ metabolism adipocyte',
+        '5-amino-1MQ 2026 guide',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Babula JJ, Bui D, Stevenson HL, Watowich SJ, Neelakantan H',
+        title: 'Nicotinamide N-methyltransferase inhibition mitigates obesity-related metabolic dysfunction',
+        journal: 'Diabetes, Obesity and Metabolism',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39161060/',
+        doi: '10.1111/dom.15879',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Liu JR, Deng ZH, Zhu XJ, Zeng YR, Guan XX, Li JH',
+        title: 'Roles of Nicotinamide N-Methyltransferase in Obesity and Type 2 Diabetes',
+        journal: 'BioMed Research International',
+        year: 2021,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8337113/',
+        doi: '10.1155/2021/9924314',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Neelakantan H, Vance V, Wetzel MD, et al.',
+        title: 'Selective and membrane-permeable small molecule inhibitors of nicotinamide N-methyltransferase reverse high fat diet-induced obesity in mice',
+        journal: 'Biochemical Pharmacology',
+        year: 2018,
+        url: 'https://doi.org/10.1016/j.bcp.2017.11.007',
+        doi: '10.1016/j.bcp.2017.11.007',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Kraus D, Yang Q, Kong D, et al.',
+        title: 'Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity',
+        journal: 'Nature',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24476885/',
+        doi: '10.1038/nature12917',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'Pissios P',
+        title: 'Nicotinamide N-Methyltransferase: More Than a Vitamin B3 Clearance Enzyme',
+        journal: 'Trends in Endocrinology & Metabolism',
+        year: 2017,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/27593568/',
+        doi: '10.1016/j.tem.2016.08.004',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'ClinicalTrials.gov',
+        title: 'Search: NNMT Inhibitor — Clinical Trial Registry (no completed human trials as of June 2026)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/search?term=NNMT+inhibitor',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>The obesity research landscape of the past five years has been dominated by a single acronym: GLP-1. Semaglutide, tirzepatide, retatrutide — the incretin class has captured headlines, reimbursement budgets, and the collective imagination of endocrinology. But while the GLP-1 story plays out in clinic, a quieter revolution has been gathering evidence in the basic science labs.</p>
+<p>The target is an enzyme called <strong>nicotinamide N-methyltransferase (NNMT)</strong>. The compound is <strong>5-Amino-1MQ</strong> (5-amino-1-methylquinolinium). And the mechanism — shutting off a cellular drain on NAD+ availability and methyl group homeostasis — is unlike anything in the GLP-1 playbook. Instead of signaling the brain to eat less, NNMT inhibition appears to rewire fat cell metabolism at the enzymatic level, producing significant fat loss in animal models without touching food intake at all.</p>
+<p>This guide covers what NNMT actually does, how 5-Amino-1MQ blocks it, what the preclinical data shows across body composition, insulin sensitivity, liver health, and metabolic markers — and where the research currently stands, including why no human clinical trials have been published yet as of mid-2026.</p>`,
+      },
+      {
+        id: 'what-is-nnmt',
+        type: 'h2',
+        heading: 'What Is NNMT? The Metabolic Enzyme Silently Taxing Your Fat Cells',
+        content: `<p>NNMT stands for nicotinamide N-methyltransferase — a cytosolic enzyme that catalyzes the transfer of a methyl group from <strong>S-adenosylmethionine (SAM)</strong> to nicotinamide, producing <strong>N1-methylnicotinamide (MNA)</strong> and S-adenosylhomocysteine (SAH). In plain English: it takes a valuable methyl donor and uses it to methylate a vitamin B3 metabolite, which then gets excreted in the urine. From a cellular energy perspective, this is a wasteful, unproductive reaction.</p>
+<p>Why does it matter? Two interlocking reasons:</p>
+<ul>
+  <li><strong>It drains NAD+ precursors.</strong> Nicotinamide is a direct precursor to NAD+, the central coenzyme in cellular energy metabolism. When NNMT methylates nicotinamide and funnels it toward MNA excretion, less nicotinamide enters the NAD+ salvage pathway via NAMPT. Lower NAD+ means reduced sirtuin (particularly SIRT1) activity — and sirtuins are key regulators of fat oxidation, mitochondrial biogenesis, and insulin sensitivity. <sup>[2,5]</sup></li>
+  <li><strong>It depletes the SAM methyl pool.</strong> SAM is the cell's universal methyl donor — used for DNA methylation, histone modification, and over 200 methyltransferase reactions. NNMT's excessive consumption of SAM in obese white adipose tissue creates a "methyl sink" that disrupts epigenetic gene regulation, potentially silencing metabolically favorable gene expression programs. <sup>[4]</sup></li>
+</ul>
+<p>The pivotal discovery came in 2014, when Kraus et al. published in <em>Nature</em> showing NNMT expression was dramatically elevated in white adipose tissue (WAT) of obese mice and humans — and that genetic NNMT knockdown protected mice against high-fat diet-induced obesity. Fat mass in knockdown animals fell by up to <strong>47% compared to controls</strong>. The mechanism wasn't appetite suppression — food intake was completely unchanged. The animals were simply burning more fat at rest. <sup>[4]</sup></p>
+<p>This single finding launched a search for pharmacological NNMT inhibitors — small molecules that could replicate the genetic result without genetic manipulation. 5-Amino-1MQ is the most studied candidate to emerge from that search.</p>`,
+      },
+      {
+        id: 'mechanism-section',
+        type: 'h2',
+        heading: 'How 5-Amino-1MQ Works: The Selective Methylation Block',
+        content: `<p>5-Amino-1MQ (systematic name: 5-amino-1-methylquinolinium iodide) is a quinolinium-based small molecule developed by Neelakantan, Watowich, and colleagues at the University of Texas Medical Branch. <sup>[3]</sup> Its structure is derived from nicotinamide — the same metabolite NNMT acts on — making it a competitive substrate mimic that occupies the enzyme's active site without being productively methylated.</p>
+<p>What distinguishes 5-Amino-1MQ is its <strong>selectivity profile</strong>. At research concentrations, it does not meaningfully inhibit:</p>
+<ul>
+  <li>Other SAM-dependent methyltransferases (DNMT1, PRMT5, COMT)</li>
+  <li>Enzymes in the NAD+ de novo synthesis pathway</li>
+  <li>NAMPT, the rate-limiting enzyme in the nicotinamide salvage pathway</li>
+</ul>
+<p>This selectivity matters enormously. A non-selective SAM-pathway inhibitor could disrupt DNA methylation or histone modification — creating toxicity unrelated to the intended NNMT target. The preclinical evidence suggests 5-Amino-1MQ avoids that off-target landscape. <sup>[3]</sup></p>
+<p>The downstream metabolic cascade flows logically from the mechanism:</p>
+<ol>
+  <li>NNMT blocked → nicotinamide redirected to NAD+ salvage pathway</li>
+  <li>More nicotinamide → higher intracellular NAD+ (~40% increase in cell culture)</li>
+  <li>Higher NAD+ → activated SIRT1 → enhanced lipid oxidation, suppressed lipogenesis</li>
+  <li>Preserved SAM pool → restored methyl group availability for epigenetic regulation</li>
+  <li>Net result: adipocytes shift intrinsically from fat storage toward fat oxidation</li>
+</ol>
+<p>Critically, this metabolic shift happens at the <em>cellular and enzymatic level</em> — not through CNS appetite suppression or gastric emptying delay. The fat burning is intrinsic to the fat cell itself.</p>`,
+      },
+      {
+        id: 'pathway-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_170650_6d670dc6-6448-47fc-9565-527943865e0e.png',
+          alt: 'Adipocyte cross-section showing NNMT pathway with NAD+ energy molecules glowing gold — 5-amino-1MQ mechanism of action in fat cell metabolism',
+          caption: 'NNMT sits at a critical metabolic junction: by consuming nicotinamide and SAM, it limits both NAD+ availability for energy oxidation and methyl-group availability for gene regulation. 5-Amino-1MQ blocks this drain, redirecting metabolites toward fat burning rather than urinary excretion.',
+        },
+      },
+      {
+        id: 'research-data',
+        type: 'h2',
+        heading: 'What the Preclinical Research Actually Shows: Numbers From the Studies',
+        content: `<p>The animal model data on 5-Amino-1MQ spans several independent research groups across more than six years of investigation. Here is the evidence hierarchy as it stands in mid-2026:</p>
+<p><strong>Foundational genetics (Kraus et al., Nature, 2014):</strong> <sup>[4]</sup> NNMT knockdown in mice produced up to 47% reduction in fat mass versus controls on identical high-fat diets. No change in food intake. Adipocytes showed increased oxygen consumption, elevated SIRT1 activity, and suppressed lipogenesis gene expression.</p>
+<p><strong>First pharmacological inhibition (Neelakantan et al., Biochem Pharmacol, 2018):</strong> <sup>[3]</sup> Demonstrated that 5-Amino-1MQ could replicate the genetic knockdown finding in diet-induced obese (DIO) mice — reduced white adipose mass and smaller adipocyte size without appetite suppression.</p>
+<p><strong>Most detailed characterization (Babula et al., Diabetes, Obesity & Metabolism, 2024):</strong> <sup>[1]</sup> A 28-day DIO mouse study. High-dose group (32 mg/kg/day SC) results:</p>
+<ul>
+  <li><strong>Body weight gain: 0.9g vs. 5.4g in controls</strong> — 83% reduction in weight accumulation</li>
+  <li><strong>Fat mass gain: 1.3g vs. 4.7g in controls</strong> — 72% reduction in fat accumulation</li>
+  <li>Zero alteration to food intake; lean mass fully preserved</li>
+  <li>Fed-state plasma insulin: +112% in controls vs. −9% in high-dose group</li>
+  <li>Significantly improved oral glucose tolerance at 15–30 minutes post-challenge</li>
+  <li>Liver weight reduced from 2.1g to 1.4g (34% reduction)</li>
+  <li>Hepatic microvesicular steatosis: <strong>73% reduction</strong></li>
+  <li>Monocyte count: 50% decrease (systemic anti-inflammatory signal)</li>
+  <li>ALT and AST: dose-dependent normalization</li>
+  <li>Serum ketone bodies: significant decrease (p &lt; 0.0001)</li>
+</ul>
+<p>Oral bioavailability in mice was only 3.5% — SC administration is necessary in rodent models. Whether this limitation translates to humans is unknown. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'weight-reduction-chart',
+        type: 'chart',
+        heading: 'Preclinical Fat Accumulation: 5-Amino-1MQ vs. Control (28-Day DIO Model)',
+        chartData: {
+          title: 'Fat Mass & Weight Gain Over 28 Days: High-Dose 5-Amino-1MQ vs. Vehicle Control (Babula et al., 2024)',
+          type: 'bar',
+          labels: ['Body Weight Gain (g)', 'Fat Mass Gain (g)', 'Liver Weight (g)', 'Microvesicular Steatosis (relative %)'],
+          datasets: [
+            {
+              label: 'Vehicle Control (DIO mice)',
+              values: [5.4, 4.7, 2.1, 100],
+              color: '#ef4444',
+            },
+            {
+              label: '5-Amino-1MQ High Dose (32 mg/kg/day SC)',
+              values: [0.9, 1.3, 1.4, 27],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Measured Value',
+          note: 'Source: Babula JJ et al., Diabetes, Obesity and Metabolism, 2024 (DOI: 10.1111/dom.15879). Diet-induced obese (DIO) mouse model, 28-day treatment. Steatosis plotted as relative score (control = 100%). Food intake unchanged in both groups. All data from animal models — no human data exists.',
+        },
+      },
+      {
+        id: 'mouse-comparison-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260623_170718_20739159-e8b0-43ab-963d-57177a7c6c45.png',
+          alt: 'Preclinical model visualization: metabolic comparison with NAD+ energy pathway shown between treated and untreated obese models — 5-amino-1MQ research outcome illustration',
+          caption: 'Animal model data on NNMT inhibition consistently show reduced adiposity without appetite suppression — a mechanistically distinct profile from every approved anti-obesity medication.',
+        },
+      },
+      {
+        id: 'liver-section',
+        type: 'h2',
+        heading: 'The Liver Connection: NNMT Inhibition and Metabolic-Associated Steatotic Liver Disease',
+        content: `<p>One of the most compelling findings in the 5-Amino-1MQ literature is its hepatic effect. NNMT is highly expressed in the liver as well as adipose tissue, and in obese states, hepatic NNMT overexpression contributes to lipid accumulation and the histological cascade that defines NAFLD/MASLD.</p>
+<p>The Babula et al. 2024 study documented striking liver findings alongside the fat loss data: <sup>[1]</sup></p>
+<ul>
+  <li><strong>73% reduction in microvesicular steatosis</strong></li>
+  <li>Significant reductions in lobular inflammation and hepatocellular ballooning</li>
+  <li>Substantial reduction in liver triglycerides</li>
+  <li>ALT and AST normalized dose-dependently</li>
+  <li>Marked decrease in serum ketone bodies (p &lt; 0.0001)</li>
+</ul>
+<p>The mechanistic logic: NNMT inhibition boosts SIRT1 activity in hepatocytes, activating PGC-1α — the master regulator of mitochondrial biogenesis. This shifts hepatic metabolism toward oxidative phosphorylation and away from de novo lipogenesis. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'studies-comparison-table',
+        type: 'table',
+        heading: 'Key Preclinical Studies: NNMT Knockdown and 5-Amino-1MQ in Obesity Models',
+        tableData: {
+          headers: ['Study (Year)', 'Model', 'Intervention', 'Fat/Weight Finding', 'Food Intake', 'Key Additional Finding'],
+          rows: [
+            ['Kraus et al., Nature (2014)', 'HFD mice — genetic NNMT knockdown', 'NNMT siRNA / knockout', 'Fat mass −47% vs controls', 'Unchanged', 'Increased adipocyte O₂ consumption; elevated SIRT1; epigenetic shift'],
+            ['Neelakantan et al., Biochem Pharmacol (2018)', 'Diet-induced obese mice', '5-Amino-1MQ SC', 'Significant WAT reduction; smaller adipocyte size', 'Unchanged', 'Proof-of-concept: pharmacological NNMT inhibition replicates genetic knockdown'],
+            ['Babula et al., Diabetes Obes Metab (2024)', 'DIO mice — 28-day study', '5-Amino-1MQ 32 mg/kg/day SC', 'Weight gain 0.9g vs 5.4g (−83%); Fat 1.3g vs 4.7g (−72%)', 'Unchanged', '73% steatosis reduction; ALT/AST normalized; insulin resistance reversed'],
+          ],
+        },
+      },
+      {
+        id: 'vs-glp1',
+        type: 'h2',
+        heading: '5-Amino-1MQ vs. GLP-1 Agonists: Different Mechanisms, Different Evidence Tiers',
+        content: `<p>Understanding 5-Amino-1MQ requires being clear about what it isn't. It's not an incretin. It doesn't slow gastric emptying. It doesn't signal the hypothalamus to reduce appetite. It doesn't carry GLP-1's cardiovascular outcome data from SELECT or LEADER. And it isn't FDA-approved for anything. <sup>[6]</sup></p>
+<p>What 5-Amino-1MQ offers — strictly in preclinical models — is cell-autonomous fat oxidation enhancement through enzymatic pathway modulation, rather than systemic hormonal signaling.</p>`,
+      },
+      {
+        id: 'mechanism-comparison-table',
+        type: 'table',
+        heading: '5-Amino-1MQ vs. GLP-1 Agonists: Side-by-Side Comparison',
+        tableData: {
+          headers: ['Property', '5-Amino-1MQ', 'GLP-1 Agonists (Semaglutide / Tirzepatide)'],
+          rows: [
+            ['Primary mechanism', 'NNMT enzyme inhibition → preserved NAD+ and SAM pools', 'Incretin receptor agonism → CNS appetite suppression + insulin secretion'],
+            ['Fat loss pathway', 'Cell-autonomous adipocyte fat oxidation (no appetite change)', 'Caloric deficit via reduced appetite; enhanced insulin response'],
+            ['Food intake effect', 'Not reduced in all preclinical models', 'Significantly reduced — primary weight loss driver in clinical trials'],
+            ['Liver protection', '73% steatosis reduction (animal, 28 days)', 'Modest, largely secondary to weight loss'],
+            ['Human clinical trials', 'None published as of June 2026', 'Multiple completed Phase 3 trials; FDA-approved'],
+            ['Regulatory status', 'Research compound only', 'FDA-approved (semaglutide, tirzepatide)'],
+          ],
+        },
+      },
+      {
+        id: 'research-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<p><strong>Research Use Only:</strong> 5-Amino-1MQ is a research compound with no published human clinical trial data as of June 2026. All efficacy and safety data cited in this article comes from in vitro cell culture or rodent obesity models. All products listed below are sold strictly for laboratory research purposes and are not intended for human or animal consumption.</p>`,
+      },
+      {
+        id: 'vendor-section',
+        type: 'vendor-cards',
+        heading: 'Research-Grade 5-Amino-1MQ and NAD+ Pathway Compounds: Current Vendor Landscape',
+        vendors: [
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: '5-Amino-1MQ Capsules (60 Capsules Per Bottle)',
+            productUrl: 'https://modifiedaminos.shop/product/5-amino-1mq-caps/',
+            price: 'Check site for current pricing',
+            purity: 'HPLC-verified, 3rd-party tested',
+            highlight: 'USA-manufactured 5-Amino-1MQ capsules produced, synthesized, tested, and shipped entirely within the mainland United States. Every batch includes batch tracking and a third-party COA from Freedom Diagnostics.',
+            badge: 'USA Made',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'NAD+ 1000mg (USA Made, 99% Pure)',
+            productUrl: 'https://peptidetech.is/products/nad-plus-1000mg-usa-made/',
+            price: 'Check site for current pricing',
+            purity: '≥99% (HPLC verified)',
+            highlight: 'High-purity NAD+ for cellular metabolism research. Since 5-Amino-1MQ works by preserving the NAD+ biosynthesis pathway, exogenous NAD+ is mechanistically complementary. GMP/WHO certified, same-day shipping.',
+            badge: 'Mechanistic Stack',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com',
+            product: 'NAD+ Spray',
+            productUrl: 'https://vandl-labs.com/product/nad/',
+            price: 'Check site for current pricing',
+            purity: '≥98% (3rd-party COA)',
+            highlight: 'VANDL\'s NAD+ Spray offers an alternative sublingual delivery format for NAD+ pathway research. Comprehensive 42-product compound catalog with COAs. Free BAC water on peptide orders over $200. EU shipping available.',
+            badge: 'Spray Format',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Peptides Collection',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98% (MS/HPLC, money-back guarantee)',
+            highlight: 'ISO-certified US manufacturer of lyophilized research peptides including GHK-Cu and NAD+ compounds for metabolic and cellular health research. Strict third-party testing with purity guarantee.',
+            badge: 'ISO Certified',
+          },
+        ],
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        heading: '5-Amino-1MQ Research: Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What does 5-Amino-1MQ stand for, and is it a peptide?',
+            answer:
+              '5-Amino-1MQ is an abbreviation for 5-amino-1-methylquinolinium iodide — a synthetic small molecule, not a peptide in the strict biochemical sense. It was developed at the University of Texas Medical Branch. It appears in research peptide catalogs because it targets NAD+ and longevity biology that overlaps significantly with peptide research.',
+          },
+          {
+            question: 'Has 5-Amino-1MQ been tested in humans?',
+            answer:
+              'As of June 2026, no published human clinical trials of 5-Amino-1MQ exist. The complete efficacy evidence base comes from in vitro cell culture systems and rodent diet-induced obesity models. No IND application or Phase I data has appeared in the public literature as of this writing.',
+          },
+          {
+            question: 'How does 5-Amino-1MQ increase NAD+ levels?',
+            answer:
+              'NNMT normally converts nicotinamide (a key NAD+ precursor) into MNA, preventing it from entering the NAD+ salvage pathway via NAMPT. When 5-Amino-1MQ inhibits NNMT, more nicotinamide becomes available for NAMPT-mediated conversion to NMN and then NAD+. Cell culture studies have shown approximately 40% increases in intracellular NAD+ following treatment.',
+          },
+          {
+            question: 'Why is oral bioavailability a concern for 5-Amino-1MQ research?',
+            answer:
+              'In mouse models, oral bioavailability of 5-Amino-1MQ is approximately 3.5% — very low. Most effective published animal studies used subcutaneous administration. Whether oral bioavailability differs in humans is unknown.',
+          },
+          {
+            question: 'What is the relationship between NNMT, SAM, and epigenetic regulation?',
+            answer:
+              'SAM (S-adenosylmethionine) is the cell\'s primary methyl donor for DNA methylation, histone methylation, and over 200 other methyltransferase reactions. NNMT consumes SAM to methylate nicotinamide. In obese states, NNMT overexpression creates a "methyl sink" that depletes the SAM pool, potentially silencing genes that maintain lean metabolic phenotypes. NNMT inhibition restores SAM availability.',
+          },
+          {
+            question: 'How does 5-Amino-1MQ compare mechanistically to semaglutide or tirzepatide?',
+            answer:
+              'GLP-1 agonists like semaglutide and tirzepatide primarily work through CNS signaling to suppress appetite — weight loss is largely secondary to eating less. 5-Amino-1MQ acts peripherally at the enzyme level within fat and liver cells, enhancing their intrinsic capacity to oxidize fat without changing food intake. These are fundamentally different pharmacological strategies and potentially complementary rather than competing.',
+          },
+        ],
+      },
+      {
+        id: 'research-outlook',
+        type: 'h2',
+        heading: 'Research Outlook: The Road From Mouse Adipocyte to Human Clinical Trial',
+        content: `<p>The preclinical data on 5-Amino-1MQ is, by the standards of early-stage metabolic research, genuinely compelling. Effect sizes are large and consistent across multiple independent laboratories. The mechanism is coherent and supported by genetic validation — the 2014 NNMT knockdown paper in <em>Nature</em> established that the target is real. <sup>[4,3]</sup></p>
+<p>What the evidence does not provide is any basis for confident human extrapolation. Critical unresolved questions include: <sup>[6]</sup></p>
+<ul>
+  <li><strong>Human pharmacokinetics:</strong> Does 5-Amino-1MQ reach therapeutic concentrations in human adipose tissue at tolerable doses given its 3.5% oral bioavailability in mice?</li>
+  <li><strong>Chronic safety:</strong> NNMT plays complex roles in cancer biology — overexpressed in some tumors and tumor-suppressive in others. Long-term inhibition requires careful oncological safety characterization.</li>
+  <li><strong>GLP-1 combination potential:</strong> Could NNMT inhibition complement semaglutide or tirzepatide through a second orthogonal metabolic mechanism? Scientifically plausible but completely unstudied.</li>
+</ul>
+<p>The NNMT inhibition field remains fundamentally preclinical as of mid-2026. For researchers in metabolic biology, adipose tissue physiology, NAD+ biology, or MASLD pathogenesis, 5-Amino-1MQ provides a well-characterized, membrane-permeable small molecule tool for dissecting NNMT-dependent metabolic pathways — with meaningful in vivo validation across multiple independent studies.</p>
+<p><em>For the current clinical standard in metabolic peptide research, see PeptideWiki's <a href="/blog/glp-1-peptide-research-guide-2026" class="text-blue-400 hover:text-blue-300 underline">GLP-1 Peptide Research Guide 2026</a>. For related NAD+ and longevity pathway research, see the <a href="/blog/epithalon-anti-aging-telomere-guide" class="text-blue-400 hover:text-blue-300 underline">Epithalon Anti-Aging Guide</a> and <a href="/blog/mots-c-peptide-guide" class="text-blue-400 hover:text-blue-300 underline">MOTS-c Research Guide</a>.</em></p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
