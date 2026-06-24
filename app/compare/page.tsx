@@ -4,8 +4,16 @@ import CompareClient from '@/components/CompareClient'
 export const revalidate = 3600
 
 export const metadata = {
-  title: 'Compare Peptides',
-  description: 'Compare peptides side-by-side to find the best option for your research goals.',
+  title: 'Compare Peptides Side-by-Side',
+  description:
+    'Compare up to 3 peptides side-by-side — dosing, half-life, prices, benefits, and side effects — to find the best option for your research goals.',
+  alternates: { canonical: '/compare' },
+  openGraph: {
+    title: 'Compare Peptides Side-by-Side — PeptideWiki',
+    description: 'Side-by-side comparison of dosing, half-life, prices, benefits, and side effects.',
+    url: '/compare',
+    type: 'website',
+  },
 }
 
 async function getPeptides() {

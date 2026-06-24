@@ -7,8 +7,16 @@ import { FlaskConical } from 'lucide-react'
 export const revalidate = 3600
 
 export const metadata = {
-  title: 'Browse Peptides',
-  description: 'Browse our comprehensive database of 40+ research peptides with detailed information on mechanisms, dosages, and research.',
+  title: 'Browse All Peptides — Database of 60+ Research Compounds',
+  description:
+    'Browse 60+ research peptides with mechanisms, dosage protocols, clinical-trial data, side effects, and live vendor price comparisons. Filter by category, research status, and vendor.',
+  alternates: { canonical: '/peptides' },
+  openGraph: {
+    title: 'Browse All Peptides — PeptideWiki',
+    description: 'Filterable database of 60+ research peptides with mechanisms, dosages, and vendor prices.',
+    url: '/peptides',
+    type: 'website',
+  },
 }
 
 async function getPeptidesData() {
@@ -35,7 +43,7 @@ async function getPeptidesData() {
 export default async function PeptidesPage({
   searchParams,
 }: {
-  searchParams: Promise<{ category?: string; status?: string; route?: string }>
+  searchParams: Promise<{ category?: string; status?: string; route?: string; search?: string }>
 }) {
   const params = await searchParams
   const { peptides, categories } = await getPeptidesData()
@@ -57,6 +65,7 @@ export default async function PeptidesPage({
         categories={categories as Category[]}
         initialCategory={params.category}
         initialStatus={params.status}
+        initialSearch={params.search}
       />
     </div>
   )
