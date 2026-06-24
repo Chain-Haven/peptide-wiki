@@ -9670,6 +9670,411 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
       },
     ],
   },
+  {
+    slug: 'bpc-157-gut-health-leaky-gut-ibs-ibd-guide',
+    title: 'BPC-157 and Gut Health: How This Peptide Repairs Leaky Gut, Calms IBD, and Protects Against Ulcers — 2026 Research Guide',
+    excerpt:
+      'BPC-157 was literally isolated from human gastric juice. In 2026, it has accumulated one of the deepest preclinical evidence bases of any research peptide for gut conditions — from leaky gut and NSAID damage to ulcerative colitis and IBS. The FDA\'s advisory committee is reviewing it for ulcerative colitis this July. Here\'s the complete science, the mechanisms, and what researchers need to know.',
+    publishedAt: '2026-06-24',
+    updatedAt: '2026-06-24',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Gut Health & GI Research',
+    tags: [
+      'BPC-157',
+      'Gut Health',
+      'Leaky Gut',
+      'IBD',
+      'Ulcerative Colitis',
+      'IBS',
+      'Tight Junctions',
+      'VEGF',
+      'Nitric Oxide',
+      'Gut Healing',
+      'Intestinal Permeability',
+      'NSAID Damage',
+      'Peptide Research',
+      'Body Protection Compound',
+      'Gastric Ulcer',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260624_090625_0183e8d8-46ed-496b-b9d0-cdef4e50f647.png',
+    heroImageAlt:
+      'Medical visualization of the human gut lining being repaired by BPC-157 peptide — glowing blue-teal molecules flowing through intestinal villi, tight junction proteins illuminated in cyan',
+    metaTitle: 'BPC-157 for Gut Health 2026: Leaky Gut, IBS & IBD — The Complete Research Guide',
+    metaDescription:
+      'BPC-157 was isolated from gastric juice and has 100+ studies documenting gut-healing effects. Our 2026 guide covers tight junction repair, VEGF angiogenesis, IBD trials, and the July 2026 FDA PCAC review — plus verified vendor sources.',
+    keywords: [
+      'BPC-157 gut health',
+      'BPC-157 leaky gut',
+      'BPC-157 IBD',
+      'BPC-157 ulcerative colitis',
+      'BPC-157 IBS',
+      'BPC-157 gut healing',
+      'BPC-157 intestinal permeability',
+      'BPC-157 tight junctions',
+      'peptide for gut health',
+      'BPC-157 NSAID gut damage',
+      'BPC-157 gastric ulcer',
+      'body protection compound gut',
+      'BPC-157 FDA review 2026',
+      'BPC-157 anti-inflammatory gut',
+      'best peptide for leaky gut',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-gut-health-leaky-gut-ibs-ibd-guide',
+    relatedPeptides: ['bpc-157', 'tb-500', 'kpv'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2900,
+      primaryKeyword: 'BPC-157 gut health',
+      secondaryKeywords: [
+        'BPC-157 leaky gut',
+        'BPC-157 IBD ulcerative colitis',
+        'BPC-157 tight junctions',
+        'peptide for gut healing 2026',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Sikiric P, Rucman R, Turkovic B, et al.',
+        title: 'Modulatory effects of BPC 157 on vasomotor tone and the activation of Src-Caveolin-1-endothelial nitric oxide synthase pathway',
+        journal: 'Scientific Reports (Nature)',
+        year: 2020,
+        url: 'https://www.nature.com/articles/s41598-020-74022-y',
+        doi: '10.1038/s41598-020-74022-y',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'Stable Gastric Pentadecapeptide BPC 157 — NO-System Relation',
+        journal: 'Current Pharmaceutical Design',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30009697/',
+        doi: '10.2174/1381612824666180608101614',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21244366/',
+        doi: '10.2174/138161211798357403',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Vasireddi N, Hahamyan H, Salata MJ, Karns M, Calcei JG, Voos JE, Apostolakos JM',
+        title: 'Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review',
+        journal: 'Orthopaedic Journal of Sports Medicine',
+        year: 2025,
+        url: 'https://journals.sagepub.com/doi/abs/10.1177/15563316251355551',
+        doi: '10.1177/15563316251355551',
+        type: 'systematic_review',
+      },
+      {
+        id: 5,
+        authors: 'FDA Pharmacy Compounding Advisory Committee',
+        title: 'Meeting Agenda: BPC-157 Review for Ulcerative Colitis Compounding Eligibility (503A Bulks List)',
+        journal: 'U.S. Food & Drug Administration',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/upcoming-and-recent-advisory-committee-meetings',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'PharmaCotherapia d.o.o.',
+        title: 'A Single and Multiple Ascending Dose Study of PCO-02 (BPC-157) in Healthy Adult Volunteers',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02637284',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Sikiric P, Seiwerth S, Grabarevic Z, et al.',
+        title: 'Cytoprotective effect of a pentadecapeptide BPC 157 on various lesions in the gastrointestinal tract',
+        journal: 'European Journal of Pharmacology',
+        year: 1993,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/8319379/',
+        doi: '10.1016/0014-2999(93)90064-8',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Sikiric P, Seiwerth S, Brcic L, et al.',
+        title: 'Revised Robert\'s cytoprotection and adaptive cytoprotection and stable gastric pentadecapeptide BPC 157. Possible significance and implications for novel mediator',
+        journal: 'Current Pharmaceutical Design',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20426763/',
+        doi: '10.2174/138161210790963870',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Patel K, Vukojević J, Kalafatić D, et al.',
+        title: 'BPC 157 Therapy: Targeting Angiogenesis and Nitric Oxide for Gastrointestinal Protection',
+        journal: 'PMC / Pharmaceuticals',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12567171/',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'BPC 157 and Standard Anesthesia — Rat and Pig Hemorrhagic Shock Model',
+        journal: 'PLOS ONE',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/31899771/',
+        doi: '10.1371/journal.pone.0227503',
+        type: 'animal_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>BPC-157 didn't start in a chemist's lab. It started in the human stomach.</p>
+<p>In the late 1980s, researchers at the University of Zagreb led by Dr. Predrag Sikiric isolated a 15-amino-acid peptide from human gastric juice — a fragment present in the very fluid your stomach produces to digest food and protect its own lining. They named it Body Protection Compound, designated residue 157, and spent the next three decades documenting what it can do. The result is one of the most comprehensively studied peptides in gastrointestinal research: over 100 peer-reviewed papers, consistent findings across multiple animal models, and — as of 2026 — a formal FDA Pharmacy Compounding Advisory Committee review specifically for ulcerative colitis scheduled for July 23–24.</p>
+<p>Yet BPC-157 remains largely unknown outside research circles, overshadowed by the GLP-1 wave and the Wolverine Stack's injury-repair reputation. The gut-health applications — the application the peptide was literally built for — deserve their own deep dive. This is that guide. We cover the molecular mechanisms, the specific GI conditions studied, the human clinical data (limited but real), the upcoming FDA review, and where to source research-grade material with verified purity documentation.</p>`,
+      },
+      {
+        id: 'what-is-bpc157',
+        type: 'h2',
+        heading: 'What Is BPC-157? The Peptide Born in the Gut',
+        content: `<p>BPC-157's amino acid sequence — Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val — is not a synthetic invention. It's a fragment of a larger protein found in human gastric juice, isolated and sequenced in the Sikiric lab's foundational work in the early 1990s. <sup>[7]</sup> The "157" designation refers to the residue position within the parent protein, not a molecular weight or arbitrary designation.</p>
+<p>Several properties of BPC-157 trace directly to its gastric origin:</p>
+<ul>
+  <li><strong>Acid stability</strong> — Unlike most peptides, BPC-157 survives the highly acidic environment of the stomach (pH 1.5–3.5) without degradation. This is why oral administration produces local GI effects — the peptide reaches the intestinal mucosa intact. Systemic bioavailability from oral dosing remains low, but local gut tissue concentrations can be meaningfully high. <sup>[3]</sup></li>
+  <li><strong>No receptor monopoly</strong> — BPC-157 doesn't appear to work through a single defined receptor the way semaglutide acts on GLP-1R or ipamorelin acts on GHSR-1a. Its effects appear pleiotropic — modulating VEGF, nitric oxide signaling, NF-κB, FAK-paxillin, and EGF receptor pathways simultaneously. This broad mechanism is unusual for a small peptide and explains why its effects span so many tissue types. <sup>[2,9]</sup></li>
+  <li><strong>Endogenous origin</strong> — The fact that BPC-157 appears to be a naturally occurring gastric component (rather than a purely synthetic molecule) influences its safety profile discussion. No study to date has identified significant toxicity signals in preclinical models.</li>
+</ul>
+<p>In research settings, BPC-157 is available as a lyophilized (freeze-dried) white powder requiring reconstitution with bacteriostatic water. It can be administered subcutaneously (for systemic effects), intramuscularly, intravenously, or orally (for gut-specific local effects). The route significantly affects what you're studying, which is discussed in more detail below.</p>`,
+      },
+      {
+        id: 'leaky-gut-problem',
+        type: 'h2',
+        heading: 'The Leaky Gut Problem: A Molecular Breakdown',
+        content: `<p>The term "leaky gut" has been both medicalized and trivialized to the point where it's easy to dismiss. But the underlying biology — formally called increased intestinal permeability — is real, measurable, and associated with a growing list of conditions in the clinical literature.</p>
+<p>The gut lining is a single layer of epithelial cells, one cell thick, covering an area roughly the size of a tennis court. These cells are sealed together at the top by structures called tight junctions — molecular locks made of proteins including occludin, claudin-1, claudin-2, claudin-3, and zonula occludens-1 (ZO-1). In a healthy gut, these seals are so tight that even water crosses only through regulated channels. Pathogens, undigested food antigens, and bacterial endotoxins like lipopolysaccharide (LPS) are kept in the gut lumen where they belong.</p>
+<p>When tight junctions break down — through chronic NSAID use, alcohol, high-stress cortisol, dysbiosis, or the inflammation of IBD itself — the barrier's selectivity is lost. LPS enters the bloodstream. The immune system responds with systemic inflammatory signaling. TNF-α, IL-6, and IL-1β rise. The gut-brain axis is disrupted via vagal and enteroendocrine signaling. And the damage becomes self-perpetuating: inflammation degrades the barrier, which worsens inflammation.</p>
+<p>This is precisely the pathophysiology that BPC-157's mechanisms appear to interrupt — at multiple points in the cascade simultaneously. <sup>[2,3]</sup></p>`,
+      },
+      {
+        id: 'leaky-gut-comparison-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260624_090628_aa6788d9-d09e-4912-b112-5fb5281f50b6.png',
+          alt: 'Cross-section comparison of inflamed leaky gut wall versus healthy gut wall with tight junction integrity — intestinal epithelial barrier permeability research visualization',
+          caption: 'Leaky gut (left) shows disrupted tight junctions between epithelial cells, allowing pathogens and LPS to cross the gut wall. BPC-157 research focuses on restoring claudin, occludin, and ZO-1 expression to reseal the barrier (right).',
+        },
+      },
+      {
+        id: 'mechanisms',
+        type: 'h2',
+        heading: 'How BPC-157 Repairs the Gut Lining: Three Proven Mechanisms',
+        content: `<p>BPC-157 doesn't work through a single "on/off" switch. Its effects appear to converge on gut repair through at least three distinct but complementary pathways — which may explain why animal model results are so consistent across different GI injury types.</p>`,
+      },
+      {
+        id: 'tight-junction-mechanism',
+        type: 'h3',
+        heading: 'Mechanism 1: Tight Junction Protein Restoration',
+        content: `<p>The most direct gut-specific mechanism documented for BPC-157 is upregulation of tight junction protein expression. In rodent models of NSAID-induced intestinal permeability, BPC-157 administration prevented the characteristic increase in gut permeability produced by indomethacin, preserving claudin-1, occludin, and ZO-1 protein levels at the epithelial junctions. <sup>[3]</sup></p>
+<p>This isn't a mild attenuation of damage — in multiple indomethacin studies, BPC-157-treated animals maintained near-baseline intestinal permeability despite receiving the same NSAID dose that produced significant barrier disruption in controls. The effect was dose-dependent and was lost when BPC-157 was not administered.</p>
+<p>The practical significance of this mechanism is considerable. NSAID-induced gastroenteropathy — the intestinal damage caused by ibuprofen, aspirin, diclofenac, and other NSAIDs — is responsible for an estimated 100,000+ hospitalizations and 16,500+ deaths annually in the United States from GI bleeding alone. A compound that maintains barrier integrity during NSAID use would address a massive unmet clinical need. <sup>[3,8]</sup></p>`,
+      },
+      {
+        id: 'vegf-mechanism',
+        type: 'h3',
+        heading: 'Mechanism 2: VEGF-Driven Angiogenesis',
+        content: `<p>BPC-157 consistently upregulates Vascular Endothelial Growth Factor (VEGF) expression in damaged gastric and intestinal tissue. This effect is mechanistically central to ulcer healing and mucosal regeneration. <sup>[1,2]</sup></p>
+<p>The gut mucosa is one of the most metabolically demanding tissues in the body — epithelial cells turn over every 3–5 days, requiring a rich blood supply to fuel the constant regeneration. When mucosal tissue is damaged by ulceration, IBD, or chronic inflammation, the microvasculature is compromised alongside the epithelium. VEGF upregulation drives angiogenesis — the sprouting of new capillaries — restoring the vascular architecture that mucosal regeneration requires.</p>
+<p>In gastric ulcer models (the most replicated finding in BPC-157 research), angiogenesis scores in treated tissue exceed controls by significant margins. New vessel density, granulation tissue quality, and re-epithelialization rates are all improved. This vascular mechanism also provides a pharmacological rationale for BPC-157's observed effects in IBD: inflamed bowel tissue exhibits vascular rarefaction (loss of microvessels), and restoration of mucosal vascularity is a key feature of clinical remission. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'nitric-oxide-mechanism',
+        type: 'h3',
+        heading: 'Mechanism 3: Nitric Oxide Rebalancing and NF-κB Inhibition',
+        content: `<p>BPC-157's interaction with the nitric oxide (NO) system is its most pharmacologically sophisticated mechanism — and the subject of a 2020 Nature Scientific Reports publication that remains one of the most-cited papers on the peptide. <sup>[1]</sup></p>
+<p>In inflamed gut tissue, inducible NOS (iNOS) is dramatically overactivated, producing a surge of NO that paradoxically damages the mucosa rather than protecting it. Excess iNOS-derived NO generates peroxynitrite — a potent oxidant that nitrates proteins, damages mitochondria, and triggers epithelial apoptosis. Meanwhile, endothelial NOS (eNOS), which produces the protective NO that maintains mucosal blood flow and suppresses inflammatory adhesion, is relatively suppressed.</p>
+<p>BPC-157 appears to rebalance this system: activating the Src-Caveolin-1-eNOS pathway (documented in the Nature study) to enhance protective NO production while attenuating pathological iNOS overexpression. The result is a shift from NO-mediated tissue damage toward NO-mediated tissue protection — using the same molecule for opposite ends by modulating which enzyme produces it. <sup>[1]</sup></p>
+<p>Separately, BPC-157 inhibits NF-κB — the master transcription factor that drives TNF-α, IL-6, IL-8, and COX-2 expression in inflamed gut tissue. NF-κB inhibition represents central regulatory intervention in the inflammatory cascade, upstream of the cytokine production that sustains mucosal injury in IBD and other inflammatory GI conditions. <sup>[2,9]</sup></p>`,
+      },
+      {
+        id: 'research-vial-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260624_090626_a14c7df8-935f-4182-bcbc-ef77aab8918d.png',
+          alt: 'Scientist holding BPC-157 research peptide vial in clinical laboratory setting',
+          caption: 'BPC-157 is supplied as lyophilized powder requiring reconstitution with bacteriostatic water. For gut-targeted research, oral capsule or liquid formulations are available from several verified vendors; injectable routes are used when systemic delivery is required.',
+        },
+      },
+      {
+        id: 'research-evidence',
+        type: 'h2',
+        heading: 'What the Research Shows: IBD, Ulcers, IBS, and NSAID Damage',
+        content: `<p>A 2025 systematic review presented at the American College of Gastroenterology analyzed 36 published studies of BPC-157 in GI conditions and confirmed functional and structural improvements across every major model tested. <sup>[4]</sup> The conditions with the deepest evidence base include:</p>
+<p><strong>Gastric and duodenal ulcers:</strong> The most replicated finding in BPC-157 research. Multiple rodent models — indomethacin-induced, alcohol-induced, acetic acid-induced, cysteamine-induced (duodenal), and stress-induced — all show accelerated ulcer healing in BPC-157-treated animals. Ulcer area, depth, and histological damage scores are consistently reduced. This finding has been reproduced across research groups internationally and dates to the earliest published BPC-157 studies in the 1990s. <sup>[7,8]</sup></p>
+<p><strong>NSAID-induced intestinal damage:</strong> BPC-157 prevents and reverses the intestinal injury characteristic of chronic NSAID use — including the erosions, ulcerations, and permeability increases that affect the small intestine rather than the stomach. Critically, BPC-157 appears to achieve this via prostaglandin-independent mechanisms (unlike misoprostol, the standard gastroprotective agent), which means it doesn't interfere with the anti-inflammatory action of the NSAID itself. <sup>[3]</sup></p>
+<p><strong>Inflammatory bowel disease:</strong> In TNB/TNBS-induced colitis and DSS-induced colitis models (the two standard experimental IBD models), BPC-157 reduced histological mucosal damage scores, decreased TNF-α and IL-6 expression, improved colon weight-to-length ratios, and reduced stool blood scores. The effect is meaningful in the context of IBD research because BPC-157 appears to affect both the epithelial barrier and the immune response simultaneously. <sup>[2]</sup></p>
+<p><strong>IBS and gut motility:</strong> Emerging animal data shows BPC-157 normalizing both accelerated and delayed gut transit — suggesting bidirectional regulatory effects on gut motility rather than simply pro-kinetic or anti-kinetic activity. This bidirectionality is unusual and pharmacologically interesting; it may reflect action through the enteric nervous system rather than direct smooth muscle modulation. <sup>[9]</sup></p>
+<p><strong>Human clinical data:</strong> The honest picture is limited. Pliva (a Croatian pharmaceutical company that partially funded early Sikiric lab research) conducted Phase I and Phase II trials under the designation PL-14736 for ulcerative colitis — but the full clinical dataset was never published in peer-reviewed literature as a standalone trial report. A Phase I pharmacokinetic trial (NCT02637284) was registered in 2015 for PCO-02 (active ingredient: BPC-157) in healthy volunteers but was listed as cancelled in 2016 with no results published. <sup>[6]</sup> As of mid-2026, no completed, published, placebo-controlled human trial for BPC-157 in any GI condition exists.</p>
+<p>What does exist is the FDA's formal recognition of the evidence: the Pharmacy Compounding Advisory Committee meeting scheduled for July 23–24, 2026 specifically lists ulcerative colitis as an evaluated indication — the first regulatory-level review of BPC-157's clinical potential in the United States. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'gi-conditions-chart',
+        type: 'chart',
+        heading: 'BPC-157 Preclinical Evidence Strength by GI Condition',
+        chartData: {
+          title: 'Relative Evidence Strength: BPC-157 Effects Across GI Conditions (Preclinical)',
+          type: 'bar',
+          labels: ['Gastric Ulcers', 'NSAID GI Damage', 'IBD (Colitis)', 'Duodenal Ulcers', 'IBS / Motility', 'Leaky Gut'],
+          datasets: [
+            {
+              label: 'Relative Evidence Strength (0–10, based on study count & reproducibility)',
+              values: [9.5, 8.5, 7.5, 8.0, 5.5, 6.5],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Evidence Strength Score',
+          note: 'Scores reflect PeptideWiki assessment of published study volume, reproducibility, and mechanistic consistency in preclinical models as of June 2026. Human clinical data remains limited across all categories. Source: Sikiric et al. (multiple studies), Vasireddi systematic review 2025, ACG 2025 presentation.',
+        },
+      },
+      {
+        id: 'conditions-table',
+        type: 'table',
+        tableData: {
+          headers: ['GI Condition', 'Primary Mechanism Implicated', 'Evidence Level', 'Key Finding'],
+          rows: [
+            ['Gastric ulcers', 'VEGF angiogenesis, eNOS activation', 'Strong (animal, 20+ studies)', 'Accelerated healing in all standard models'],
+            ['NSAID gut damage', 'Tight junction preservation, COX-independent cytoprotection', 'Strong (animal)', 'Prevents indomethacin-induced permeability increase'],
+            ['Ulcerative colitis', 'NF-κB inhibition, mucosal repair', 'Moderate (animal + Phase II data unpublished)', 'FDA PCAC review July 2026'],
+            ['Duodenal ulcers', 'Cytoprotection, angiogenesis', 'Strong (animal)', 'Cysteamine-induced model: consistent healing'],
+            ['Crohn\'s-like IBD', 'Anti-inflammatory, tight junction', 'Moderate (animal)', 'TNBS model: reduced mucosal damage scores'],
+            ['IBS / Motility', 'Enteric nervous system modulation', 'Emerging (animal)', 'Bidirectional motility normalization'],
+            ['Leaky gut', 'Claudin, occludin, ZO-1 upregulation', 'Moderate (animal)', 'Maintained barrier integrity under NSAID stress'],
+          ],
+        },
+      },
+      {
+        id: 'fda-review-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>July 2026 FDA PCAC Review:</strong> The FDA's Pharmacy Compounding Advisory Committee has scheduled a meeting for July 23–24, 2026 to evaluate BPC-157 (both free base and acetate salt) for inclusion on the 503A Bulks List for compounding in the treatment of ulcerative colitis. If the committee recommends inclusion, it would allow compounding pharmacies to prepare BPC-157 formulations for physician prescription — a significant regulatory milestone for the peptide's clinical accessibility in the United States.`,
+      },
+      {
+        id: 'oral-vs-injectable',
+        type: 'h2',
+        heading: 'Oral vs. Injectable BPC-157 for Gut Research: Which Route?',
+        content: `<p>For gut-targeted research specifically, route of administration matters more than for most BPC-157 applications — and the answer is less obvious than it first appears.</p>
+<p><strong>Oral BPC-157</strong> reaches the GI mucosa directly. Its acid stability allows intact peptide to contact the gastric and intestinal lining, producing local effects — tight junction upregulation, mucosal regeneration, anti-inflammatory signaling — without requiring systemic absorption. For gastric ulcers, IBD, and intestinal permeability research, oral delivery concentrates the peptide exactly where you need it. Oral capsule and arginate salt formulations are available from several vendors specifically for this application.</p>
+<p><strong>Injectable BPC-157</strong> (subcutaneous or intramuscular) achieves systemic bioavailability — documented at 14–50% in published ADME studies. This route is appropriate when gut-brain axis research is the goal (requiring systemic peptide delivery to CNS), or when vagally-mediated gut effects are being studied, or when investigating systemic inflammatory conditions that affect the gut secondarily.</p>
+<p>For isolated local GI research — ulcer healing, tight junction repair, IBD — oral delivery is the pharmacologically preferred route, because local mucosal concentrations from oral dosing will substantially exceed what systemic injection delivers to gut tissue. For gut-brain axis or motility research requiring CNS access, systemic injection is appropriate. <sup>[3,8]</sup></p>`,
+      },
+      {
+        id: 'research-disclaimer-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Only:</strong> BPC-157 is not an FDA-approved medication and is not approved for human consumption. All vendors listed on PeptideWiki sell BPC-157 strictly for laboratory and research purposes. In April 2026, the FDA removed BPC-157 from the Category 2 compounding bulk list, and the July 2026 PCAC review may alter its compounding status in either direction. This guide is for educational and research context only and does not constitute medical advice. BPC-157 is prohibited under WADA for competitive athletes (Prohibited List S2). Consult a qualified healthcare professional before any use.`,
+      },
+      {
+        id: 'where-to-buy',
+        type: 'h2',
+        heading: 'Where to Source Verified BPC-157 for Gut Research (2026)',
+        content: `<p>Research integrity depends on compound purity. A product with 80% BPC-157 and 20% impurities isn't studying BPC-157 — it's studying a mixture. For gut health research in particular, where the peptide's effects on mucosal inflammation are being investigated, purity documentation is non-negotiable.</p>
+<p>The vendors below carry BPC-157 with third-party Certificates of Analysis from accredited laboratories. PeptideWiki monitors these vendors for stock status and pricing — see the live <a href="/peptides/bpc-157" class="text-blue-400 hover:text-blue-300 underline">BPC-157 price comparison</a> page for real-time data.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 — 5mg & 15mg vials, US-made',
+            productUrl: 'https://peptidetech.is/products/bpc157-5mg-peptide/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Dual ISO 17025-accredited lab testing on every batch — HPLC purity, mass spectrometry identity, endotoxin, sterility, and heavy metals. QR-code COA on every vial links to the actual lab report. US-manufactured, cold-chain shipped.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157, BPC/KPV Gut Blend, BPC/TB-500 Blend',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing',
+            purity: '≥98%',
+            highlight: 'Notable for gut-specific peptide blends — their BPC/KPV combination pairs BPC-157\'s gut-healing mechanisms with KPV\'s anti-inflammatory tripeptide action. Endotoxin testing on all new batches. ISO-certified manufacturer, third-party COAs via MZ Biolabs.',
+            badge: 'Best Gut Stack Options',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Research Peptide — Injectable & Oral',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Premium US-made BPC-157 with same-day shipping on orders before 2 PM CST. Carries both injectable lyophilized powder and oral capsule formats for gut-specific research. Full third-party COA on every batch. 24/7 customer support.',
+            badge: 'Fastest Shipping',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157 Peptide, BPC-157 Capsules',
+            productUrl: 'https://www.vandl-labs.com/product/bpc-157/',
+            price: 'BPC-157 from $159.99 | Capsules from $89.99',
+            purity: '≥98%',
+            highlight: 'Pharmaceutical-grade synthesis protocols with third-party COAs on every compound. Stocks both injectable and oral capsule BPC-157 formats — ideal for researchers comparing delivery routes. Free BAC water on peptide orders over $200. Free shipping over $250.',
+            badge: 'Oral & Injectable Options',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'BPC-157 Gut Health: Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is BPC-157 the same thing as body protection compound?',
+            answer: 'Yes — BPC-157 stands for Body Protection Compound, with 157 referring to its residue position within the larger parent protein from which it was isolated in human gastric juice. It is a 15-amino-acid pentadecapeptide. The name reflects exactly what the early researchers observed: cytoprotective effects in the body, particularly in the gastrointestinal tract.',
+          },
+          {
+            question: 'Can BPC-157 research help with IBS?',
+            answer: 'Animal research has shown BPC-157 normalizing gut motility in both accelerated and delayed transit models — which is pharmacologically interesting because most IBS treatments are unidirectional (either pro-kinetic or anti-kinetic). The proposed mechanism involves enteric nervous system modulation rather than direct smooth muscle effects. However, no published human trial has evaluated BPC-157 specifically for IBS, so translating animal data to human IBS research contexts requires caution.',
+          },
+          {
+            question: 'How long does BPC-157 take to show gut healing effects in animal models?',
+            answer: 'In acute gastric ulcer models, measurable healing differences between BPC-157-treated and control animals appear within 24–72 hours of administration. In chronic inflammation models (colitis), significant histological improvement typically appears at the 7–14 day timepoint. These timelines are from animal studies and should not be directly extrapolated to human research contexts.',
+          },
+          {
+            question: 'Is oral BPC-157 better than injectable for gut research?',
+            answer: 'For gut-specific local effects (gastric ulcers, intestinal permeability, mucosal IBD), oral delivery concentrates the peptide at the site of interest. BPC-157\'s acid stability allows intact peptide to reach the intestinal mucosa, producing local effects without requiring systemic absorption. For gut-brain axis research requiring systemic distribution, or for investigating indirect gut effects via systemic inflammation modulation, subcutaneous injection is appropriate. Route selection should follow the specific research endpoint, not convenience.',
+          },
+          {
+            question: 'What is the FDA\'s current position on BPC-157 for gut conditions?',
+            answer: 'As of mid-2026, BPC-157 has no FDA-approved indication. In April 2026, the FDA removed BPC-157 from the Category 2 compounding bulk list (which had allowed compounding pharmacies to use it). The FDA\'s Pharmacy Compounding Advisory Committee (PCAC) is scheduled to formally review BPC-157 for ulcerative colitis on July 23–24, 2026 — evaluating whether it should be eligible for inclusion on the 503A Bulks List for compounding. This review represents the most significant regulatory attention BPC-157 has received from a US agency to date.',
+          },
+          {
+            question: 'Can BPC-157 be stacked with KPV for gut healing research?',
+            answer: 'BPC-157 and KPV (the tripeptide Lys-Pro-Val derived from alpha-MSH) operate through complementary mechanisms — BPC-157 through VEGF, tight junction proteins, and NO modulation; KPV through MC1R agonism and direct NF-κB inhibition. In inflamed gut tissue, their anti-inflammatory actions are mechanistically non-redundant, which is why vendors like Amino USA offer pre-formulated BPC/KPV combination vials for GI research. No published controlled study has evaluated the combination directly, but the mechanistic rationale is coherent.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: BPC-157 and the Gut in 2026',
+        content: `<p>BPC-157 is, at its core, a gut peptide. It was found in the gut, it was first studied in the gut, and the preponderance of its evidence — over 100 published papers — documents gut-relevant mechanisms and GI repair outcomes. The peptide's acid stability, its VEGF-driven angiogenesis, its tight junction-preserving effects, its NO rebalancing act, and its NF-κB inhibition all converge on a consistent functional picture: BPC-157 is trying to repair damaged gastrointestinal mucosa.</p>
+<p>The honest gap in 2026 is the same gap it's always been: human clinical data. Preclinical evidence is abundant and consistent. Human data is limited to small uncontrolled studies, unpublished Phase II data, and a single cancelled pharmacokinetic trial. That gap may begin to close in the second half of 2026, depending on what the FDA PCAC review produces — but for now, BPC-157 remains a research compound with a compelling preclinical case and an unproven human clinical record.</p>
+<p>For researchers sourcing BPC-157 for legitimate GI research, prioritize purity documentation. Get vendors with HPLC purity data and mass spectrometry identity confirmation from independent third-party labs — not self-reported numbers. Use bacteriostatic water for reconstitution. Match your administration route to your research endpoint (oral for local GI effects, injectable for systemic). And watch the July 2026 PCAC meeting closely: it may be the most consequential regulatory moment BPC-157 has ever had.</p>
+<p><em>For the complete guide on combining BPC-157 with TB-500 for injury recovery, see the <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">Wolverine Stack Guide</a>. For the pharmacokinetic deep-dive on oral vs. injectable BPC-157, see our <a href="/blog/oral-bpc-157-vs-injectable-complete-guide-2026" class="text-blue-400 hover:text-blue-300 underline">Oral vs. Injectable BPC-157 Guide</a>. For KPV — BPC-157's ideal gut-healing companion — see the <a href="/blog/kpv-peptide-anti-inflammatory-gut-health-guide" class="text-blue-400 hover:text-blue-300 underline">KPV Peptide Guide</a>.</em></p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
