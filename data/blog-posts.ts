@@ -11142,22 +11142,22 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
         type: 'chart',
         heading: 'Visceral Fat Reduction Across Key Tesamorelin Trials',
         chartData: {
+          title: 'Visceral Fat Reduction Across Key Tesamorelin Trials',
           type: 'bar',
           labels: ['LIPO-010 (N=412)', 'CTR-1011 (N=404)', 'Pooled Analysis (N=806)', '52-Week Extension', '2026 Meta-Analysis (N=5 RCTs)'],
           datasets: [
             {
               label: 'Tesamorelin VAT Change (%)',
-              data: [-15.2, -10.9, -15.4, -17.5, -14.8],
+              values: [-15.2, -10.9, -15.4, -17.5, -14.8],
               color: '#3b82f6',
             },
             {
               label: 'Placebo VAT Change (%)',
-              data: [5.0, -0.6, 0.0, 2.1, 1.2],
+              values: [5.0, -0.6, 0.0, 2.1, 1.2],
               color: '#ef4444',
             },
           ],
-          yAxisLabel: 'VAT Change from Baseline (%)',
-          xAxisLabel: 'Study',
+          yLabel: 'VAT Change from Baseline (%)',
         },
       },
       {
