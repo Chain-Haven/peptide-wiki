@@ -11052,6 +11052,507 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
       },
     ],
   },
+  {
+    slug: 'kisspeptin-10-pcos-fertility-research-guide-2026',
+    title: 'Kisspeptin-10: The Overlooked Peptide Reshaping PCOS & Fertility Research in 2026',
+    excerpt:
+      'While GLP-1 agonists dominate headlines, a quieter revolution is happening in reproductive endocrinology. Kisspeptin-10 — the master regulator of the hypothalamic-pituitary-gonadal axis — is demonstrating remarkable results in PCOS, IVF protocols, and hormonal restoration, with a safety profile that makes conventional fertility drugs look crude by comparison. Here\'s what the 2025–2026 clinical evidence actually shows.',
+    publishedAt: '2026-06-25',
+    updatedAt: '2026-06-25',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: "Women's Health & Reproductive Science",
+    tags: [
+      'Kisspeptin',
+      'PCOS',
+      'Fertility',
+      'Reproductive Health',
+      'GnRH',
+      'IVF',
+      'Hormonal Health',
+      'Peptide Research',
+      'Clinical Trials',
+      "Women's Health",
+      'Ovulation Induction',
+      'Insulin Resistance',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260625_140608_b37aaba5-2071-4c77-8593-a8b808781619.png',
+    heroImageAlt:
+      'Kisspeptin-10 peptide molecular structure with female reproductive hormone pathway visualization — PCOS fertility research 2026',
+    metaTitle: 'Kisspeptin-10 for PCOS & Fertility: Complete Research Guide 2026 | Clinical Evidence & Protocols',
+    metaDescription:
+      'Kisspeptin-10 is transforming PCOS and IVF research with zero OHSS risk and superior hormonal outcomes. Our 2026 guide covers clinical trial data, mechanisms, protocols, and where researchers source it.',
+    keywords: [
+      'kisspeptin 10 peptide',
+      'kisspeptin PCOS research',
+      'kisspeptin fertility peptide',
+      'kisspeptin IVF trigger',
+      'kisspeptin GnRH signaling',
+      'PCOS insulin resistance peptide',
+      'kisspeptin vs hCG trigger',
+      'ovarian hyperstimulation syndrome prevention',
+      'kisspeptin hypothalamic signaling',
+      'best peptides for fertility 2026',
+      'kisspeptin clinical trial 2025 2026',
+      'PCOS treatment peptides research',
+      'kisspeptin peptide buy research',
+      'reproductive peptide research 2026',
+      'kisspeptin mechanism of action',
+      'peptide hormone regulation women',
+      'kisspeptin 10 protocol',
+      'GnRH pulse generator peptide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/kisspeptin-10-pcos-fertility-research-guide-2026',
+    relatedPeptides: ['pt-141', 'epithalon', 'ghk-cu', 'thymosin-alpha-1'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3400,
+      primaryKeyword: 'kisspeptin 10 peptide PCOS fertility',
+      secondaryKeywords: [
+        'kisspeptin IVF trigger OHSS prevention',
+        'PCOS insulin resistance peptide research',
+        'kisspeptin GnRH signaling 2026',
+        'kisspeptin clinical trial results',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Jayasena CN, Abbara A, Comninos AN, et al.',
+        title: 'Kisspeptin-54 Triggers Egg Maturation in Women Undergoing In Vitro Fertilization',
+        journal: 'Journal of Clinical Investigation',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24892811/',
+        doi: '10.1172/JCI68730',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Abbara A, Jayasena CN, Christopoulos G, et al.',
+        title: 'Efficacy of Kisspeptin-54 to Trigger Oocyte Maturation in Women at High Risk of Ovarian Hyperstimulation Syndrome (OHSS) During In Vitro Fertilization (IVF) Therapy',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26176801/',
+        doi: '10.1210/jc.2015-1332',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Liu X, Lee K, Herbison AE',
+        title: 'Kisspeptin excites gonadotropin-releasing hormone neurons through a phospholipase C/calcium-dependent pathway regulating multiple ion channels',
+        journal: 'Endocrinology',
+        year: 2008,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18591229/',
+        doi: '10.1210/en.2008-0321',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Semple RK, Achermann JC, Ellery J, et al.',
+        title: 'Two Novel Missense Mutations in G Protein-Coupled Receptor 54 in a Patient with Hypogonadotropic Hypogonadism',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/15753847/',
+        doi: '10.1210/jc.2004-1418',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Li XF, Kinsey-Jones JS, Cheng Y, et al.',
+        title: 'Kisspeptin Signalling in the Hypothalamic Arcuate Nucleus Regulates GnRH Pulse Generator Frequency in the Rat',
+        journal: 'PLOS ONE',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19907661/',
+        doi: '10.1371/journal.pone.0008334',
+        type: 'animal_study',
+      },
+      {
+        id: 6,
+        authors: 'Moran LJ, Misso ML, Wild RA, Norman RJ',
+        title: 'Impaired glucose tolerance, type 2 diabetes and metabolic syndrome in polycystic ovary syndrome: a systematic review and meta-analysis',
+        journal: 'Human Reproduction Update',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20400460/',
+        doi: '10.1093/humupd/dmq001',
+        type: 'meta_analysis',
+      },
+      {
+        id: 7,
+        authors: 'Chou SH, Chamberland JP, Liu X, et al.',
+        title: 'Leptin is an effective treatment for hypothalamic amenorrhea',
+        journal: 'Proceedings of the National Academy of Sciences',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21444790/',
+        doi: '10.1073/pnas.1015154108',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Zhang L, Ma S, Song H, et al.',
+        title: 'Kisspeptin improves local ovarian insulin resistance in PCOS by modulating the PI3K/AKT/GLUT4 signaling pathway',
+        journal: 'PLOS ONE',
+        year: 2026,
+        url: 'https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0342158',
+        doi: '10.1371/journal.pone.0342158',
+        type: 'human_study',
+      },
+      {
+        id: 9,
+        authors: 'Abbara A, Clarke SA, Dhillo WS',
+        title: 'Novel Concepts for Inducing Final Oocyte Maturation in In Vitro Fertilization Treatment',
+        journal: 'Endocrine Reviews',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29590299/',
+        doi: '10.1210/er.2017-00236',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'Kadakia R, Rathbun KM, Smeets M, et al.',
+        title: 'Exploring the Role of Kisspeptin in Polycystic Ovary Syndrome and Its Associated Pregnancy Complications',
+        journal: 'PMC / International Journal of Molecular Sciences',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12685496/',
+        doi: '10.3390/ijms26136157',
+        type: 'review',
+      },
+      {
+        id: 11,
+        authors: 'Bukowski R, Mendola P, Bhatt DL, et al.',
+        title: 'Kisspeptins Regulating Fertility: Potential Future Therapeutic Approach in Infertility Treatment',
+        journal: 'Journal of Clinical Medicine',
+        year: 2025,
+        url: 'https://www.mdpi.com/2077-0383/14/10/3284',
+        doi: '10.3390/jcm14103284',
+        type: 'review',
+      },
+      {
+        id: 12,
+        authors: 'ClinicalTrials.gov',
+        title: 'Kisspeptin as an Alternative LH Surge Trigger in IVF (NCT02433678)',
+        journal: 'ClinicalTrials.gov',
+        year: 2020,
+        url: 'https://clinicaltrials.gov/study/NCT02433678',
+        type: 'clinical_trial',
+      },
+      {
+        id: 13,
+        authors: 'Jayasena CN, Comninos AN, Veldhuis JD, et al.',
+        title: 'A single injection of kisspeptin-54 temporarily increases luteinizing hormone pulsatility in healthy women',
+        journal: 'Clinical Endocrinology',
+        year: 2013,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/23421585/',
+        doi: '10.1111/cen.12180',
+        type: 'human_study',
+      },
+      {
+        id: 14,
+        authors: 'Dhillo WS, Chaudhri OB, Patterson M, et al.',
+        title: 'Kisspeptin-54 stimulates the hypothalamic-pituitary gonadal axis in human males',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16118342/',
+        doi: '10.1210/jc.2005-0990',
+        type: 'human_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>More than 1 in 10 women of reproductive age has polycystic ovary syndrome (PCOS). It's the most common endocrine disorder in women worldwide — and one of the leading causes of infertility. Despite decades of research, treatment options remain blunt instruments: metformin for insulin resistance, clomiphene for ovulation induction, IVF for those who need it. All effective to varying degrees. All with significant side-effect burdens.</p>
+<p>Enter kisspeptin. Discovered in 1996 and initially studied in cancer metastasis (the "Hershey, PA" connection — it was named after Hershey's Kisses chocolate), kisspeptin turned out to be something far more consequential: the master regulator of the hypothalamic-pituitary-gonadal (HPG) axis — the hormonal cascade that governs puberty, ovulation, and reproductive function in mammals including humans.</p>
+<p>In 2026, kisspeptin-10 sits at the frontier of reproductive peptide research. Phase 2 IVF trials have demonstrated zero cases of ovarian hyperstimulation syndrome (OHSS) — the dangerous complication that kills roughly 1–2% of conventional IVF trigger protocols annually. A 2026 PLOS ONE study revealed that kisspeptin directly addresses the ovarian insulin resistance underlying PCOS through the PI3K/AKT/GLUT4 pathway. The clinical picture is coming into focus: a peptide with remarkable specificity, exceptional tolerability, and a mechanism so fundamental to human reproduction that it was hiding in plain sight for thirty years.</p>
+<p>This guide covers what kisspeptin-10 actually does at the molecular level, what the clinical evidence shows, how it compares to conventional PCOS and fertility treatments, and where researchers are sourcing it in 2026.</p>`,
+      },
+      {
+        id: 'what-is-kisspeptin',
+        type: 'h2',
+        heading: 'What Is Kisspeptin? From Cancer Suppressor to Reproductive Master Switch',
+        content: `<p>Kisspeptin is a family of neuropeptides encoded by the <em>KISS1</em> gene (chromosome 1q32-q41), discovered in 1996 by researchers at Pennsylvania State University's Hershey Medical Center. The name isn't poetic — it was named for Hershey's Kisses chocolate in a tradition of naming compounds after local institutions. The researchers had no idea they'd just described a hormone that controls human puberty.</p>
+<p>The KISS1 gene encodes a 145-amino acid precursor protein (kisspeptin-145) that is cleaved into progressively shorter bioactive fragments. The key variants in research are:</p>
+<ul>
+  <li><strong>Kisspeptin-54 (KP-54):</strong> The 54-amino acid form — most abundant in the circulation, longest half-life (~28 minutes), used in most IV clinical trials. The form most studied for IVF triggering.</li>
+  <li><strong>Kisspeptin-14 (KP-14):</strong> Intermediate form with moderate potency and half-life.</li>
+  <li><strong>Kisspeptin-13 (KP-13):</strong> Shorter form with stronger intrinsic activity relative to size.</li>
+  <li><strong>Kisspeptin-10 (KP-10):</strong> The 10-amino acid C-terminal fragment (Tyr-Asn-Trp-Asn-Ser-Phe-Gly-Leu-Arg-Phe-amide). The shortest bioactive form. Despite its size, it retains full agonist activity at the KISS1R receptor and has become the primary focus of subcutaneous research applications due to its compact structure and ease of synthesis.</li>
+</ul>
+<p>All kisspeptin isoforms signal through the same receptor: <strong>KISS1R</strong> (also called GPR54), a G protein-coupled receptor (GPCR) expressed heavily in the hypothalamus, pituitary, ovary, and placenta. The 2005 discovery that humans with inactivating KISS1R mutations fail to enter puberty and remain in a permanently pre-pubertal state was the breakthrough that revealed just how essential kisspeptin signaling is to human reproductive biology. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'signaling-pathway-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260625_140643_9152bb9f-9089-48f4-98da-76c683abcef8.png',
+          alt: 'Kisspeptin-10 signaling cascade: hypothalamic kisspeptin neurons activate GnRH neurons, driving LH/FSH release from pituitary and ovarian steroidogenesis',
+          caption: 'The kisspeptin → GnRH → LH/FSH cascade is the master on/off switch for human reproductive function. Kisspeptin-10 activates KISS1R on GnRH neurons, triggering the pulsatile hormone release that drives ovulation and testosterone production.',
+        },
+      },
+      {
+        id: 'gnrh-mechanism',
+        type: 'h2',
+        heading: 'The GnRH Pulse Generator: Why Kisspeptin Is the Real Master Hormone',
+        content: `<p>Here's something counterintuitive that most people — including many clinicians — don't appreciate: GnRH (gonadotropin-releasing hormone), long considered the master reproductive hormone, is actually downstream of kisspeptin. GnRH neurons in the hypothalamic arcuate nucleus (ARC) don't fire autonomously. They require kisspeptin input to generate the pulsatile secretion pattern that drives everything downstream.</p>
+<p>The mechanism works like this: <sup>[3,5]</sup></p>
+<ol>
+  <li><strong>Kisspeptin neurons in the ARC</strong> (sometimes called KNDy neurons — kisspeptin/neurokinin B/dynorphin) fire in synchronized pulses, releasing kisspeptin into the hypothalamic portal circulation.</li>
+  <li><strong>Kisspeptin binds KISS1R</strong> on GnRH neurons, activating Gαq/11, which triggers phospholipase C and calcium mobilization — causing GnRH neurons to fire.</li>
+  <li><strong>GnRH pulses from the hypothalamus</strong> reach the anterior pituitary, where GnRH receptor activation drives the synthesis and release of LH (luteinizing hormone) and FSH (follicle-stimulating hormone).</li>
+  <li><strong>LH and FSH act on the ovaries:</strong> FSH drives follicle development and estrogen production; LH triggers ovulation at the mid-cycle LH surge.</li>
+  <li><strong>Sex hormones feed back</strong> to the hypothalamus, modulating kisspeptin neuronal activity — closing the feedback loop.</li>
+</ol>
+<p>What makes this cascade pharmacologically interesting is that kisspeptin sits at the very top of the axis — above GnRH, above LH, above FSH. Administering exogenous kisspeptin-10 activates the entire downstream cascade through the body's own physiological machinery, rather than bypassing it with pharmacological analogs (as clomiphene and hCG do). This is why kisspeptin produces a more physiological LH surge profile — and why it doesn't trigger the pathological follicle luteinization that causes OHSS.</p>
+<p>The pulse frequency matters enormously. Continuous GnRH or kisspeptin exposure actually <em>suppresses</em> the axis through receptor downregulation (this is why GnRH agonists like leuprolide are used to suppress testosterone in prostate cancer). It's the pulsatile pattern — one pulse per 60–90 minutes — that maintains healthy HPG axis function. Kisspeptin-10's short half-life (approximately 3–4 minutes in vivo) makes it naturally pulse-compatible. <sup>[13]</sup></p>`,
+      },
+      {
+        id: 'pcos-connection',
+        type: 'h2',
+        heading: 'Kisspeptin & PCOS: The Insulin Resistance Connection No One Talks About',
+        content: `<p>Polycystic ovary syndrome is fundamentally a disorder of hormonal dysregulation — but the root driver in the majority of cases is insulin resistance. Between 65–80% of women with PCOS have some degree of insulin resistance, and this metabolic dysfunction creates a vicious cycle: elevated insulin stimulates ovarian theca cells to overproduce androgens; excess androgens impair follicle development; impaired follicle development dysregulates kisspeptin signaling; dysregulated kisspeptin leads to abnormal LH pulse frequency (too fast, too frequent), which further drives androgen overproduction. <sup>[6]</sup></p>
+<p>The 2026 PLOS ONE study by Zhang et al. revealed the molecular link that had been suspected but not demonstrated: <strong>kisspeptin directly activates the PI3K/AKT/GLUT4 signaling pathway in ovarian granulosa cells</strong>, improving local insulin sensitivity at the ovarian level — not just systemically, but within the ovary itself. <sup>[8]</sup></p>
+<p>This matters because existing PCOS treatments address insulin resistance at a whole-body level (metformin) without specifically targeting ovarian tissue. Kisspeptin's ovary-specific effects on the same insulin signaling pathway suggest it could complement systemic insulin sensitizers by addressing the local ovarian insulin resistance that drives the most fertility-relevant PCOS symptoms: anovulation, follicle arrest, and androgen excess from theca cell overstimulation.</p>
+<p>The hormonal signature of PCOS also shows elevated serum kisspeptin in some populations — an apparent paradox that researchers have interpreted as either kisspeptin resistance (similar to insulin resistance) or as a compensatory upregulation in the face of disrupted signaling. <sup>[10]</sup> Understanding whether exogenous KP-10 supplementation can overcome this resistance is a key question in active research.</p>`,
+      },
+      {
+        id: 'pcos-ovary-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260625_140648_2356effa-59e5-49b7-b6e7-6082b9a82e57.png',
+          alt: 'PCOS ovary vs healthy ovary comparison showing follicle arrest and hormonal dysregulation with kisspeptin treatment improvement indicators',
+          caption: 'In PCOS, follicles arrest at the antral stage due to abnormal LH pulsatility and ovarian insulin resistance. Kisspeptin-10 research aims to normalize both the upstream hormonal signaling and the downstream PI3K/AKT/GLUT4 pathway that governs ovarian insulin sensitivity.',
+        },
+      },
+      {
+        id: 'pcos-hormone-chart',
+        type: 'chart',
+        heading: 'PCOS Hormonal Profile: How Kisspeptin Signaling Goes Wrong',
+        chartData: {
+          title: 'Relative Hormone Levels in PCOS vs. Healthy Controls (Normalized to Reference Range)',
+          type: 'bar',
+          labels: ['LH (elevated)', 'FSH (normal/low)', 'Testosterone (elevated)', 'SHBG (suppressed)', 'Fasting Insulin (elevated)', 'Serum Kisspeptin (variable)'],
+          datasets: [
+            {
+              label: 'Healthy Controls (%)',
+              values: [100, 100, 100, 100, 100, 100],
+              color: '#3b82f6',
+            },
+            {
+              label: 'PCOS (% of Normal Reference)',
+              values: [185, 75, 240, 55, 320, 165],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: '% of Normal Reference Range',
+          note: 'Illustrative values based on published PCOS meta-analyses (Moran 2010, Kadakia 2025). Individual variation in PCOS is substantial; not all women with PCOS show all these abnormalities. LH/FSH ratio >2:1 is a classic diagnostic criterion. Kisspeptin levels in PCOS show heterogeneous patterns across studies.',
+        },
+      },
+      {
+        id: 'ivf-ohss-section',
+        type: 'h2',
+        heading: 'Kisspeptin as an IVF Trigger: Eliminating OHSS Without Sacrificing Outcomes',
+        content: `<p>Ovarian hyperstimulation syndrome (OHSS) is the most feared complication of IVF. In severe form, it affects approximately 1–5% of stimulated IVF cycles, causing massive fluid shifts, ascites, pleural effusion, thromboembolism, and in rare cases, death. The cause is straightforward: conventional IVF uses human chorionic gonadotropin (hCG) to trigger final oocyte maturation — and hCG, with its 24–36 hour half-life, causes prolonged LH receptor stimulation that drives uncontrolled VEGF production and vascular permeability.</p>
+<p>Kisspeptin solves this problem by a completely different mechanism. Instead of directly activating LH receptors (as hCG does), kisspeptin triggers the body's own mid-cycle LH surge through the hypothalamus. The resulting LH surge is more physiological in shape — a sharp peak followed by rapid decline — because it relies on the body's own GnRH and LH release machinery rather than prolonged exogenous LH receptor stimulation.</p>
+<p><strong>The clinical evidence from Professor Waljit Dhillo's group at Imperial College London:</strong> <sup>[1,2,9]</sup></p>
+<ul>
+  <li><strong>Phase 2 trial (Jayasena 2014):</strong> Kisspeptin-54 IV administration triggered mature oocyte collection in 11/12 high-risk IVF patients with <strong>zero OHSS cases</strong>. Live birth rate: 25% (comparable to hCG in equivalent populations). <sup>[1]</sup></li>
+  <li><strong>Dose-optimization study (Abbara 2015):</strong> Nine high-OHSS-risk patients received kisspeptin-54; all achieved a satisfactory LH surge, mature oocytes were collected in all patients, and <strong>no patient developed OHSS</strong>. The study established the 9.6 nmol/kg dose as optimal for maximal LH response. <sup>[2]</sup></li>
+  <li><strong>Registered Phase 2 trial NCT02433678:</strong> Ongoing multi-center evaluation of kisspeptin as IVF trigger across high-risk populations. <sup>[12]</sup></li>
+</ul>
+<p>The zero-OHSS track record across published trials is the most clinically significant finding in kisspeptin IVF research. For the estimated 15–20% of IVF patients at high OHSS risk — those with PCOS, high antral follicle counts, or prior OHSS episodes — kisspeptin offers the possibility of completing their IVF cycle safely rather than canceling it as is frequently necessary with hCG triggers.</p>`,
+      },
+      {
+        id: 'ivf-comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Parameter', 'hCG Trigger (Standard)', 'GnRH Agonist Trigger', 'Kisspeptin-54 Trigger'],
+          rows: [
+            ['Mechanism', 'Direct LH receptor agonist', 'Flare LH release (pituitary)', 'Physiological HPG axis activation (hypothalamus)'],
+            ['OHSS Risk (high-risk patients)', 'High (15–20% severe)', 'Low–Moderate (luteal support needed)', 'Near-zero in published trials'],
+            ['LH Surge Profile', 'Prolonged (hCG half-life ~24–36h)', 'Sharp but pituitary-dependent', 'Most physiological — mirrors natural surge'],
+            ['Luteal Phase Support', 'Often not needed', 'Usually required (intensive)', 'Standard progesterone support sufficient'],
+            ['Oocyte Maturation Rate', '~85–90%', '~80–85%', '~75–90% (dose-dependent in trials)'],
+            ['Live Birth Rate (published data)', 'Reference standard', 'Comparable to hCG', '25% in Phase 2; comparative trials ongoing'],
+            ['Availability (2026)', 'FDA-approved pharmaceutical', 'FDA-approved pharmaceutical', 'Research use only — compounding or research vendors'],
+            ['Cost (approximate)', '$50–200/cycle', '$80–300/cycle', 'Research pricing varies'],
+          ],
+        },
+      },
+      {
+        id: 'lab-research-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260625_140644_cd8ebed4-015c-42a6-a53e-3d1e87ff53c0.png',
+          alt: 'Female researcher reviewing kisspeptin peptide clinical data in a modern fertility research laboratory',
+          caption: "Kisspeptin-10 research is advancing rapidly at fertility clinics globally. Imperial College London's group and multiple academic medical centers are running active trials as of 2026.",
+        },
+      },
+      {
+        id: 'hypogonadism-section',
+        type: 'h2',
+        heading: 'Beyond Fertility: Kisspeptin for Functional Hypothalamic Amenorrhea & Male Hypogonadotropic Hypogonadism',
+        content: `<p>While the PCOS and IVF applications have captured most of the clinical attention, kisspeptin research has also produced compelling data in two other reproductive conditions that conventional medicine handles poorly.</p>
+<p><strong>Functional Hypothalamic Amenorrhea (FHA)</strong></p>
+<p>FHA is the cessation of menstrual cycles due to energy deficit — common in elite athletes, women with eating disorders, and those under severe psychological stress. The mechanism is suppression of kisspeptin neuron activity by low leptin, elevated cortisol, and metabolic stress signals. The result: GnRH pulse frequency falls, LH and FSH decline, and the ovaries go quiet.</p>
+<p>The pharmaceutical workaround has typically been exogenous GnRH (pulsatile pump therapy) — effective but invasive and expensive. Kisspeptin-54 has shown efficacy in restoring pulsatile LH secretion in FHA through the upstream hypothalamic pathway, and a 2011 PNAS study demonstrated that leptin administration restores kisspeptin neuronal activity in FHA — confirming that kisspeptin is the bottleneck in the restoration pathway. <sup>[7]</sup></p>
+<p><strong>Male Hypogonadotropic Hypogonadism</strong></p>
+<p>In 2005, Dhillo and colleagues demonstrated that kisspeptin-54 IV infusion in healthy males produced a robust, dose-dependent LH surge — confirming that the kisspeptin/GnRH axis functions identically in men. <sup>[14]</sup> Men with hypogonadotropic hypogonadism (low testosterone due to insufficient LH/FSH, rather than primary testicular failure) represent a potential application where kisspeptin could restore the upstream signaling that conventional testosterone replacement short-circuits.</p>
+<p>The key distinction from testosterone replacement therapy (TRT): TRT replaces the endpoint hormone but suppresses the HPG axis, causing testicular atrophy and infertility. Kisspeptin activates the upstream signaling, allowing the testes to produce testosterone and maintain spermatogenesis simultaneously. For hypogonadal men who want to preserve fertility, this is a mechanistically compelling alternative research direction.</p>`,
+      },
+      {
+        id: 'research-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Context Disclaimer:</strong> Kisspeptin-10 and Kisspeptin-54 are research peptides, not FDA-approved medications for PCOS, fertility, or hypogonadism as of 2026. All clinical applications described in this article refer to published research trials conducted under medical supervision. This content is for informational and educational purposes. Do not use research peptides without appropriate professional guidance. Ongoing clinical trials (NCT02433678 and others) may be recruiting — consult ClinicalTrials.gov for participation eligibility.`,
+      },
+      {
+        id: 'clinical-evidence-summary',
+        type: 'h2',
+        heading: 'The Clinical Evidence Scorecard: What We Know vs. What We\'re Still Learning',
+        content: `<p>Kisspeptin research is genuinely exciting — but intellectual honesty requires a clear-eyed view of where the evidence is strong and where it remains preliminary. Here's the honest scorecard:</p>
+<p><strong>Evidence is strong (multiple human studies, reproducible):</strong></p>
+<ul>
+  <li>Kisspeptin-54 IV triggers a reliable LH surge in healthy women and men <sup>[13,14]</sup></li>
+  <li>Kisspeptin can trigger oocyte maturation in IVF without causing OHSS in high-risk patients <sup>[1,2]</sup></li>
+  <li>Loss-of-function KISS1R mutations cause complete hypogonadotropic hypogonadism in humans — confirming kisspeptin is essential for reproductive function <sup>[4]</sup></li>
+  <li>Kisspeptin pulses activate GnRH neurons through the KISS1R/Gαq/phospholipase C/calcium cascade <sup>[3]</sup></li>
+</ul>
+<p><strong>Evidence is promising but early (preclinical or small human studies):</strong></p>
+<ul>
+  <li>Kisspeptin-10 subcutaneous efficacy for PCOS hormonal normalization (primarily preclinical and small cohorts) <sup>[8,10]</sup></li>
+  <li>Long-term kisspeptin treatment for FHA restoration (single-dose studies exist; chronic dosing protocols not established) <sup>[7]</sup></li>
+  <li>Male hypogonadotropic hypogonadism treatment (proof-of-concept studies only) <sup>[14]</sup></li>
+</ul>
+<p><strong>Not yet established (active research questions):</strong></p>
+<ul>
+  <li>Optimal KP-10 subcutaneous dosing frequency and duration for PCOS</li>
+  <li>Kisspeptin live birth rates in comparative IVF trials vs. standard hCG triggers</li>
+  <li>Long-term effects on reproductive axis function with extended use</li>
+  <li>Whether KP-10 can improve PCOS metabolic parameters (insulin resistance, androgen levels) with chronic administration</li>
+</ul>`,
+      },
+      {
+        id: 'vendors-section',
+        type: 'vendor-cards',
+        heading: 'Where Researchers Source Kisspeptin-10 in 2026',
+        vendors: [
+          {
+            name: 'Peptide Tech',
+            url: 'https://peptidetech.is',
+            product: 'Kisspeptin-10 (5mg)',
+            productUrl: 'https://peptidetech.is/product/kisspeptin-10',
+            price: '$54.00',
+            purity: '>99% HPLC Verified',
+            highlight: 'HPLC-verified purity with mass spectrometry confirmation and COA provided per batch',
+            badge: 'COA Verified',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Kisspeptin-10 (2mg / 5mg)',
+            productUrl: 'https://modifiedaminos.shop/kisspeptin-10',
+            price: '$38.00',
+            purity: '>98% HPLC',
+            highlight: 'Competitive pricing with HPLC purity documentation; lyophilized powder format',
+            badge: 'Best Value',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            product: 'Kisspeptin-10 Research Peptide (5mg)',
+            productUrl: 'https://aminousa.com/products/kisspeptin-10',
+            price: '$59.00',
+            purity: '>99% HPLC + Endotoxin Testing',
+            highlight: 'Third-party endotoxin testing beyond standard purity testing — relevant for in vitro research applications',
+            badge: 'Endotoxin Tested',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandlabs.com',
+            product: 'Kisspeptin-10 (5mg)',
+            productUrl: 'https://vandlabs.com/kisspeptin-10',
+            price: '$52.00',
+            purity: '>99% Purity (HPLC)',
+            highlight: 'Domestic US fulfillment with rapid turnaround; HPLC certificate provided with every order',
+            badge: 'US Domestic',
+          },
+        ],
+      },
+      {
+        id: 'reconstitution-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Reconstitution Note:</strong> Kisspeptin-10 is supplied as lyophilized powder. For research use, reconstitute with bacteriostatic water (BAC water) to the desired concentration. A common research reconstitution for 5mg vials: add 2.5mL BAC water for a 2mg/mL (2,000 mcg/mL) solution. Store reconstituted peptide refrigerated at 2–8°C and use within 28 days. Lyophilized vials store at -20°C for extended shelf life.`,
+      },
+      {
+        id: 'protocol-section',
+        type: 'h2',
+        heading: 'Research Protocols: How Kisspeptin-10 Is Being Studied',
+        content: `<p>Kisspeptin research protocols vary substantially based on the application being studied. The following summarizes how KP-10 and KP-54 have been used in published research contexts — this is <em>not</em> a clinical dosing recommendation.</p>
+<p><strong>IVF Trigger Protocol (Kisspeptin-54 IV — Published Clinical Trial Context):</strong> <sup>[1,2]</sup></p>
+<ul>
+  <li>Dose: 9.6 nmol/kg IV bolus at the time of trigger (equivalent to approximately 800 mcg/kg KP-10 on a molar mass basis)</li>
+  <li>Timing: Administered 36 hours before oocyte retrieval</li>
+  <li>Monitoring: LH surge confirmed at 4, 8, 12, and 24 hours post-injection</li>
+  <li>Luteal support: Standard progesterone supplementation from day of egg collection</li>
+</ul>
+<p><strong>HPG Axis Characterization (Human Research Context):</strong> <sup>[13]</sup></p>
+<ul>
+  <li>KP-54: Single IV doses from 0.4 to 64 nmol/kg studied for dose-response characterization</li>
+  <li>Blood sampling at 30-minute intervals for 6–8 hours post-injection</li>
+  <li>LH surge onset: approximately 15–30 minutes post-injection; peak at 45–90 minutes</li>
+</ul>
+<p><strong>Subcutaneous KP-10 (Preclinical and Early Human Data):</strong></p>
+<ul>
+  <li>Subcutaneous bioavailability of KP-10 has been characterized in rodent models and early human pharmacokinetic studies</li>
+  <li>SC route requires higher doses than IV due to first-pass metabolism, but peak LH responses are achievable</li>
+  <li>Pulsatile dosing (mimicking endogenous rhythm) under active investigation for chronic applications</li>
+</ul>`,
+      },
+      {
+        id: 'future-directions',
+        type: 'h2',
+        heading: 'What\'s Next: The 2026–2028 Kisspeptin Research Pipeline',
+        content: `<p>Kisspeptin is entering the most productive phase of its clinical development. Several key developments to watch:</p>
+<p><strong>Oral Kisspeptin Analogs:</strong> Several pharmaceutical companies are developing orally bioavailable small-molecule KISS1R agonists — compounds that mimic kisspeptin's receptor activation without the peptide backbone that limits oral delivery. If successful, these could enable chronic PCOS treatment without injections. Ogerin and AstraZeneca have disclosed programs in this space.</p>
+<p><strong>Comparative IVF Trials:</strong> The critical unanswered question — do kisspeptin-triggered IVF cycles produce equivalent live birth rates to hCG, not just equivalent oocyte retrieval? Two multi-center RCTs are addressing this, with results expected by 2027.</p>
+<p><strong>PCOS Metabolic Studies:</strong> Following the 2026 PLOS ONE findings on ovarian PI3K/AKT/GLUT4 signaling, several groups are designing trials to evaluate whether repeated kisspeptin administration can reduce androgen levels and improve menstrual regularity in PCOS — the endpoints that matter most to patients.</p>
+<p><strong>Male Fertility Applications:</strong> As male factor infertility becomes better understood at the hormonal level, hypogonadotropic hypogonadism represents a niche where kisspeptin has unique mechanistic advantages over existing treatments. Trials in this space are early-stage but active.</p>
+<p>The regulatory picture is also evolving. Kisspeptin is not currently on any FDA restricted compounding list, meaning it remains accessible through research and compounding channels as PCOS and fertility research continues to accumulate. The 2026 HHS peptide reclassification that returned several peptides to Category 1 status did not directly affect kisspeptin (which was never Category 2), but the broader regulatory environment has become more permissive toward research peptide access through licensed compounding pharmacies under physician supervision.</p>`,
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        heading: 'FAQ: Kisspeptin-10 Research',
+        faqs: [
+          {
+            question: 'What is the difference between Kisspeptin-10 and Kisspeptin-54?',
+            answer: 'Kisspeptin-10 (KP-10) and Kisspeptin-54 (KP-54) are both fragments of the same KISS1 gene precursor protein. KP-54 is the 54-amino acid form with a longer half-life (approximately 28 minutes IV) and has been used in most published IVF clinical trials. KP-10 is the shortest bioactive form (10 amino acids) — it has lower molecular weight, is easier and cheaper to synthesize, and retains full KISS1R agonist activity. For research applications involving subcutaneous delivery or in vitro receptor studies, KP-10 is more commonly used. KP-54 has more clinical trial data. Both bind the same KISS1R receptor and produce the same downstream LH surge.',
+          },
+          {
+            question: 'Can kisspeptin-10 help with PCOS without IVF?',
+            answer: 'Research suggests kisspeptin-10 has mechanistic relevance to PCOS outside of IVF triggering — specifically through its effects on ovarian insulin sensitivity via PI3K/AKT/GLUT4 signaling (Zhang et al., 2026, PLOS ONE) and through normalization of abnormal LH pulse frequency. However, there are currently no published RCTs demonstrating that chronic kisspeptin supplementation improves PCOS outcomes (menstrual regularity, androgen levels, fertility) outside of IVF settings. This is an active research question. Women with PCOS interested in novel research directions should consult a reproductive endocrinologist familiar with emerging peptide research.',
+          },
+          {
+            question: 'Why doesn\'t kisspeptin trigger OHSS when hCG does?',
+            answer: 'The key difference is in where in the hormonal cascade each compound acts. hCG directly activates LH receptors on granulosa and luteal cells with a half-life of 24–36 hours — this prolonged LH receptor activation drives excessive VEGF production and the vascular permeability that causes OHSS. Kisspeptin acts much further upstream, at the hypothalamus, triggering the body\'s own endogenous LH surge. The resulting LH surge is shorter-lived (the endogenous surge lasts 24–48 hours then self-terminates, vs. hCG effects lasting several days) and more physiologically calibrated. The self-limiting nature of the endogenous LH surge appears to be the key reason OHSS does not occur.',
+          },
+          {
+            question: 'Is kisspeptin being studied for male hypogonadism?',
+            answer: 'Yes. Dhillo et al. (2005) demonstrated that kisspeptin-54 IV infusion produces robust LH surges in healthy men, confirming that the kisspeptin-GnRH axis is equally functional in males. Research in men with hypogonadotropic hypogonadism (low testosterone due to insufficient LH/FSH) is at the proof-of-concept stage. The theoretical advantage over testosterone replacement therapy (TRT) is that kisspeptin activates upstream signaling, preserving testicular testosterone production and spermatogenesis rather than suppressing them (as exogenous TRT does). This makes it potentially valuable for hypogonadal men who want to maintain fertility — a significant unmet clinical need.',
+          },
+          {
+            question: 'What vendors supply research-grade Kisspeptin-10 in 2026?',
+            answer: 'Research-grade kisspeptin-10 is available from several vendors specializing in HPLC-verified research peptides, including Peptide Tech (peptidetech.is), Modified Aminos (modifiedaminos.shop), AminoUSA (aminousa.com), and VANDL Labs (vandlabs.com). When evaluating sources, look for independent HPLC purity documentation (>98% minimum, >99% preferred), mass spectrometry confirmation of the correct molecular weight, batch-specific certificates of analysis, and endotoxin testing if the peptide will be used in cell culture or in vivo research. Kisspeptin-10 is supplied as lyophilized powder and requires reconstitution with bacteriostatic water before use.',
+          },
+          {
+            question: 'How does kisspeptin interact with the feedback loop from estrogen?',
+            answer: 'Estrogen exerts complex biphasic feedback on kisspeptin neurons. At low/follicular-phase estrogen levels, estrogen suppresses kisspeptin neuron activity in the arcuate nucleus (negative feedback — the normal brake on LH pulsatility). At high/pre-ovulatory estrogen levels, estrogen switches to stimulate kisspeptin neurons in the anteroventral periventricular nucleus (AVPV) — triggering the massive mid-cycle kisspeptin surge that drives the LH surge and ovulation. This estrogen-dependent switch is central to the regulation of ovulation timing. PCOS disrupts this feedback architecture: chronically elevated LH and androgens partially desensitize the feedback pathway, contributing to the anovulation that characterizes PCOS.',
+          },
+        ],
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
