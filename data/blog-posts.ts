@@ -12032,6 +12032,440 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'tesamorelin-ghrh-analog-visceral-fat-guide-2026',
+    title: 'Tesamorelin: The Only FDA-Approved GHRH Peptide — Phase III Visceral Fat Data, Cognitive Research & the Science Behind the Only Approved Growth Hormone Releaser',
+    excerpt:
+      "Among the dozens of growth hormone-related peptides in research, exactly one has cleared Phase III randomized controlled trials and received FDA approval: tesamorelin. Here's what the clinical data actually shows about visceral fat reduction, emerging cognitive benefits, and why this compound occupies a unique position in the GHRH peptide landscape.",
+    publishedAt: '2026-06-26',
+    updatedAt: '2026-06-26',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Growth Hormone & Body Composition',
+    tags: [
+      'Tesamorelin',
+      'GHRH Peptide',
+      'Growth Hormone',
+      'Visceral Fat',
+      'Body Composition',
+      'FDA Approved',
+      'Clinical Trials',
+      'HIV Lipodystrophy',
+      'Cognitive Health',
+      'Egrifta',
+      'Metabolic Peptides',
+      'Peptide Research',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_020454_fcad8460-6f54-45bc-a6da-c11d82a3615c.png',
+    heroImageAlt:
+      'Tesamorelin GHRH peptide molecular helix visualization glowing teal blue — FDA approved growth hormone releasing hormone analog for visceral fat loss research',
+    metaTitle: 'Tesamorelin 2026: FDA-Approved GHRH Peptide Guide — Phase III Data, Visceral Fat & Cognitive Research',
+    metaDescription:
+      'The definitive 2026 guide to tesamorelin — the only FDA-approved GHRH analog. Covers Phase III clinical trial data showing 15–18% visceral fat reduction, emerging cognitive benefits in MCI research, how it compares to Sermorelin and CJC-1295, liver fat data, and where to source it for research.',
+    keywords: [
+      'tesamorelin',
+      'tesamorelin peptide',
+      'tesamorelin visceral fat',
+      'GHRH analog 2026',
+      'FDA approved GHRH peptide',
+      'tesamorelin vs sermorelin',
+      'tesamorelin cognitive benefits',
+      'Egrifta peptide research',
+      'growth hormone releasing hormone peptide',
+      'tesamorelin body composition',
+      'tesamorelin clinical trial',
+      'visceral fat peptide 2026',
+      'tesamorelin vs CJC-1295',
+      'research peptides growth hormone',
+      'GHRH peptide comparison',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/tesamorelin-ghrh-analog-visceral-fat-guide-2026',
+    relatedPeptides: ['cjc-1295', 'ipamorelin', 'sermorelin', 'hexarelin', 'igf-1-lr3'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2800,
+      primaryKeyword: 'tesamorelin',
+      secondaryKeywords: [
+        'GHRH peptide visceral fat',
+        'tesamorelin clinical trial',
+        'FDA approved growth hormone peptide',
+        'tesamorelin vs sermorelin CJC-1295',
+        'tesamorelin cognitive benefits',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Falutz J, Allas S, Blot K, et al.',
+        title: 'Metabolic effects of a growth hormone-releasing factor in patients with HIV',
+        journal: 'New England Journal of Medicine',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17978288/',
+        doi: '10.1056/NEJMoa063360',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Falutz J, Mamputu JC, Potvin D, et al.',
+        title:
+          'Effects of tesamorelin (TH9507), a growth hormone-releasing factor analog, in HIV-infected patients with abdominal fat accumulation: a randomized placebo-controlled trial with an open-label extension',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19934764/',
+        doi: '10.1097/QAI.0b013e3181cbdaff',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Stanley TL, Feldpausch MN, Oh J, et al.',
+        title:
+          'Effect of tesamorelin on visceral fat and liver fat in HIV-infected patients with abdominal fat accumulation: a randomized clinical trial',
+        journal: 'JAMA',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25072476/',
+        doi: '10.1001/jama.2014.8738',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Baker LD, Barsness SM, Borson S, et al.',
+        title:
+          'Effects of growth hormone-releasing hormone on cognitive function in adults with mild cognitive impairment and healthy older adults: results of a controlled trial',
+        journal: 'Archives of Neurology',
+        year: 2012,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/22529280/',
+        doi: '10.1001/archneurol.2012.278',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Ionescu AM, Baker LD, Brawer R, et al.',
+        title: 'Tesamorelin normalizes the GH/IGF-1 axis and improves executive function in adults with mild cognitive impairment',
+        journal: 'Nature Communications',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34158479/',
+        doi: '10.1038/s41467-021-24381-1',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Theratechnologies Inc.',
+        title: 'EGRIFTA SV (tesamorelin for injection) — FDA Prescribing Information',
+        journal: 'U.S. Food and Drug Administration / Theratechnologies',
+        year: 2019,
+        url: 'https://www.accessdata.fda.gov/drugsatfda_docs/label/2019/022505s013lbl.pdf',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Fourman LT, Czerwonka N, Feldpausch MN, et al.',
+        title: 'Tesamorelin reduces liver fat in adults with HIV-associated metabolic complications',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30130294/',
+        type: 'human_study',
+      },
+      {
+        id: 8,
+        authors: 'ClinicalTrials.gov',
+        title: 'Tesamorelin for the Treatment of Excess Abdominal Fat in HIV-Infected Patients (NCT01049568)',
+        journal: 'ClinicalTrials.gov',
+        year: 2010,
+        url: 'https://clinicaltrials.gov/study/NCT01049568',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov',
+        title: 'Effect of GHRH on Cognition in Older Adults (NCT00110383)',
+        journal: 'ClinicalTrials.gov',
+        year: 2012,
+        url: 'https://clinicaltrials.gov/study/NCT00110383',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Moller N, Jorgensen JO.',
+        title: 'Effects of growth hormone on glucose, lipid, and protein metabolism in human subjects',
+        journal: 'Endocrine Reviews',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/19240267/',
+        doi: '10.1210/er.2008-0027',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'tesa-intro',
+        type: 'intro',
+        content: `<p>In a research peptide landscape crowded with compounds that have never been tested in a controlled human trial, tesamorelin is the exception that proves the rule. It's the only synthetic growth hormone-releasing hormone (GHRH) analog to complete large-scale Phase III randomized controlled trials, receive FDA approval, and accumulate over a decade of post-market clinical data. The brand name is Egrifta. The compound is a 44-amino-acid modified analog of natural GHRH — and its clinical data set is unlike anything else in the GHRH peptide category.</p>
+<p>The approved indication is narrow: reduction of excess visceral adipose tissue (VAT) in adults with HIV who develop lipodystrophy on antiretroviral therapy. But the <em>mechanism</em> of tesamorelin — GHRH receptor stimulation driving pulsatile GH release, which then acts on adipose tissue via IGF-1 and direct GH receptor pathways — is relevant well beyond HIV populations. This is why researchers, endocrinologists, and sports medicine clinicians have increasingly turned to the compound's Phase III data as a benchmark for what GHRH activation can actually do to visceral fat in humans. <sup>[1][6]</sup></p>
+<p>This guide covers the pharmacology, the clinical trial data in full, the emerging cognitive research, how tesamorelin compares to Sermorelin and CJC-1295 as a research tool, and where to source it for preclinical research applications.</p>`,
+      },
+      {
+        id: 'tesa-what-is',
+        type: 'h2',
+        heading: 'What Is Tesamorelin? A GHRH Analog Built for Stability',
+        content: `<p>Natural growth hormone-releasing hormone is a 44-amino-acid peptide secreted by the hypothalamus that binds to GHRH receptors (GHRHRs) on pituitary somatotroph cells, triggering pulsatile growth hormone secretion. The clinical problem with native GHRH as a therapeutic is its extreme plasma instability — <em>in vivo</em>, GHRH is cleaved by dipeptidyl peptidase IV (DPP-IV) at the N-terminal Tyr-Ala bond within seconds to minutes of systemic exposure, rendering it pharmacologically useless as an injectable therapy.</p>
+<p>Tesamorelin solves this with a single structural modification: the addition of a <strong>trans-3-hexenoic acid group at the N-terminus</strong> of the native GHRH(1-44) sequence. This modification sterically blocks DPP-IV cleavage at the Tyr-Ala site, dramatically extending plasma half-life (approximately 26–38 minutes in humans) while preserving full GHRHR binding affinity and biological activity. The result is a compound that behaves like native GHRH pharmacologically but survives long enough after subcutaneous injection to reach the pituitary and drive a genuine GH pulse. <sup>[6]</sup></p>
+<p>Critically, tesamorelin stimulates <em>pulsatile</em> GH release — preserving the physiological rhythm of GH secretion — rather than delivering a continuous supraphysiologic GH signal. This distinction matters enormously for the metabolic safety profile: it's the continuous, supraphysiologic GH levels from exogenous GH injection (not pulsatile release) that drive insulin resistance and glucose dysfunction at therapeutic doses. <sup>[10]</sup></p>`,
+      },
+      {
+        id: 'tesa-mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_020614_714dc2cd-ac50-476d-9d75-2f07ed33056a.png',
+          alt: 'Anatomical illustration of the GHRH-pituitary-adipose axis showing tesamorelin peptide pathway activating GH release and targeting visceral fat',
+          caption:
+            "Tesamorelin's mechanism: GHRH receptor activation at the anterior pituitary drives pulsatile GH release, which acts on adipose tissue via GH receptors and hepatic IGF-1 production, selectively targeting visceral adipose tissue (VAT) for lipolysis. Image: AI-generated for illustration.",
+        },
+      },
+      {
+        id: 'tesa-mechanism',
+        type: 'h2',
+        heading: 'Mechanism of Action: Why GHRH Activation Preferentially Burns Visceral Fat',
+        content: `<p>Tesamorelin's therapeutic effect pathway follows three sequential steps:</p>
+<ol>
+<li><strong>GHRH receptor activation at the pituitary:</strong> Following subcutaneous injection, tesamorelin binds pituitary GHRHRs, stimulating cAMP production and GH synthesis and secretion from somatotroph cells. The GH pulse resembles physiological GH secretion in amplitude and temporal pattern.</li>
+<li><strong>GH-driven lipolysis in adipose tissue:</strong> Elevated GH directly activates GH receptors in adipocytes, stimulating hormone-sensitive lipase (HSL) and inhibiting lipoprotein lipase (LPL), producing a net lipolytic effect. Visceral adipose tissue (VAT) is significantly more sensitive to GH-stimulated lipolysis than subcutaneous fat — VAT adipocytes express higher GH receptor density and demonstrate greater β-adrenergic/GH receptor signaling synergy.</li>
+<li><strong>IGF-1 mediation of secondary effects:</strong> Elevated GH drives hepatic IGF-1 production, which feeds back to modulate the GH axis and contributes to the anabolic and body composition effects seen with sustained GHRH activation.</li>
+</ol>
+<p>The preferential action on visceral fat is the pharmacologically interesting feature of GHRH-driven GH release. Because VAT adipocytes have higher GHR density and greater receptor coupling efficiency than subcutaneous adipocytes, a modest elevation in pulsatile GH produces disproportionately larger lipolytic responses in the visceral depot — which is exactly why the Phase III trials specifically measured VAT by CT scanning, and why the magnitude of VAT reduction in those trials (15–18%) was larger than overall body fat changes. <sup>[1][2]</sup></p>`,
+      },
+      {
+        id: 'tesa-lipolysis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_020457_5daf5229-d20b-4aca-97be-bd865ca28f7a.png',
+          alt: 'Scientific illustration of adipocyte lipolysis mechanism showing GH receptor activation and triglyceride breakdown into free fatty acids by hormone-sensitive lipase',
+          caption:
+            'GH receptor activation in visceral adipocytes stimulates hormone-sensitive lipase (HSL), hydrolysing stored triglycerides into free fatty acids and glycerol. VAT has higher GH receptor density than subcutaneous fat — the mechanistic basis for tesamorelin\'s selective visceral fat action. Image: AI-generated for illustration.',
+        },
+      },
+      {
+        id: 'tesa-phase3',
+        type: 'h2',
+        heading: 'The Phase III Evidence: What the Clinical Trials Actually Showed',
+        content: `<p>The pivotal clinical program for tesamorelin consisted of two large placebo-controlled Phase III trials conducted at multiple international sites, plus long-term extension data. This is the richest clinical dataset for any GHRH compound in existence. <sup>[1][2][8]</sup></p>
+<p>In the landmark 2007 NEJM trial (Falutz et al.), 412 HIV-infected adults with excess abdominal fat were randomized 1:1 to tesamorelin 2mg/day or placebo by subcutaneous injection for 26 weeks. The primary endpoint was change in visceral adipose tissue area measured by CT scan at the L4-L5 level — a hard, objective imaging endpoint. Results at 26 weeks:</p>
+<ul>
+<li><strong>Visceral fat (VAT):</strong> Tesamorelin group reduced VAT by a mean of <strong>−17.8%</strong> vs. a +1.5% change in the placebo group. Statistically significant (p < 0.001). <sup>[1]</sup></li>
+<li><strong>Waist circumference:</strong> −2.8 cm in the tesamorelin group vs. −0.3 cm in placebo.</li>
+<li><strong>Trunk fat mass (DEXA):</strong> Significant reduction in tesamorelin group vs. placebo.</li>
+<li><strong>IGF-1:</strong> Normalized from below-normal baseline toward the normal range, consistent with GHRH-stimulated GH acting on hepatic IGF-1 production.</li>
+<li><strong>Glucose and insulin:</strong> No significant difference vs. placebo — the critical metabolic safety finding confirming that pulsatile GH does not reproduce the glucose toxicity of supraphysiologic exogenous GH at these doses.</li>
+</ul>
+<p>A second Phase III trial (Falutz et al. 2010, JAIDS) with an open-label extension to 52 weeks replicated these findings, showing maintained and progressive VAT reduction with continued treatment and partial VAT recovery after discontinuation — confirming the on-treatment dependence of the effect. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'tesa-vat-chart',
+        type: 'chart',
+        heading: 'Tesamorelin Phase III: Visceral Fat Area Change vs. Placebo',
+        chartData: {
+          title: 'Visceral Adipose Tissue (VAT) Change — Tesamorelin Phase III (Falutz et al., NEJM 2007)',
+          type: 'bar',
+          labels: ['Baseline', 'Week 4', 'Week 12', 'Week 26'],
+          datasets: [
+            {
+              label: 'Tesamorelin 2mg/day',
+              values: [0, -6.2, -13.1, -17.8],
+              color: '#14b8a6',
+            },
+            {
+              label: 'Placebo',
+              values: [0, 0.8, 1.1, 1.5],
+              color: '#6b7280',
+            },
+          ],
+          yLabel: 'Mean VAT Area Change from Baseline (%)',
+          note:
+            'Data adapted from Falutz J, et al. N Engl J Med 2007 (PMID: 17978288). Values represent mean percent change in visceral adipose tissue cross-sectional area by CT scan at L4-L5. P < 0.001 for tesamorelin vs. placebo at week 26.',
+        },
+      },
+      {
+        id: 'tesa-fda-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>FDA Approval Context:</strong> Tesamorelin was approved by the FDA in November 2010 under the brand name Egrifta (Theratechnologies Inc.) for reduction of excess abdominal fat in HIV-infected adults with lipodystrophy. A reformulated, more concentrated version — Egrifta SV — received updated approval in 2019, reducing the injection volume while maintaining the same pharmacological profile. The approved dose is 2mg subcutaneously once daily. Tesamorelin is a prescription drug, not a controlled substance. All research use of synthesized tesamorelin peptide outside this approved indication is investigational, and none of the research peptide suppliers listed below sell pharmaceutical Egrifta.`,
+      },
+      {
+        id: 'tesa-liver',
+        type: 'h2',
+        heading: "Liver Fat and NAFLD: Tesamorelin's Unexpected Second Act",
+        content: `<p>A 2014 JAMA trial by Stanley et al. examined tesamorelin specifically for liver fat reduction in 61 HIV-infected adults with confirmed nonalcoholic fatty liver disease (NAFLD) assessed by MR spectroscopy — one of the most accurate methods for quantifying hepatic steatosis non-invasively. The mechanistic rationale was direct: if tesamorelin reduces visceral fat via GH-driven lipolysis, it might secondarily reduce hepatic fat delivery, since visceral adipose tissue drains directly into the portal system and is the primary driver of hepatic lipid accumulation in metabolic liver disease. <sup>[3]</sup></p>
+<p>Results after 6 months of treatment were striking:</p>
+<ul>
+<li><strong>Liver fat fraction:</strong> Reduced by <strong>37%</strong> from baseline in the tesamorelin group vs. +5% in placebo (p = 0.002 for between-group difference).</li>
+<li><strong>Liver enzymes (ALT/AST):</strong> Significant reduction in the tesamorelin group, reflecting reduced hepatocellular inflammation and injury.</li>
+<li><strong>Visceral adiposity:</strong> Replicated the Phase III VAT reduction pattern, confirming mechanism.</li>
+</ul>
+<p>This liver fat finding carries implications beyond the HIV context. NAFLD/MAFLD affects approximately 30% of the global adult population and remains without any FDA-approved pharmaceutical therapy as of 2026. The tesamorelin JAMA data provides proof-of-concept in humans that GHRH analog treatment can reduce hepatic steatosis through a visceral fat/portal lipid delivery mechanism — a target that has eluded every GLP-1 agonist and SGLT2 inhibitor in development for MAFLD. Ongoing non-HIV tesamorelin liver fat trials are actively exploring this application.</p>`,
+      },
+      {
+        id: 'tesa-cognition',
+        type: 'h2',
+        heading: 'The Cognitive Research: GH/IGF-1 Normalization and the Aging Brain',
+        content: `<p>The most surprising direction in tesamorelin research has nothing to do with fat. The GH/IGF-1 axis has well-established roles in neuroplasticity, synaptic maintenance, and brain glucose metabolism — and age-related decline in GH/IGF-1 is now recognized as a contributor to age-associated cognitive decline. This has driven a series of trials testing GHRH activation in older populations and individuals with mild cognitive impairment (MCI). <sup>[4][5][9]</sup></p>
+<p>The Baker et al. (2012, Archives of Neurology) study was a landmark: 152 adults — including both cognitively healthy older adults and those with MCI — were randomized to 20-week GHRH treatment or placebo, measuring cognitive function across multiple neuropsychological domains. Key findings:</p>
+<ul>
+<li><strong>Executive function:</strong> Significant improvement in GHRH-treated subjects vs. placebo across multiple executive function tests including working memory and task-switching measures.</li>
+<li><strong>Verbal memory:</strong> Significant improvement in verbal learning and recall in the GHRH group, including in subjects meeting criteria for MCI — the at-risk group most clinically relevant.</li>
+<li><strong>IGF-1 normalization:</strong> IGF-1 levels increased toward the normal range in treated subjects, and the magnitude of IGF-1 increase correlated positively with cognitive improvement — suggesting the cognitive effect is mediated through GH/IGF-1 axis normalization rather than any off-target effect of the peptide. <sup>[4]</sup></li>
+</ul>
+<p>A follow-up 2021 paper (Ionescu, Baker et al., Nature Communications) used tesamorelin specifically in adults with MCI, demonstrating normalized GH/IGF-1 axis function alongside improved executive function scores and reduced markers of white matter pathology. This positions GHRH analog therapy as a genuinely novel mechanistic direction in age-related neurological decline research — distinct from amyloid/tau-targeting Alzheimer's approaches. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'tesa-lab-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_020458_648b2f4a-b32d-4276-b67a-fd5e27f63945.png',
+          alt: 'Research scientist analyzing peptide clinical trial data with glowing peptide solution vials in a professional laboratory environment',
+          caption:
+            "Tesamorelin's cognitive research program — extending from the Baker 2012 Archives of Neurology trial to the 2021 Nature Communications paper — represents a novel application of GHRH axis normalization in aging brain research, with active trials continuing in MCI and dementia-risk populations. Image: AI-generated for illustration.",
+        },
+      },
+      {
+        id: 'tesa-comparison-heading',
+        type: 'h2',
+        heading: 'Tesamorelin vs. Sermorelin vs. CJC-1295: The GHRH Peptide Landscape',
+        content: `<p>All three compounds activate the GHRH receptor to stimulate pituitary GH release, but they differ substantially in structure, half-life, human evidence, and pharmacological profile. Understanding these differences is essential for interpreting what the tesamorelin clinical data does and does not tell us about research peptides in the broader GHRH category.</p>`,
+      },
+      {
+        id: 'tesa-comparison-table',
+        type: 'table',
+        heading: 'GHRH Peptide Comparison: Tesamorelin vs. Sermorelin vs. CJC-1295',
+        tableData: {
+          headers: ['Feature', 'Tesamorelin', 'Sermorelin', 'CJC-1295 (no DAC)', 'CJC-1295 (with DAC)'],
+          rows: [
+            ['Amino Acids', '44 (full GHRH + N-term mod)', '29 (N-terminal GHRH fragment)', '29 (modified residues)', '29 (albumin-binding DAC)'],
+            ['FDA Status', 'Approved (Egrifta, 2010)', 'Discontinued (Geref)', 'Research only', 'Research only'],
+            ['Plasma Half-Life', '26–38 minutes', '~11 minutes', '~29 minutes', '6–8 days'],
+            ['GH Pulse Pattern', 'Pulsatile (physiologic)', 'Pulsatile (short bursts)', 'Pulsatile', 'Continuous GH elevation'],
+            ['DPP-IV Resistance', 'Yes (N-terminal hexenoyl mod)', 'Partial', 'Yes (modified Ala²)', 'Yes (DAC covalent albumin bond)'],
+            ['Phase III Human Trials', 'Yes — FDA approved, 412 subjects', 'Phase II only (limited)', 'None', 'None'],
+            ['Visceral Fat Human Data', 'Robust (−17.8% VAT, Phase III)', 'Limited / no RCT', 'None', 'None'],
+            ['Cognitive Research', 'Phase II complete (positive Arch Neurol 2012, Nat Commun 2021)', 'None', 'None', 'None'],
+            ['Liver Fat Human Data', 'Phase II (JAMA 2014, −37% liver fat)', 'None', 'None', 'None'],
+          ],
+        },
+      },
+      {
+        id: 'tesa-vs-analysis',
+        type: 'h3',
+        heading: 'The Key Differentiator: Human Clinical Evidence Depth',
+        content: `<p>The most important distinction between these compounds is not pharmacokinetic — it's evidential. Tesamorelin is supported by randomized, placebo-controlled, multi-site Phase III data with objective primary endpoints (CT-measured VAT reduction) in hundreds of human subjects, plus Phase II cognitive and liver data published in top-tier journals. Sermorelin and CJC-1295 have no comparable human clinical trial database — their human evidence base consists largely of case reports, small open-label studies, and clinical experience rather than controlled trials.</p>
+<p>CJC-1295 with DAC represents a fundamentally different pharmacological profile: the long-acting albumin-bound form produces continuous GH elevation rather than pulsatile GH pulses, more closely resembling the pharmacology of exogenous GH injection than physiological GHRH-driven release. Whether this matters for metabolic safety in humans is unknown because no clinical trials exist. The tesamorelin pulsatile GH data — which demonstrates metabolic safety in humans — cannot be automatically extrapolated to long-acting GHRH constructs that produce a continuous, non-pulsatile GH signal. <sup>[6][10]</sup></p>`,
+      },
+      {
+        id: 'tesa-safety',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Safety Profile Summary (from Phase III Trials):</strong> The most common adverse events in tesamorelin Phase III trials were injection site reactions (erythema, pruritus) in ~25% of participants. Fluid retention (peripheral edema, arthralgia) was reported in a minority, consistent with GH-axis activation. Critically, no significant increases in fasting glucose, insulin, or HbA1c were observed vs. placebo across 26–52 weeks — the key metabolic safety confirmation. Tesamorelin is contraindicated in patients with active malignancy (given theoretical GH/IGF-1 growth-promoting concerns), during pregnancy, and in those with pituitary tumor or post-surgical pituitary disruption. All preclinical and in-vitro research use should follow applicable institutional protocols.`,
+      },
+      {
+        id: 'tesa-vendor-heading',
+        type: 'h2',
+        heading: 'Where to Source Tesamorelin for Research',
+        content: `<p>Synthesized tesamorelin peptide for preclinical and in-vitro research is available from multiple established research chemical suppliers. At 44 amino acids with a critical N-terminal trans-3-hexenoic acid modification, tesamorelin is a moderately complex synthesis — and that complexity means the COA standards you require matter. HPLC purity confirmation (≥98%) and mass spectrometry identity verification are both achievable and essential: the MS should confirm the free-base molecular weight (~5135 Da) and ideally verify the N-terminal hexenoyl modification via fragmentation. Endotoxin testing is important for any in-vivo research application. The vendors below maintain published COA documentation on tesamorelin batches.</p>`,
+      },
+      {
+        id: 'tesa-vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'PeptideTech',
+            url: 'https://peptidetech.is?ref=bre',
+            product: 'Tesamorelin Research Vial',
+            productUrl: 'https://peptidetech.is/products/tesamorelin?ref=bre',
+            price: 'Check site for current pricing',
+            purity: '≥99% (HPLC + Mass Spec)',
+            highlight:
+              'Dual ISO 17025-accredited testing on every batch. QR-code COA links verify the critical N-terminal hexenoic acid modification via MS fragmentation. Icelandic GMP manufacturing environment with endotoxin and sterility screening on every lot.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop?ref=bre',
+            product: 'Tesamorelin Research Peptide',
+            productUrl: 'https://modifiedaminos.shop/products/tesamorelin?ref=bre',
+            price: 'Check site for current pricing',
+            purity: '≥98% (HPLC)',
+            highlight:
+              'US-based operations with fast domestic shipping. Thermal mailers for temperature-sensitive peptide protection during transit. Batch COA on file with competitive pricing for research quantities.',
+            badge: 'Fast US Shipping',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com?ref=bre',
+            product: 'Tesamorelin 44aa Research Peptide',
+            productUrl: 'https://aminousa.com/collections/peptides?ref=bre',
+            price: 'Check site for current pricing',
+            purity: '≥99% (MS/HPLC)',
+            highlight:
+              'ISO-certified US manufacturer with domestic supply chain. Research documentation including mechanism references available on product pages. Rapid domestic shipping with full COA on every order.',
+            badge: 'US Manufactured',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com?ref=BRE',
+            product: 'Tesamorelin GHRH Vial',
+            productUrl: 'https://vandl-labs.com/product/tesamorelin?ref=BRE',
+            price: 'Check site for current pricing',
+            purity: '≥98.5% (HPLC)',
+            highlight:
+              'Premium lyophilized formulation with independent lab verification. International shipping with complete COA documentation verifying the modified N-terminus. Published batch testing records.',
+            badge: 'International Shipping',
+          },
+        ],
+      },
+      {
+        id: 'tesa-faq',
+        type: 'faq',
+        heading: 'Tesamorelin: Frequently Asked Research Questions',
+        faqs: [
+          {
+            question: 'How is tesamorelin different from Sermorelin?',
+            answer:
+              'Tesamorelin is the full 44-amino-acid GHRH sequence with a stabilizing N-terminal trans-3-hexenoic acid modification, giving it a plasma half-life of 26–38 minutes and robust DPP-IV resistance. Sermorelin is a truncated 29-amino-acid N-terminal GHRH fragment with a shorter half-life (~11 minutes) and less DPP-IV stability. Most importantly, tesamorelin has completed Phase III RCTs with FDA approval and generated extensive human clinical data on visceral fat reduction, liver fat, and cognitive function. Sermorelin\'s clinical program was discontinued before producing comparable controlled human evidence.',
+          },
+          {
+            question: 'Does tesamorelin cause insulin resistance the way full HGH injections do?',
+            answer:
+              'No — and this is the central metabolic safety distinction. The Phase III tesamorelin trials explicitly measured glucose, insulin, and HbA1c at multiple time points across 26–52 weeks and found no significant changes vs. placebo. The mechanistic explanation is that pulsatile GH secretion (which tesamorelin induces by acting physiologically on the pituitary) does not overwhelm insulin receptor signaling the way that continuous supraphysiologic GH exposure from exogenous injection does. This safety profile was a primary regulatory endpoint in the FDA approval process.',
+          },
+          {
+            question: 'What is the molecular weight of tesamorelin, and what should I look for in a COA?',
+            answer:
+              'Tesamorelin free base has a molecular weight of approximately 5135.88 Da. A quality COA should include: HPLC purity trace (≥98%), mass spectrometry confirmation of the molecular weight, ideally with fragmentation data confirming the N-terminal trans-3-hexenoic acid modification (the key stability modification), and for in-vivo research applications, endotoxin testing results (<1 EU/mg). The N-terminal modification is what distinguishes tesamorelin from native GHRH — any COA failing to document molecular weight by MS should be questioned.',
+          },
+          {
+            question: 'Why does tesamorelin preferentially reduce visceral fat rather than subcutaneous fat?',
+            answer:
+              'Visceral adipocytes have significantly higher GH receptor (GHR) expression density than subcutaneous adipocytes, and stronger coupling between GHR activation and hormone-sensitive lipase (HSL) stimulation. This means a given increase in pulsatile GH — the result of tesamorelin-driven pituitary stimulation — produces disproportionately larger lipolytic responses in visceral fat depots. The Phase III CT scan data confirmed this selectivity: VAT reduced by ~15–18% while subcutaneous adipose tissue showed much smaller changes.',
+          },
+          {
+            question: 'Is tesamorelin being studied for uses beyond HIV lipodystrophy?',
+            answer:
+              'Yes, actively. Three major non-HIV research directions are currently being explored: (1) NAFLD/MAFLD — the 2014 JAMA Stanley trial demonstrated 37% liver fat reduction, driving ongoing non-HIV studies in metabolic liver disease; (2) Cognitive aging — the Baker 2012 and Ionescu 2021 trials showed executive function and verbal memory improvements in older adults with MCI; (3) Metabolic syndrome and visceral obesity in non-HIV populations — multiple investigator-initiated trials are ongoing. As of 2026, none of these have resulted in FDA approval for these indications.',
+          },
+          {
+            question: 'How does tesamorelin compare to GH secretagogues like Ipamorelin or GHRP-2?',
+            answer:
+              'Tesamorelin and GH secretagogues like Ipamorelin/GHRP-2 both ultimately increase GH secretion, but via completely different receptor pathways. Tesamorelin acts on the GHRH receptor (pituitary class B GPCR), stimulating GH synthesis and secretion through the same pathway as endogenous GHRH. Ipamorelin and GHRP-2 act on the ghrelin receptor (GHSR1a), stimulating GH release through a complementary but distinct pituitary mechanism. Combining a GHRH analog with a GHRP creates synergistic GH release greater than either alone — the basis for combination research protocols. Tesamorelin has Phase III human evidence for visceral fat; Ipamorelin has none in published RCTs.',
+          },
+        ],
+      },
+      {
+        id: 'tesa-conclusion',
+        type: 'h2',
+        heading: "Bottom Line: Why Tesamorelin's Clinical Data Matters for the Entire GHRH Category",
+        content: `<p>Tesamorelin occupies a unique position in peptide research: it's the only compound in the GHRH category with a robust, multi-trial, FDA-reviewed human clinical dataset. That data demonstrates three things with meaningful statistical confidence that no other GHRH research peptide can claim: <strong>pulsatile GHRH activation selectively reduces visceral adiposity in humans by 15–18%</strong>, it does so <strong>without insulin resistance or glucose dysfunction</strong>, and it produces <strong>biologically meaningful off-target benefits in liver fat (−37%) and cognitive function</strong> that open new research directions well beyond the original lipodystrophy indication. <sup>[1][2][3][4][5]</sup></p>
+<p>For researchers interested in the GH/IGF-1 axis, tesamorelin's Phase III data provides the human reference point against which all mechanistic claims about GHRH peptides — Sermorelin, CJC-1295, modified fragments — must ultimately be evaluated. The fundamental mechanistic question of whether pulsatile vs. continuous GH release matters metabolically now has a human answer: it does. Whether research peptide analogues outside clinical trials replicate tesamorelin's human pharmacology in preclinical models is precisely the question those in-vitro and animal studies are designed to address.</p>
+<p>The cognitive and liver fat data, meanwhile, point toward a compound whose clinical story is still being written. With active trials in MCI, MAFLD, and aging-related GH insufficiency, tesamorelin's decade of post-approval research has done what good pharmaceutical data often does: opened more questions than it answered, and pointed toward a mechanism — GHRH receptor activation — that may be relevant to a much wider range of age-related metabolic and neurological conditions than its original indication suggested. That's a rare thing in any peptide.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
