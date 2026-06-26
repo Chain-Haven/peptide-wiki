@@ -19889,8 +19889,6 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
-]
-
   {
     slug: 'best-peptides-for-gut-health-2026',
     title: 'Best Peptides for Gut Health in 2026: BPC-157, KPV & the Science of Intestinal Repair',
