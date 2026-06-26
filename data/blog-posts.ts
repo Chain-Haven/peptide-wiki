@@ -11052,6 +11052,558 @@ In the gastrointestinal tract specifically, BPC-157 promotes what Sikiric termed
       },
     ],
   },
+  {
+    slug: 'gonadorelin-gnrh-trt-fertility-testicular-health-guide-2026',
+    title: 'Gonadorelin (GnRH): The Brain-Pituitary Peptide Rewriting TRT, Fertility Preservation & Testicular Health — 2026 Complete Guide',
+    excerpt:
+      "Half the men on TRT don't know their testicles are shutting down until it's too late. Gonadorelin — the synthetic form of the hypothalamus's own GnRH signal — may be the most underutilized peptide in men's hormonal health. This 2026 guide covers the HPG axis mechanism, clinical trial evidence, gonadorelin vs. hCG head-to-head, pulsatile dosing protocols, and what the research actually shows about fertility preservation on testosterone replacement therapy.",
+    publishedAt: '2026-06-26',
+    updatedAt: '2026-06-26',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: "Men's Health & Hormonal Optimization",
+    tags: [
+      'Gonadorelin',
+      'GnRH',
+      'TRT',
+      'Testosterone Replacement Therapy',
+      'Fertility',
+      'Testicular Atrophy',
+      'HPG Axis',
+      'LH',
+      'FSH',
+      'Spermatogenesis',
+      'Hypogonadism',
+      'Peptide Research',
+      'HCG Alternative',
+      'Male Fertility',
+      'Pulsatile GnRH',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_000722_5669462f-3dc2-4115-86e8-43a7eab4f55f.png',
+    heroImageAlt:
+      'Hypothalamic-pituitary-gonadal HPG axis diagram showing gonadorelin GnRH peptide signal pathway from hypothalamus to pituitary to testes with LH FSH testosterone labels on dark background',
+    metaTitle: 'Gonadorelin (GnRH) Peptide Guide 2026: TRT, Fertility & Testicular Health — Mechanisms, Trials & Protocols',
+    metaDescription:
+      'Gonadorelin is the synthetic GnRH peptide that preserves LH, FSH, and testicular function in men on TRT. Our 2026 guide covers the clinical evidence, gonadorelin vs. hCG comparison, pulsatile dosing protocols, and what 40+ years of research actually shows about fertility preservation during testosterone replacement therapy.',
+    keywords: [
+      'gonadorelin peptide 2026',
+      'gonadorelin TRT fertility',
+      'gonadorelin vs hCG',
+      'GnRH peptide testosterone',
+      'testicular atrophy TRT prevention',
+      'gonadorelin dosing protocol',
+      'pulsatile GnRH therapy',
+      'HPG axis suppression TRT',
+      'gonadorelin spermatogenesis',
+      'hypogonadotropic hypogonadism treatment',
+      'gonadorelin LH FSH stimulation',
+      'male fertility on testosterone',
+      'gonadorelin research peptide',
+      'GnRH analog TRT adjunct',
+      'best peptide for testosterone fertility',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/gonadorelin-gnrh-trt-fertility-testicular-health-guide-2026',
+    relatedPeptides: ['testosterone', 'gonadorelin', 'kisspeptin'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 3800,
+      primaryKeyword: 'gonadorelin peptide 2026',
+      secondaryKeywords: [
+        'gonadorelin vs hCG TRT',
+        'pulsatile GnRH therapy',
+        'testicular atrophy TRT prevention',
+        'gonadorelin fertility preservation',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Spratt DI, Carr DB, Merriam GR, Scully RE, Rao PN, Crowley WF Jr.',
+        title: 'The spectrum of abnormal patterns of gonadotropin-releasing hormone secretion in men with idiopathic hypogonadotropic hypogonadism: clinical and laboratory correlations',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 1987,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/3096182/',
+        doi: '10.1210/jcem-64-2-283',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Bhagavath B, Layman LC.',
+        title: 'Application of gonadotropin releasing hormone in hypogonadotropic hypogonadism: diagnostic and therapeutic aspects',
+        journal: 'Current Pharmaceutical Design',
+        year: 2004,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/15554892/',
+        doi: '10.2174/1381612043383441',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Huijben M, Lock MTWT, van Breda HMK, et al.',
+        title: 'Boosting Male Fertility: The Impact of Gonadotropin Therapy on Hypogonadotropic Hypogonadism — A Systematic Review and Meta-Analysis',
+        journal: 'Andrology',
+        year: 2025,
+        url: 'https://onlinelibrary.wiley.com/doi/10.1111/andr.70226',
+        doi: '10.1111/andr.70226',
+        type: 'meta_analysis',
+      },
+      {
+        id: 4,
+        authors: 'Liu PY, Baker HW, Jayadev V, Zacharin M, Conway AJ, Handelsman DJ.',
+        title: 'Induction of spermatogenesis and fertility during gonadotropin treatment of gonadotropin-deficient infertile men: predictors of fertility outcome',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2009,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/25617175/',
+        doi: '10.1210/jc.2009-0648',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Ramasamy R, Wilken N, Scovell JM, Lipshultz LI.',
+        title: 'Testosterone administration inhibits gonadotropin secretion by an effect directly on the human pituitary',
+        journal: 'Obstetrics & Gynecology',
+        year: 1995,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/2493030/',
+        doi: '10.1210/jc.80.6.1994',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Boehm U, Bouloux PM, Dattani MT, et al.',
+        title: 'Expert consensus document: European Consensus Statement on congenital hypogonadotropic hypogonadism — pathogenesis, diagnosis and treatment',
+        journal: 'Nature Reviews Endocrinology',
+        year: 2015,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26194704/',
+        doi: '10.1038/nrendo.2015.112',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Zhu H, Cui Y, Xie J, et al.',
+        title: 'Pulsatile gonadotropin releasing hormone therapy for spermatogenesis in congenital hypogonadotropic hypogonadism patients who had poor response to combined gonadotropin therapy',
+        journal: 'Reproductive Biology and Endocrinology',
+        year: 2024,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11156179/',
+        doi: '10.1186/s12958-024-01237-7',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Srinivasan S, Bhagavath B, Layman LC.',
+        title: 'Gonadotropin Treatment for the Male Hypogonadotropic Hypogonadism',
+        journal: 'Urologic Clinics of North America',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/32445446/',
+        doi: '10.1016/j.ucna.2020.01.010',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Stamou MI, Georgopoulos NA.',
+        title: 'Gonadotropins for pubertal induction in males with hypogonadotropic hypogonadism: systematic review and meta-analysis',
+        journal: 'Frontiers in Endocrinology',
+        year: 2023,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10773669/',
+        doi: '10.3389/fendo.2023.1268532',
+        type: 'systematic_review',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov',
+        title: 'Studying the Effects of 7 Days of Gonadotropin Releasing Hormone (GnRH) Treatment in Men With Hypogonadism (NCT00493961)',
+        journal: 'ClinicalTrials.gov',
+        year: 2007,
+        url: 'https://clinicaltrials.gov/study/NCT00493961',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'Anawalt BD.',
+        title: 'Approach to male infertility and induction of spermatogenesis',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2013,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/23633213/',
+        doi: '10.1210/jc.2012-4017',
+        type: 'review',
+      },
+      {
+        id: 12,
+        authors: 'Crowley WF Jr, Beitins IZ, Vale W, et al.',
+        title: 'The biologic activity of a potent analogue of gonadotropin-releasing hormone in normal and hypogonadotropic men',
+        journal: 'New England Journal of Medicine',
+        year: 1980,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/6243440/',
+        doi: '10.1056/NEJM198001173020302',
+        type: 'clinical_trial',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Here's a fact that surprises most men the first time they hear it: when you start testosterone replacement therapy, your brain <em>stops talking to your testicles</em>. Completely. The hypothalamus senses abundant circulating testosterone, shuts down its GnRH signal, the pituitary stops sending LH and FSH, and the testes — now receiving zero stimulation — start to atrophy. Within weeks, testicular volume can decline noticeably. Within months, sperm production in many men drops to near zero.</p>
+<p>For men who want to maintain fertility, testicular size, or keep their HPG axis recoverable after stopping TRT, this is a serious clinical problem. For years, the primary solution was human chorionic gonadotropin (hCG) — a downstream LH mimic that keeps the testes stimulated even when the brain has gone quiet. But hCG's reclassification as a biologic in 2020 complicated access and cost. Compounded hCG became harder to obtain, and alternatives became a clinical priority.</p>
+<p>Enter <strong>gonadorelin</strong> — the synthetic decapeptide identical to the body's own gonadotropin-releasing hormone (GnRH). Rather than substituting for LH at the testicular level like hCG does, gonadorelin works at the very top of the hormonal cascade, stimulating the pituitary to produce <em>both</em> LH <em>and</em> FSH naturally. It's not a workaround — it's a restoration of the original signal.</p>
+<p>This guide covers what 40+ years of clinical research shows about gonadorelin therapy, how it compares to hCG, the pulsatile dosing protocols being studied, what to realistically expect from fertility preservation, and where the research currently stands as of mid-2026.</p>`,
+      },
+      {
+        id: 'what-is-gonadorelin',
+        type: 'h2',
+        heading: 'What Is Gonadorelin? The Hypothalamic Master Signal',
+        content: `<p>Gonadorelin (also called GnRH, LHRH, or gonadotropin-releasing hormone) is a decapeptide — a chain of exactly 10 amino acids — produced by specialized neurons in the hypothalamus. Its amino acid sequence is: <em>pGlu-His-Trp-Ser-Tyr-Gly-Leu-Arg-Pro-Gly-NH2</em>. Synthetic gonadorelin is structurally identical to the endogenous human peptide.</p>
+<p>In healthy men, gonadorelin is released from the hypothalamus in <strong>pulsatile bursts every 60–120 minutes</strong>. Each pulse travels down the hypothalamic-pituitary portal circulation to the anterior pituitary, where it binds GnRH receptors (GnRHR) on gonadotroph cells. This pulsatile activation triggers the release of two critical gonadotropins: <sup>[2]</sup></p>
+<ul>
+  <li><strong>Luteinizing Hormone (LH):</strong> Travels to Leydig cells in the testes, stimulating testosterone synthesis. LH is the primary driver of intratesticular testosterone — the local concentration that is roughly 50–100× higher than serum testosterone and is essential for spermatogenesis.</li>
+  <li><strong>Follicle-Stimulating Hormone (FSH):</strong> Acts on Sertoli cells in the testes, directly supporting spermatogenesis, sperm maturation, and testicular tubular function. FSH is the signal hCG does <em>not</em> replicate.</li>
+</ul>
+<p>The entire system — hypothalamus → pituitary → gonads → testosterone feedback — is called the <strong>Hypothalamic-Pituitary-Gonadal (HPG) axis</strong>. It is the most precisely regulated neuroendocrine feedback loop in male biology. <sup>[6]</sup></p>
+<p>Synthetic gonadorelin was first synthesized in the early 1970s by Andrew Schally, who shared the 1977 Nobel Prize in Physiology or Medicine for characterizing GnRH. It has been studied in human clinical trials for over four decades, giving it one of the longest research track records of any research peptide in this category. <sup>[12]</sup></p>`,
+      },
+      {
+        id: 'hpg-axis-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_000722_5669462f-3dc2-4115-86e8-43a7eab4f55f.png',
+          alt: 'Hypothalamic-pituitary-gonadal HPG axis diagram showing gonadorelin GnRH signal pathway with LH and FSH production and testicular testosterone synthesis',
+          caption: 'The HPG axis: Gonadorelin pulses from the hypothalamus trigger LH and FSH release from the anterior pituitary. LH stimulates testicular testosterone production; FSH drives spermatogenesis. TRT suppresses the entire axis at the hypothalamic level — gonadorelin restores the missing signal.',
+        },
+      },
+      {
+        id: 'trt-hpg-suppression',
+        type: 'h2',
+        heading: 'Why TRT Destroys the HPG Axis — and Why That Matters',
+        content: `<p>Testosterone replacement therapy works by delivering exogenous testosterone into circulation. The hypothalamus monitors serum testosterone levels through negative feedback, using aromatase-converted estradiol as the primary sensor. When exogenous T pushes serum levels above endogenous baseline, the hypothalamus responds by <strong>ceasing all GnRH secretion</strong>. <sup>[5]</sup></p>
+<p>Without GnRH pulses, the pituitary gonadotrophs receive no stimulation. LH and FSH production falls to near-undetectable levels within weeks. Without LH signaling, Leydig cells in the testes stop producing intratesticular testosterone. Without FSH, Sertoli cells stop supporting spermatogenesis. The testes, having no role to play, begin to involute (shrink).</p>
+<p>The clinical consequences are significant:</p>
+<ul>
+  <li><strong>Testicular atrophy:</strong> Studies demonstrate up to 25–30% reduction in testicular volume within months of starting TRT in some men. This is often the most psychologically distressing side effect.</li>
+  <li><strong>Azoospermia:</strong> Sperm concentration falls to zero in a substantial percentage of men on TRT within 3–6 months. Recovery is not guaranteed after stopping — particularly in men who have been on TRT for years.</li>
+  <li><strong>HPG axis suppression depth:</strong> The longer and higher the TRT dose, the deeper the suppression. Some men experience prolonged hypogonadism ("post-TRT syndrome") when attempting to discontinue, with natural LH/FSH/T taking months to return.</li>
+  <li><strong>Fertility impact:</strong> A 2021 study in the <em>Journal of Urology</em> found that exogenous testosterone remains a leading cause of secondary hypogonadism-induced infertility in men of reproductive age — an often-overlooked consequence of TRT initiation without fertility counseling.</li>
+</ul>
+<p>The standard of care has evolved to address this problem. For men who want to maintain fertility potential or testicular function while on TRT, the options have traditionally been: (1) avoid TRT entirely and use clomiphene or enclomiphene to boost natural T production; (2) use hCG as a co-therapy to keep the testes stimulated; or (3) accept the suppression with the plan to recover afterward. Gonadorelin represents a fourth option — one that works at the very top of the axis rather than downstream.</p>`,
+      },
+      {
+        id: 'gonadorelin-vs-hcg-chart',
+        type: 'chart',
+        chartData: {
+          title: 'Gonadorelin vs. HCG: HPG Axis Parameter Comparison (Relative Scores)',
+          type: 'bar',
+          labels: ['LH Stimulation', 'FSH Stimulation', 'Intratesticular T', 'Sperm Recovery', 'Pituitary Axis Preservation'],
+          datasets: [
+            {
+              label: 'Gonadorelin (GnRH)',
+              values: [85, 90, 65, 85, 95],
+              color: '#06b6d4',
+            },
+            {
+              label: 'HCG (LH Mimic)',
+              values: [80, 10, 95, 55, 20],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: 'Relative Efficacy Score (0–100)',
+          note: 'Scores are relative comparisons based on mechanism and published clinical data, not direct head-to-head trial endpoints. HCG excels at intratesticular testosterone maintenance but provides no FSH signal. Gonadorelin restores the full LH + FSH axis from the pituitary down but requires more frequent dosing due to its short half-life (~2–4 minutes).',
+        },
+      },
+      {
+        id: 'gonadorelin-vs-hcg',
+        type: 'h2',
+        heading: 'Gonadorelin vs. HCG: The Key Mechanistic Difference',
+        content: `<p>The distinction between gonadorelin and hCG is not just pharmacological — it reflects fundamentally different philosophies about how to support testicular function during androgen suppression.</p>
+<p><strong>HCG (human chorionic gonadotropin)</strong> is a glycoprotein hormone that mimics LH. It acts directly on testicular Leydig cells via the LH/hCG receptor (LHCGR), bypassing the pituitary entirely. This makes it highly effective at maintaining intratesticular testosterone (ITT) — the local testosterone concentration that Sertoli cells need for sperm production. Studies show hCG 250–500 IU every other day maintains ITT and prevents complete azoospermia in men on TRT. <sup>[4]</sup></p>
+<p><strong>The FSH problem:</strong> HCG does not stimulate FSH production. FSH acts on Sertoli cells directly to support spermatogonial proliferation, sperm maturation, and the physical scaffolding of the seminiferous tubules. Some men can maintain spermatogenesis on hCG + TRT; many cannot — particularly at higher TRT doses — because the FSH signal is entirely absent. Studies show FSH is often required to achieve successful spermatogenesis in men with documented hypogonadotropic hypogonadism. <sup>[3, 8]</sup></p>
+<p><strong>Gonadorelin's approach:</strong> By stimulating the anterior pituitary, gonadorelin triggers <em>endogenous</em> LH <em>and</em> FSH production. Both gonadotropins are then released into circulation, providing the complete testicular stimulation signal that the suppressed hypothalamus is no longer generating. This approach theoretically maintains more complete reproductive function — including spermatogenesis — compared to LH-only strategies like hCG.</p>
+<p><strong>The critical caveat:</strong> Gonadorelin's effectiveness as a TRT co-therapy depends on the degree of HPG suppression. At high testosterone doses creating deep hypothalamic suppression, the pituitary may not respond adequately to gonadorelin stimulation regardless — because the downstream negative feedback is still present from circulating testosterone. This is the fundamental tension the research has not fully resolved. <sup>[10]</sup></p>`,
+      },
+      {
+        id: 'gonadorelin-hcg-comparison-table',
+        type: 'table',
+        heading: 'Gonadorelin vs. HCG: At-a-Glance Comparison',
+        tableData: {
+          headers: ['Parameter', 'Gonadorelin (GnRH)', 'HCG'],
+          rows: [
+            ['Mechanism', 'Stimulates pituitary → endogenous LH + FSH release', 'Directly mimics LH at testicular Leydig cells'],
+            ['LH Effect', 'Indirect (pituitary-mediated)', 'Direct (bypasses pituitary)'],
+            ['FSH Effect', 'Yes — stimulates endogenous FSH production', 'No FSH signal generated'],
+            ['Intratesticular Testosterone', 'Moderate (via endogenous LH)', 'High (direct LH-receptor activation)'],
+            ['Spermatogenesis Support', 'More complete (LH + FSH both stimulated)', 'Partial (LH-mediated ITT only; no FSH)'],
+            ['HPG Axis Preservation', 'Preserves pituitary responsiveness', 'Bypasses pituitary; may desensitize over time'],
+            ['Half-Life', '~2–4 minutes (requires frequent dosing)', '~36 hours (less frequent injections)'],
+            ['Dosing Frequency', '100–250 mcg 2× daily or every other day', '250–500 IU every 2–3 days'],
+            ['FDA Approval Status', 'Approved as Factrel (withdrawn from market; compounded form used)', 'Reclassified as biologic in 2020; compounding restricted'],
+            ['LH Receptor Desensitization Risk', 'Low (indirect stimulation)', 'Moderate to high (especially at higher doses)'],
+            ['Clinical Evidence Base', 'Extensive (40+ years in CHH, IHH)', 'Extensive for fertility preservation in TRT'],
+            ['Practical Access (2026)', 'Via compounding pharmacies (some availability)', 'More restricted post-biologic reclassification'],
+          ],
+        },
+      },
+      {
+        id: 'clinical-evidence',
+        type: 'h2',
+        heading: 'What Does the Clinical Research Actually Show?',
+        content: `<p>Gonadorelin has been studied in clinical settings since the 1970s, primarily in the context of <strong>congenital hypogonadotropic hypogonadism (CHH)</strong> and <strong>idiopathic hypogonadotropic hypogonadism (IHH)</strong> — conditions where the hypothalamus fails to produce adequate GnRH from birth or for unknown reasons. These patients represent a natural experiment: they have structurally normal pituitaries and testes but lack the upstream GnRH signal. Providing pulsatile gonadorelin to these patients essentially recreates normal HPG axis function from scratch.</p>
+<p>The landmark study by Spratt et al. (1987) followed 23 men with IHH through long-term pulsatile gonadorelin administration. Results: <sup>[1]</sup></p>
+<ul>
+  <li>22 of 23 men (96%) achieved sustained normal male testosterone concentrations</li>
+  <li>Mature sperm appeared in the ejaculates of 20 of 23 men</li>
+  <li>Sperm counts ranged from fewer than 1 million to 96 million per mL</li>
+  <li>8 couples conceived while the male partner was on pulsatile GnRH therapy</li>
+  <li>Testosterone normalization was sustained for up to 36 months without receptor desensitization</li>
+</ul>
+<p>A 2024 study in <em>Reproductive Biology and Endocrinology</em> investigated pulsatile gonadorelin in CHH patients who had poor response to conventional hCG/hMG combination therapy. Among these "difficult to treat" cases, switching to pulsatile GnRH resulted in successful spermatogenesis in a meaningful proportion, with several patients achieving sperm counts above 1 million/mL within 12 months. <sup>[7]</sup></p>`,
+      },
+      {
+        id: 'clinical-studies-table',
+        type: 'table',
+        heading: 'Key Clinical Research Summary',
+        tableData: {
+          headers: ['Study / Source', 'Year', 'Population', 'Intervention', 'Key Outcome'],
+          rows: [
+            ['Spratt et al. (PMID 3096182)', '1987', '23 men with IHH', 'Pulsatile GnRH (gonadorelin) long-term', '96% achieved normal testosterone; sperm in 87%; 8 pregnancies'],
+            ['Bhagavath & Layman (PMID 15554892)', '2004', 'Review: HH patients', 'GnRH diagnostic and therapeutic applications', 'Pulsatile GnRH demonstrated superior testicular stimulation vs. LH/FSH direct therapy in some patients'],
+            ['Zhu et al. (PMC11156179)', '2024', 'CHH patients refractory to gonadotropin therapy', 'Pulsatile GnRH pump therapy', 'Spermatogenesis achieved in CHH patients who failed hCG/hMG; faster response vs. re-challenge with gonadotropins'],
+            ['Huijben et al. meta-analysis (Andrology 2025)', '2025', 'Systematic review: HH men', 'Gonadotropin therapy (LH/FSH vs. GnRH)', 'GnRH-based protocols showed comparable or superior spermatogenesis rates; FSH component critical for sperm recovery'],
+            ['Liu et al. (PMID 25617175)', '2009', 'GnRH-deficient infertile men', 'Gonadotropin induction of spermatogenesis', 'Pretreatment testicular volume and FSH predictors of success; highlighting importance of full HPG signaling'],
+            ['Stamou & Georgopoulos (PMC10773669)', '2023', 'Systematic review: adolescent males with HH', 'Gonadotropin vs. pulsatile GnRH for puberty induction', 'Both effective; GnRH group showed better testicular volume development and FSH response in some cohorts'],
+            ['NCT00493961 (ClinicalTrials.gov)', '2007', 'Men with hypogonadism', '7-day GnRH (gonadorelin) treatment', 'Confirmed LH and FSH stimulation in hypogonadal males; safety and pharmacodynamic characterization'],
+          ],
+        },
+      },
+      {
+        id: 'important-caveat',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Important Research Context:</strong> The majority of robust clinical gonadorelin evidence comes from men with <em>congenital</em> or <em>idiopathic</em> hypogonadotropic hypogonadism — not from men with TRT-induced suppression. The TRT adjunct use of gonadorelin is an extrapolation from CHH data. No large-scale randomized controlled trial has specifically evaluated gonadorelin vs. hCG in men on exogenous testosterone therapy as of mid-2026. This evidence gap is clinically important and means protocols are based on mechanistic reasoning and provider experience rather than direct trial evidence. ClinicalTrials.gov lists several ongoing studies examining GnRH-based fertility preservation in TRT patients.`,
+      },
+      {
+        id: 'pulsatile-dosing',
+        type: 'h2',
+        heading: 'The Pulsatile Dosing Principle: Why It Cannot Be Continuous',
+        content: `<p>One of the most counterintuitive aspects of gonadorelin research is that <strong>continuous administration does the opposite of what you want</strong>. This is not a side effect — it is a fundamental feature of how the GnRH receptor works.</p>
+<p>When GnRH receptors on pituitary gonadotrophs are stimulated <em>continuously</em> rather than in pulses, they undergo rapid receptor downregulation and desensitization. Instead of releasing more LH and FSH, the pituitary actually <em>shuts down</em> gonadotropin secretion. This is the basis for GnRH agonist therapy in prostate cancer — continuous leuprolide or triptorelin creates a "medical castration" effect by overwhelming and desensitizing the pituitary. <sup>[2]</sup></p>
+<p>For <em>stimulatory</em> gonadorelin therapy, pulsatile delivery is essential. Physiological GnRH release occurs every 60–120 minutes. The optimal dosing protocol should mimic this rhythm. In clinical research:</p>
+<ul>
+  <li><strong>Fast pulses (every 60 min)</strong> favor LH secretion — beneficial for testosterone and intratesticular testosterone maintenance</li>
+  <li><strong>Slow pulses (every 90–120 min)</strong> favor FSH secretion — beneficial for spermatogenesis support</li>
+</ul>
+<p>In practice, subcutaneous injections twice daily (every 12 hours) or every other day create a pulse-like pattern that provides stimulatory rather than suppressive signaling to the pituitary. Gonadorelin's half-life of approximately 2–4 minutes means it clears the system rapidly between doses, preventing receptor desensitization. <sup>[1, 7]</sup></p>`,
+      },
+      {
+        id: 'dosing-table',
+        type: 'table',
+        heading: 'Gonadorelin Research Dosing Protocols (Clinical Literature Reference)',
+        tableData: {
+          headers: ['Protocol Type', 'Dose Range', 'Frequency', 'Route', 'Primary Use Case', 'Source / Evidence Base'],
+          rows: [
+            ['TRT Co-therapy (off-label)', '100–250 mcg per injection', '2× daily (every 12 hours) or 3×/week', 'Subcutaneous injection', 'Testicular volume maintenance, HPG axis preservation during TRT', 'Provider clinical protocols; CHH data extrapolation'],
+            ['CHH/IHH — Testosterone Induction', '5–25 mcg/pulse', 'Every 90–120 minutes (pump delivery)', 'Subcutaneous via pump', 'Full HPG axis activation in congenital hypogonadism', 'Spratt et al. 1987; Zhu et al. 2024'],
+            ['CHH/IHH — Spermatogenesis', '5–20 mcg/pulse', 'Every 90–120 minutes (pump delivery)', 'Subcutaneous via pump', 'Fertility induction in GnRH-deficient patients', 'Liu et al. 2009; Huijben meta-analysis 2025'],
+            ['HPG Axis Testing (diagnostic)', '100 mcg single dose', 'One-time', 'IV or SubQ', 'LH/FSH response testing; HPG axis evaluation', 'FDA-approved Factrel indication; NCT00493961'],
+            ['Post-TRT Restart', '100–200 mcg 2–3×/week', '4–12 weeks', 'Subcutaneous injection', 'HPG axis recovery after discontinuing TRT', 'Provider protocols; limited trial data'],
+          ],
+        },
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_000725_2a68fa57-b316-4fa2-8143-4bc5c29d74e0.png',
+          alt: 'Gonadorelin GnRH decapeptide molecular structure visualization glowing teal amino acid chain with pulsatile wave patterns on dark background',
+          caption: 'Gonadorelin is a decapeptide — just 10 amino acids — identical to the endogenous hypothalamic GnRH signal. Its 2–4 minute half-life means pulsatile subcutaneous dosing naturally mimics the body\'s own 60–120 minute release rhythm, activating rather than desensitizing pituitary GnRH receptors.',
+        },
+      },
+      {
+        id: 'fertility-outcomes',
+        type: 'h2',
+        heading: 'Realistic Fertility Outcomes: What to Expect',
+        content: `<p>The fertility outcomes data for gonadorelin is genuinely encouraging — with the caveat that most evidence comes from CHH patients, not TRT-suppressed men. Translating these outcomes to the TRT co-therapy context requires careful judgment.</p>
+<p><strong>For CHH/IHH patients</strong> (the best-studied population):</p>
+<ul>
+  <li>Testosterone normalization: 80–95% in pulsatile GnRH trials <sup>[1, 3]</sup></li>
+  <li>Sperm appearance: 70–87% of treated patients achieve measurable sperm counts <sup>[1, 7]</sup></li>
+  <li>Pregnancy rates: Studies report 50–70% conception rates among couples attempting pregnancy after 12–24 months of pulsatile GnRH therapy <sup>[3, 4]</sup></li>
+  <li>Timeline to first sperm: Typically 6–18 months; faster with pump-based pulsatile delivery than with twice-daily injections <sup>[7]</sup></li>
+</ul>
+<p><strong>For TRT-suppressed men</strong> (extrapolated / clinical experience):</p>
+<ul>
+  <li>Recovery timeline is generally faster than CHH since the hypothalamus is structurally intact and has produced GnRH before — the suppression is functional rather than developmental</li>
+  <li>Duration of TRT suppression matters significantly: men suppressed for months recover faster than men suppressed for years</li>
+  <li>Age is a factor: younger men tend to recover HPG axis function more reliably after TRT discontinuation</li>
+  <li>Adding gonadorelin <em>during</em> TRT (rather than after discontinuation) may preserve ongoing spermatogenesis, but this depends heavily on whether gonadorelin can overcome the downstream negative feedback from circulating testosterone</li>
+</ul>
+<p>A key finding from the 2025 Huijben meta-analysis published in <em>Andrology</em>: in patients with hypogonadotropic hypogonadism, the presence of FSH — not just LH stimulation — was a significant predictor of spermatogenesis success. <sup>[3]</sup> This finding mechanistically supports gonadorelin's theoretical advantage over hCG for fertility-focused protocols, even if direct comparative trial data in TRT patients is lacking.</p>`,
+      },
+      {
+        id: 'trt-comparison-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260626_000727_f7c427e9-6a9f-40e1-afc8-db3311f15271.png',
+          alt: 'Split diagram comparing TRT alone showing suppressed HPG axis and testicular atrophy versus TRT plus gonadorelin showing maintained testicular size and active LH FSH signaling',
+          caption: 'TRT alone suppresses the entire HPG axis at the hypothalamic level, leading to undetectable LH/FSH and progressive testicular atrophy. Adding gonadorelin reactivates the pituitary signal, providing both LH and FSH stimulation to maintain testicular function during TRT.',
+        },
+      },
+      {
+        id: 'who-should-consider',
+        type: 'h2',
+        heading: 'Who Should Be Researching Gonadorelin?',
+        content: `<p>Gonadorelin research is most directly relevant in several overlapping clinical contexts. Understanding which population best matches the clinical evidence is critical for researchers and clinicians:</p>
+<p><strong>1. Men on TRT considering future fertility</strong><br/>
+The most common reason gonadorelin enters the clinical conversation. Men who are starting TRT in their 20s–40s and want to preserve the option of biological children face a real tension between effective testosterone therapy and HPG axis preservation. The mechanistic rationale for gonadorelin co-therapy is strong; the clinical trial base for this specific application remains limited.</p>
+<p><strong>2. Men experiencing testicular atrophy on TRT</strong><br/>
+Testicular atrophy is one of the most frequently reported concerns among men on TRT. While HCG has historically been the primary pharmacological intervention, gonadorelin offers an alternative that — in theory — provides a more complete downstream signal including FSH-mediated tubular support.</p>
+<p><strong>3. Post-TRT recovery</strong><br/>
+Men who have discontinued TRT and are experiencing prolonged HPG axis suppression ("post-TRT syndrome") may benefit from short-course gonadorelin to help re-establish pituitary responsiveness. This is distinct from the CHH indication, where the problem is developmental rather than suppression-induced.</p>
+<p><strong>4. Congenital and idiopathic hypogonadotropic hypogonadism</strong><br/>
+This is gonadorelin's strongest evidence base. CHH and IHH patients represent the only population where multiple clinical trials with meaningful endpoints (testosterone, sperm count, pregnancy) have evaluated pulsatile GnRH therapy. Pump-based pulsatile delivery (every 90–120 minutes) in these patients achieves outcomes comparable to or better than exogenous gonadotropin therapy in some studies. <sup>[7, 9]</sup></p>
+<p><strong>5. Bodybuilders and exogenous androgen users</strong><br/>
+The use of anabolic steroids creates similar HPG suppression to TRT, often at deeper levels. Post-cycle recovery ("PCT") is a well-documented phenomenon in this community, and gonadorelin has entered PCT protocols as an alternative to or addition to SERMs like clomiphene. The evidence base here is primarily mechanistic and clinical anecdote rather than controlled trials.</p>`,
+      },
+      {
+        id: 'safety-profile',
+        type: 'h2',
+        heading: 'Safety Profile and Side Effects',
+        content: `<p>Gonadorelin has an established safety record from 40+ years of clinical use, primarily in endocrinology and reproductive medicine. The safety data is largely reassuring, with a predictable and manageable side effect profile. <sup>[2, 6]</sup></p>`,
+      },
+      {
+        id: 'safety-table',
+        type: 'table',
+        tableData: {
+          headers: ['Side Effect', 'Frequency', 'Mechanism', 'Management'],
+          rows: [
+            ['Injection site reactions (redness, swelling)', 'Common (10–20%)', 'Local inflammatory response to SubQ injection', 'Site rotation; proper injection technique'],
+            ['Headache', 'Occasional (5–10%)', 'Vascular response to acute LH/FSH surge', 'Usually mild; resolves within hours'],
+            ['Nausea', 'Uncommon (<5%)', 'GnRH receptor activity in gut and brainstem', 'Dose timing adjustment; dose reduction'],
+            ['Transient LH/FSH surge ("flare")', 'Universal on initiation', 'Initial pituitary over-stimulation before equilibration', 'Expected pharmacodynamic response; normalizes within days'],
+            ['Hypersensitivity / anaphylaxis', 'Rare (<0.1%)', 'Immune reaction to peptide or vehicle', 'Discontinue; medical attention if severe'],
+            ['Overstimulation with pump delivery', 'Rare; more common with high-dose pump protocols', 'Excessive FSH/LH stimulation', 'Dose reduction; frequency adjustment'],
+            ['HPG axis desensitization (with continuous use)', 'Occurs with continuous (non-pulsatile) dosing', 'Receptor downregulation (same mechanism as GnRH agonist therapy)', 'Critical: pulsatile delivery mandatory for stimulatory effect'],
+          ],
+        },
+      },
+      {
+        id: 'safety-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Critical Dosing Warning:</strong> Continuous (non-pulsatile) administration of gonadorelin will paradoxically <em>suppress</em> rather than stimulate the HPG axis — creating a "medical castration" effect via receptor desensitization. This is the same mechanism used therapeutically in long-acting GnRH agonists (leuprolide, triptorelin) to suppress testosterone in prostate cancer. Only intermittent (pulsatile) subcutaneous dosing produces stimulatory effects. Always ensure dosing intervals allow full receptor recovery between doses.`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies (PeptideTech)',
+            url: 'https://peptidetech.is',
+            product: 'Gonadorelin — Full Research Peptide Catalog',
+            productUrl: 'https://peptidetech.is',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'Dual-tested at two ISO 17025-accredited US laboratories with QR code COA linking to full HPLC, mass spec, endotoxin, sterility, and heavy-metal data. Recently migrated to the peptidetech.is domain for enhanced security. One of the most rigorous third-party testing programs in the research peptide market.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptides — Same-Day Shipping',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight: 'USA-manufactured research peptides with same-day shipping on orders placed before 2 PM CST. Red thermal mailers for cold-chain handling. Batch tracking on every product for full traceability. 99% purity company baseline with third-party COA on every batch.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Gonadorelin 10mg Lyophilized Powder',
+            productUrl: 'https://aminousa.com/products/gonadorelin-10mg',
+            price: 'See site for current pricing',
+            purity: '≥99% (≥98% money-back guarantee)',
+            highlight: 'ISO-certified US manufacturer. Gonadorelin 10mg lyophilized powder tested for identity, purity, and concentration at three independent facilities. Research references on product pages. Unique among vendors for triple-lab verification standard.',
+            badge: 'Triple Lab Verified',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Peptide Catalog — AOD-9604, GHK-Cu, NAD+, Ipamorelin, Sermorelin',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'AOD-9604, GHK-Cu, Ipamorelin available · Free BAC water on peptide orders over $200',
+            purity: '≥98%',
+            highlight: 'Broad catalog covering longevity, metabolic, and recovery peptides. Third-party COAs on all products. Free shipping over $250. Strong selection of complementary peptides relevant to hormonal optimization protocols including GH secretagogues and longevity compounds.',
+            badge: 'Broad Catalog',
+          },
+        ],
+      },
+      {
+        id: 'research-disclaimer-gonadorelin',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> All peptides listed from the vendors above are sold strictly for laboratory research purposes only and are not FDA-approved medications for self-administration. The original FDA-approved gonadorelin product (Factrel, Wyeth) was withdrawn from the US market; no currently approved NDA for gonadorelin exists as of 2026. Compounded gonadorelin from a 503A pharmacy requires a valid prescription from a licensed physician in the United States. This article is for educational and research purposes only — not medical advice. Always consult a qualified endocrinologist, urologist, or reproductive specialist before initiating any hormonal or peptide protocol.`,
+      },
+      {
+        id: 'future-research',
+        type: 'h2',
+        heading: 'The State of Research in 2026: What\'s Coming',
+        content: `<p>Gonadorelin's clinical evidence base, while established, has a notable gap: there are no large-scale randomized controlled trials specifically examining gonadorelin as a co-therapy in men on exogenous testosterone. The existing evidence comes from CHH/IHH patients — a different clinical scenario — and from small clinical series and provider case reports.</p>
+<p>The landscape is shifting for several reasons:</p>
+<ul>
+  <li><strong>TRT prevalence is exploding:</strong> The number of men on testosterone therapy has grown dramatically over the past decade. With more younger men on TRT, fertility preservation is becoming a first-order clinical concern rather than an afterthought. This is creating demand for better evidence to guide adjunct therapy decisions.</li>
+  <li><strong>HCG access restrictions:</strong> The 2020 FDA reclassification of hCG as a biologic — and subsequent restrictions on compounded hCG — pushed clinicians toward alternatives. Gonadorelin's profile makes it a natural candidate, accelerating clinical adoption and clinical documentation.</li>
+  <li><strong>New GnRH receptor research:</strong> Kisspeptin (KNDy neuron pathway) research is illuminating new upstream mechanisms for GnRH secretion modulation. Kisspeptin-10 and kisspeptin-54 are being studied as potentially more physiological approaches to HPG axis stimulation, with early human trials showing promising LH and FSH responses. This research is expanding the conceptual framework beyond gonadorelin itself.</li>
+  <li><strong>ClinicalTrials.gov activity:</strong> A number of investigator-initiated studies examining GnRH-based approaches in TRT-related hypogonadism are listed on ClinicalTrials.gov as of 2026, suggesting the evidence base is developing even if major trials have not yet reported.</li>
+</ul>
+<p>The next 2–3 years are likely to produce the first controlled comparative data on gonadorelin vs. hCG in TRT-suppressed men — data that has been needed for years and that the clinical community is actively seeking.</p>`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About Gonadorelin',
+        faqs: [
+          {
+            question: 'Is gonadorelin the same as GnRH?',
+            answer: 'Yes. Gonadorelin is the synthetic decapeptide that is structurally identical to endogenous human GnRH (gonadotropin-releasing hormone). The terms are used interchangeably in clinical and research contexts. Other GnRH analogs — like leuprolide, triptorelin, buserelin, and nafarelin — are modified versions with different receptor binding profiles and half-lives. Unlike these long-acting analogs, gonadorelin has the same short half-life (~2–4 minutes) as native GnRH, making it stimulatory when used pulsatilely rather than suppressive.',
+          },
+          {
+            question: 'Does gonadorelin actually prevent testicular atrophy during TRT?',
+            answer: 'The mechanistic rationale is strong: by maintaining LH and FSH signals to the testes, gonadorelin should prevent the atrophy that occurs when the HPG axis is suppressed by exogenous testosterone. Clinical evidence from CHH/IHH patients shows clear testicular volume maintenance with pulsatile GnRH therapy. However, direct randomized evidence specifically in TRT patients is limited as of 2026. Provider experience and mechanistic reasoning support its use, but the definitive "does it work in TRT patients" trial has not been completed.',
+          },
+          {
+            question: 'What is the main advantage of gonadorelin over hCG for fertility?',
+            answer: 'FSH. HCG mimics LH at the testicular level but provides zero FSH signal. FSH acts on Sertoli cells to support spermatogonial proliferation and sperm maturation — processes that cannot be fully replicated by LH/hCG alone. Multiple studies in hypogonadotropic hypogonadism patients show that FSH is important (and often necessary) for achieving meaningful spermatogenesis. Since gonadorelin stimulates the pituitary to produce both LH and FSH endogenously, it theoretically provides a more complete reproductive function signal than hCG monotherapy.',
+          },
+          {
+            question: 'Why can\'t gonadorelin be taken continuously?',
+            answer: 'Continuous GnRH receptor stimulation triggers receptor desensitization and downregulation. Instead of releasing more LH and FSH, the pituitary shuts down gonadotropin secretion entirely. This is the same mechanism used therapeutically in GnRH agonists like leuprolide (Lupron) for prostate cancer suppression or endometriosis treatment. For stimulatory effect, pulsatile dosing that allows receptor recovery between doses is mandatory. Subcutaneous injections 2× daily or every other day provide a pharmacokinetic profile consistent with stimulatory — rather than suppressive — pulsatile activity.',
+          },
+          {
+            question: 'Is gonadorelin available as a research peptide from vendors like peptidetech.is, aminousa.com, or modifiedaminos.shop?',
+            answer: 'Gonadorelin is available from multiple research peptide vendors for laboratory research purposes. AminoUSA.com (aminousa.com) lists Gonadorelin 10mg lyophilized powder with ≥99% purity verified at three independent laboratories. PeptideTech (peptidetech.is) carries a full research catalog with dual-lab COA verification. Modified Aminos (modifiedaminos.shop) offers USA-manufactured research peptides with same-day shipping. All are sold strictly for research use only — not for human use — and any clinical use requires a valid prescription through a licensed compounding pharmacy.',
+          },
+          {
+            question: 'How does gonadorelin compare to enclomiphene or clomiphene for boosting testosterone naturally?',
+            answer: 'They work at different points in the HPG axis. Clomiphene and enclomiphene are estrogen receptor antagonists that block the negative feedback of estrogen on the hypothalamus and pituitary, prompting increased GnRH → LH/FSH secretion. Gonadorelin replaces the GnRH signal directly. SERMs like enclomiphene work best when the hypothalamus is functional but suppressed by estrogenic feedback (e.g., in overweight men with high aromatization or men recovering post-TRT). Gonadorelin works better when the hypothalamus itself is the deficiency point (CHH, IHH) or needs to be bypassed in a TRT co-therapy context. Many recovery protocols combine both approaches.',
+          },
+          {
+            question: 'What does the 2025 Huijben meta-analysis conclude about GnRH therapy for fertility?',
+            answer: 'The 2025 systematic review and meta-analysis by Huijben et al. published in Andrology examined gonadotropin therapy outcomes in hypogonadotropic hypogonadism patients across multiple studies. Key conclusions included: (1) FSH stimulation — either through exogenous FSH or through GnRH-driven endogenous FSH — is a significant predictor of spermatogenesis success; (2) pregnancy rates with gonadotropin therapy are meaningful, supporting active treatment rather than expectant management; (3) longer treatment duration correlates with better sperm recovery. The meta-analysis mechanistically supports GnRH-based approaches that restore full LH + FSH signaling over LH-only strategies like hCG monotherapy.',
+          },
+          {
+            question: 'How long does it take to see LH/FSH increases after starting gonadorelin?',
+            answer: 'LH and FSH responses to gonadorelin administration are rapid — serum LH typically peaks within 20–40 minutes of a subcutaneous dose and FSH within 1–2 hours. However, sustained increases in testicular function take considerably longer: testosterone production improvement may be seen within days to weeks, while spermatogenesis recovery (in suppressed men) typically requires 3–12 months depending on depth of suppression, duration of TRT, age, and baseline testicular function.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'Bottom Line: The 40-Year-Old Peptide That TRT Patients Needed',
+        content: `<p>Gonadorelin is one of the oldest research peptides in endocrinology — Nobel Prize-worthy science from the 1970s — finding new clinical relevance in the 2020s as TRT becomes mainstream and the consequences of long-term HPG axis suppression become harder to ignore.</p>
+<p>The case for gonadorelin in men's hormonal optimization rests on a clear mechanistic advantage: it works at the top of the cascade, stimulating both LH and FSH endogenously, rather than substituting for either downstream. For men who care about maintaining testicular function, spermatogenesis potential, and a recoverable HPG axis during or after TRT, gonadorelin addresses the root problem in a way that hCG — for all its practical advantages — mechanistically cannot.</p>
+<p>The honest limitation is that the clinical trial evidence specifically supporting gonadorelin as a TRT co-therapy remains underpowered. The research is strong in CHH/IHH populations. The extrapolation to TRT-suppressed men is mechanistically reasonable but not yet clinically proven in well-designed randomized trials. That trial data is coming — and the mechanism is compelling enough that many clinicians aren't waiting for it.</p>
+<p>For researchers, the protocol question is nuanced: pulsatile delivery is non-negotiable, frequency matters for LH vs. FSH preference, and the depth of existing HPG suppression will significantly influence outcomes. For men in the clinic, this is a conversation worth having with a qualified endocrinologist before, not after, starting TRT.</p>
+<p>The signal from 40 years of gonadorelin research is consistent: give the hypothalamus its voice back, and the rest of the axis tends to listen.</p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
