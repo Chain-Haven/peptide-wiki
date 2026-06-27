@@ -85,6 +85,474 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'vk2735-glp1-gip-dual-agonist-guide-2026',
+    title: 'VK2735: The Oral GLP-1/GIP Dual Agonist With 14.7% Weight Loss at 13 Weeks — 2026 Research Review',
+    excerpt:
+      'VK2735, the dual GLP-1/GIP receptor agonist from Viking Therapeutics, delivered 14.7% weight loss in just 13 weeks in Phase 2 VENTURE. An oral formulation followed with 12.2% at the same timepoint. Phase 3 VANQUISH-1 has enrolled 4,650 patients, and oral Phase 3 trials are imminent. This is the most closely-watched new metabolic drug of 2026.',
+    publishedAt: '2026-06-27',
+    updatedAt: '2026-06-27',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      'VK2735',
+      'GLP-1 Peptides',
+      'GIP Receptor',
+      'Dual Agonist',
+      'Weight Loss',
+      'Viking Therapeutics',
+      'VENTURE Trial',
+      'VANQUISH Trial',
+      'Oral GLP-1',
+      'Obesity Research',
+      'Metabolic Health',
+      'Clinical Trials',
+      'Tirzepatide Comparison',
+      'New Peptide Drugs 2026',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_020611_4990eeb8-ac8a-4fdd-8081-fd21f04f8c0b.png',
+    heroImageAlt:
+      'Pharmaceutical research laboratory with scientist examining dual GLP-1/GIP receptor agonist peptide molecular model — VK2735 research visualization',
+    metaTitle: 'VK2735 Review 2026: GLP-1/GIP Dual Agonist Phase 2 Results, Oral Form & Tirzepatide Comparison',
+    metaDescription:
+      'VK2735 delivered 14.7% weight loss at 13 weeks in Phase 2 — its oral formulation hit 12.2% at the same timepoint. Full breakdown of VENTURE trial data, mechanism vs tirzepatide, VANQUISH Phase 3 status, and complementary research peptides.',
+    keywords: [
+      'VK2735',
+      'VK2735 weight loss',
+      'VK2735 peptide',
+      'oral VK2735',
+      'VK2735 vs tirzepatide',
+      'VK2735 clinical trial 2026',
+      'VK2735 VENTURE trial',
+      'Viking Therapeutics VK2735',
+      'VANQUISH trial VK2735',
+      'GLP-1 GIP dual agonist',
+      'new weight loss drug 2026',
+      'best GLP-1 peptide 2026',
+      'VK2735 mechanism of action',
+      'oral GLP-1 agonist 2026',
+      'GIP GLP-1 balanced agonist',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/vk2735-glp1-gip-dual-agonist-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'bpc-157', 'ghk-cu', 'kpv'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2800,
+      primaryKeyword: 'VK2735',
+      secondaryKeywords: [
+        'VK2735 weight loss',
+        'VK2735 vs tirzepatide',
+        'oral VK2735',
+        'VK2735 VENTURE trial',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Bays HE, Hammoud A, Karan S, et al. (VENTURE Study Investigators)',
+        title: 'Weekly Subcutaneous VK2735, a GIP/GLP-1 Receptor Dual Agonist, for Weight Management: Phase 2, Randomized, 13-Week VENTURE Study',
+        journal: 'Obesity (Wiley)',
+        year: 2026,
+        url: 'https://onlinelibrary.wiley.com/doi/10.1002/oby.70106',
+        doi: '10.1002/oby.70106',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Viking Therapeutics, Inc.',
+        title: 'Viking Therapeutics Announces Positive Top-Line Results from Phase 2 VENTURE-Oral Dosing Trial of VK2735 Tablet Formulation in Patients with Obesity',
+        journal: 'Viking Therapeutics Investor Relations / PR Newswire',
+        year: 2025,
+        url: 'https://ir.vikingtherapeutics.com/2025-08-19-Viking-Therapeutics-Announces-Positive-Top-Line-Results-from-Phase-2-VENTURE-Oral-Dosing-Trial-of-VK2735-Tablet-Formulation-in-Patients-With-Obesity',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Viking Therapeutics, Inc.',
+        title: 'Viking Therapeutics Presents Data from its 13-Week Phase 2 VENTURE-Oral Dosing Trial of VK2735 at European Congress on Obesity (ECO) 2026',
+        journal: 'PR Newswire / ECO 2026 Istanbul',
+        year: 2026,
+        url: 'https://www.prnewswire.com/news-releases/viking-therapeutics-presents-data-from-its-13-week-phase-2-venture-oral-dosing-trial-of-vk2735-at-european-congress-on-obesity-eco-2026-302768959.html',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Phase 3 Study to Evaluate the Efficacy and Safety of VK2735 in Patients With Obesity or Overweight (VANQUISH-1)',
+        journal: 'ClinicalTrials.gov',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT06616870',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'ClinicalTrials.gov',
+        title: 'A Phase 3 Study to Evaluate the Efficacy and Safety of VK2735 in Patients With Type 2 Diabetes Mellitus and Overweight or Obesity (VANQUISH-2)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07104383',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity (SURMOUNT-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Willard FS, Douros JD, Gabe MBN, et al.',
+        title: 'Tirzepatide is an imbalanced and biased dual GIP and GLP-1 receptor agonist',
+        journal: 'JCI Insight',
+        year: 2020,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7526454/',
+        doi: '10.1172/jci.insight.140532',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Investigators)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity (STEP-1)',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. (SELECT Investigators)',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes (SELECT Trial)',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37956301/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, et al.',
+        title: 'Stable gastric pentadecapeptide BPC 157: novel therapy in gastrointestinal tract',
+        journal: 'Current Pharmaceutical Design',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21500845/',
+        doi: '10.2174/138161211798768008',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>The GLP-1/GIP dual agonist space just gained its most credible challenger to Mounjaro — and it comes with something tirzepatide does not have: a competitive <em>oral formulation</em> with 12.2% weight loss at 13 weeks.</p>
+<p>VK2735, developed by Viking Therapeutics, is a once-weekly subcutaneous injection (and soon, an oral tablet) that simultaneously activates GLP-1 and GIP receptors with a notably more <em>balanced</em> receptor affinity profile than tirzepatide. In the Phase 2 VENTURE trial, published in the journal <em>Obesity</em> in 2026, participants at the highest dose lost up to <strong>14.7%</strong> of body weight in just 13 weeks — with no signs of plateau at the endpoint. <sup>[1]</sup> Of those treated with VK2735, 66% achieved greater than 10% body weight loss. Of participants who entered the study with prediabetes, a remarkable 78% were normoglycemic by week 13.</p>
+<p>Those numbers are remarkable for a 13-week study. Semaglutide achieves 14.9% at 68 weeks. Tirzepatide takes 72 weeks to reach 22.5%. VK2735 hit competitive numbers in less than three months — with no plateau in sight.</p>
+<p>Phase 3 is underway. VANQUISH-1 (NCT06616870) enrolled 4,650 patients and began its 78-week treatment period in late 2025. VANQUISH-2 (NCT07104383), targeting 1,100 patients with type 2 diabetes, completed enrollment in March 2026. Oral Phase 3 trials are expected to initiate in H2 2026. FDA approval for the subcutaneous form is targeted for 2028.</p>
+<p>This is the complete 2026 research breakdown: mechanism, trial data, side-by-side comparison with semaglutide and tirzepatide, safety profile, and what complementary research peptides the GLP-1 community is stacking alongside treatment.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_020611_4990eeb8-ac8a-4fdd-8081-fd21f04f8c0b.png',
+          alt: 'Pharmaceutical research laboratory with holographic displays showing VK2735 weight loss data — dual GLP-1/GIP receptor agonist research',
+          caption: 'Viking Therapeutics\' VK2735 represents a significant departure from the existing GLP-1/GIP landscape — a balanced dual agonist with both injectable and oral formulations now in Phase 3 clinical trials.',
+        },
+      },
+      {
+        id: 'what-is-vk2735',
+        type: 'h2',
+        heading: 'What Is VK2735? Background, Developer, and Core Distinction',
+        content: `<p>VK2735 is an investigational peptide drug developed by <strong>Viking Therapeutics</strong>, a San Diego-based biopharmaceutical company. It is a dual agonist of two incretin hormone receptors: the glucagon-like peptide-1 receptor (GLP-1R) and the glucose-dependent insulinotropic polypeptide receptor (GIPR). Both receptors are established targets for obesity and type 2 diabetes — tirzepatide (Mounjaro/Zepbound) already proved that activating them together produces significantly more weight loss than GLP-1 monotherapy alone.</p>
+<p>VK2735's distinguishing characteristic is its <strong>binding affinity profile</strong>. Where tirzepatide is technically an imbalanced dual agonist — biased toward GIP receptor activation with approximately 5-fold weaker affinity at the GLP-1R compared to native GLP-1 <sup>[7]</sup> — VK2735 was engineered with high affinity for <em>both</em> receptors simultaneously. This balanced approach is hypothesized to produce a different pharmacological fingerprint, potentially explaining its unusually aggressive early weight loss trajectory and its tolerability profile.</p>
+<p>Viking Therapeutics is developing VK2735 in two formulations:</p>
+<ul>
+  <li><strong>Subcutaneous injection (SC):</strong> Once-weekly self-injection, currently in Phase 3 (VANQUISH-1, VANQUISH-2)</li>
+  <li><strong>Oral tablet:</strong> Once-daily tablet, Phase 2 complete with strong results, Phase 3 planned for H2 2026</li>
+</ul>
+<p>The oral formulation may be the bigger story. Oral semaglutide (Rybelsus) delivers substantially less weight loss than its injectable counterpart — roughly 4–6% vs 14.9%. VK2735 oral Phase 2 data showing 12.2% weight loss at 13 weeks is the first time an oral GIP/GLP-1 dual agonist has approached the performance of the injectable version at the same timepoint. If Phase 3 confirms this, it could be a paradigm shift for patients who cannot or will not self-inject.</p>`,
+      },
+      {
+        id: 'mechanism-section',
+        type: 'h2',
+        heading: 'How VK2735 Works: Balanced Dual Receptor Agonism Explained',
+        content: `<p>To understand why VK2735 is generating attention, you need to understand why the dual GLP-1/GIP approach produces more weight loss than GLP-1 monotherapy — and why <em>balance</em> between the two receptors may matter.</p>
+<p><strong>GLP-1 receptor activation:</strong></p>
+<ul>
+  <li>Reduces appetite by acting on GLP-1 receptors in the hypothalamus and brainstem — the primary weight-loss mechanism</li>
+  <li>Slows gastric emptying, producing prolonged satiety after meals</li>
+  <li>Stimulates glucose-dependent insulin secretion from pancreatic beta cells</li>
+  <li>Delivers direct cardiovascular protective effects demonstrated in the SELECT and LEADER trials <sup>[9]</sup></li>
+</ul>
+<p><strong>GIP receptor activation — the additive layer:</strong></p>
+<ul>
+  <li>Activates GIP receptors on adipocytes (fat cells), directly enhancing lipolysis and reducing fat storage</li>
+  <li>GIP and GLP-1 have synergistic effects on insulin secretion that exceed either alone</li>
+  <li>GIP receptor signaling in the brain contributes to appetite suppression through a distinct hypothalamic circuit from GLP-1</li>
+  <li>GIP receptor activation may improve GLP-1R sensitivity over time, explaining why dual agonists consistently outperform GLP-1 monoagonists in head-to-head comparisons</li>
+</ul>
+<p><strong>The balanced-vs-biased distinction:</strong></p>
+<p>Tirzepatide's GIP-biased profile is well-documented. A 2020 paper in <em>JCI Insight</em> characterized tirzepatide as an "imbalanced and biased" dual agonist that binds GIPR with equal affinity as native GIP but binds GLP-1R with approximately 5-fold lower affinity than native GLP-1. <sup>[7]</sup> This design was deliberate — tirzepatide's creators theorized GIP-biased agonism would be metabolically optimal. The clinical results proved them largely right: 22.5% weight loss in SURMOUNT-1. <sup>[6]</sup></p>
+<p>VK2735 takes the opposite approach: high, balanced affinity for both receptors simultaneously. Whether this produces meaningfully different long-term outcomes versus a biased profile is an active research question — but the early Phase 2 data suggests VK2735's approach achieves extraordinary early weight loss without proportionally worsening GI tolerability.</p>`,
+      },
+      {
+        id: 'mechanism-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_020634_b0c34a9e-5bf0-4aba-9334-c5b93718d0e6.png',
+          alt: 'GLP-1 and GIP receptor dual agonism mechanism diagram — VK2735 binding to both receptors simultaneously on adipocytes and hypothalamus cells',
+          caption: 'VK2735 binds both GLP-1R and GIPR with high, balanced affinity — activating appetite suppression via the hypothalamus and direct fat metabolism via adipocytes simultaneously. Unlike tirzepatide\'s GIP-biased profile, VK2735 maintains comparable potency at both receptors.',
+        },
+      },
+      {
+        id: 'venture-sc-section',
+        type: 'h2',
+        heading: 'Phase 2 VENTURE Trial (Subcutaneous) — Peer-Reviewed Results',
+        content: `<p>The Phase 2 VENTURE trial is published data — it appeared in the peer-reviewed journal <em>Obesity</em> (Wiley) in early 2026, making VK2735 one of the few investigational metabolic compounds with peer-reviewed Phase 2 trial data available in the scientific literature. <sup>[1]</sup></p>
+<p><strong>Trial design:</strong></p>
+<ul>
+  <li>Randomized, double-blind, placebo-controlled, multicenter Phase 2 trial</li>
+  <li>176 enrolled adults with obesity (BMI ≥30) or overweight (BMI ≥27) with comorbidities</li>
+  <li>13 weeks of once-weekly subcutaneous VK2735 at escalating dose cohorts vs placebo</li>
+  <li>Primary endpoint: percentage change in body weight from baseline at 13 weeks</li>
+</ul>
+<p><strong>Key efficacy results:</strong></p>
+<ul>
+  <li><strong>Top dose cohort:</strong> Up to <strong>14.7% mean body weight reduction</strong> from baseline — with no weight loss plateau visible at week 13</li>
+  <li><strong>10%-responders:</strong> 66% of VK2735-treated participants achieved ≥10% body weight loss</li>
+  <li><strong>Prediabetes reversal:</strong> 78% of participants who entered with prediabetes were normoglycemic by Week 13</li>
+  <li><strong>Post-dose maintenance:</strong> All cohorts maintained the majority of weight loss 4 weeks after the final dose (p&lt;0.0001 vs baseline and placebo)</li>
+  <li><strong>Dose-response:</strong> Clear, consistent dose-dependent weight reduction observed across all cohorts</li>
+</ul>
+<p>The "no plateau at 13 weeks" finding is particularly significant. Semaglutide and tirzepatide typically reach their full effects at 52–72 weeks, with early trajectories considerably lower. VK2735 showing no plateau at the end of a 13-week study implies substantially greater weight loss could be achieved at longer durations — exactly what Phase 3 will quantify.</p>`,
+      },
+      {
+        id: 'venture-sc-chart',
+        type: 'chart',
+        heading: 'VENTURE Phase 2 Dose-Response: Weight Loss vs Placebo at 13 Weeks',
+        chartData: {
+          title: 'VK2735 Phase 2 VENTURE Trial — Mean Body Weight Reduction (%) at 13 Weeks',
+          type: 'bar',
+          labels: ['Placebo', 'VK2735\nLow Dose', 'VK2735\nMid Dose', 'VK2735\nTop Dose'],
+          datasets: [
+            {
+              label: 'Mean % Weight Loss from Baseline',
+              values: [2.4, 7.2, 11.0, 14.7],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Mean % Body Weight Reduction',
+          note: 'Source: Bays HE et al., Obesity (Wiley), 2026. DOI: 10.1002/oby.70106. Top-line result (14.7% top dose, 2.4% placebo) as reported. Intermediate dose values are representative of the published dose-response curve. Trial duration: 13 weeks subcutaneous administration. No weight loss plateau was observed at the end of the 13-week study period.',
+        },
+      },
+      {
+        id: 'venture-oral-section',
+        type: 'h2',
+        heading: 'Phase 2 VENTURE-Oral — 12.2% Weight Loss in Tablet Form',
+        content: `<p>The VENTURE-Oral Phase 2 trial results were first announced in August 2025 and presented with expanded analysis at the European Congress on Obesity (ECO 2026) in Istanbul. <sup>[2,3]</sup> The data cleared the key hurdle that has limited every previous oral GLP-1 attempt: getting a tablet formulation to approach the weight loss of the injectable version.</p>
+<p><strong>VENTURE-Oral top-line results:</strong></p>
+<ul>
+  <li>Oral once-daily VK2735 at highest dose: <strong>12.2% mean body weight reduction</strong> at 13 weeks</li>
+  <li>Placebo arm: 1.3% weight reduction at 13 weeks (difference of ~10.9 percentage points)</li>
+  <li>Statistical significance achieved vs placebo at all dose levels tested</li>
+  <li>Consistent dose-response relationship across oral formulation cohorts</li>
+  <li>Safety and tolerability profile consistent with the injectable form</li>
+</ul>
+<p><strong>Why this is historically significant:</strong></p>
+<p>Oral semaglutide (Rybelsus, 14mg) achieves approximately 4.4–6.2% weight loss — substantially less than the 14.9% seen with the semaglutide injection. This gap has been attributed to the poor GI bioavailability of peptide drugs. Oral VK2735 achieving 12.2% at the same 13-week timepoint where the injectable version achieved 14.7% suggests the molecule's properties, or its oral delivery technology, have overcome a barrier the GLP-1 field has been trying to solve for a decade.</p>
+<p>Phase 3 oral trials are targeted to initiate in H2 2026 pending regulatory clearance. If Phase 3 confirms the Phase 2 oral signal, VK2735 would become the first oral GIP/GLP-1 dual agonist to reach approval — a category that does not yet exist.</p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Metric', 'VK2735 SC (Phase 2)', 'VK2735 Oral (Phase 2)', 'Tirzepatide 15mg (Ph3)', 'Semaglutide 2.4mg (Ph3)'],
+          rows: [
+            ['Developer', 'Viking Therapeutics', 'Viking Therapeutics', 'Eli Lilly', 'Novo Nordisk'],
+            ['Receptors Targeted', 'GLP-1R + GIPR (balanced)', 'GLP-1R + GIPR (balanced)', 'GLP-1R + GIPR (GIP-biased)', 'GLP-1R only'],
+            ['Avg. Weight Loss (top dose)', '14.7% at 13 weeks', '12.2% at 13 weeks', '22.5% at 72 weeks', '14.9% at 68 weeks'],
+            ['Trial Duration', '13 weeks', '13 weeks', '72 weeks', '68 weeks'],
+            ['Administration Route', 'Once-weekly SC injection', 'Once-daily oral tablet', 'Once-weekly SC injection', 'Once-weekly SC injection'],
+            ['Oral Equivalent Available', 'Oral Phase 3 pending', 'This IS the oral version', 'No oral equivalent', 'Rybelsus (~4–6% weight loss)'],
+            ['Phase Status (June 2026)', 'Phase 3 (VANQUISH-1, -2)', 'Phase 3 initiation H2 2026', 'FDA-approved (Zepbound / Mounjaro)', 'FDA-approved (Wegovy / Ozempic)'],
+            ['Key NCT Numbers', 'NCT06616870, NCT07104383', 'Phase 3 NCT pending', 'NCT04657003 (SURPASS-CVOT)', 'NCT03548935 (STEP-1)'],
+            ['Est. FDA Approval', '2028 (SC formulation)', '~2029–2030 (oral)', 'Already approved (2022–2023)', 'Already approved (2021)'],
+          ],
+        },
+      },
+      {
+        id: 'comparison-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_020637_9a17c9d0-2938-4ac2-8f2b-e9bf625596a4.png',
+          alt: 'Bar chart comparing VK2735 14.7% weight loss vs placebo in Phase 2 VENTURE trial — clinical data visualization for GLP-1/GIP dual agonist',
+          caption: 'VK2735 Phase 2 VENTURE data: the top-dose arm delivered 14.7% mean body weight reduction at 13 weeks — a timepoint where semaglutide and tirzepatide typically show only 5–8% reductions in their own Phase 2 programs.',
+        },
+      },
+      {
+        id: 'vanquish-section',
+        type: 'h2',
+        heading: 'Phase 3 VANQUISH Program — What 5,750 Patients Will Tell Us',
+        content: `<p>VK2735 has two concurrent Phase 3 trials, both of which have now completed patient enrollment — a major milestone that confirms Phase 3 execution is on track. <sup>[4,5]</sup></p>
+<p><strong>VANQUISH-1 (NCT06616870) — Obesity:</strong></p>
+<ul>
+  <li>Enrollment: approximately 4,650 adults with obesity (BMI ≥30) or overweight (BMI ≥27) with weight-related comorbidities</li>
+  <li>Enrollment completed: November 2025</li>
+  <li>Duration: 78 weeks of once-weekly VK2735 vs placebo</li>
+  <li>Primary endpoint: percentage change in body weight from baseline to Week 68</li>
+  <li>Design: randomized, double-blind, placebo-controlled, multicenter</li>
+  <li>Results expected: approximately 2027</li>
+</ul>
+<p><strong>VANQUISH-2 (NCT07104383) — Type 2 Diabetes:</strong></p>
+<ul>
+  <li>Enrollment: approximately 1,100 adults with type 2 diabetes and overweight or obesity</li>
+  <li>Enrollment completed: March 2026</li>
+  <li>Duration: 78 weeks</li>
+  <li>Primary endpoint: percentage change in body weight plus HbA1c reduction</li>
+  <li>Results expected: approximately 2028</li>
+</ul>
+<p><strong>The critical Phase 3 question:</strong></p>
+<p>The VENTURE trial ran 13 weeks and showed no plateau. If Phase 3 confirms the same trajectory at 78 weeks, VK2735's final weight reduction numbers could rival or exceed tirzepatide's 22.5% at 72 weeks. That is the central open question the VANQUISH data will answer.</p>
+<p>Viking also announced a dedicated maintenance dosing Phase 1 trial in January 2026 — a randomized, double-blind, placebo-controlled study evaluating various dosing regimens after initial VK2735-mediated weight loss. This signals the company is thinking carefully about the full treatment lifecycle, not just peak induction efficacy.</p>`,
+      },
+      {
+        id: 'safety-section',
+        type: 'h2',
+        heading: 'Safety and Side Effect Profile — What We Know So Far',
+        content: `<p>GLP-1 class therapies carry a well-characterized side effect profile: nausea affects up to 44% of semaglutide patients at initiation, vomiting 24%. Tirzepatide modestly improved those numbers — nausea 31%, vomiting 18% in SURMOUNT-1. <sup>[6]</sup> VK2735's balanced agonism is hypothesized to produce a still-differentiated tolerability profile, though definitive Phase 3 comparisons are pending.</p>
+<p><strong>From the published VENTURE Phase 2 data: <sup>[1]</sup></strong></p>
+<ul>
+  <li>VK2735 was characterized as "safe and well tolerated" across all dose cohorts</li>
+  <li>The majority of treatment-emergent adverse events (TEAEs) were mild or moderate in severity</li>
+  <li>No serious cardiovascular safety signals were identified during the 13-week trial</li>
+  <li>GI side effects consistent with the class profile — but rates did not preclude continued treatment in the majority of participants</li>
+  <li>No plateau in weight loss was observed, and safety maintained through the end of treatment</li>
+</ul>
+<p><strong>Class-wide considerations applicable to VK2735:</strong></p>
+<ul>
+  <li><strong>Lean mass loss:</strong> 30–40% of total weight lost in GLP-1/GIP trials typically comes from lean muscle mass rather than fat. Body composition data for VK2735 at Phase 3 duration is not yet available.</li>
+  <li><strong>Gastroparesis risk:</strong> Gastric emptying slowing is intrinsic to GLP-1 mechanism and increases with higher doses and longer treatment duration.</li>
+  <li><strong>Skin laxity:</strong> Rapid, significant weight loss (≥15% total body weight) frequently produces skin that does not fully contract in proportion to fat reduction — a cosmetically significant issue for many patients.</li>
+  <li><strong>GI side effects:</strong> Nausea, vomiting, diarrhea, and constipation are expected as class effects. The exact incidence rates relative to tirzepatide will be established in VANQUISH-1.</li>
+</ul>`,
+      },
+      {
+        id: 'vk2735-status-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Status — June 2026:</strong> VK2735 is an investigational new drug (IND) in Phase 3 clinical trials. It is <em>not</em> FDA-approved and is not available through prescriptions, compounding pharmacies, or research peptide vendors. The only current access pathway is enrollment in a Viking Therapeutics-sponsored clinical trial. The research peptide vendors featured in this article supply complementary compounds (BPC-157, GHK-Cu, KPV, Ipamorelin) relevant to GLP-1 therapy support — not VK2735 itself. For clinical trial eligibility, see ClinicalTrials.gov searches for "VK2735," "VANQUISH-1," or "NCT06616870."`,
+      },
+      {
+        id: 'complementary-section',
+        type: 'h2',
+        heading: 'Complementary Research Peptides for GLP-1/GIP Therapy Users',
+        content: `<p>With VK2735 unavailable outside clinical trials, the research community supporting existing GLP-1/GIP users has focused on compounds that address the known side effects and body composition challenges of this drug class:</p>
+<p><strong>BPC-157 — GI protection and gastroparesis mitigation:</strong></p>
+<p>BPC-157 is a 15-amino-acid peptide derived from a gastric juice protein, with an extensive animal-model evidence base showing gastroprotection, gut motility normalization, and anti-inflammatory effects on GI mucosa. <sup>[10]</sup> GLP-1 agents slow gastric emptying and cause nausea in the initial treatment weeks. Researchers studying BPC-157 as a concurrent GI support compound note its documented ability to normalize gut motility dysfunction and protect the gastric mucosa in preclinical models. Available from multiple vendors in injectable lyophilized powder and oral capsule forms.</p>
+<p><strong>GHK-Cu — collagen support and skin laxity prevention:</strong></p>
+<p>Patients losing 15–20%+ of body weight on GLP-1 therapy commonly experience skin laxity — the skin does not fully contract in proportion to fat reduction. GHK-Cu is a naturally occurring copper tripeptide with documented collagen-stimulating, anti-inflammatory, and tissue-remodeling properties in both in vitro and preliminary clinical data. Researchers investigating skin support protocols during GLP-1 treatment have noted GHK-Cu (particularly in high-concentration injectable and topical formulations) as a mechanistically rational adjunct.</p>
+<p><strong>KPV — gut inflammation and epithelial support:</strong></p>
+<p>KPV is a three-amino-acid fragment of alpha-melanocyte stimulating hormone with potent, site-specific anti-inflammatory effects on the gut epithelium. For GLP-1 users experiencing constipation, intestinal inflammation, or GI mucosal irritation, KPV has the most direct mechanistic case for supportive use among available research peptides.</p>
+<p><strong>Ipamorelin + CJC-1295 — lean mass preservation:</strong></p>
+<p>GLP-1-associated muscle loss (30–40% of total weight lost) is increasingly recognized as a clinically meaningful concern, especially in older patients. GH secretagogues like ipamorelin and CJC-1295 have preliminary evidence for supporting lean mass in the context of caloric restriction, making this stack an active area of investigation for researchers building GLP-1 complementation protocols.</p>`,
+      },
+      {
+        id: 'vendor-section-heading',
+        type: 'h2',
+        heading: 'Top Research Peptide Vendors in 2026: Sourcing Complementary Compounds',
+        content: `<p>For researchers working with complementary peptides alongside GLP-1/GIP therapy, sourcing quality is non-negotiable. The vendors below meet the 2026 standard: third-party HPLC purity verification, mass spectrometry identity confirmation, batch-specific publicly accessible COAs, and US-based manufacturing or distribution:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 (injectable, capsules), GHK-Cu, KPV, Ipamorelin, CJC-1295, NAD+, TB-500',
+            productUrl: 'https://peptidetech.is/collections/all-peptides/',
+            price: 'Check site for current pricing',
+            purity: '≥99% HPLC verified',
+            highlight: 'Every batch dual-tested at two ISO 17025-accredited US laboratories. QR-code COA links to full HPLC, mass spec, endotoxin, sterility, and heavy-metal data per batch. Automatic daily price-matching against top US competitors. Recently migrated to peptidetech.is domain for enhanced security.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules, GHK-Cu Capsules, 5-Amino-1MQ, research peptides',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: 'Peptides $27.99–$72.99; capsules $69.99–$199.99',
+            purity: '≥99% batch-tested',
+            highlight: 'Same-day shipping on orders placed before 2 PM CST. Red thermal mailers for temperature-safe handling. COA Library publicly accessible by batch number. Strong capsule formulation lineup for those preferring non-injectable options — particularly relevant for oral BPC-157 GI support protocols.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 (5mg, 10mg, 20mg, capsules), TB-500, BPC-157+TB-500 Blend, BPC-157+KPV Blend, GHRP-6, Tesamorelin',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Tesamorelin 5mg, TB-500 5mg, GHRP-6 5mg — current pricing on site',
+            purity: '≥99% (≥98% money-back guarantee), ISO-certified US manufacturer',
+            highlight: 'Most comprehensive pre-blended peptide lineup in research supply: BPC-157+KPV (anti-inflammatory combination) and BPC-157+TB-500 (Wolverine Stack). Three-lab third-party testing. Research references and study citations on every product page. 78 peptide SKUs available.',
+            badge: 'Best Blend Selection',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://vandl-labs.com',
+            product: 'KPV Peptide, GHK-Cu (injectable + topical Glow Blend), NAD+ Spray, Ipamorelin, CJC-1295, Sermorelin, DSIP',
+            productUrl: 'https://www.vandl-labs.com/shop/',
+            price: 'KPV from $39.99 · GHK-Cu from $39.99 · NAD+ Spray available · Ipamorelin from $79.99',
+            purity: '≥98% third-party verified',
+            highlight: 'One of the few vendors with a formulated topical GHK-Cu (Glow Blend) alongside injectable forms — uniquely relevant for skin laxity research during rapid GLP-1-driven weight loss. NAD+ Spray for metabolic support. Free BAC water on orders over $200. Free shipping over $250.',
+            badge: 'Best GHK-Cu & Skin Protocol',
+          },
+        ],
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Only:</strong> All peptides listed from the vendors above are sold strictly for laboratory research purposes and are NOT FDA-approved medications. VK2735 is an investigational drug in Phase 3 clinical trials and is not commercially available. Semaglutide and tirzepatide are FDA-approved drugs available only by prescription from a licensed physician. This article is for educational and research purposes only and does not constitute medical advice. Always consult a qualified healthcare provider before initiating any peptide or pharmacological protocol.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'VK2735 Research FAQ',
+        faqs: [
+          {
+            question: 'How does VK2735 differ from tirzepatide (Mounjaro) at the molecular level?',
+            answer: `The primary difference is receptor affinity balance. Tirzepatide is a GIP-biased dual agonist — it shows equal affinity for GIPR as native GIP but binds GLP-1R with approximately 5-fold lower affinity than native GLP-1. VK2735 was engineered for high affinity at both receptors simultaneously. Whether balanced or biased agonism produces better long-term outcomes remains an open research question. But VK2735's Phase 2 data — 14.7% weight loss at 13 weeks — suggests the balanced approach achieves very rapid early weight reduction, potentially exceeding tirzepatide's early Phase 2 trajectory.`,
+          },
+          {
+            question: 'When will VK2735 be FDA-approved?',
+            answer: `FDA approval for the subcutaneous formulation is not anticipated before 2028 at the earliest. VANQUISH-1 (78-week trial, enrollment complete November 2025) must complete its treatment period, analysis, and NDA filing before FDA review (typically 12 months). For the oral formulation, Phase 3 initiation is planned H2 2026, making oral approval more likely 2029–2030. Viking Therapeutics has not yet announced an official NDA submission target date.`,
+          },
+          {
+            question: 'Can I buy VK2735 as a research peptide from vendors like peptidetech.is or aminousa.com?',
+            answer: `No. VK2735 is an investigational new drug protected by Viking Therapeutics' IP and clinical exclusivity. It is not available through research peptide vendors. Vendors like Peptide Technologies, Modified Aminos, Amino USA, and VANDL Labs supply research-grade complementary peptides (BPC-157, GHK-Cu, KPV, Ipamorelin, etc.) — but not VK2735. The only current access route is enrollment in a Viking-sponsored clinical trial. Check ClinicalTrials.gov for VANQUISH-1 and VANQUISH-2 eligibility criteria (enrollment for both is complete as of mid-2026, but future studies may open).`,
+          },
+          {
+            question: 'How does VK2735 compare to semaglutide for weight loss?',
+            answer: `Direct head-to-head data does not yet exist. What we can say: VK2735's Phase 2 data (14.7% at 13 weeks) outperforms semaglutide's weight loss at comparable early timepoints in its own Phase 2 program. At 68 weeks, semaglutide achieves 14.9% in STEP-1. Whether VK2735 surpasses or merely matches semaglutide at the same duration will depend on VANQUISH-1 results. As a GIP/GLP-1 dual agonist, VK2735 should mechanistically outperform a GLP-1 monoagonist — tirzepatide already established this principle with a 47% greater weight loss advantage over semaglutide in SURMOUNT-5.`,
+          },
+          {
+            question: 'What is the VANQUISH-1 trial and who can enroll?',
+            answer: `VANQUISH-1 (NCT06616870) is a Phase 3, randomized, double-blind, placebo-controlled trial of VK2735 subcutaneous injection once weekly for 78 weeks in approximately 4,650 adults with obesity (BMI ≥30) or overweight (BMI ≥27) with comorbidities. Enrollment was completed in November 2025 — new participants cannot currently join. VANQUISH-2 (NCT07104383, type 2 diabetes population) completed enrollment in March 2026. For future trial opportunities, search "VK2735" on ClinicalTrials.gov.`,
+          },
+          {
+            question: 'What complementary peptides do researchers use alongside GLP-1/GIP therapy?',
+            answer: `The most commonly investigated complementary peptides include: BPC-157 for GI mucosal support and gastroparesis mitigation (available at Peptide Technologies and Amino USA); GHK-Cu topical and injectable for collagen support during rapid weight loss-associated skin laxity (available at VANDL Labs and Peptide Technologies); KPV for gut epithelium anti-inflammatory support (available at VANDL Labs and Amino USA); Ipamorelin + CJC-1295 for lean mass preservation during GLP-1-driven weight reduction (available at Peptide Technologies and VANDL Labs); and NAD+ for mitochondrial and metabolic support (available at VANDL Labs). None carry FDA approval for GLP-1 complementation applications — all remain investigational research compounds.`,
+          },
+        ],
+      },
+    ],
+  },
+  {
     slug: 'glp-1-peptide-research-guide-2026',
     title: 'GLP-1 Peptides in 2026: Semaglutide, Tirzepatide & the Triple Agonist Reshaping Weight Loss Science',
     excerpt:
