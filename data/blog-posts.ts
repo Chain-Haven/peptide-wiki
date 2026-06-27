@@ -85,6 +85,475 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'fda-peptide-reclassification-2026-what-rfk-reversal-means',
+    title: "FDA Peptide Reclassification 2026: What RFK Jr.'s Reversal Actually Means for BPC-157, TB-500, Semax, and 9 Others",
+    excerpt:
+      "Twelve research peptides — including BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV, and GHK-Cu — were removed from the FDA's Category 2 'do not compound' list in April 2026. But removal from Category 2 is not the same as authorization for compounding. Here's what actually happened, what the July 23-24 PCAC hearing means, and what researchers and clinicians need to know right now.",
+    publishedAt: '2026-06-27',
+    updatedAt: '2026-06-27',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Regulatory & Legal',
+    tags: [
+      'FDA Regulation',
+      'Peptide Compounding',
+      'BPC-157',
+      'TB-500',
+      'Semax',
+      'Epitalon',
+      'MOTS-c',
+      'KPV',
+      'GHK-Cu',
+      'RFK Jr.',
+      'PCAC',
+      '503A Compounding',
+      'Category 2',
+      'Peptide Legality 2026',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_010821_1470594b-6cb6-4b21-bb8e-f05987daab6e.png',
+    heroImageAlt:
+      'FDA building with peptide molecular structure overlay — FDA peptide reclassification 2026 regulatory changes BPC-157 TB-500 Semax',
+    metaTitle: "FDA Peptide Reclassification 2026: BPC-157, TB-500, Semax — What Changed and What Hasn't",
+    metaDescription:
+      "In April 2026, 12 peptides including BPC-157, TB-500, Semax, and MOTS-c were removed from the FDA's Category 2 restricted compounding list. We break down what this means, what the July 2026 PCAC hearing decides, and what researchers need to know.",
+    keywords: [
+      'FDA peptide reclassification 2026',
+      'peptide compounding legal 2026',
+      'BPC-157 FDA status 2026',
+      'TB-500 compounding legal',
+      'Semax FDA category 2026',
+      'RFK Jr peptides legal',
+      'PCAC July 2026 peptides',
+      'peptide compounding 503A',
+      'are peptides legal 2026',
+      'BPC-157 legal compounding',
+      'Epitalon FDA status',
+      'MOTS-c compounding status',
+      'KPV peptide FDA',
+      'peptide category 2 removal',
+      'FDA peptide update 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/fda-peptide-reclassification-2026-what-rfk-reversal-means',
+    relatedPeptides: ['bpc-157', 'tb-500', 'semax', 'epitalon', 'mots-c', 'ghk-cu'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2500,
+      primaryKeyword: 'FDA peptide reclassification 2026',
+      secondaryKeywords: [
+        'BPC-157 FDA status 2026',
+        'peptide compounding legal 2026',
+        'PCAC July 2026 peptides',
+        'are peptides legal 2026',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'U.S. Food & Drug Administration',
+        title:
+          'Pharmacy Compounding Advisory Committee; Notice of Meeting; Establishment of a Public Docket; Request for Comments — Bulk Drug Substances Nominated for Inclusion on the Section 503A Bulk Drug Substances List',
+        journal: 'Federal Register Vol. 91, Doc. 2026-07361',
+        year: 2026,
+        url: 'https://www.govinfo.gov/content/pkg/FR-2026-04-16/html/2026-07361.htm',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'U.S. Food & Drug Administration',
+        title: 'Pharmacy Compounding Advisory Committee: July 23-24, 2026 Meeting',
+        journal: 'FDA Advisory Committee Calendar',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Orrick, Herrington & Sutcliffe LLP',
+        title: 'FDA Announces Removal of 12 Peptides from Category 2 and Schedules PCAC Meetings',
+        journal: 'Orrick Client Alert',
+        year: 2026,
+        url: 'https://www.orrick.com/en/Insights/2026/04/FDA-Announces-Removal-of-12-Peptides-from-Category-2-and-Schedules-PCAC-Meetings',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Frier Levitt Attorneys at Law',
+        title: "FDA Peptides 'Do Not Compound' List Update 2026",
+        journal: 'Frier Levitt Client Alert',
+        year: 2026,
+        url: 'https://www.frierlevitt.com/articles/fda-peptides-do-not-compound-list-update-2026/',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Chammout M, PharmD',
+        title: "The Peptide Reclassification Everyone's Talking About: A Pharmacist's Take on What RFK Jr.'s Announcement Actually Means",
+        journal: 'Pharmacy Times',
+        year: 2026,
+        url: 'https://www.pharmacytimes.com/view/the-peptide-reclassification-everyone-s-talking-about-a-pharmacist-s-take-on-what-rfk-jr-s-announcement-actually-means',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Hyman Phelps & McNamara PC',
+        title: "FDA's Peptide Rally: What Compounders and Industry Need to Know",
+        journal: 'The FDA Law Blog',
+        year: 2026,
+        url: 'https://www.thefdalawblog.com/2026/04/fdas-peptide-rally-what-compounders-and-industry-need-to-know-post-1-of-2/',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Polsinelli PC',
+        title: "Tiny Chains, Big Changes: What FDA's Latest Actions Mean for Peptide Compounding",
+        journal: 'National Law Review',
+        year: 2026,
+        url: 'https://natlawreview.com/article/tiny-chains-big-changes-what-fdas-latest-actions-mean-peptide-compounding',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Vasireddi AK, Patel AM, Bhatt D, et al.',
+        title: 'BPC-157 for Musculoskeletal Applications: A Systematic Review',
+        journal: 'HSS Journal',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40756949/',
+        type: 'systematic_review',
+      },
+      {
+        id: 9,
+        authors: 'Hudson Biotech / ClinicalTrials.gov',
+        title: 'A Randomized, Double-Blind, Placebo-Controlled Phase 2 Trial of Pentadecapeptide BPC 157 for Accelerated Repair of Acute Grade II Hamstring Strain (NCT07437547)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07437547',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Araj SK, Brzezik J, Mądra-Gackowska K, Szeleszczuk L',
+        title: 'Overview of Epitalon — Highly Bioactive Pineal Tetrapeptide with Promising Properties',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11943447/',
+        doi: '10.3390/ijms26062691',
+        type: 'review',
+      },
+      {
+        id: 11,
+        authors: 'Pham T, Taberner A, et al. (University of Auckland)',
+        title: 'MOTS-c restores mitochondrial respiratory capacity and reverses metabolic dysfunction in type 2 diabetic rat hearts',
+        journal: 'Frontiers in Physiology',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12257629/',
+        type: 'animal_study',
+      },
+      {
+        id: 12,
+        authors: 'Mavrych V, Shypilova I, Bolgova O',
+        title: 'Therapeutic peptides in gerontology: mechanisms and applications for healthy aging',
+        journal: 'Frontiers in Aging',
+        year: 2026,
+        url: 'https://www.frontiersin.org/journals/aging/articles/10.3389/fragi.2026.1790247/full',
+        doi: '10.3389/fragi.2026.1790247',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>On February 27, 2026, HHS Secretary Robert F. Kennedy Jr. appeared on the Joe Rogan Experience and said something that sent shockwaves through the peptide research community: approximately 14 of the 19 research peptides on the FDA's restricted compounding list would be moved back to accessible status. By April 22, 2026, twelve of those peptides — including BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV, and GHK-Cu — had formally left the FDA's Category 2 "do not compound" list.</p>
+<p>The response from the peptide world was immediate and, in many cases, inaccurate. Vendors proclaimed these compounds "now legal to compound." Clinics advertised availability. But the legal experts, pharmacists, and FDA law specialists who actually read the Federal Register notice painted a far more complicated picture — one where removal from Category 2 is <em>not</em> the same as authorization for compounding, and where the path to full legal access runs through a multi-step federal process that won't complete for another year or more.</p>
+<p>This guide breaks down exactly what happened, what it means, what the critical July 23–24 PCAC hearing will determine, and what the timeline looks like for each of the twelve affected peptides. Whether you're a researcher, clinician, or informed patient — this is the regulatory context you need before the hearing that could define peptide access for the next decade.</p>`,
+      },
+      {
+        id: 'category-2-explainer',
+        type: 'h2',
+        heading: 'The Category System: Why These Peptides Were Banned From Compounding',
+        content: `<p>Under the Food, Drug, and Cosmetic Act, Section 503A allows licensed pharmacies to compound medications — that is, prepare customized drug formulations for individual patients under physician prescription — using bulk drug substances that appear on an FDA-approved list. The FDA administers this through a tiered category system:</p>
+<ul>
+  <li><strong>Category 1:</strong> Bulk drug substances that are nominated, reviewed, and approved for compounding under 503A. These compounds are legal for licensed pharmacies to compound under physician prescription. They are also covered by FDA's interim enforcement discretion policy.</li>
+  <li><strong>Category 2:</strong> Bulk drug substances that raise "significant safety concerns" and are placed on a do-not-compound list under interim enforcement policy. Pharmacies that compound Category 2 substances risk FDA enforcement action.</li>
+</ul>
+<p>In September 2023, the FDA took sweeping action, placing 19 peptides on the Category 2 list — including BPC-157, TB-500, CJC-1295, Ipamorelin, Semax, Epithalon, MOTS-c, and others. The stated rationale: insufficient safety and efficacy data for human use in a compounding context. The practical effect: a near-total legal shutdown of physician-prescribed peptide compounding in the United States through licensed pharmacies.</p>
+<p>The 2023 Category 2 placements were deeply controversial. Critics argued the FDA applied an inconsistent evidentiary standard — demanding clinical trial data that doesn't exist for most of these compounds while simultaneously blocking the research pathways that would generate it. Practitioners, patient advocates, and compounding pharmacy networks mounted significant sustained opposition over the following two years. <sup>[3,5]</sup></p>`,
+      },
+      {
+        id: 'timeline-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_010824_94b002dd-d629-46d5-9008-a1f874be685f.png',
+          alt: 'Regulatory timeline showing FDA peptide reclassification milestones from 2023 to 2027 — Category 2 placement, April 2026 removal, July 2026 PCAC hearing',
+          caption:
+            'The FDA peptide regulatory timeline: from the September 2023 Category 2 placements through the April 2026 removals, the July 23-24 PCAC advisory review, and the expected 12+ month rulemaking period required before full 503A authorization.',
+        },
+      },
+      {
+        id: 'rfk-announcement',
+        type: 'h2',
+        heading: 'The Announcement That Started It: RFK Jr. on Joe Rogan (February 27, 2026)',
+        content: `<p>The catalyst for the current regulatory shift came from an unexpected source: a podcast appearance. On February 27, 2026, HHS Secretary Robert F. Kennedy Jr. told Joe Rogan's tens of millions of listeners that approximately 14 of the 19 Category 2 peptides would be "moved back" — an announcement that surprised even those within FDA working on the compounding list.</p>
+<p>The announcement created immediate confusion for two reasons. First, it was made through a media appearance, not a Federal Register notice or formal agency communication. Second, Kennedy used imprecise language that implied an immediate regulatory change, when in fact the formal mechanism for such changes — notice-and-comment rulemaking — hadn't even been initiated. Many vendors and clinics treated the podcast announcement as tantamount to a legal ruling, triggering a wave of premature marketing. <sup>[5]</sup></p>
+<p>What followed over the next seven weeks was a careful bureaucratic translation of Kennedy's announcement into a narrower, more technically precise regulatory action. On April 15–16, 2026, the FDA published Federal Register Notice 2026-07361 — a 503A compounding advisory committee notice that, read carefully, accomplished something significantly more limited than what Kennedy had suggested. <sup>[1]</sup></p>
+<p>The stated reason for the removals was deliberately procedural: the nominators of the 12 affected substances had <em>withdrawn their nominations</em> for Category 2 placement. This framing was chosen intentionally — it removed the substances from the active enforcement list without the FDA having to affirmatively declare them safe for compounding. The distinction matters enormously for what happens next.</p>`,
+      },
+      {
+        id: 'twelve-peptides',
+        type: 'h2',
+        heading: 'The Twelve Peptides That Left Category 2 (April 22, 2026)',
+        content: `<p>Effective approximately April 22, 2026, twelve bulk drug substances were removed from the 503A Category 2 restricted list. Here is each compound with its primary research focus, PCAC review status, and current human evidence base: <sup>[1,4]</sup></p>`,
+      },
+      {
+        id: 'peptide-status-table',
+        type: 'table',
+        tableData: {
+          headers: ['Peptide', 'Primary Research Focus', 'PCAC Review Date', 'Human Trial Status (June 2026)'],
+          rows: [
+            ['BPC-157', 'Tissue repair, GI healing, anti-inflammatory', 'July 23, 2026', 'Phase 2 RCT now recruiting (NCT07437547, n=120)'],
+            ['KPV', 'Anti-inflammatory, gut mucosal healing, IBD', 'July 23, 2026', 'Preclinical models; no published human trials'],
+            ['TB-500 (Tβ4 fragment LKKTETQ)', 'Tissue repair, angiogenesis, wound healing', 'July 23, 2026', 'Full-length Tβ4 Phase 2 ophthalmic data; fragment: no human trials'],
+            ['MOTS-c', 'Mitochondrial function, metabolic health, longevity', 'July 23, 2026', 'Analog CB411 Phase 1a/1b (88 participants)'],
+            ['Emideltide (DSIP)', 'Sleep regulation, stress response, peptide bioregulator', 'July 24, 2026', 'Soviet-era human studies; no modern Western RCTs'],
+            ['Semax', 'Cognitive enhancement, neuroprotection, BDNF upregulation', 'July 24, 2026', 'Russian clinical use; small human studies; no Western RCTs'],
+            ['Epitalon', 'Telomerase activation, pineal support, longevity', 'July 24, 2026', 'Retinitis pigmentosa trial (n=162); circadian rhythm study'],
+            ['GHK-Cu (injectable)', 'Collagen synthesis, wound healing, anti-aging, hair', 'Before Feb 2027', 'Phase 1 copper peptide trial (NCT06744569, Cutia Therapeutics)'],
+            ['Melanotan II', 'UV-independent tanning, sexual dysfunction', 'Before Feb 2027', 'Small pilot studies; no large RCTs'],
+            ['Cathelicidin (LL-37)', 'Antimicrobial, wound healing, tumor microenvironment', 'Before Feb 2027', 'Phase 1/2 melanoma intratumoral (completed 2024)'],
+            ['Dihexa Acetate', 'Cognitive enhancement, neuroplasticity, Alzheimer\'s models', 'Before Feb 2027', 'Preclinical only; no published human trials'],
+            ['PEG-MGF (Mechano Growth Factor, Pegylated)', 'Muscle repair, satellite cell activation, anabolism', 'Before Feb 2027', 'Preclinical only; no published human trials'],
+          ],
+        },
+      },
+      {
+        id: 'lab-vials-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_010822_8e27b38c-7772-4883-9c23-e01e2749792f.png',
+          alt: 'Research peptide vials — BPC-157 TB-500 Semax Epitalon labeled research compounds with HPLC-verified purity certificates',
+          caption:
+            'The twelve peptides removed from Category 2 span a wide range of research applications — tissue repair (BPC-157, TB-500), cognitive enhancement (Semax, Dihexa), longevity and aging (Epitalon, MOTS-c, GHK-Cu), and anti-inflammatory/gut health (KPV). All require batch-specific third-party COAs for legitimate research use.',
+        },
+      },
+      {
+        id: 'legal-limbo-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Critical Legal Distinction:</strong> Removal from Category 2 does NOT authorize these substances for compounding under 503A. As Orrick LLP stated in April 2026: "Removal from Category 2 does not render these bulk drug substances eligible for compounding under section 503A, and they also remain outside the scope of the FDA's interim enforcement discretion policy, which currently extends only to substances in Category 1." <sup>[3]</sup> Compounding pharmacies proceeding solely on the basis of Category 2 removal are doing so at their own legal risk and should consult specialized FDA counsel.`,
+      },
+      {
+        id: 'pcac-hearing-section',
+        type: 'h2',
+        heading: 'The July 23–24 PCAC Hearing: What It Actually Determines',
+        content: `<p>The Pharmacy Compounding Advisory Committee (PCAC) is an FDA advisory body composed of clinical, pharmaceutical, and scientific experts. Its role is to evaluate whether bulk drug substances nominated for 503A compounding have adequate safety and efficacy data to warrant inclusion on the authorized list. Critically, <strong>PCAC recommendations are non-binding</strong> — they advise the FDA, but the agency retains full discretion over its final regulatory decision. <sup>[2,6]</sup></p>
+<p>The July 23–24, 2026 PCAC meeting at the FDA's White Oak Campus in Silver Spring, Maryland will consider seven of the twelve recently-removed peptides for potential inclusion on the 503A authorized bulks list:</p>
+<ul>
+  <li><strong>July 23:</strong> BPC-157, KPV, TB-500, MOTS-c</li>
+  <li><strong>July 24:</strong> Emideltide (DSIP), Semax, Epitalon</li>
+</ul>
+<p>For each peptide, the committee evaluates the nominating package: available scientific literature on safety and efficacy, proposed clinical indications, safety data from animal and human studies, and any known adverse event data. The public comment deadline of July 9, 2026 has already passed; the committee will hear from expert presenters before deliberating.</p>
+<p><strong>What a positive PCAC vote means:</strong> The FDA receives a favorable recommendation to initiate rulemaking to add the peptide to the 503A Category 1 list. This triggers a notice-and-comment rulemaking process — which historically takes <em>12 months or more</em> to complete. A unanimous positive vote does not result in immediate compounding authorization. <sup>[6,7]</sup></p>
+<p><strong>What a negative PCAC vote means:</strong> The peptide is likely to remain in regulatory limbo — no longer prohibited by Category 2, but not placed in Category 1 and not covered by enforcement discretion. CJC-1295 (PCAC: October 2024) and Ipamorelin (PCAC: December 2024) both received negative recommendations and currently have no clear pathway to 503A compounding authorization — a preview of what "losing" at PCAC looks like even for well-known compounds with substantial research profiles. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'evidence-quality-chart',
+        type: 'chart',
+        heading: 'Human Evidence Base: Published Studies Per Peptide (as of June 2026)',
+        chartData: {
+          title: 'Approximate Number of Published Human Studies Per Category-2-Removed Peptide',
+          type: 'bar',
+          labels: [
+            'BPC-157',
+            'Semax',
+            'Epitalon',
+            'Melanotan II',
+            'Emideltide\n(DSIP)',
+            'TB-500\n(Tβ4 fragment)',
+            'LL-37',
+            'MOTS-c\n(CB411 analog)',
+            'GHK-Cu\n(injectable)',
+            'KPV',
+            'Dihexa',
+            'PEG-MGF',
+          ],
+          datasets: [
+            {
+              label: 'Published Human Studies (approximate)',
+              values: [3, 8, 4, 6, 5, 2, 2, 1, 1, 0, 0, 0],
+              color: '#8b5cf6',
+            },
+          ],
+          yLabel: 'Approximate Number of Published Human Studies',
+          note:
+            'Source: Systematic literature reviews, PubMed, PMC (June 2026). BPC-157: 3 published human studies — all from one investigator group per PMC12446177 (2025 systematic review). Semax and Emideltide: primarily Soviet-era Russian human studies not replicable in Western RCT formats. Epitalon: retinitis pigmentosa trial (n=162) plus circadian rhythm cohort. MOTS-c: CB411 analog Phase 1a/1b in 88 participants; native MOTS-c human data is very limited. Study counts include small pilot studies and non-randomized trials; this does not imply clinical equivalence across compounds.',
+        },
+      },
+      {
+        id: 'science-section',
+        type: 'h2',
+        heading: "What the Science Actually Shows: The Evidence PCAC Will Evaluate",
+        content: `<p>The scientific record behind these compounds is more nuanced than the excitement following the April announcement suggests. PCAC will be evaluating the actual published evidence — and for most of these peptides, that evidence is primarily preclinical. Understanding what the committee sees is essential for projecting outcomes.</p>
+<p><strong>BPC-157: The Most-Studied Compound With the Thinnest Human Record</strong></p>
+<p>BPC-157 (Body Protection Compound-157) has the largest research portfolio of any peptide on the list, but that portfolio is almost entirely animal-based. A 2025 systematic review in HSS Journal screened 544 articles and found only <strong>one qualifying human clinical study</strong> in orthopaedics. <sup>[8]</sup> A separate 2025 narrative review identified three total published human pilot studies — all from a single research group in Croatia — with a combined subject count under 30 participants. The first genuinely rigorous trial is now recruiting: NCT07437547, a Phase 2 randomized double-blind placebo-controlled trial of 120 participants with acute hamstring strain, sponsored by Hudson Biotech. <sup>[9]</sup> Results will not be available before the July PCAC meeting.</p>
+<p>The mechanistic science is robust: BPC-157 upregulates VEGFR2 (vascular endothelial growth factor receptor 2), activates ERK1/2 signaling, modulates the nitric oxide pathway through Akt-eNOS, and accelerates collagen deposition in wound models. Whether these animal-model mechanisms translate to human clinical benefit at compounding doses remains an open question — and one that PCAC will need to grapple with.</p>
+<p><strong>Epitalon: Twenty-Five Years of Research From a Single Institute</strong></p>
+<p>Epitalon (Ala-Glu-Asp-Gly) is a synthetic tetrapeptide developed by Vladimir Khavinson's group at the St. Petersburg Institute of Bioregulation and Gerontology. A comprehensive 2025 review covering 25 years of Epitalon research documented telomerase activation in human fetal fibroblasts — cells continued dividing to the 44th passage versus the 34th in controls — along with lifespan extension in multiple animal models. <sup>[10]</sup> Human data is limited to a retinitis pigmentosa trial of 162 patients (visual acuity improvements of 0.15–0.20 on average) and a circadian rhythm study in 75 women. The challenge for PCAC: virtually all published Epitalon research originates from Khavinson's institute and has not been independently replicated in Western clinical settings.</p>
+<p><strong>MOTS-c: The Mitochondrial Peptide With Genuine Longevity Potential</strong></p>
+<p>MOTS-c is encoded within mitochondrial DNA — one of the few mitochondrially-encoded signaling peptides identified in the human genome. It acts through AMPK-dependent pathways and Nrf2-mediated antioxidant upregulation. A June 2025 randomized controlled study at the University of Auckland found native MOTS-c restored cardiac mitochondrial respiratory capacity, reversed glucose homeostasis impairment, and reduced cardiac hypertrophy in type 2 diabetic rat hearts. <sup>[11]</sup> Human evidence comes primarily from a Phase 1a/1b trial with CB411 (a MOTS-c analog) in 88 participants — the strongest dataset for this class, though still early-stage. MOTS-c levels also decline approximately 50% between age 20 and 70 in humans, and specific polymorphisms in the MOTS-c gene are overrepresented in centenarian cohorts — a longevity correlation that makes it one of the most compelling compounds the committee will review. <sup>[12]</sup></p>
+<p><strong>Semax: The Russian Nootropic Now Under Western Review</strong></p>
+<p>Semax is a synthetic heptapeptide derivative of ACTH(4-10) originally developed by the Russian Institute of Molecular Genetics. It is a licensed pharmaceutical in Russia for stroke, cognitive disorders, and traumatic brain injury. Its mechanism centers on BDNF upregulation and TrkB receptor activation in the prefrontal cortex, plus dopaminergic and serotonergic pathway modulation. Human studies exist, but they are predominantly Soviet-era — conducted in the 1990s and 2000s under research standards and reporting norms that don't map cleanly to modern RCT requirements. PCAC will need to decide how much weight to give to a body of literature that, by Western standards, would not constitute Level 1 evidence.</p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260627_010841_ec45ff40-d1b5-4c86-895d-ab5d332d3ab9.png',
+          alt: 'Peptide chain molecular structure visualization — amino acid sequence bonding and folding scientific illustration',
+          caption:
+            'Peptides are short chains of amino acids — typically 2–50 residues — that act as precise signaling molecules through receptor-mediated pathways. The structural specificity of each peptide determines its receptor targets, tissue distribution, and downstream biological effects. Small structural differences can produce dramatically different pharmacological profiles.',
+        },
+      },
+      {
+        id: 'road-to-authorization',
+        type: 'h2',
+        heading: 'The Road to Full 503A Authorization: A 12+ Month Federal Process',
+        content: `<p>For researchers and clinicians tracking when legal compounding access might realistically become available, here is the formal rulemaking timeline based on established FDA process: <sup>[6,7]</sup></p>
+<ol>
+  <li><strong>Step 1 — PCAC Review (July 23-24, 2026):</strong> The committee evaluates the evidence and makes a non-binding recommendation for each of the seven peptides under review. A positive recommendation is necessary but not sufficient — it does not authorize compounding.</li>
+  <li><strong>Step 2 — FDA Internal Review (estimated: fall 2026):</strong> Following the PCAC meeting, the FDA reviews the committee's recommendations and develops its own position. The agency is not bound by PCAC votes. This review typically takes several months.</li>
+  <li><strong>Step 3 — Proposed Rule (estimated: late 2026 to early 2027):</strong> If the FDA agrees to add a substance to the 503A authorized list, it publishes a proposed rule in the Federal Register and opens a formal public comment period — typically 60–90 days.</li>
+  <li><strong>Step 4 — Final Rule (estimated: mid-to-late 2027):</strong> After reviewing all public comments, the FDA publishes a final rule. Only at this point is a substance formally authorized for 503A compounding under physician prescription. The complete cycle from positive PCAC vote to final rule has historically taken 12–18+ months.</li>
+</ol>
+<p>Five of the twelve removed peptides — GHK-Cu, Melanotan II, LL-37, Dihexa, and PEG-MGF — are not even scheduled for PCAC review until a second meeting before February 2027. Their realistic authorization timelines extend into 2028 at the earliest.</p>
+<p><strong>The enforcement discretion question:</strong> Legal analysts have flagged one potential accelerant: FDA could extend its "interim enforcement discretion" to cover the Category-2-removed peptides while rulemaking proceeds — effectively creating a safe harbor for compounders analogous to what Category 1 substances currently enjoy. As Frier Levitt noted: "The real question is whether the FDA will extend enforcement discretion to these substances, allowing them to be compounded under the interim policy while the formal rulemaking process plays out." <sup>[4]</sup> No formal announcement to this effect has been made as of June 27, 2026.</p>`,
+      },
+      {
+        id: 'what-hasnt-changed',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>What the April 2026 Changes Did NOT Affect:</strong> CJC-1295 and Ipamorelin — two of the most widely used research peptides — received negative PCAC votes at October 2024 and December 2024 meetings, respectively. They were NOT among the 12 peptides removed from Category 2 in April 2026 and currently have no clear pathway to 503A compounding authorization. Research-use-only sales by non-compounding vendors to verified research institutions operate under a distinct regulatory framework that is not directly governed by the 503A Category system.`,
+      },
+      {
+        id: 'researcher-guidance',
+        type: 'h2',
+        heading: "What This Means for Researchers: Practical Guidance for June 2026",
+        content: `<p>The 2026 regulatory shift has created a genuinely complex landscape that requires precision to navigate. Here is a practical breakdown by context:</p>
+<p><strong>For licensed 503A compounding pharmacies:</strong> Compounding the 12 Category-2-removed peptides exists in a legal gray area. The substances are no longer on the do-not-compound list, but they are not yet on the authorized list and are not covered by FDA enforcement discretion. Proceeding requires a documented risk assessment and ideally consultation with FDA-specialized legal counsel. The law firm analyses from Orrick, Frier Levitt, Foley & Lardner, and Polsinelli represent the most current and reliable guidance available. <sup>[3,4,7]</sup></p>
+<p><strong>For research institutions:</strong> Procurement and use of research-grade peptides for laboratory (not clinical) research operates under a different legal framework than pharmaceutical compounding. Research-use-only vendors selling to verified research institutions are not 503A pharmacies and are not directly governed by the 503A Category system. However, quality verification — batch-specific COAs, HPLC purity confirmation, mass spectrometry identity verification, endotoxin testing — remains non-negotiable for legitimate research contexts. <sup>[12]</sup></p>
+<p><strong>For clinicians considering peptide-based protocols:</strong> The most defensible position is to work with licensed 503A pharmacies that have taken a documented legal position on their compounding status, or to wait for the formal rulemaking process to produce a clear legal framework. Off-label prescribing through non-compounding channels involves distinct liability considerations that individual practitioners must evaluate with their own legal advisors. <sup>[5]</sup></p>`,
+      },
+      {
+        id: 'vendor-heading',
+        type: 'h2',
+        heading: 'Research-Grade Sources: Verified Vendors for the Affected Peptides',
+        content: `<p>For researchers and institutions requiring the peptides affected by the April 2026 regulatory changes — BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV, GHK-Cu, and others — sourcing from verified, third-party-tested suppliers is essential. Research-use-only peptide vendors operate under different regulatory parameters than compounding pharmacies, and their ability to supply these compounds for legitimate laboratory research has not been materially affected by the Category 2 changes. The following US-based vendors meet current quality benchmarks for research-grade material:</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157, TB-500, Semax, Epitalon, MOTS-c, KPV, GHK-Cu, LL-37 + 80+ SKUs',
+            productUrl: 'https://peptidetech.is/shop',
+            price: 'BPC-157 from $19.99 · Semax 5mg $28.18 · Epitalon 10mg $29.75 · MOTS-c 10mg $36 · LL-37 10mg $39.99',
+            purity: '≥99% HPLC',
+            highlight:
+              'Carries the broadest catalog of the twelve Category-2-removed peptides, including the rarer compounds (LL-37, MOTS-c, KPV). Every batch is dual-tested at two ISO 17025-accredited US laboratories with QR-code COA linking to full HPLC, mass spec, endotoxin, sterility, and heavy-metal data. WHO-GMP certified manufacturing.',
+            badge: 'Broadest Affected Peptide Catalog',
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 (5mg, 10mg, 20mg, capsules), TB-500, KPV, MOTS-c, Epitalon 50mg, GHK-Cu, Semax, N-Acetyl Semax Amidate',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Check site for current pricing — 78 peptides + 18 bioregulators',
+            purity: '≥99% (≥98% money-back guarantee)',
+            highlight:
+              'ISO-certified US manufacturer with triple third-party testing across HPLC, mass spec, and endotoxin. Unique pre-blended options including BPC-157 + KPV (anti-inflammatory combination) and BPC-157 + TB-500. Research literature cited on product pages. Largest total catalog of any vendor in this category.',
+            badge: 'Best Blend Selection',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 (injectable + capsules), GHK-Cu (capsules + spray format), Selank Spray, AOD-9604',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'Check site for current pricing',
+            purity: '≥99%',
+            highlight:
+              'Research-first operation with same-day shipping before 2 PM CST. Red thermal mailers for temperature-controlled delivery of lyophilized peptides. Third-party tested, US operations, batch-specific COA on every order. Specializes in unique delivery formats including oral capsules and nasal sprays for hard-to-handle compounds.',
+            badge: 'Same-Day Shipping',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157, KPV Peptide, Semax + Selank Spray Blend, GLOW Blend (GHK-Cu), GROW Peptide, NAD+ Spray',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'KPV from $39.99 · Free BAC water on orders over $200 · Free shipping over $250',
+            purity: '≥98%',
+            highlight:
+              "Focused catalog covering the core regulatory-shift peptides with unique blend formulations. The GLOW Blend incorporates GHK-Cu for anti-aging and collagen support protocols. Semax + Selank spray blend covers both nootropic peptides under review at the July 24 PCAC session. Third-party COAs included with all products.",
+            badge: 'Best KPV & Nootropic Blends',
+          },
+        ],
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Use Disclaimer:</strong> All peptides listed from the vendors above are sold strictly for laboratory research purposes and are not FDA-approved medications. None of the 12 peptides removed from Category 2 in April 2026 have received FDA approval for any clinical indication or been formally added to the 503A authorized compounding list as of June 2026. Compounding pharmacies should consult specialized FDA legal counsel before compounding these substances. This article provides regulatory information and is not legal or medical advice.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Are BPC-157 and TB-500 now legal to compound in the US?',
+            answer:
+              "Not yet — and the answer is more nuanced than most sources suggest. As of April 22, 2026, BPC-157 and TB-500 are no longer on the FDA's Category 2 'do not compound' list. However, they have not been added to the Category 1 authorized compounding list and are not currently covered by the FDA's interim enforcement discretion policy (which covers only Category 1 substances). They exist in regulatory limbo. The PCAC will review both compounds on July 23, 2026, but even a positive recommendation triggers a 12+ month notice-and-comment rulemaking process before formal compounding authorization. Compounding pharmacies proceeding now do so at their own legal risk.",
+          },
+          {
+            question: 'What is the PCAC and does its recommendation bind the FDA?',
+            answer:
+              'The Pharmacy Compounding Advisory Committee (PCAC) is an independent expert advisory body that reviews bulk drug substance nominations for the 503A authorized compounding list. It includes physicians, pharmacists, clinical scientists, and patient representatives. The PCAC makes non-binding recommendations — it advises the FDA but has no authority to approve or deny. Only the FDA itself, through formal notice-and-comment rulemaking published in the Federal Register, can add substances to the 503A authorized list. The July 23-24, 2026 PCAC meeting is a critical milestone but not the final regulatory decision.',
+          },
+          {
+            question: 'What happened to CJC-1295 and Ipamorelin — were they reclassified?',
+            answer:
+              "No. CJC-1295 and Ipamorelin were not among the 12 peptides removed from Category 2 in April 2026. These compounds were reviewed at earlier PCAC meetings — CJC-1295 in October 2024, Ipamorelin in December 2024 — and both received negative recommendations (the committee concluded insufficient evidence existed to support 503A authorization). They currently have no clear pathway to compounding authorization under 503A. Vendors selling CJC-1295 and Ipamorelin do so under research-use-only frameworks distinct from pharmaceutical compounding.",
+          },
+          {
+            question: "What happens if a peptide gets a negative PCAC vote at the July hearing?",
+            answer:
+              "A negative PCAC vote would leave the compound in regulatory limbo: no longer prohibited by Category 2 (the nomination was withdrawn), but not placed in Category 1 and not covered by enforcement discretion. The FDA could theoretically still initiate rulemaking to add the compound despite a negative PCAC recommendation, but this is historically rare. The compound would likely remain in an ambiguous gray area indefinitely, similar to the current position of CJC-1295 and Ipamorelin. This is the worst realistic outcome from the July hearing.",
+          },
+          {
+            question: 'Will Selank be reviewed at the July 2026 PCAC hearing?',
+            answer:
+              "Selank is not confirmed as part of the July 23-24, 2026 PCAC review batch. The seven confirmed peptides are BPC-157, KPV, TB-500, MOTS-c, Emideltide, Semax, and Epitalon. Some vendor sources have claimed Selank was among the 12 Category-2-removed peptides, but this is inconsistent with the confirmed PCAC docket and with analyses by legal sources including PeptideWise and law firm publications. Selank's regulatory status and pathway remain less clear than Semax's and may be addressed at a future PCAC meeting.",
+          },
+          {
+            question: 'When will researchers know the outcome of the July PCAC hearing?',
+            answer:
+              "PCAC meetings are public (hybrid format at FDA White Oak Campus), and the committee's votes and reasoning are typically made public shortly after deliberations conclude. Expect preliminary outcomes to be publicly available within days of July 24, 2026. However, the PCAC recommendation is advisory only — the FDA's decision on whether to initiate formal rulemaking comes later (typically months), followed by a notice-and-comment period of 60-90 days and a final rule. Full legal compounding authorization, even in the best-case scenario, is realistically a late 2027 to early 2028 timeline for the first batch of peptides.",
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: A Milestone, Not a Finish Line',
+        content: `<p>The April 2026 removal of twelve peptides from the FDA's Category 2 list is the most significant regulatory development in US peptide compounding in at least three years. It reflects a genuine shift in the political and regulatory environment under the Kennedy-era HHS, and it acknowledges — implicitly if not explicitly — that the sweeping 2023 Category 2 designations overreached in ways that the peptide research and clinical communities had argued all along.</p>
+<p>But the regulatory reality is that this is a milestone, not a finish line. The compounds removed from Category 2 have not received compounding authorization. The PCAC hearing on July 23–24, 2026 is the next critical inflection point — and even a unanimous sweep of positive recommendations would be followed by 12+ months of federal rulemaking before licensed pharmacies could operate under a clear legal framework. For GHK-Cu, Melanotan II, LL-37, Dihexa, and PEG-MGF, the PCAC review isn't even scheduled until a second meeting before February 2027.</p>
+<p>For the research community, this period rewards precision over excitement. Understanding the difference between "no longer prohibited" and "actively authorized" is the foundational distinction for making sound decisions about sourcing, compounding, and research protocols. The regulatory process is moving faster than at any point since 2023 — but it is a process, with procedural requirements that won't be bypassed by a podcast announcement or a nomination withdrawal.</p>
+<p>PeptideWiki will track the PCAC outcomes in real time as they emerge from the July meeting and update this guide accordingly. <em>For the research profiles of the key compounds under review, see our guides on <a href="/blog/bpc-157-complete-research-guide" class="text-blue-400 hover:text-blue-300 underline">BPC-157 research and evidence</a>, <a href="/blog/wolverine-stack-bpc157-tb500-guide" class="text-blue-400 hover:text-blue-300 underline">the BPC-157 + TB-500 Wolverine Stack</a>, and <a href="/blog/epitalon-longevity-peptide-guide" class="text-blue-400 hover:text-blue-300 underline">Epitalon and the longevity peptide class</a>.</em></p>`,
+      },
+    ],
+  },
+  {
     slug: 'glp-1-peptide-research-guide-2026',
     title: 'GLP-1 Peptides in 2026: Semaglutide, Tirzepatide & the Triple Agonist Reshaping Weight Loss Science',
     excerpt:
