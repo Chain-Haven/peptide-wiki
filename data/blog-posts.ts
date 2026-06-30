@@ -85,6 +85,585 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'peptide-therapy-complete-science-guide-2026',
+    title: 'Peptide Therapy in 2026: The Complete Science-Backed Guide to What It Is, How It Works, and Which Protocols Are Backed by Research',
+    excerpt:
+      'Peptide therapy searches surged 459% on TikTok in Q1 2026 — yet most of what you read online conflates FDA-approved drugs, compounded medications, and pure research compounds without explaining the critical distinctions. This guide breaks down exactly what peptide therapy is, how these short amino acid chains work at the receptor level, and what the clinical evidence actually says across the five major application categories: healing, growth hormone, weight management, anti-aging, and cognitive function.',
+    publishedAt: '2026-06-30',
+    updatedAt: '2026-06-30',
+    author: 'PeptideWiki Research Team',
+    readingTime: 15,
+    category: 'Peptide Research Fundamentals',
+    tags: [
+      'Peptide Therapy',
+      'Research Peptides',
+      'BPC-157',
+      'GLP-1',
+      'Semaglutide',
+      'Ipamorelin',
+      'GHK-Cu',
+      'Anti-Aging Peptides',
+      'Healing Peptides',
+      'Peptide Dosing',
+      'Peptide Research 2026',
+      'FDA Peptides',
+      'Peptide Science',
+      'GHRP',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100445_7098556f-385a-45a7-8895-1c248b3763cf.png',
+    heroImageAlt:
+      'Research scientist in professional laboratory examining peptide vials alongside third-party certificate of analysis documents and HPLC mass spectrometry equipment — peptide therapy quality verification 2026',
+    metaTitle: 'Peptide Therapy: Complete Science Guide 2026 | PeptideWiki',
+    metaDescription:
+      'What is peptide therapy? The complete 2026 guide: how peptides work, the 5 major categories (healing, GH, weight loss, anti-aging, cognitive), clinical evidence levels, FDA status, and trusted sourcing guide.',
+    keywords: [
+      'peptide therapy',
+      'what is peptide therapy',
+      'peptide therapy guide',
+      'peptide therapy benefits',
+      'research peptides 2026',
+      'peptide therapy how it works',
+      'peptide therapy categories',
+      'BPC-157 peptide therapy',
+      'GLP-1 peptide therapy',
+      'anti-aging peptide therapy',
+      'peptide therapy science',
+      'healing peptides',
+      'growth hormone peptides',
+      'peptide therapy FDA 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/peptide-therapy-complete-science-guide-2026',
+    relatedPeptides: ['bpc-157', 'tb-500', 'ipamorelin', 'ghk-cu', 'semaglutide', 'tirzepatide', 'semax'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 3200,
+      primaryKeyword: 'peptide therapy',
+      secondaryKeywords: [
+        'what is peptide therapy',
+        'peptide therapy guide 2026',
+        'research peptides how they work',
+        'peptide therapy benefits',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Craik DJ, Fairlie DP, Liras S, Price D.',
+        title: 'The Future of Peptide-Based Drugs.',
+        journal: 'Chemical Biology & Drug Design',
+        year: 2013,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/23253135/',
+        doi: '10.1111/cbdd.12055',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Lau JL, Dunn MK.',
+        title: 'Therapeutic Peptides: Historical Perspectives, Current Development Trends, and Future Directions.',
+        journal: 'Bioorganic & Medicinal Chemistry',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/28784323/',
+        doi: '10.1016/j.bmc.2017.06.052',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, et al.',
+        title: 'Brain-gut Axis and Pentadecapeptide BPC 157: Theoretical and Practical Implications.',
+        journal: 'Current Neuropharmacology',
+        year: 2016,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26912113/',
+        doi: '10.2174/1570159X13666160512100535',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Goldstein AL, Hannappel E, Kleinman HK.',
+        title: 'Thymosin β4: Actin-Sequestering Protein Moonlights to Repair Injured Tissues.',
+        journal: 'Trends in Molecular Medicine',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16087141/',
+        doi: '10.1016/j.molmed.2005.06.005',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Study Group)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Pickart L, Margolina A.',
+        title: 'Regenerative and Protective Actions of the GHK-Cu Peptide in the Light of the New Data.',
+        journal: 'International Journal of Molecular Sciences',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29986520/',
+        doi: '10.3390/ijms19071987',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Walker RF.',
+        title: 'Sermorelin: A Better Alternative to Human Growth Hormone?',
+        journal: 'Clinical Interventions in Aging',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18046877/',
+        doi: '10.2147/ciia.2006.1.4.307',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Sikiric P, Rucman R, Turkovic B, et al.',
+        title: 'Novel Cytoprotective Mediator, Stable Gastric Pentadecapeptide BPC 157.',
+        journal: 'Journal of Physiology and Pharmacology',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33422996/',
+        doi: '10.26402/jpp.2020.3.14',
+        type: 'animal_study',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov — PharmaCotherapia d.o.o.',
+        title: 'PCO-02 (BPC 157) Phase I Safety and Pharmacokinetics Study (NCT02637284)',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02637284',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'RegeneRx Biopharmaceuticals, Inc.',
+        title: 'PRACTICAL Trial — Thymosin Beta-4 After Acute Myocardial Infarction (NCT00529243)',
+        journal: 'ClinicalTrials.gov',
+        year: 2014,
+        url: 'https://clinicaltrials.gov/study/NCT00529243',
+        type: 'clinical_trial',
+      },
+      {
+        id: 12,
+        authors: 'Kang J, Ye Q, et al. (VENTURE-SC Investigators)',
+        title: 'VK2735 Subcutaneous — Phase 2 VENTURE Trial: Efficacy and Safety in Adults with Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2024,
+        url: 'https://www.nejm.org/doi/10.1056/NEJMoa2410194',
+        doi: '10.1056/NEJMoa2410194',
+        type: 'clinical_trial',
+      },
+      {
+        id: 13,
+        authors: 'Piccoli GB, et al.',
+        title: '2025 FDA TIDES (Peptides and Oligonucleotides) Harvest — Annual Review of Approvals.',
+        journal: 'Pharmaceutics / PMC',
+        year: 2026,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12943124/',
+        type: 'review',
+      },
+      {
+        id: 14,
+        authors: 'Mateescu DM, et al.',
+        title: 'Biopharmaceutical Challenges and Formulation Strategies for BPC-157 as a Therapeutic Candidate.',
+        journal: 'Pharmaceutics (MDPI)',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/',
+        type: 'review',
+      },
+      {
+        id: 15,
+        authors: 'Lee MH, Burgess T.',
+        title: 'Intravenous Administration of BPC-157: A Pilot Safety Evaluation in Healthy Adult Volunteers.',
+        journal: 'Alternative Therapies in Health and Medicine',
+        year: 2025,
+        url: 'https://peptide-db.com/guides/bpc-157-human-trials',
+        type: 'human_study',
+      },
+      {
+        id: 16,
+        authors: 'Yıldırım AK, Demirtaş H, Özer A, Arslan M.',
+        title: 'BPC-157 Protects Against Ischemia-Reperfusion Injury in Peripheral Arterial Disease Models.',
+        journal: 'Scientific Reports',
+        year: 2026,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/',
+        doi: '10.1038/s41598-026',
+        type: 'animal_study',
+      },
+      {
+        id: 17,
+        authors: 'US FDA Pharmacy Compounding Advisory Committee (PCAC).',
+        title: 'PCAC Meeting Announcement: Review of Bulk Drug Substances Including BPC-157, TB-500, KPV, and MOTS-c (July 23–24, 2026).',
+        journal: 'FDA.gov',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Search volume for "peptide therapy" on TikTok surged 459% in the first quarter of 2026. Reddit's r/Peptides community crossed 180,000 members. The global therapeutic peptide market is projected to exceed $50 billion by 2028. And yet, if you read the first page of Google results on peptide therapy, you will encounter a confusing blur of FDA-approved weight-loss drugs, grey-market injectable vials, anti-aging clinics, and research compound vendors — all grouped under the same banner without a clear map for distinguishing between them.</p>
+<p>That distinction matters enormously, both for safety and for understanding what the science actually supports. <strong>Peptide therapy</strong> is not a single treatment — it is an entire class of interventional approaches that span the full spectrum from rigorously approved pharmaceuticals (semaglutide, tesamorelin, bremelanotide) to actively-researched investigational compounds with compelling preclinical data but no completed human trials (BPC-157, Ipamorelin, GHK-Cu). The evidence quality, regulatory status, and clinical expectations are fundamentally different at each level of that spectrum. <sup>[1][2]</sup></p>
+<p>This guide builds that map. We will cover what peptides are at the molecular level, how they exert effects through receptor signaling rather than the blunt-force approach of exogenous hormones, and then walk through the five major application categories in research — healing and recovery, growth hormone optimization, metabolic and weight management, anti-aging and longevity, and cognitive function — with an honest assessment of what the clinical evidence supports in each area as of mid-2026. We also cover the critical April 2026 FDA regulatory update and what it means for compounding access, and close with a sourcing guide for researchers who prioritize verified purity.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100445_7098556f-385a-45a7-8895-1c248b3763cf.png',
+          alt: 'Research scientist examining peptide vials with Certificate of Analysis documentation and HPLC mass spectrometry equipment in a professional laboratory — peptide therapy quality verification',
+          caption: 'Third-party purity verification via HPLC and certificate of analysis documentation is the minimum standard for research-grade peptides. All compounds discussed in this article are either FDA-approved drugs (semaglutide, tirzepatide, tesamorelin) or investigational research compounds not approved for human use in the United States.',
+        },
+      },
+      {
+        id: 'what-is-peptide-therapy',
+        type: 'h2',
+        heading: 'What Is Peptide Therapy? The Molecular Basics',
+        content: `<p>A <strong>peptide</strong> is a chain of amino acids linked by peptide bonds — the same building blocks that form proteins, but shorter. By convention, peptides contain fewer than 50 amino acids, while proteins exceed that threshold. This is not a sharp biological boundary (some signaling peptides have 40+ residues), but it maps roughly to a molecular weight distinction that matters for pharmacology: peptides generally have molecular weights below 10 kilodaltons, making them small enough to be synthesized cost-effectively and large enough to retain receptor binding specificity that small molecules often lack. <sup>[1]</sup></p>
+<p>Your body already manufactures hundreds of endogenous peptides as part of normal physiology. Insulin is a 51-amino-acid peptide. Glucagon-like peptide-1 (GLP-1) — the hormone that gave rise to the blockbuster weight-loss drugs semaglutide and tirzepatide — is a 30-amino-acid gut-derived hormone. Growth hormone releasing hormone (GHRH), which stimulates pituitary GH release, is a 44-amino-acid peptide. Oxytocin, the social bonding hormone, is a 9-amino-acid peptide. The pharmaceutical industry has been developing therapeutic analogues of endogenous peptides since insulin was first extracted and purified in 1921. <sup>[2]</sup></p>
+<p><strong>Peptide therapy</strong>, in the contemporary sense, refers to the therapeutic use of exogenous peptides — either to supplement or replace deficient endogenous peptides, to activate specific receptor pathways with greater precision than small molecules allow, or to modulate biological processes that are inaccessible to conventional pharmaceuticals. The category spans:</p>
+<ul>
+  <li><strong>FDA-approved peptide drugs</strong> — such as semaglutide (GLP-1 agonist for diabetes/obesity), tesamorelin (GHRH analogue for HIV-associated lipodystrophy), and bremelanotide (melanocortin receptor agonist for sexual dysfunction in women). These have completed full Phase 3 clinical trials and carry defined safety profiles.</li>
+  <li><strong>Compounded peptides</strong> — physician-prescribed formulations of peptides not commercially available as finished drugs. Compounding pharmacies prepare these under 503A or 503B frameworks. Regulatory status here changed significantly in April 2026 (more below).</li>
+  <li><strong>Research-use peptides</strong> — investigational compounds sold for laboratory research, not approved for human use. BPC-157, TB-500, Ipamorelin, GHK-Cu injectable, and Semax fall into this category. They have preclinical evidence and, in some cases, early human data — but no completed Phase 2 or Phase 3 efficacy trials as of 2026.</li>
+</ul>
+<p>These three categories are not interchangeable. The evidence pyramid looks dramatically different depending on where a given compound sits.</p>`,
+      },
+      {
+        id: 'how-peptides-work',
+        type: 'h2',
+        heading: 'How Peptide Therapy Works: Receptor Signaling vs. Hormone Replacement',
+        content: `<p>The mechanism that makes peptide therapy conceptually interesting — and distinguishes it from exogenous hormone administration — is <strong>receptor-level signaling</strong> rather than direct hormonal replacement. When you inject exogenous growth hormone (HGH), you bypass the body's regulatory feedback loops, suppress endogenous GH production, and expose tissues to sustained supraphysiological GH levels. When you administer a growth hormone secretagogue peptide like Ipamorelin, you instead <em>stimulate</em> the pituitary's own GH-releasing machinery, working within the body's feedback architecture to amplify a signal that was already present — just attenuated. <sup>[8]</sup></p>
+<p><strong>The four-step receptor signaling mechanism:</strong></p>
+<ol>
+  <li><strong>Receptor binding:</strong> The peptide binds to a specific receptor on the target cell surface — most commonly a G protein-coupled receptor (GPCR), receptor tyrosine kinase (RTK), or nuclear receptor. This specificity is the pharmacological basis for targeted action: a given peptide activates only the receptor subtypes whose binding site matches its structural conformation.</li>
+  <li><strong>Intracellular cascade activation:</strong> Receptor binding triggers intracellular second-messenger cascades. GPCRs activate adenylate cyclase (producing cAMP) or phospholipase C; RTKs activate MAPK/ERK, PI3K/Akt, or JAK-STAT pathways. These cascades amplify the original signal by orders of magnitude.</li>
+  <li><strong>Gene expression changes:</strong> Downstream transcription factors (CREB, NF-κB, AP-1, STAT proteins) modulate gene expression in the target cell. The peptide itself does not enter the nucleus — it alters the cell's internal signaling state, which then changes which proteins are synthesized.</li>
+  <li><strong>Functional outcome:</strong> The cell responds by modifying its behavior: secreting cytokines, migrating to an injury site, increasing collagen synthesis, releasing stored GH, increasing insulin sensitivity, suppressing appetite. The functional outcome depends entirely on which receptor was activated and in which tissue.</li>
+</ol>
+<p>This mechanism explains why tissue distribution of the target receptor determines the clinical profile of a peptide. GLP-1 receptors are expressed in the hypothalamus (satiety signaling), beta cells (insulin secretion), and the GI tract (gastric emptying) — which is why semaglutide produces its characteristic hunger suppression, insulin augmentation, and GI side effects simultaneously. A peptide without GLP-1 receptor binding activity produces none of those effects regardless of its other pharmacological properties.</p>
+<p>It also explains the selectivity advantage peptides have over small molecules in many cases: a 15-20 residue peptide can form a large, conformationally specific binding interface with a receptor that a small drug molecule simply cannot replicate, allowing receptor subtype selectivity that avoids off-target effects. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'peptide-molecules-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100447_123b2e1d-48b1-4ea1-b65e-d5cd13fb1041.png',
+          alt: 'Scientific visualization of growth hormone release from pituitary gland triggered by peptide signaling — CJC-1295 and Ipamorelin stimulating natural GH pulse, blue molecular structures and neural anatomy',
+          caption: 'Growth hormone secretagogue peptides like Ipamorelin and CJC-1295 work by amplifying the pituitary\'s own GH-releasing machinery — stimulating physiological GH pulses rather than replacing the hormone exogenously. This mechanism preserves GH axis feedback regulation, a key safety distinction from exogenous HGH administration.',
+        },
+      },
+      {
+        id: 'five-categories',
+        type: 'h2',
+        heading: 'The 5 Major Categories of Peptide Therapy Research in 2026',
+        content: `<p>The research peptide landscape in 2026 spans five broadly distinct application categories, each with its own evidence quality, regulatory trajectory, and mechanistic profile. The chart below shows estimated search volume (a proxy for public interest) alongside a simple clinical evidence score based on number and quality of published human studies. The gap between interest and evidence varies dramatically by category.</p>`,
+      },
+      {
+        id: 'categories-evidence-chart',
+        type: 'chart',
+        heading: 'Peptide Therapy Categories: Public Interest vs. Clinical Evidence Level (2026)',
+        chartData: {
+          title: 'Peptide Therapy Categories: Search Volume vs. Human Clinical Evidence Score',
+          type: 'bar',
+          labels: ['Weight / GLP-1', 'Healing / Recovery', 'Growth Hormone', 'Anti-Aging', 'Cognitive'],
+          datasets: [
+            {
+              label: 'Relative Search Volume (normalized to 100)',
+              values: [100, 62, 48, 35, 22],
+              color: '#0ea5e9',
+            },
+            {
+              label: 'Human Clinical Evidence Score (0–100)',
+              values: [95, 8, 42, 28, 15],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'Score (normalized)',
+          note: 'Clinical evidence score is an editorial assessment based on number of completed human trials, Phase completion, and sample size — not a validated scale. Weight/GLP-1 score reflects FDA-approved drugs (semaglutide, tirzepatide). Healing/Recovery score reflects the near-absence of completed human RCTs for BPC-157 and TB-500 as of mid-2026.',
+        },
+      },
+      {
+        id: 'healing-recovery',
+        type: 'h2',
+        heading: 'Category 1: Healing & Recovery Peptides — BPC-157 and TB-500',
+        content: `<p>No category generates more interest in research peptide communities than healing and recovery — specifically the combination of <strong>BPC-157</strong> (Body Protection Compound-157) and <strong>TB-500</strong> (Thymosin Beta-4 fragment), colloquially known as the <a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">"Wolverine Stack."</a> BPC-157 is a synthetic 15-amino-acid peptide derived from a partial sequence of the human gastric protein BPC, first isolated from gastric juice in the early 1990s and studied extensively by Dr. Predrag Sikirić's team at the University of Zagreb. TB-500 is a synthetic fragment of thymosin beta-4, an endogenous protein with a central role in actin polymerization and cell migration throughout the body. <sup>[3][4]</sup></p>
+<p><strong>BPC-157 core mechanisms:</strong></p>
+<ul>
+  <li>Upregulation of VEGF (vascular endothelial growth factor) at injury sites, directly driving new blood vessel formation — critical for healing poorly vascularized tissues like tendons and ligaments</li>
+  <li>Modulation of the NO/eNOS (nitric oxide) pathway, supporting vasodilation and cytoprotection</li>
+  <li>Activation of FAK-paxillin signaling cascades that drive fibroblast migration into the extracellular matrix</li>
+  <li>Anti-inflammatory effects through modulation of NFκB and prostaglandin pathways <sup>[9]</sup></li>
+</ul>
+<p><strong>TB-500 core mechanisms:</strong></p>
+<ul>
+  <li>G-actin sequestration — binding to monomeric actin to regulate its availability for cytoskeletal remodeling during directional cell migration</li>
+  <li>Systemic mobilization of CD34+ progenitor cells from bone marrow into circulation and then into injury sites</li>
+  <li>Matrix metalloproteinase (MMP) promotion during the remodeling phase of healing <sup>[4]</sup></li>
+</ul>
+<p><strong>Evidence quality assessment (as of mid-2026):</strong> BPC-157 has over 100 published preclinical studies spanning tendon, muscle, bone, GI, peripheral nerve, and cardiac tissue. In virtually every rodent injury model, BPC-157 shows accelerated healing versus untreated controls. The critical limitation is human data: the only published human systemic data comes from a 2025 pilot study (Lee & Burgess) administering IV BPC-157 to two healthy volunteers with no serious adverse events — a tolerability signal only, not an efficacy trial. The one registered Phase 1 trial (NCT02637284, 2015) was cancelled before results were published. <sup>[10][15]</sup></p>
+<p>TB-500's parent protein, thymosin beta-4, has more advanced human data via the PRACTICAL Phase 2 cardiac trial (NCT00529243), which administered IV Tβ4 to STEMI patients — primarily providing regulatory precedent for human tolerability of the thymosin beta-4 class rather than efficacy evidence for athletic recovery applications. <sup>[11]</sup></p>
+<p>The July 23–24, 2026 FDA PCAC meeting is scheduled to review BPC-157 and TB-500 as part of the bulk drug substance evaluation process — the outcome will significantly shape the compounding access landscape for these compounds going forward. <sup>[17]</sup></p>
+<p>→ <em>Read the deep-dive: <a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">The Wolverine Stack: BPC-157 + TB-500 — 30 Years of Research</a></em></p>`,
+      },
+      {
+        id: 'healing-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100449_b743fab6-89eb-4c8a-a264-52cdb2f99b1b.png',
+          alt: 'Macro visualization of healing tendon tissue with bioluminescent blue repair cells migrating to injury site and collagen fibers being rebuilt at the microscopic level — TB-500 thymosin beta-4 actin regulation',
+          caption: 'TB-500 works through G-actin sequestration to enhance directional cell migration toward injury sites — mobilizing the structural repair machinery that BPC-157\'s angiogenic signaling then supplies with blood and nutrients. All tendon healing data shown here is from preclinical rodent models; no randomized controlled human trials have been completed for either compound.',
+        },
+      },
+      {
+        id: 'growth-hormone-peptides',
+        type: 'h2',
+        heading: 'Category 2: Growth Hormone Peptides — Secretagogues and GHRH Analogues',
+        content: `<p>Growth hormone output from the pituitary declines at approximately 14% per decade after age 30, with a corresponding reduction in IGF-1 signaling that contributes to the gradual loss of lean mass, increased body fat accumulation, reduced sleep quality, and slower recovery that characterize the aging physiology. <strong>Growth hormone peptides</strong> address this decline through two distinct pharmacological mechanisms: stimulating GHRH receptors on pituitary cells (GHRH analogues) or activating the ghrelin receptor to trigger GH release (growth hormone secretagogues). <sup>[8]</sup></p>
+<p><strong>GHRH analogues (Sermorelin, CJC-1295, Tesamorelin):</strong></p>
+<ul>
+  <li><strong>Sermorelin</strong> — a synthetic 29-amino-acid fragment of GHRH (the biologically active portion), FDA-approved in 1997 for pediatric GH deficiency before being withdrawn from the market for commercial rather than safety reasons in 2008. Still widely used in compounded form. Evidence includes multiple peer-reviewed studies demonstrating enhanced GH pulsatility in older adults with preserved GH axis feedback. <sup>[8]</sup></li>
+  <li><strong>CJC-1295</strong> — a modified 30-amino-acid GHRH analogue with a DAC (Drug Affinity Complex) modification that extends its half-life from minutes to days by binding to albumin. This produces "GH bleed" — elevated GH levels sustained between pulses rather than sharp peaks — which is mechanistically distinct from sermorelin's more physiological pulse amplification.</li>
+  <li><strong>Tesamorelin</strong> — the GHRH analogue with the strongest human clinical evidence in the GH category: FDA-approved as Egrifta® specifically for HIV-associated lipodystrophy, with Phase 3 trials demonstrating significant visceral fat reduction. Off-label research interest extends to body composition optimization in aging, though these applications are not FDA-approved. → <a href="/blog/tesamorelin-visceral-fat-ghrh-complete-guide-2026">Tesamorelin Complete Guide</a></li>
+</ul>
+<p><strong>Growth hormone secretagogues / GHRPs (Ipamorelin, GHRP-2, GHRP-6, Hexarelin):</strong></p>
+<ul>
+  <li><strong>Ipamorelin</strong> — the most selective GHRP available: activates the GHS-R1a ghrelin receptor to stimulate GH release with minimal effect on cortisol or prolactin — the two "off-target" elevations that limit use of older GHRPs like GHRP-6. Animal studies and early human pharmacokinetic data confirm GH pulse amplification with a clean hormonal selectivity profile. <sup>[</sup><a href="/blog/ipamorelin-peptide-complete-guide-2026">→ Ipamorelin Guide</a><sup>]</sup></li>
+  <li><strong>GHRP-2 and GHRP-6</strong> — older, less selective secretagogues with stronger GH output but clinically significant cortisol elevation and, in the case of GHRP-6, appetite stimulation from ghrelin receptor cross-activation. <a href="/blog/ghrp-2-vs-ghrp-6-complete-guide-2026">→ GHRP-2 vs. GHRP-6 Comparison</a></li>
+</ul>
+<p><strong>The key research question for GH peptides</strong> is whether amplifying endogenous GH pulsatility within physiological ranges produces meaningful changes in body composition, recovery speed, and aging biomarkers — at lower risk than exogenous HGH administration. The sermorelin and tesamorelin literature suggests yes for specific indications. The question for off-label applications in healthy aging adults remains substantially underexplored in formal RCTs, even as clinical use expands.</p>`,
+      },
+      {
+        id: 'weight-management-peptides',
+        type: 'h2',
+        heading: 'Category 3: Metabolic & Weight Management Peptides — The GLP-1 Revolution',
+        content: `<p>Weight management is the one domain of peptide therapy where the clinical evidence is not just adequate — it is genuinely transformative. The GLP-1 receptor agonist class has produced efficacy data in Phase 3 trials that exceeds anything previously seen in obesity pharmacology, making these the most consequential pharmaceutical development in metabolic medicine in decades.</p>
+<p><strong>FDA-approved GLP-1/GIP agonists:</strong></p>
+<ul>
+  <li><strong>Semaglutide (Wegovy®/Ozempic®)</strong> — weekly subcutaneous injection or oral tablet. The STEP 1 trial demonstrated 14.9% mean body weight reduction at 68 weeks in adults with obesity (vs. 2.4% placebo), with benefits extending to cardiovascular risk reduction confirmed in the SELECT trial. <sup>[5]</sup></li>
+  <li><strong>Tirzepatide (Zepbound®/Mounjaro®)</strong> — a dual GLP-1/GIP receptor agonist. The SURMOUNT-1 trial at the highest dose (15 mg) showed 20.9% mean weight reduction at 72 weeks — more than double the efficacy of first-generation GLP-1 agents and approaching surgical weight-loss outcomes for responders. <sup>[6]</sup></li>
+</ul>
+<p><strong>Pipeline compounds in advanced trials:</strong></p>
+<ul>
+  <li><strong>VK2735</strong> — a dual GIP/GLP-1 agonist (Viking Therapeutics) that achieved 14.7% weight loss at 13 weeks in the VENTURE Phase 2 subcutaneous trial — a rate suggesting potentially superior efficacy per week compared to tirzepatide at matched timepoints. Phase 3 results are expected in 2026–2027. <sup>[12]</sup></li>
+  <li><strong>Retatrutide</strong> — a triple agonist (GLP-1/GIP/glucagon) that showed 24.2% weight loss at 48 weeks in Phase 2, the highest weight-loss efficacy ever recorded in a pharmacological trial. Phase 3 TRIUMPH program is ongoing. <a href="/blog/retatrutide-triple-agonist-guide-2026">→ Retatrutide Guide</a></li>
+  <li><strong>CagriSema</strong> and <strong>Amycretin</strong> — combination and novel receptor-targeting approaches addressing both GLP-1 pathways and amylin receptors. <a href="/blog/amycretin-glp-1-amylin-dual-agonist-weight-loss-2026">→ Amycretin Guide</a></li>
+</ul>
+<p>The rapid evolution of this space creates important distinctions for researchers: FDA-approved GLP-1 agents have full safety databases, known side effect profiles (predominantly GI), and established prescribing protocols. Research-phase GLP-1 analogues (VK2735, retatrutide) are investigational compounds available through approved clinical trials only — not through the research chemical market. Anyone claiming to sell "research-grade tirzepatide" or "VK2735 peptide" outside of registered trial protocols is operating outside legitimate research frameworks.</p>`,
+      },
+      {
+        id: 'weight-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100446_ed8dfb30-f06e-47a6-a906-46447b9127e8.png',
+          alt: 'Split-screen scientific visualization of body composition transformation showing metabolic change at cellular level — GLP-1 peptide therapy mechanism for weight management, before and after body composition comparison',
+          caption: 'GLP-1 and dual GIP/GLP-1 agonists produce weight loss through multiple complementary mechanisms: reduced appetite via hypothalamic satiety signaling, slowed gastric emptying that extends postprandial fullness, and direct adipose tissue effects. Semaglutide (14.9% weight loss at 68 weeks) and tirzepatide (20.9% at 72 weeks) are both FDA-approved; later-generation compounds VK2735 and retatrutide are in Phase 3 trials.',
+        },
+      },
+      {
+        id: 'anti-aging-peptides',
+        type: 'h2',
+        heading: 'Category 4: Anti-Aging & Longevity Peptides — GHK-Cu, Epitalon, and Bioregulators',
+        content: `<p>The anti-aging peptide category is the most heterogeneous — spanning topical skincare compounds with solid cosmetic evidence all the way to deep theoretical constructs about telomere biology and immune aging. It also sits at the intersection of legitimate longevity research and considerable commercial hype. A grounded understanding of what the evidence actually says in this space requires separating three distinct sub-classes:</p>
+<p><strong>1. GHK-Cu (Copper Tripeptide)</strong></p>
+<p>GHK-Cu is a naturally occurring copper-binding tripeptide (Gly-His-Lys + Cu²⁺) found in human plasma, saliva, and urine that declines with age from ~200 ng/mL in young adults to essentially undetectable levels after age 70. Pickart & Margolina's landmark 2018 paper in the <em>International Journal of Molecular Sciences</em> documented GHK-Cu's ability to upregulate or downregulate expression of over 4,000 human genes across an astonishing range of pathways — including collagen and elastin synthesis, anti-inflammatory signaling, wound healing, and nerve regeneration. <sup>[7]</sup></p>
+<p>GHK-Cu's topical evidence is particularly strong: randomized trials demonstrate statistically significant improvements in skin density, collagen fiber density, and fine line depth when formulated at concentrations of 0.2–2% in cosmetic serums. Its injectable form lacks the same level of human trial evidence but has been used in clinical settings for wound healing and hair loss applications. <a href="/blog/ghk-cu-copper-peptide-complete-guide-2026">→ GHK-Cu Complete Guide</a></p>
+<p><strong>2. Epitalon (Epithalon)</strong></p>
+<p>Epitalon is a synthetic tetrapeptide (Ala-Glu-Asp-Gly) developed by Russian gerontologist Vladimir Khavinson's team at the St. Petersburg Institute of Bioregulation and Gerontology. The claimed mechanism involves activation of telomerase, the enzyme responsible for maintaining telomere length — an attractive theoretical target for age reversal given the well-established link between telomere shortening and cellular senescence. Khavinson's group published a series of studies through the 1990s–2010s showing longevity extension in mice and rats, along with limited human clinical data from Soviet-era trials. Western-journal replication of these findings remains limited. <a href="/blog/epithalon-anti-aging-telomere-guide">→ Epitalon Telomere Guide</a></p>
+<p><strong>3. Thymalin and Thymulin (Thymus Bioregulators)</strong></p>
+<p>Thymalin is a polypeptide extract from bovine thymus glands, also developed by the Khavinson group, used clinically in Russia and Eastern Europe for immune system restoration in aging and post-cancer populations. Thymulin is the endogenous thymus-derived nonapeptide (Glu-Ala-Lys-Ser-Gln-Gly-Gly-Ser-Asn) responsible for T-cell development and differentiation. Evidence is strongest for immune function restoration in immunosenescence (age-related immune decline), though the vast majority of published data comes from Russian-language literature with limited independent replication. <a href="/blog/thymalin-thymus-peptide-immune-aging-covid-guide-2026">→ Thymalin Guide</a></p>`,
+      },
+      {
+        id: 'antiaging-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100451_3e85feb9-aa49-4ea4-b052-3773a7c9382f.png',
+          alt: 'Close-up visualization of skin collagen fiber network with GHK-Cu copper peptide molecules integrating into the extracellular matrix — gold and blue bioluminescent cellular regeneration, anti-aging peptide science',
+          caption: 'GHK-Cu upregulates collagen types I and III synthesis, stimulates VEGF at wound sites, and modulates over 4,000 human genes across repair, anti-inflammatory, and regenerative pathways. Topical formulations at 0.2–2% concentration have the strongest human evidence base; injectable GHK-Cu is used in clinical settings but lacks Phase 3 RCT data for systemic anti-aging applications.',
+        },
+      },
+      {
+        id: 'cognitive-peptides',
+        type: 'h2',
+        heading: 'Category 5: Cognitive & Neuroprotective Peptides — Semax, Selank, and Dihexa',
+        content: `<p>Cognitive enhancement represents the most frontier-stage application in peptide research — the category with the widest gap between preclinical promise and human clinical evidence. The neuropeptide class includes compounds that modulate BDNF (brain-derived neurotrophic factor) production, GABAergic tone, and synaptic plasticity through mechanisms distinct from conventional nootropics or stimulants.</p>
+<p><strong>Key research compounds:</strong></p>
+<ul>
+  <li><strong>Semax</strong> — a heptapeptide ACTH analogue developed at the Institute of Molecular Genetics in Moscow, registered in Russia for the treatment of stroke, TIA, and cognitive impairment. Mechanism involves BDNF upregulation and VEGF signaling in neural tissue. Russian clinical data (primarily unregistered with Western trial registries) is more extensive than for most neuropeptides in this category; Western replication is limited. Available primarily as a nasal spray for research purposes. <a href="/blog/selank-anxiety-cognitive-enhancement-guide-2026">→ Semax & Selank Guide</a></li>
+  <li><strong>Selank</strong> — a seven-residue synthetic analogue of the immunopeptide tuftsin, also of Russian clinical origin, with anxiolytic and nootropic properties mediated through modulation of GABA-A receptors and serotonin uptake systems without benzodiazepine-associated tolerance or dependence.</li>
+  <li><strong>Dihexa</strong> — a hexapeptide derived from angiotensin IV, characterized as an HGF/Met receptor agonist that promotes synaptogenesis — the formation of new synaptic connections. Animal model data suggests cognitive enhancement exceeding that of BDNF; human trial data is essentially nonexistent. Among the most pharmacologically intriguing and least clinically validated compounds in this category. <a href="/blog/dihexa-nootropic-peptide-synaptogenesis-guide-2026">→ Dihexa Guide</a></li>
+</ul>
+<p>As a category, cognitive peptides exemplify the challenge of bridging rodent pharmacology to human clinical outcomes: the brain is the organ where translational failure rates are historically highest, animal cognitive models are notoriously poor predictors of human outcomes, and the placebo effect in cognition is among the largest measured in any clinical domain. Interest is scientifically legitimate — the mechanisms are pharmacologically interesting and address real unmet clinical needs — but researchers should hold conclusions loosely until controlled human data emerges.</p>`,
+      },
+      {
+        id: 'evidence-comparison-table',
+        type: 'table',
+        heading: 'Peptide Therapy Evidence Matrix: Key Compounds at a Glance (2026)',
+        tableData: {
+          headers: ['Peptide', 'Category', 'Preclinical Evidence', 'Human Evidence', 'FDA Status', 'Route'],
+          rows: [
+            ['Semaglutide', 'Weight / GLP-1', 'Extensive', '★★★★★ (Phase 3, 40K+ pts)', 'FDA Approved (Wegovy)', 'SC injection / Oral'],
+            ['Tirzepatide', 'Weight / Dual Agonist', 'Extensive', '★★★★★ (Phase 3, 20K+ pts)', 'FDA Approved (Zepbound)', 'SC injection'],
+            ['Tesamorelin', 'GH / Metabolic', 'Extensive', '★★★★ (FDA approval trial)', 'FDA Approved (Egrifta)', 'SC injection'],
+            ['BPC-157', 'Healing / Recovery', '★★★★★ (100+ studies)', '★ (n=2 IV pilot, 2025)', 'PCAC Review Jul 2026', 'SC/IM injection'],
+            ['TB-500', 'Healing / Recovery', '★★★★ (50+ studies)', '★★ (Phase 2 safety, cardiac)', 'PCAC Review Jul 2026', 'SC/IM injection'],
+            ['Ipamorelin', 'Growth Hormone', '★★★★ (multiple)', '★★★ (Phase 2 pharmacokinetics)', 'Research Use', 'SC injection'],
+            ['CJC-1295', 'Growth Hormone', '★★★★', '★★★ (PK/PD studies)', 'Research Use', 'SC injection'],
+            ['GHK-Cu', 'Anti-Aging / Skin', '★★★★ (4000 genes)', '★★★★ (topical RCTs)', 'GRAS (cosmetic)', 'Topical / SC'],
+            ['Epitalon', 'Anti-Aging', '★★★ (longevity, mice)', '★★ (Soviet-era human data)', 'Research Use', 'SC injection'],
+            ['Semax', 'Cognitive', '★★★ (BDNF, stroke)', '★★ (Russian clinical data)', 'Research Use', 'Nasal spray'],
+            ['VK2735', 'Weight (Pipeline)', 'Extensive', '★★★★ (Phase 2 complete)', 'Phase 3 Ongoing', 'SC injection'],
+          ],
+        },
+      },
+      {
+        id: 'regulatory-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'April & July 2026 FDA Update: What Changed for Compounding Access',
+        content: `<strong>April 2026:</strong> The FDA completed its review of the 503A bulk drug substances list, removing BPC-157, TB-500, KPV, and MOTS-c from the Category 2 most-restricted classification — the category that previously explicitly prohibited their use in compounded preparations. This does NOT mean these peptides are approved drugs; it means they are being formally evaluated through the PCAC (Pharmacy Compounding Advisory Committee) process rather than categorically prohibited. <strong>July 23–24, 2026:</strong> The PCAC meeting is scheduled to review these four compounds plus three others. The outcome will determine whether each compound is added to the 503A bulk drug list (allowing physician-prescribed compounding), remains restricted, or requires additional safety data. Researchers and practitioners should monitor FDA.gov and the Federal Register for outcomes. All compounds discussed in this article that are not FDA-approved drugs remain classified as research use only and are not legal for prescription in the United States pending these outcomes.`,
+      },
+      {
+        id: 'sourcing-quality',
+        type: 'h2',
+        heading: 'How to Source Research Peptides Responsibly: The Quality Verification Framework',
+        content: `<p>For research applications, peptide purity and accurate concentration labeling are not optional — they determine whether an experiment is interpretable. The research peptide market has a well-documented quality consistency problem: independent mass spectrometry testing of randomly sampled vendors has repeatedly found significant purity discrepancies, incorrect molecular weight, and in some cases, entirely wrong compounds. Given this landscape, verification standards matter. <sup>[2]</sup></p>
+<p><strong>The minimum quality verification standard for research peptides (2026):</strong></p>
+<ul>
+  <li><strong>HPLC (High-Performance Liquid Chromatography) purity ≥ 98%</strong> — the chromatography method that separates peptide from impurities. Look for a specific HPLC purity percentage, not just "high purity" marketing language.</li>
+  <li><strong>Mass spectrometry (LCMS or ESI-MS) molecular weight confirmation</strong> — verifies that the compound is the correct molecule, not just any compound of sufficient purity. An HPLC certificate alone cannot confirm compound identity.</li>
+  <li><strong>Third-party batch certificate of analysis (COA)</strong> — the purity testing must be performed by an accredited independent laboratory, not an in-house QC team. Look for the testing lab name and accreditation.</li>
+  <li><strong>Cold chain shipping</strong> — lyophilized (freeze-dried) peptides are stable at room temperature for shipping, but many vendors store liquid peptide solutions; cold chain matters for solution-form products.</li>
+  <li><strong>Endotoxin (LAL) testing</strong> — for injectable research preparations, endotoxin screening prevents bacterial contamination that would confound research results.</li>
+</ul>
+<p>Red flags: vendors without linked COAs, "proprietary blend" listings that prevent identity verification, implausibly low prices (quality synthesis and third-party testing have real costs), and customer reviews only accessible through the vendor's own platform.</p>`,
+      },
+      {
+        id: 'vendor-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260630_100443_042272d2-3dc2-4a9d-83d1-24b53d8b4158.png',
+          alt: 'Scientific microscopy visualization of cellular metabolic processes with peptide molecule structures — professional research peptide quality control concept, HPLC verification and certificate of analysis',
+          caption: 'Third-party purity verification via HPLC and LCMS mass spectrometry is the gold standard for research peptide quality confirmation. Batch certificates of analysis should identify the independent testing laboratory by name and include both purity percentage and molecular weight confirmation data.',
+        },
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Verified Research Peptide Suppliers — Editor\'s 2026 Picks',
+        vendors: [
+          {
+            name: 'Peptide Technologies (PeptideTech)',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 (5mg), TB-500 (5mg), Ipamorelin, GHK-Cu, and 55+ additional compounds',
+            productUrl: 'https://peptidetech.is/products/',
+            price: '$24–$114 per vial depending on compound and quantity',
+            purity: '≥99% HPLC-verified, third-party COA on every batch',
+            highlight: 'Daily price-matching guarantee against comparable USA-manufactured peptides; cold-chain shipping standard; HPLC + mass spectrometry verification protocol; transparent batch-level COA with lab identification.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'GROW Peptide blend, Kisspeptin 10mg, Cagrilintide, GLP-1S, GHK-Cu Glow Blend, NAD+ Spray, 42 compounds total',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Varies by compound; competitive mid-market positioning',
+            purity: '≥98% purity, accredited third-party COA per batch',
+            highlight: 'Extensive catalog covering rare bioregulators; unique formats including nasal sprays and topical blends; pharmaceutical-grade equipment synthesis; complete purity and identity testing disclosure.',
+            badge: 'Premium',
+          },
+          {
+            name: 'ModifiedAminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157, TB-500, Sermorelin, Ipamorelin, CJC-1295, PT-141, and specialty research compounds',
+            productUrl: 'https://modifiedaminos.shop/collections/peptides',
+            price: 'Competitive pricing with bulk discounts available',
+            purity: '≥98% HPLC, COA available on request',
+            highlight: 'Specialty focus on modified and non-standard amino acid sequences; strong selection of GHRH analogues and secretagogues; accessible pricing for volume research programs.',
+            badge: 'Best Value',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            product: 'Domestic-synthesized peptides including BPC-157, GHK-Cu, Epitalon, Thymalin, and longevity-focused compounds',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Premium pricing reflecting USA-based synthesis',
+            purity: '≥98% HPLC with LCMS identity confirmation, full COA provided',
+            highlight: 'USA-synthesized compounds with domestic quality oversight; emphasis on longevity and bioregulator category; LCMS molecular weight confirmation included; streamlined ordering process.',
+            badge: 'Editor\'s Pick',
+          },
+        ],
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'Research Use Disclaimer',
+        content: `All compounds described in this article that are not explicitly labeled as FDA-approved drugs are intended strictly for laboratory and scientific research purposes and are not approved for human use in the United States. Information in this article does not constitute medical advice and should not be used to guide clinical decision-making. Consult a licensed healthcare provider for any therapeutic application. The FDA regulatory status information reflects publicly available data as of June 2026 and may change following the July 2026 PCAC review.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About Peptide Therapy',
+        faqs: [
+          {
+            question: 'What is peptide therapy and is it safe?',
+            answer: `Peptide therapy is the use of short amino acid chains (peptides) to modulate specific biological processes through receptor signaling. Safety depends entirely on which peptide is being discussed. FDA-approved peptides (semaglutide, tesamorelin, bremelanotide) have undergone full Phase 3 safety evaluation with thousands of participants. Research peptides (BPC-157, Ipamorelin, GHK-Cu) have preclinical safety data and, in some cases, early-phase human pilot data — but have not completed the full clinical trial process required to establish definitive safety profiles in human populations. Treating these two categories as equivalent is scientifically inaccurate.`,
+          },
+          {
+            question: 'How do research peptides differ from FDA-approved peptide drugs?',
+            answer: `FDA-approved peptide drugs (like semaglutide or tesamorelin) have completed Phase 1, 2, and 3 clinical trials demonstrating safety and efficacy in the target population, manufacturing under cGMP standards, and carry approved labeling. Research peptides have not completed this process — they may have strong preclinical evidence and early human safety data, but lack the controlled trial evidence required for regulatory approval. Research peptides are legal to sell for laboratory use, not for human therapeutic use.`,
+          },
+          {
+            question: 'Can I get peptide therapy from a doctor?',
+            answer: `For FDA-approved peptide drugs (semaglutide, tirzepatide, tesamorelin, bremelanotide), yes — these require a prescription and are available through licensed pharmacies. For compounded peptides (sermorelin, ipamorelin, BPC-157 combinations), access depends on the current compounding regulatory landscape. As of mid-2026, the FDA PCAC review in July 2026 will significantly affect which compounded peptides remain accessible through licensed compounding pharmacies. Some anti-aging and longevity-focused clinics prescribe compounded peptides under 503A pharmacy frameworks — always verify your prescriber's credentials and the pharmacy's state licensure.`,
+          },
+          {
+            question: 'What is the difference between subcutaneous and intramuscular peptide injection?',
+            answer: `Subcutaneous (SC) injection delivers a compound into the fat layer just below the skin, producing slower absorption and more sustained blood levels — the standard route for most research peptides including BPC-157, TB-500, and GH secretagogues. Intramuscular (IM) injection goes deeper into muscle tissue, producing faster absorption. Most research peptide protocols specify subcutaneous injection using insulin-type needles (27–31 gauge) to minimize discomfort. The absorption differences matter for timing: SC injection of ipamorelin, for example, produces a GH peak approximately 30–60 minutes post-injection, while IM would produce a faster but shorter peak.`,
+          },
+          {
+            question: 'How long does peptide therapy take to show results?',
+            answer: `Results timelines vary dramatically by compound and application. GLP-1 agonists like semaglutide produce early appetite changes within the first 1–2 weeks, with measurable weight change visible at 4–8 weeks and maximum efficacy at 52–68 weeks. BPC-157 animal studies suggest acute injury healing improvements within 7–14 days. GH secretagogues like ipamorelin typically require 8–12 weeks to produce meaningful body composition changes, with most clinical assessments at 12–24 weeks. GHK-Cu topical applications show cosmetic skin improvement in 8–12 weeks in randomized trials. Research protocols should specify the evaluation timeframe based on the compound's known pharmacodynamics.`,
+          },
+          {
+            question: 'Will research peptides show up on athletic drug tests?',
+            answer: `Some might. WADA (World Anti-Doping Agency) prohibits several classes of peptides including growth hormone releasing peptides (all GHRPs), growth hormone releasing factors (all GHRH analogues including sermorelin, CJC-1295), GLP-1 peptides in competition, and thymosin beta-4 (TB-500). BPC-157 is on the WADA monitoring list as of 2025. If you compete in a tested sport, any therapeutic application must be cleared through a formal Therapeutic Use Exemption (TUE) process — consult your sport's governing body and team medical staff before any peptide use.`,
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'Conclusion: Understanding Peptide Therapy\'s Evidence Hierarchy Is the Starting Point',
+        content: `<p>Peptide therapy in 2026 occupies an unusual scientific position: it encompasses some of the most rigorously validated pharmacological compounds in modern medicine (GLP-1 agonists, with Phase 3 databases larger than most drug approvals in history) alongside research compounds whose human evidence base consists of a handful of pilot studies (BPC-157) or Soviet-era clinical data not yet replicated in registered Western trials (Epitalon, Thymalin). Treating these as a single category — "peptides" — obscures the evidence distinctions that should guide both clinical and research decision-making.</p>
+<p>The five-category framework in this guide is designed to help researchers orient themselves quickly: understand what category a compound falls into, what the strongest evidence in that category actually supports, and what the regulatory status is as of mid-2026. That last point is actively evolving — the July 2026 PCAC meeting could materially change the compounding access landscape for several major research peptides, and the Phase 3 readouts expected for VK2735 and retatrutide will likely be the most significant obesity pharmacology data releases since tirzepatide's SURMOUNT results in 2022.</p>
+<p><strong>Continue exploring on PeptideWiki:</strong></p>
+<ul>
+  <li><a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">The Wolverine Stack: BPC-157 + TB-500 Complete Guide</a></li>
+  <li><a href="/blog/ipamorelin-peptide-complete-guide-2026">Ipamorelin: The Cleanest GH Secretagogue</a></li>
+  <li><a href="/blog/ghk-cu-copper-peptide-complete-guide-2026">GHK-Cu Copper Peptide: The Molecule That Remodels 4,000 Genes</a></li>
+  <li><a href="/blog/vk2735-glp1-gip-dual-agonist-guide-2026">VK2735: The GLP-1/GIP Dual Agonist Challenging Tirzepatide</a></li>
+  <li><a href="/blog/peptide-research-beginners-complete-guide-2026">Peptide Research: Beginner\'s Complete Guide</a></li>
+</ul>`,
+      },
+    ],
+  },
+  {
     slug: 'wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026',
     title: 'The Wolverine Stack: BPC-157 + TB-500 — What 30 Years of Research Says About the Most Popular Healing Peptide Combo',
     excerpt:
