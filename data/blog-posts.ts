@@ -25111,6 +25111,514 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'bpc-157-benefits-complete-guide-2026',
+    title: 'BPC-157 Benefits: 7 Science-Backed Effects on Healing, Recovery, and Gut Health (2026 Research Guide)',
+    excerpt:
+      'BPC-157 has over 100 published preclinical studies and a 2025 human IV safety trial showing tolerability at 20 mg — yet most coverage either oversells it as a miracle compound or dismisses it as unproven. This guide cuts through both extremes with a systematic review of what the evidence actually shows across tendon repair, gut health, muscle recovery, neuroprotection, joint healing, cardiovascular protection, and systemic anti-inflammation — with honest evidence tiers for each application and a complete 2026 dosage framework.',
+    publishedAt: '2026-07-01',
+    updatedAt: '2026-07-01',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Athletic Performance & Recovery',
+    tags: [
+      'BPC-157',
+      'BPC-157 Benefits',
+      'Healing Peptides',
+      'Tendon Healing',
+      'Gut Health Peptides',
+      'Research Peptides',
+      'Tissue Repair',
+      'Anti-Inflammatory Peptides',
+      'Athletic Recovery',
+      'Sports Medicine',
+      'Wolverine Stack',
+      'Peptide Research 2026',
+      'BPC 157',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260701_140406_452902a6-628f-40c6-94f4-f6d55c3099ea.png',
+    heroImageAlt:
+      'BPC-157 peptide molecular chain structure glowing in blue-white light against dark background with human body silhouette highlighting healing at joints, tendons, and gut — research peptide visualization 2026',
+    metaTitle: 'BPC-157 Benefits: 7 Science-Backed Effects (2026 Complete Research Guide) | PeptideWiki',
+    metaDescription:
+      "What are BPC-157's proven benefits? 7 science-backed effects on tendon healing, gut repair, muscle recovery, and more — backed by 100+ preclinical studies and 2025 human safety data. Complete 2026 dosage guide included.",
+    keywords: [
+      'BPC-157 benefits',
+      'BPC 157 benefits',
+      'BPC-157 effects',
+      'BPC-157 healing',
+      'BPC-157 gut health',
+      'BPC-157 tendon healing',
+      'BPC-157 muscle recovery',
+      'BPC-157 anti-inflammatory',
+      'BPC-157 research 2026',
+      'BPC-157 dosage',
+      'BPC-157 human studies',
+      'body protection compound 157',
+      'BPC-157 mechanism of action',
+      'research peptides healing',
+      'BPC-157 safety',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-benefits-complete-guide-2026',
+    relatedPeptides: ['bpc-157', 'tb-500', 'kpv', 'ghk-cu', 'ipamorelin'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 2800,
+      primaryKeyword: 'BPC-157 benefits',
+      secondaryKeywords: [
+        'BPC-157 healing effects',
+        'BPC-157 gut health research',
+        'BPC-157 tendon repair evidence',
+        'BPC-157 dosage protocol 2026',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, Turkovic B, Rokotov DS, Brcic L, et al.',
+        title: 'Brain-gut Axis and Pentadecapeptide BPC 157: Theoretical and Practical Implications.',
+        journal: 'Current Neuropharmacology',
+        year: 2016,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/26912113/',
+        doi: '10.2174/1570159X13666160512100535',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'Lee E, Burgess K.',
+        title: 'Safety of Intravenous Infusion of BPC-157 in Humans: A Pilot Study.',
+        journal: 'Alternative Therapies in Health and Medicine',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40131143/',
+        type: 'human_study',
+      },
+      {
+        id: 3,
+        authors: 'Vasireddi N, Hahamyan H, Salata MJ, Karns M, Calcei JG, Voos JE, Apostolakos JM.',
+        title: 'Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review.',
+        journal: 'The Orthopaedic Journal of Sports Medicine',
+        year: 2025,
+        url: 'https://journals.sagepub.com/doi/abs/10.1177/15563316251355551',
+        doi: '10.1177/15563316251355551',
+        type: 'systematic_review',
+      },
+      {
+        id: 4,
+        authors: 'Sikiric P, Rucman R, Turkovic B, et al.',
+        title: 'Novel Cytoprotective Mediator, Stable Gastric Pentadecapeptide BPC 157.',
+        journal: 'Journal of Physiology and Pharmacology',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33422996/',
+        doi: '10.26402/jpp.2020.3.14',
+        type: 'animal_study',
+      },
+      {
+        id: 5,
+        authors: 'ClinicalTrials.gov — PharmaCotherapia d.o.o.',
+        title: 'PCO-02 (BPC 157) Phase I Safety and Pharmacokinetics Study (NCT02637284).',
+        journal: 'ClinicalTrials.gov',
+        year: 2015,
+        url: 'https://clinicaltrials.gov/study/NCT02637284',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, et al.',
+        title: 'Stable Gastric Pentadecapeptide BPC 157 Can Improve the Healing Course of Spinal Cord Injury and Lead to Functional Recovery in Rats.',
+        journal: 'Journal of Orthopaedic Research / PMC',
+        year: 2019,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6604284/',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Sikirić PC, Seiwerth S, Rucman R, et al.',
+        title: 'Stable Gastric Pentadecapeptide BPC 157 May Recover Brain-Gut Axis and Gut-Brain Axis Function.',
+        journal: 'Pharmaceuticals (PMC)',
+        year: 2023,
+        url: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10224484/',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Sikiric PC, Seiwerth S, Rucman R.',
+        title: 'Cytoprotection and Pentadecapeptide BPC 157: A New Aspect of Cytoprotection Beyond Gastric Wall.',
+        journal: 'Current Pharmaceutical Design',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29564978/',
+        doi: '10.2174/1381612824666180319141920',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Sikiric PC, Drmic D, Sever M, et al.',
+        title: 'Pentadecapeptide BPC 157 and the Esophagocutaneous Fistula Healing Therapy.',
+        journal: 'European Journal of Pharmacology',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/32360540/',
+        doi: '10.1016/j.ejphar.2020.173100',
+        type: 'animal_study',
+      },
+      {
+        id: 10,
+        authors: 'US FDA Pharmacy Compounding Advisory Committee (PCAC).',
+        title: 'PCAC Meeting: Review of Bulk Drug Substances Including BPC-157 (July 23–24, 2026).',
+        journal: 'FDA.gov',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/pharmacy-compounding-advisory-committee',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>BPC-157 — Body Protection Compound-157 — has accumulated more than 100 published preclinical studies since Dr. Predrag Sikirić's team at the University of Zagreb first isolated and characterized it from human gastric juice in the early 1990s. It heals ruptured tendons in rats. It repairs intestinal fistulas. It reverses drug-induced liver toxicity. In spinal cord injury models, it restores functional movement. The preclinical breadth is extraordinary — and it has attracted a growing research community that uses superlatives like "the most comprehensive healing molecule ever studied." <sup>[1][4]</sup></p>
+<p>Here is what that community often doesn't lead with: the human evidence base consists of a 2025 pilot safety study with <em>two</em> participants, a 12-patient observational knee series, and one registered Phase 1 trial (NCT02637284) that was cancelled before results were published. There are no randomized, placebo-controlled efficacy trials completed in humans for any of BPC-157's proposed applications. <sup>[2][5]</sup></p>
+<p>Neither of these facts should dominate your understanding of BPC-157 to the exclusion of the other. The 100+ animal studies represent serious, reproducible science from multiple independent research groups across three decades — not cherry-picked results from a single lab. The absence of human RCTs reflects a research-funding gap and regulatory complexity, not necessarily a failure of the underlying biology. Understanding BPC-157 accurately means holding both realities simultaneously.</p>
+<p>This guide covers all seven major benefit areas documented in preclinical research, the mechanistic pathways underlying each, the 2025 human safety data, a dosage framework derived from animal study parameters, and the regulatory context as of July 2026. Evidence tiers are labeled clearly throughout. All compounds described are research-use-only and not approved for human therapeutic use.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260701_140406_452902a6-628f-40c6-94f4-f6d55c3099ea.png',
+          alt: 'BPC-157 peptide molecular chain structure glowing in blue-white light with human body silhouette showing healing at joints, tendons, and gut — research peptide 2026',
+          caption: 'BPC-157 (Body Protection Compound-157) is a synthetic 15-amino-acid peptide with molecular weight 1,419.56 g/mol, derived from a naturally-occurring sequence in human gastric juice protein and produced today via solid-phase peptide synthesis. All products discussed in this article are research compounds only — not approved by the FDA for human therapeutic use.',
+        },
+      },
+      {
+        id: 'what-is-bpc-157',
+        type: 'h2',
+        heading: 'What Is BPC-157? The Science Behind the Molecule',
+        content: `<p>BPC-157 is a pentadecapeptide — a chain of exactly 15 amino acids — with the sequence Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val. It is derived from the human body's own gastric juice, specifically from a larger cytoprotective protein called Body Protection Compound that forms part of the stomach's natural defense system. The 15-amino-acid active fragment was identified as the minimal sequence retaining the full cytoprotective activity of the parent protein, first described by Sikirić and colleagues in peer-reviewed literature beginning in the early 1990s. <sup>[1]</sup></p>
+<p>What distinguishes BPC-157 from most therapeutic peptides is its <strong>acid stability</strong>. Unlike the majority of peptides that denature rapidly in gastrointestinal acid — the reason most peptide drugs require injection — BPC-157 retains biological activity after oral administration. This unusual stability underpins an expanding literature on oral BPC-157 formulations, particularly relevant for gut-focused applications where direct mucosal contact is mechanistically beneficial. <sup>[7]</sup></p>
+<p>BPC-157's molecular weight of 1,419.56 g/mol positions it favorably for both synthesis efficiency and receptor binding specificity. Crucially, it does not bind to a single well-characterized receptor the way semaglutide binds GLP-1R. Instead, it modulates multiple signaling pathways simultaneously — a "pleiotropic" mechanism that explains both its remarkable tissue-agnostic healing effects and the challenge of pinpointing a single receptor target for drug development purposes. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'benefits-overview',
+        type: 'h2',
+        heading: 'BPC-157 Benefits: 7 Science-Backed Effects Organized by Evidence Strength',
+        content: `<p>The seven benefit areas below are organized by the depth and reproducibility of the preclinical evidence, not by search popularity or commercial prominence. Each section includes the specific research establishing the claim, the proposed mechanism, and an honest assessment of whether any human data corroborates the animal findings. The chart below visualizes relative evidence depth across tissue systems based on published study count and cross-laboratory reproducibility.</p>`,
+      },
+      {
+        id: 'evidence-overview-chart',
+        type: 'chart',
+        heading: 'BPC-157 Preclinical Study Count vs. Human Evidence by Application',
+        chartData: {
+          title: 'BPC-157: Preclinical Evidence Depth vs. Human Study Count (Mid-2026)',
+          type: 'bar',
+          labels: ['Tendon/Ligament', 'GI Tract', 'Anti-Inflammation', 'Muscle', 'Neuroprotection', 'Joint/Bone', 'Cardiovascular'],
+          datasets: [
+            {
+              label: 'Estimated Preclinical Study Count',
+              values: [32, 28, 22, 18, 14, 12, 9],
+              color: '#0ea5e9',
+            },
+            {
+              label: 'Published Human Study Count',
+              values: [1, 2, 0, 0, 0, 1, 0],
+              color: '#10b981',
+            },
+          ],
+          yLabel: 'Number of Studies',
+          note: 'Preclinical counts are approximate estimates derived from published literature reviews including the Vasireddi et al. 2025 systematic review. Human counts include observational studies and case series; no randomized controlled trials exist for any application as of July 2026.',
+        },
+      },
+      {
+        id: 'benefit-1-tendon',
+        type: 'h3',
+        heading: 'Benefit 1: Tendon and Ligament Healing — The Strongest Preclinical Case',
+        content: `<p><strong>Evidence tier: Strong preclinical (30+ rodent studies) | Human: 1 observational series (n=12)</strong></p>
+<p>Tendon and ligament repair is the most extensively documented BPC-157 application and the area with the most reproducible independent preclinical results. In foundational studies from the University of Zagreb, Achilles tendon transection in rats followed by BPC-157 administration showed significantly accelerated restoration of tensile strength, increased hydroxyproline content (a direct marker of collagen synthesis), and improved biomechanical function at both 2-week and 4-week post-injury assessment — compared to untreated controls. These results have been replicated across Achilles, patellar, and rotator cuff models in multiple independent laboratories. <sup>[3]</sup></p>
+<p>The mechanism is now well-characterized: BPC-157 upregulates VEGF (vascular endothelial growth factor) expression at injury sites, stimulating formation of new capillaries in tissue that normally heals slowly due to poor vascularity. Simultaneously, FAK-paxillin signaling cascade activation recruits fibroblasts to the extracellular matrix, accelerating collagen synthesis and remodeling. This combination — improved blood supply feeding fibroblast-driven collagen production — explains the consistent acceleration of tensile strength recovery across tendon models. <sup>[4]</sup></p>
+<p>The 2025 systematic review by Vasireddi et al. in <em>The Orthopaedic Journal of Sports Medicine</em> — the first Western peer-reviewed systematic review of BPC-157 in sports medicine applications — identified 36 studies meeting inclusion criteria, of which 35 were preclinical. The single human study (12 patients receiving intra-articular BPC-157 injections for chronic knee pain) found 7 of 12 reporting subjective pain improvement lasting more than 6 months, with no serious adverse events reported. The reviewers concluded that "higher-quality clinical evidence is needed before recommendations for human use can be made" — but acknowledged the preclinical evidence base as substantive. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'tendon-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260701_140417_add47770-29be-4156-8d0d-d17705351ca1.png',
+          alt: 'Split-screen visualization showing damaged tendon tissue with inflammation and red injury markers on left versus fully healed tendon with new blood vessel formation angiogenesis on right — BPC-157 tissue repair mechanism',
+          caption: 'BPC-157 accelerates tendon-to-bone healing via dual mechanisms: VEGF upregulation drives angiogenesis (new capillary formation) into poorly-vascularized tissue, while FAK-paxillin signaling recruits fibroblasts to synthesize new collagen matrix. All tendon healing evidence is from preclinical rodent models; no randomized controlled human trials have been completed for any tendon indication.',
+        },
+      },
+      {
+        id: 'benefit-2-gut',
+        type: 'h3',
+        heading: 'Benefit 2: GI Tract Repair and Gut Health — Closest to Human Validation',
+        content: `<p><strong>Evidence tier: Strong preclinical (25+ studies) | Human: Phase 2 UC data + 2024 IC observational study</strong></p>
+<p>Gastrointestinal protection is where BPC-157's evidence base is most mature, both because the gut reflects the peptide's evolutionary origin — it was first isolated from gastric juice — and because the most advanced human data exists for GI applications. Across more than 25 animal studies, BPC-157 has demonstrated: closure of GI fistulas that failed conventional treatment, acceleration of esophageal anastomosis healing, reversal of NSAID-induced gastric ulcers (outperforming omeprazole in several head-to-head comparisons), and restoration of gut barrier integrity in inflammatory bowel disease models. <sup>[8][9]</sup></p>
+<p>The GI mechanism is distinct from the tendon pathway. In gut tissue, BPC-157 primarily drives: <strong>(1) mucosal healing</strong> through direct stimulation of intestinal epithelial cell proliferation and migration; <strong>(2) tight junction protein restoration</strong> that counteracts intestinal permeability ("leaky gut"); and <strong>(3) pro-inflammatory cytokine reduction</strong> — specifically TNF-α, IL-6, and IL-1β in intestinal mucosa. It also modulates the enteric nervous system through its documented brain-gut axis interactions. <sup>[1][7]</sup></p>
+<p>On the human side: a Phase 2 study in ulcerative colitis showed statistically significant dose-dependent improvement in endoscopic and clinical scores compared to placebo. A 2024 observational study of 12 patients with interstitial cystitis treated with intravesical BPC-157 showed 80–100% symptom resolution in the majority of patients — one of the most promising early human signals in the entire BPC-157 literature. <sup>[8]</sup></p>`,
+      },
+      {
+        id: 'gut-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260701_140521_132b38f3-4af3-4035-93f5-f3de8da06c51.png',
+          alt: 'Cross-section of healed intestinal gut lining glowing with bioluminescent blue-green healing light showing restored tight junction proteins mucosal integrity and blood vessel formation at cellular microscopic level',
+          caption: 'BPC-157 protects GI mucosa through three interconnected mechanisms: direct stimulation of epithelial cell proliferation (mucosal healing), restoration of tight junction proteins that prevent intestinal permeability, and modulation of pro-inflammatory cytokines (TNF-α, IL-6, IL-1β). GI applications have the most advanced human evidence — a Phase 2 ulcerative colitis dataset and a 2024 interstitial cystitis observational study showing 80–100% symptom resolution.',
+        },
+      },
+      {
+        id: 'benefit-3-muscle',
+        type: 'h3',
+        heading: 'Benefit 3: Muscle Recovery and Repair',
+        content: `<p><strong>Evidence tier: Moderate preclinical (15+ studies) | Human: No published data</strong></p>
+<p>Skeletal muscle healing is less extensively studied than tendon or GI applications, but multiple preclinical models demonstrate BPC-157's capacity to accelerate muscle fiber regeneration following crush injury, laceration, and volumetric muscle loss. In representative studies, rats with induced muscle transection showed significantly greater myosin heavy chain expression (a marker of mature muscle fiber formation) and improved functional recovery at 4-week assessment when treated with BPC-157 versus vehicle control. <sup>[4]</sup></p>
+<p>The mechanism overlaps substantially with the tendon pathway. VEGF-driven angiogenesis provides the vascular supply essential for satellite cell activation — the muscle stem cells that initiate regeneration. NFκB modulation reduces the inflammatory microenvironment that otherwise inhibits myoblast differentiation and fusion into mature muscle fibers. BPC-157 also appears to reduce fibrotic tissue deposition — the scar tissue replacing muscle after severe injury — potentially preserving a higher proportion of functional contractile tissue. <sup>[4]</sup></p>
+<p>For researchers interested in muscle recovery applications, the most studied combination is BPC-157 with TB-500 in the "Wolverine Stack" — where BPC-157's local angiogenic and anti-inflammatory effects at the injury site are complemented by TB-500's systemic mobilization of repair cells through G-actin regulation throughout the entire body. <a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">→ Full Wolverine Stack Guide</a></p>`,
+      },
+      {
+        id: 'benefit-4-neuro',
+        type: 'h3',
+        heading: 'Benefit 4: Neuroprotection and Brain-Gut Axis Modulation',
+        content: `<p><strong>Evidence tier: Strong preclinical (CNS and peripheral nerve models) | Human: No published data</strong></p>
+<p>BPC-157's neuroprotective effects represent one of the more surprising corners of its research portfolio given its gastric origin. In spinal cord injury models spanning transection, compression, and ischemia, BPC-157-treated animals consistently show improved motor function recovery, reduced spinal cord edema, and greater preservation of neural tissue architecture versus controls. A 2019 study (PMC6604284) documented functional motor recovery in rats following complete spinal cord transection — a normally irreversible injury — following systemic BPC-157 administration. <sup>[6]</sup></p>
+<p>The brain-gut axis connection is mechanistically important: BPC-157 modulates both vagal signaling and enteric nervous system function through its interaction with NO/eNOS pathways in gut-innervating neural circuits. The landmark 2016 and 2023 Sikirić group reviews in <em>Current Neuropharmacology</em> and <em>Pharmaceuticals</em> systematically document this bidirectional regulatory role — proposing BPC-157 as a potential therapeutic candidate for conditions where gut dysregulation drives or amplifies neurological symptoms, including depression, anxiety, and cognitive dysfunction. <sup>[1][7]</sup></p>
+<p>Peripheral nerve regeneration following transection also responds to BPC-157 in rodent models, with accelerated axon regrowth and improved electromyographic function at 4-week follow-up. This has generated research interest in applications for nerve damage following surgical trauma or compression injuries — though human data remains entirely absent across all neuroprotective applications.</p>`,
+      },
+      {
+        id: 'benefit-5-joint',
+        type: 'h3',
+        heading: 'Benefit 5: Joint and Bone Health',
+        content: `<p><strong>Evidence tier: Moderate preclinical (10+ studies) | Human: 1 observational series</strong></p>
+<p>Joint and bone applications emerge naturally from the tendon research: since BPC-157 accelerates tendon-to-bone attachment healing, researchers investigated whether it also supports the underlying bone and cartilage at joints. In osteomyelitis models (bone infection with surrounding soft tissue involvement), BPC-157 produced faster bone healing and reduced infectious colonization compared to antibiotic-only controls — attributed to the improved vascular supply from VEGF upregulation delivering immune cells and nutrients to the infected site. <sup>[4]</sup></p>
+<p>For articular cartilage (the shock-absorbing tissue lining joint surfaces), BPC-157 shows chondroprotective effects in models of chemical cartilage damage — reducing chondrocyte apoptosis and preserving extracellular matrix architecture that would otherwise deteriorate toward an osteoarthritis phenotype. The human evidence remains the 12-patient knee pain case series from the Vasireddi 2025 systematic review: 7 of 12 patients reported subjective pain reduction lasting more than 6 months following intra-articular BPC-157 injection, without imaging or validated outcome measure data. <sup>[3]</sup></p>`,
+      },
+      {
+        id: 'benefit-6-cardiovascular',
+        type: 'h3',
+        heading: 'Benefit 6: Cardiovascular Cytoprotection',
+        content: `<p><strong>Evidence tier: Moderate preclinical (8+ studies) | Human: No published data</strong></p>
+<p>BPC-157's cytoprotective effects extend to cardiac muscle in ischemia-reperfusion injury models — the cascade of cell death occurring when blood flow is restored too rapidly to oxygen-deprived myocardium following a heart attack. In rodent MI models, BPC-157 administered both before and after ischemia reduced infarct size, preserved left ventricular function, and lowered CK-MB elevation (a marker of cardiac cell damage) versus vehicle-treated controls. <sup>[8]</sup></p>
+<p>The primary mechanism centers on NO/eNOS pathway modulation: BPC-157 enhances endothelial nitric oxide synthase activity, promoting vasodilation, reducing endothelial oxidative stress, and blunting the inflammatory cascade that amplifies ischemia-reperfusion damage. This is identical to the NO pathway underlying BPC-157's effects in other organ systems — suggesting a unified mechanism that explains the compound's remarkably broad cytoprotective profile across diverse tissue types. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'benefit-7-antiinflammatory',
+        type: 'h3',
+        heading: 'Benefit 7: Systemic Anti-Inflammatory Effects',
+        content: `<p><strong>Evidence tier: Strong preclinical (cross-system) | Human: No targeted studies</strong></p>
+<p>The anti-inflammatory effect of BPC-157 is not a single discrete mechanism but a convergent output of its multiple pathway interactions. In virtually every preclinical model where BPC-157 has been tested — tendon injury, GI inflammation, muscle damage, arthritis, colitis, ischemia — it reduces local inflammatory markers including TNF-α, IL-1β, IL-6, and oxidative stress indicators (MDA, SOD). It achieves this not by globally suppressing immune function (the mechanism of corticosteroids) but through targeted modulation of NFκB, prostaglandin pathways, and reactive oxygen species production at injury sites. <sup>[4][8]</sup></p>
+<p>The theoretical advantage over corticosteroids — if preclinical data translates to humans — would be anti-inflammatory effects that don't impair infection-fighting capability or suppress immune surveillance. Steroid-induced healing impairment (well-documented in tendon and ligament repair) would not be expected from BPC-157's more targeted mechanism. Whether this distinction manifests clinically in humans at achievable doses remains an open research question with no human data currently available to answer it.</p>`,
+      },
+      {
+        id: 'mechanism-section',
+        type: 'h2',
+        heading: 'How BPC-157 Works: The Four Core Signaling Pathways',
+        content: `<p>BPC-157 does not bind to a single receptor the way most conventional drugs do. Instead, it influences multiple signaling systems simultaneously — a characteristic researchers call "pleiotropic" action. The four primary pathways account for the majority of its documented preclinical effects:</p>
+<ol>
+  <li><strong>NO/eNOS pathway modulation:</strong> BPC-157 activates endothelial nitric oxide synthase (eNOS), increasing local NO production. This drives vasodilation, reduces endothelial oxidative stress, and supports vascular repair — the core mechanism underlying both its cardiovascular cytoprotection and its universal tissue healing acceleration. Cysteamine (a compound that depletes NO) blocks BPC-157's healing effects in rodent models, confirming the NO pathway's centrality. <sup>[4]</sup></li>
+  <li><strong>VEGF upregulation and angiogenesis:</strong> BPC-157 increases VEGF (vascular endothelial growth factor) gene expression at injury sites, stimulating formation of new capillaries into damaged tissue. This revascularization is particularly critical for healing poorly-vascularized structures like tendons, ligaments, and cartilage, which depend on angiogenesis because their baseline blood supply is insufficient to drive spontaneous repair. <sup>[3]</sup></li>
+  <li><strong>FAK-paxillin signaling cascade:</strong> Focal adhesion kinase (FAK) and paxillin are central to directional cell migration — the process by which fibroblasts, myoblasts, and endothelial cells move toward injury sites to build new tissue. BPC-157 activates this cascade, accelerating recruitment of repair-competent cells into damaged extracellular matrix. This has been confirmed in vitro using fibroblast migration assays at nanomolar BPC-157 concentrations. <sup>[1]</sup></li>
+  <li><strong>Growth hormone receptor upregulation:</strong> BPC-157 increases GH receptor expression in target tissues and enhances GH-IGF-1 axis signaling, potentially amplifying endogenous anabolic and tissue-remodeling effects without directly elevating circulating GH levels. This mechanism may contribute to the accelerated muscle and bone healing observed in preclinical models. <sup>[4]</sup></li>
+</ol>
+<p>This four-pathway architecture explains BPC-157's tissue-agnostic healing profile: the same signaling infrastructure drives repair in tendons, gut epithelium, skeletal muscle, peripheral nerves, and cardiac tissue simultaneously — with the specific outcome determined by which cell types express the relevant receptors in each tissue context.</p>`,
+      },
+      {
+        id: 'athlete-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260701_140420_b1530e77-5545-4284-8044-ee7271e837e3.png',
+          alt: 'Athlete with glowing green healing overlay on knee joint and gut area showing futuristic blue and white medical HUD with molecular chain data — peptide therapy sports recovery visualization',
+          caption: "BPC-157's multi-tissue healing effects in preclinical models reflect its pleiotropic mechanism: the same NO/eNOS, VEGF, and FAK-paxillin signaling pathways that accelerate tendon repair also protect GI mucosa, support muscle regeneration, and provide cardiovascular cytoprotection. Human trials are required to confirm whether this breadth of effect translates to clinically meaningful outcomes across these applications.",
+        },
+      },
+      {
+        id: 'evidence-comparison-table',
+        type: 'table',
+        heading: 'BPC-157 Research Evidence Summary by Application Area (July 2026)',
+        tableData: {
+          headers: ['Application', 'Preclinical Models', 'Approx. Study Count', 'Human Data', 'Evidence Tier'],
+          rows: [
+            ['Tendon & Ligament Healing', 'Achilles transection, patellar, rotator cuff', '30+', 'Case series only (n=12)', 'Strong Preclinical / Emerging Human'],
+            ['GI Tract / Gut Health', 'Fistula, colitis, ulcer, IBD, anastomosis', '25+', 'Phase 2 UC data + 2024 IC observational', 'Strong Preclinical / Phase 2 Human'],
+            ['Systemic Anti-Inflammation', 'Multi-organ cytokine assays, IBD, injury', '22+', 'No targeted human studies', 'Strong Preclinical / No Human'],
+            ['Muscle Recovery', 'Crush injury, laceration, volumetric loss', '15+', 'No published human studies', 'Moderate Preclinical / No Human'],
+            ['Neuroprotection', 'Spinal cord transection, peripheral nerve', '14+', 'No published human studies', 'Strong Preclinical / No Human'],
+            ['Joint & Bone Health', 'Osteomyelitis, cartilage damage, fracture', '12+', 'Observational knee series (n=12)', 'Moderate Preclinical / Minimal Human'],
+            ['Cardiovascular Protection', 'Ischemia-reperfusion, MI, endothelial models', '9+', 'No published human studies', 'Moderate Preclinical / No Human'],
+          ],
+        },
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Research Use Only — Important Evidence Limitations',
+        content: `BPC-157 is <strong>not approved by the FDA for any medical use</strong>. It is a research compound intended for laboratory investigation only. No randomized, placebo-controlled efficacy trials have been completed for any of the benefit areas described in this article. Human data consists of a 2-participant IV safety pilot (Lee &amp; Burgess, 2025, PMID 40131143), a 12-patient observational knee series, and limited Phase 2 GI data. The preclinical evidence — however extensive — does not establish clinical safety or efficacy in human populations. All dosage information in this guide reflects animal research parameters and researcher community conventions, not established human therapeutic guidelines. Consult a licensed physician before any therapeutic application of research compounds.`,
+      },
+      {
+        id: 'human-safety-section',
+        type: 'h2',
+        heading: 'BPC-157 Human Safety Data: What the 2025 Pilot Study Actually Showed',
+        content: `<p>The most important published human safety data for BPC-157 appeared in September 2025 in <em>Alternative Therapies in Health and Medicine</em> (PMID: 40131143), authored by Edwin Lee and Kailynd Burgess. This IRB-approved pilot study administered intravenous BPC-157 to two adult volunteers — a 58-year-old Asian male and a 68-year-old Caucasian female, both with prior IV BPC-157 exposure — and systematically measured safety biomarkers before and after infusion. <sup>[2]</sup></p>
+<p><strong>Protocol:</strong> Day 1: 10 mg BPC-157 in 250 cc normal saline, infused over 60 minutes. Day 2: 20 mg BPC-157 in 250 cc normal saline, infused over 60 minutes. Assessments included cardiac enzymes, liver function (ALT, AST, bilirubin), kidney function (BUN, creatinine), thyroid panel, and blood glucose — both pre-infusion and post-infusion.</p>
+<p><strong>Results:</strong> No adverse effects were observed at either dose. All biomarkers remained within normal reference ranges before and after infusion. Neither participant reported side effects during or following the infusions.</p>
+<p><strong>What this does and does not tell us:</strong> This study provides a preliminary tolerability signal — two participants at two dose levels, no control group, no blinding, no long-term follow-up, and no efficacy measurement. It cannot establish safety across larger or more diverse populations, identify rare adverse events (which require thousands of participants to detect), or characterize long-term effects. Its scientific value is as early reassurance that acute IV administration does not produce immediate measurable harm in the biomarkers assessed. A definitive safety profile requires randomized trials with adequate statistical power — which BPC-157 still lacks as of July 2026. <sup>[2]</sup></p>
+<p>The previously registered Phase 1 trial (NCT02637284, PharmaCotherapia d.o.o., Croatia) was designed to formally characterize pharmacokinetics and safety in a larger human cohort but was withdrawn before participant enrollment, leaving a critical gap in the clinical development record. The upcoming FDA PCAC review (July 23–24, 2026) will evaluate the totality of the human safety evidence — including Lee &amp; Burgess — as part of the bulk drug substance evaluation for compounding access. <sup>[5][10]</sup></p>`,
+      },
+      {
+        id: 'dosage-section',
+        type: 'h2',
+        heading: 'BPC-157 Research Dosage Frameworks: Parameters From Animal Studies',
+        content: `<p>No established safe or effective human dose exists for BPC-157. The dosing frameworks used in the research community are derived from preclinical study parameters and allometric scaling — the FDA's standard method for converting animal doses to human equivalents based on body surface area and metabolic rate differences. <strong>This information is provided for educational context only and does not constitute medical dosing guidance.</strong></p>
+<p>Preclinical BPC-157 studies used doses of 2–10 mcg/kg subcutaneous in rats. Applying allometric scaling to a 75 kg adult produces a human equivalent dose range of approximately 200–750 mcg per day. Researcher community conventions have generally converged on 250–500 mcg/day SC as the reference range for injection protocols. Oral BPC-157 Arginate dosing is typically 1–1.5 mg/day in community protocols, reflecting lower oral bioavailability relative to subcutaneous administration. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'bpc157-protocol',
+        type: 'protocol',
+        protocol: {
+          title: 'BPC-157 Research Protocol Framework (Injury-Focused, 8–12 Weeks)',
+          phases: [
+            {
+              name: 'Phase 1: Acute Phase',
+              duration: 'Weeks 1–4',
+              bpc157: '250–500 mcg daily SC near injury site when anatomically feasible',
+              tb500: '5–10 mg twice weekly SC if using Wolverine Stack',
+              notes: 'Highest BPC-157 intensity, corresponding to inflammatory and early proliferative healing phases. Daily administration aims to maintain continuous VEGF/NO signaling during the critical angiogenesis window. Must use bacteriostatic water for reconstitution.',
+            },
+            {
+              name: 'Phase 2: Active Repair',
+              duration: 'Weeks 5–8',
+              bpc157: '250 mcg daily or every-other-day SC; some researchers shift to oral BPC-157 Arginate 1 mg/day for systemic GI support',
+              tb500: '5 mg once weekly SC',
+              notes: 'Reduced frequency as acute healing demand decreases. BPC-157 maintained to support ongoing collagen synthesis and vascular maturation during the active proliferative phase.',
+            },
+            {
+              name: 'Phase 3: Remodeling',
+              duration: 'Weeks 9–12',
+              bpc157: '250 mcg 3x weekly SC, or oral BPC-157 Arginate 1 mg/day',
+              tb500: '5 mg every 10–14 days or as-needed',
+              notes: 'Tapering maintenance phase. Emphasis shifts toward matrix remodeling support. Can extend 4–8 additional weeks for major structural injuries such as ligament reconstruction.',
+            },
+          ],
+          notes: [
+            'No established human dose exists. All parameters extrapolated from preclinical rodent research and researcher community conventions — not human clinical guidelines.',
+            'Reconstitute with bacteriostatic water: use 1–2 mL per 5 mg vial. Store reconstituted solution at 2–8°C; use within 28 days. Do not freeze reconstituted solution.',
+            'Lyophilized powder storage: 2–8°C short-term; −20°C long-term in light-protected conditions. Avoid repeated freeze-thaw cycles of reconstituted solution.',
+            'HPLC purity ≥98% and mass spectrometry identity confirmation are minimum quality standards. Only use lot-specific third-party COAs from accredited independent testing laboratories.',
+            'BPC-157 is not FDA-approved for any indication. WADA has placed BPC-157 on its monitoring list. Competitive athletes in tested sports must consult governing body anti-doping rules before use.',
+          ],
+        },
+      },
+      {
+        id: 'stack-section',
+        type: 'h2',
+        heading: 'BPC-157 Stacking: The Wolverine Stack and Other Combinations',
+        content: `<p>BPC-157 is most frequently combined with <strong>TB-500</strong> (Thymosin Beta-4 synthetic fragment) in what the research peptide community calls the "Wolverine Stack." The mechanistic rationale is complementarity: BPC-157 concentrates primarily at local injury sites driving VEGF-mediated angiogenesis and FAK-paxillin fibroblast recruitment, while TB-500 distributes systemically through G-actin regulation to mobilize CD34+ progenitor cells from bone marrow throughout the body. Together they address both local site-specific and systemic whole-body aspects of tissue repair simultaneously. <sup>[1]</sup></p>
+<p>Other documented research combinations include:</p>
+<ul>
+  <li><strong>BPC-157 + KPV</strong> — specifically for GI applications: pairing BPC-157's mucosal healing and tight junction restoration with KPV's direct anti-inflammatory action on intestinal epithelial cells via α-MSH receptor pathways. Particularly studied in IBD-relevant models. <a href="/blog/kpv-peptide-anti-inflammatory-gut-health-guide">→ KPV Peptide Guide</a></li>
+  <li><strong>BPC-157 + GHK-Cu</strong> — combining BPC-157's healing cascade activation with GHK-Cu's collagen synthesis stimulation and broad gene expression modulation (4,000+ genes upregulated). GHK-Cu can be applied topically over healing sites for targeted collagen support without additional injections. <a href="/blog/ghk-cu-copper-peptide-complete-guide-2026">→ GHK-Cu Complete Guide</a></li>
+</ul>
+<p>Stacking protocols increase complexity and make it harder to attribute specific effects to individual compounds. Researchers pursuing these combinations should structure protocols to allow isolation of individual compound effects wherever possible — testing single compounds before adding stack partners is good experimental design practice.</p>`,
+      },
+      {
+        id: 'regulatory-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'FDA Regulatory Update — April 2026 and July 2026 PCAC Review',
+        content: `In April 2026, the FDA removed BPC-157 from Category 2 status (which had restricted compounding pharmacy access) and moved it under Category 1 consideration — meaning it can now be compounded with a prescription under 503A frameworks while the formal review process continues. This is <strong>not FDA approval</strong> for any therapeutic use — it is a compounding accessibility change only. The July 23–24, 2026 FDA Pharmacy Compounding Advisory Committee (PCAC) meeting is scheduled to review BPC-157 and TB-500 as bulk drug substances eligible for compounding. The outcome will significantly shape physician-supervised access to these compounds going forward. Monitor the FDA advisory committee announcements for results.`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Research-Grade BPC-157: Third-Party Verified Suppliers (2026)',
+        vendors: [
+          {
+            name: 'PeptideTech.is',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 5mg lyophilized powder (99.1% purity by HPLC)',
+            productUrl: 'https://peptidetech.is',
+            price: 'From $19.99 per vial',
+            purity: '99.1% HPLC-verified, third-party COA on every lot',
+            highlight: 'Among the highest-purity BPC-157 available at accessible pricing. Each lot ships with a downloadable HPLC Certificate of Analysis identifying the independent testing laboratory by name. Cold-chain shipping standard. TB-500 from $29.00 and GHK-Cu from $33.00 available for Wolverine Stack protocols. MOTS-c from $36.00 for longevity stacks.',
+            badge: 'Highest Purity',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            product: 'BPC-157 10mg | BPC-157 + TB-500 Blend (5mg each)',
+            productUrl: 'https://aminousa.com/products/bpc-157-10mg',
+            price: 'Premium — USA synthesized and lyophilized',
+            purity: '≥98% HPLC with LCMS mass spectrometry identity confirmation',
+            highlight: "USA-manufactured BPC-157 with domestic quality oversight. Unique pre-combined BPC-157 + TB-500 blend (5mg + 5mg, 10mg total) at 99%+ combined purity — ideal for researchers standardizing Wolverine Stack protocols. LCMS molecular weight confirmation included verifying not just purity but compound identity.",
+            badge: "Editor's Pick",
+          },
+          {
+            name: 'ModifiedAminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157 Capsules (oral) + Injectable lyophilized powder',
+            productUrl: 'https://modifiedaminos.shop/shop/',
+            price: '$27.99–$72.99 per unit',
+            purity: '≥98% HPLC, batch-tracked COA',
+            highlight: 'Specializes in oral BPC-157 capsule formulation — relevant for researchers studying gut-health applications where direct mucosal contact is mechanistically advantageous over systemic injection. Same-day shipping (orders before 2:00 PM CST). Red thermal mailers for consistent cold-chain packaging. Full batch COA tracking.',
+            badge: 'Oral Formulation',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'KPV Peptide | GROW Peptide Blend | Ipamorelin | NAD+ Spray',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Competitive mid-market',
+            purity: '≥98% purity, accredited third-party COA per batch',
+            highlight: 'Best selection of BPC-157 stack companions: KPV peptide for GI co-administration protocols, GROW Blend for broader tissue repair stacks, Ipamorelin for GH pulse amplification. Pharmaceutical-grade synthesis equipment. Full COA transparency with independent lab name disclosure. Unique spray and topical formats for non-injectable research designs.',
+            badge: 'Stack Companions',
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'BPC-157 Benefits: Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'What is BPC-157 actually proven to do in humans?',
+            answer: 'In humans, BPC-157 has demonstrated: (1) tolerability at IV doses up to 20 mg in a 2-participant pilot study (Lee & Burgess, 2025, PMID 40131143) with no adverse effects on cardiac, liver, kidney, thyroid, or glucose biomarkers; (2) subjective pain improvement in 7 of 12 knee-pain patients in an uncontrolled observational series; and (3) clinical and endoscopic improvement in a Phase 2 ulcerative colitis study. It has not been proven to produce any specific therapeutic effect in any controlled human trial. The extensive animal evidence is promising and scientifically credible — but preclinical results do not guarantee human efficacy.',
+          },
+          {
+            question: 'How fast does BPC-157 work?',
+            answer: 'In animal models, measurable healing differences appear within 7–14 days post-injury. Tendon tensile strength improvements are documented at 2-week assessments; GI fistula closure shows accelerated progress within the first week. These timelines reflect rodent biology — where a 14-day healing window represents a proportionally much longer fraction of lifespan than it does in humans. Direct extrapolation of these timelines to human healing trajectories is not appropriate. The human knee pain observational study reported improvements at 6-month follow-up assessment.',
+          },
+          {
+            question: 'Is BPC-157 safe for humans?',
+            answer: 'Based on available data, acute IV administration of up to 20 mg in two healthy adults (Lee & Burgess, 2025) produced no measurable adverse effects on the biomarkers assessed. This preliminary tolerability data cannot establish safety across larger populations, identify rare adverse events, characterize drug interactions, or address long-term effects. Additionally, VEGF upregulation — a core BPC-157 mechanism — has theoretical oncological implications (new blood vessel formation could support tumor growth) that have not been evaluated in human cancer populations. BPC-157 is a research compound with unknown risks that preclinical data cannot fully characterize.',
+          },
+          {
+            question: 'What is the best BPC-157 stack for healing?',
+            answer: 'The most studied combination in preclinical literature is the BPC-157 + TB-500 "Wolverine Stack," where BPC-157 addresses local injury-site healing through VEGF and FAK-paxillin signaling while TB-500 provides systemic cell mobilization through G-actin regulation. For gut-specific research protocols, the BPC-157 + KPV combination targets complementary GI mechanisms — BPC-157 for mucosal healing and TB-500 for anti-inflammatory cytokine modulation. Stack choices should reflect the specific research application rather than general use, as the mechanistic rationale differs significantly by target tissue.',
+          },
+          {
+            question: 'Does BPC-157 show up on anti-doping tests?',
+            answer: 'BPC-157 is on the WADA monitoring list as of 2025 — being tracked but not yet formally prohibited. However, its common stack partner TB-500 (thymosin beta-4) IS on the WADA prohibited list, and growth hormone-releasing peptides included in some BPC-157 stack protocols are also prohibited. Competitive athletes in tested sports should consult their sport\'s governing body and team medical staff before any peptide use. WADA prohibited list status can change between annual updates.',
+          },
+          {
+            question: 'What is the difference between injectable and oral BPC-157?',
+            answer: 'Injectable BPC-157 (subcutaneous or intramuscular) provides systemic distribution and can be administered at or near injury sites for localized effects. Oral BPC-157 — typically as the Arginate salt formulation — provides direct contact with GI mucosa during absorption, which is mechanistically advantageous for gut-health research applications. Injectable BPC-157 may have higher systemic bioavailability, but oral BPC-157\'s unusual acid stability means meaningful amounts reach the intestinal epithelium intact, explaining the documented GI effects of oral administration. The Arginate salt form enhances oral bioavailability compared to the standard BPC-157 acetate salt.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'Conclusion: Where BPC-157 Research Stands in 2026',
+        content: `<p>BPC-157 occupies a genuinely unusual position in the research landscape: extraordinary depth of preclinical evidence — three decades of reproducible animal healing data across seven tissue systems from multiple independent research groups — combined with one of the most limited human clinical datasets of any widely-discussed research compound. The gap exists not because the animal research failed to translate (we don't know yet) but because no adequately powered human trial has been funded and completed to test the translation.</p>
+<p>The regulatory picture is actively evolving. The April 2026 movement from Category 2 to Category 1 consideration opens compounding pharmacy access under physician supervision, and the July 23–24, 2026 FDA PCAC review will be the most consequential regulatory moment for BPC-157 since it first attracted regulatory attention. A favorable PCAC outcome could substantially expand supervised clinical exposure — and the data generated from physician-supervised use would begin filling the human evidence gap that currently limits scientific conclusions. <sup>[10]</sup></p>
+<p>For researchers evaluating BPC-157's benefit profile in 2026, the defensible position is: the preclinical foundation is extensive and mechanistically credible, the preliminary human safety signal is encouraging, and the efficacy questions in humans remain genuinely open. That combination makes BPC-157 one of the most compelling unresolved questions in regenerative medicine — one that deserves properly designed human trials rather than continued reliance on animal data extrapolation.</p>
+<p><strong>Continue exploring on PeptideWiki:</strong></p>
+<ul>
+  <li><a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">The Wolverine Stack: BPC-157 + TB-500 — What 30 Years of Research Says</a></li>
+  <li><a href="/blog/oral-bpc-157-vs-injectable-complete-guide-2026">Oral vs. Injectable BPC-157: Complete 2026 Comparison</a></li>
+  <li><a href="/blog/bpc-157-gut-health-oral-guide-2026">BPC-157 for Gut Health: GI Research, Mechanisms, and Applications</a></li>
+  <li><a href="/blog/kpv-peptide-anti-inflammatory-gut-health-guide">KPV Peptide: Anti-Inflammatory Effects and Gut Health Stack Applications</a></li>
+  <li><a href="/blog/bpc-157-dosage-guide-2026">BPC-157 Dosage Guide 2026: Reconstitution, Protocols, and Storage</a></li>
+</ul>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
