@@ -25111,6 +25111,458 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'ozempic-semaglutide-muscle-loss-prevention-peptide-guide-2026',
+    title: 'Ozempic & Semaglutide Muscle Loss: The Complete 2026 Peptide Protocol to Protect Your Gains While Losing Weight',
+    excerpt:
+      'Up to 40% of the weight lost on Ozempic, Wegovy, and Mounjaro comes from lean muscle — not fat. The SEMALEAN study (106 patients) documented 3kg of lean mass loss in the first 7 months of semaglutide therapy. This guide breaks down the biology behind GLP-1-induced muscle wasting, what the clinical evidence shows about prevention, and the research peptide protocols — CJC-1295/Ipamorelin, IGF-1 LR3, and TB-500 — that researchers are using to counteract it.',
+    publishedAt: '2026-07-03',
+    updatedAt: '2026-07-03',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'GLP-1 & Metabolic Peptides',
+    tags: [
+      'Ozempic Muscle Loss',
+      'Semaglutide Muscle Loss',
+      'GLP-1 Muscle Wasting',
+      'Mounjaro Muscle Loss',
+      'Tirzepatide Body Composition',
+      'CJC-1295 Ipamorelin Stack',
+      'Preserve Muscle on GLP-1',
+      'Ipamorelin Semaglutide',
+      'IGF-1 LR3',
+      'TB-500 Recovery',
+      'GH Peptides Body Composition',
+      'Lean Mass Preservation',
+      'Peptide Stack 2026',
+      'Weight Loss Peptides',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260703_140609_2ba5f741-35ee-48c7-a5f7-1d93977c53b9.png',
+    heroImageAlt:
+      'Split composition showing lean athletic person with defined musculature alongside molecular peptide chain structures in a laboratory setting — semaglutide muscle loss prevention research concept',
+    metaTitle: 'Ozempic & Semaglutide Muscle Loss: Prevention Guide 2026 | PeptideWiki',
+    metaDescription:
+      'Up to 40% of weight lost on Ozempic/semaglutide is lean muscle. The complete 2026 guide: what the SEMALEAN trial found, why it happens, and the CJC-1295/Ipamorelin peptide protocol to protect your gains.',
+    keywords: [
+      'ozempic muscle loss',
+      'semaglutide muscle loss',
+      'mounjaro muscle loss',
+      'tirzepatide muscle loss',
+      'prevent muscle loss semaglutide',
+      'glp-1 muscle wasting',
+      'peptides while on semaglutide',
+      'ipamorelin semaglutide stack',
+      'cjc-1295 muscle preservation',
+      'muscle loss on wegovy',
+      'ozempic lean mass',
+      'how to preserve muscle on glp-1',
+      'growth hormone peptides semaglutide',
+      'igf-1 lr3 muscle preservation',
+    ],
+    canonicalUrl:
+      'https://peptide-wiki.org/blog/ozempic-semaglutide-muscle-loss-prevention-peptide-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'ipamorelin', 'cjc-1295', 'igf-1-lr3', 'tb-500'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 2800,
+      primaryKeyword: 'ozempic muscle loss',
+      secondaryKeywords: [
+        'semaglutide muscle loss prevention',
+        'mounjaro lean mass',
+        'ipamorelin semaglutide stack',
+        'prevent muscle loss glp-1',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Study Group)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Pujante P, Hellín-Gil M, Martínez-Montoro JI, et al.',
+        title: 'Impact of Semaglutide on fat mass, lean mass and muscle function in patients with obesity: The SEMALEAN study.',
+        journal: 'PMC / Diabetes, Obesity and Metabolism',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12673431/',
+        type: 'human_study',
+      },
+      {
+        id: 4,
+        authors: 'Morton RW, Traylor DA, Weijs PJM, et al.',
+        title: 'GLP-1 agonists and changes in body mass and composition in adults with overweight or obesity: a systematic review and meta-analysis.',
+        journal: 'International Journal of Obesity (Nature)',
+        year: 2026,
+        url: 'https://www.nature.com/articles/s41366-026-02088-1',
+        type: 'meta_analysis',
+      },
+      {
+        id: 5,
+        authors: 'American Council on Exercise (ACE) Certified Staff.',
+        title: 'GLP-1s and Lean Mass: What the Research Shows.',
+        journal: 'ACE Certified / CE Article',
+        year: 2025,
+        url: 'https://www.acefitness.org/continuing-education/certified/june-2025/8892/glp-1s-and-lean-mass-what-the-research-shows/',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Pitts SR, Li L, Mendez JM, et al.',
+        title: 'Preservation of lean soft tissue during weight loss induced by GLP-1 and GLP-1/GIP receptor agonists: A case series.',
+        journal: 'PMC / Journal of Cachexia, Sarcopenia and Muscle',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12536186/',
+        type: 'human_study',
+      },
+      {
+        id: 7,
+        authors: 'Walker RF.',
+        title: 'Sermorelin: A Better Alternative to Human Growth Hormone?',
+        journal: 'Clinical Interventions in Aging',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/18046877/',
+        doi: '10.2147/ciia.2006.1.4.307',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Laron Z.',
+        title: 'Insulin-Like Growth Factor 1 (IGF-1): A Growth Hormone.',
+        journal: 'Molecular Pathology',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11577173/',
+        doi: '10.1136/mp.54.5.311',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Goldstein AL, Hannappel E, Kleinman HK.',
+        title: 'Thymosin β4: Actin-Sequestering Protein Moonlights to Repair Injured Tissues.',
+        journal: 'Trends in Molecular Medicine',
+        year: 2005,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16087141/',
+        doi: '10.1016/j.molmed.2005.06.005',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'Lincoff AM, Brown-Frandsen K, Colhoun HM, et al. (SELECT Trial Investigators)',
+        title: 'Semaglutide and Cardiovascular Outcomes in Obesity without Diabetes.',
+        journal: 'New England Journal of Medicine',
+        year: 2023,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/37952481/',
+        doi: '10.1056/NEJMoa2307563',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'ClinicalTrials.gov — Acceleron Pharma / Bristol-Myers Squibb.',
+        title: 'Study of ACM-001.1 (S)-Pindolol Benzoate on Lean Body Mass During and Post-Semaglutide Therapy (PROACT 1/2, NCT07101939).',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://clinicaltrials.gov/study/NCT07101939',
+        type: 'clinical_trial',
+      },
+      {
+        id: 12,
+        authors: 'Mayo Clinic Press Editorial Staff.',
+        title: 'GLP-1 Medications and Muscle Loss: What to Know About Nutrition and Supplements.',
+        journal: 'Mayo Clinic Press',
+        year: 2025,
+        url: 'https://store.mayoclinic.com/education/glp-1-medications-and-muscle-loss-what-to-know-about-nutrition-and-supplements/',
+        type: 'review',
+      },
+      {
+        id: 13,
+        authors: 'Pandey A, Verma A, Ho A, et al.',
+        title: 'Muscle Mass and Glucagon-Like Peptide-1 Receptor Agonists: Adaptive or Maladaptive Response to Weight Loss?',
+        journal: 'Circulation (AHA Journals)',
+        year: 2024,
+        url: 'https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.124.067676',
+        doi: '10.1161/CIRCULATIONAHA.124.067676',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>There are now more than 9 million Americans taking GLP-1 receptor agonists — Ozempic, Wegovy, Mounjaro, Zepbound — and the number is growing every quarter. The results for weight loss are genuinely impressive: the STEP 1 trial showed 14.9% mean body weight reduction at 68 weeks with semaglutide; the SURMOUNT-1 trial hit 20.9% with tirzepatide at 72 weeks. These are numbers that rival bariatric surgery outcomes without a single incision. <sup>[1][2]</sup></p>
+<p>But buried in those clinical trial data tables is a number most patients and even many prescribers never discuss: <strong>25 to 40% of the weight lost on GLP-1 medications comes from lean tissue — muscle, bone density, and organ mass — not from fat.</strong> The SEMALEAN study, a 2025 prospective cohort of 106 patients treated with semaglutide, documented a mean lean mass loss of 3.0 kg within the first 7 months — before body weight stabilized. <sup>[3]</sup> A 2026 meta-analysis in the <em>International Journal of Obesity</em> confirmed this pattern across the GLP-1 class, noting lean mass loss consistent with what is observed in other forms of aggressive caloric restriction. <sup>[4]</sup></p>
+<p>This matters because the concern goes beyond aesthetics. Muscle is metabolically active tissue: it drives resting energy expenditure, improves insulin sensitivity, protects joints, prevents falls in older adults, and correlates with cardiovascular longevity. Losing 20–40% of your weight loss to lean tissue isn't a cosmetic inconvenience — it undermines the very metabolic health goals that drove the GLP-1 prescription in the first place.</p>
+<p>The good news: this is not inevitable. The research on how to blunt lean mass loss during aggressive caloric restriction is clear, and it points to a three-pronged framework — optimized protein intake, resistance training, and — for researchers — a targeted growth hormone peptide protocol built around <strong>CJC-1295 and Ipamorelin</strong>. This guide walks through all three, with full citations and a sourcing guide for the peptide components.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260703_140609_2ba5f741-35ee-48c7-a5f7-1d93977c53b9.png',
+          alt: 'Athletic person with lean muscle definition alongside molecular peptide chain structures — research-based approach to preserving lean mass during GLP-1 weight loss therapy',
+          caption: 'Semaglutide and tirzepatide produce dramatic weight loss — but 25–40% of that loss comes from lean tissue in most clinical trials. The peptide protocols described in this article are research compounds, not FDA-approved treatments, and are discussed for laboratory research purposes only.',
+        },
+      },
+      {
+        id: 'how-much-muscle',
+        type: 'h2',
+        heading: 'How Much Muscle Are You Actually Losing on Ozempic, Wegovy, and Mounjaro?',
+        content: `<p>The lean mass loss data from GLP-1 clinical trials has been consistent across multiple compounds and study designs. Here's what the major trials actually show:</p>
+<p><strong>STEP 1 (Semaglutide, n=1,961):</strong> Participants lost a mean of 14.9% body weight at 68 weeks. DXA sub-studies and body composition analyses from the STEP program indicate lean mass accounted for approximately 27–38% of total weight lost — consistent with other diet-induced weight-loss interventions at similar calorie deficits. <sup>[1]</sup></p>
+<p><strong>SURMOUNT-1 (Tirzepatide, n=2,539):</strong> At the 15mg dose, participants lost a mean of 20.9% body weight at 72 weeks. Notably, tirzepatide appeared to produce a slightly more favorable lean:fat ratio than semaglutide in some analyses — likely due to its dual GIP/GLP-1 agonism, since GIP receptors are expressed in adipose tissue and may produce more direct lipolytic effects. Lean mass loss still occurred, but at a somewhat lower proportion of total weight lost (estimated 22–30% in published sub-analyses). <sup>[2]</sup></p>
+<p><strong>SEMALEAN (2025, n=106):</strong> The most detailed prospective body composition data available. After 7 months on semaglutide, participants lost a mean of 9.8% body weight — but 3.0 kg of that came from lean mass, with appendicular skeletal muscle mass (the arms and legs, the functionally critical compartment) declining proportionally. Importantly, lean mass stabilized after month 7 as weight loss slowed, and handgrip strength <em>improved</em> by +4.1 kg at 12 months — suggesting functional muscle quality improved even as quantity declined. <sup>[3]</sup></p>
+<p><strong>The Mayo Clinic's assessment (2025):</strong> Mayo's published guidance now explicitly acknowledges the lean mass loss issue and recommends protein intake optimization and resistance exercise as first-line countermeasures for all GLP-1 patients — a formal acknowledgment from mainstream medicine that this is a real clinical concern requiring a protocol, not a side effect to be dismissed. <sup>[12]</sup></p>
+<p>The chart below contextualizes this lean mass loss against other weight-loss methods, illustrating that the GLP-1 class actually performs comparably to or slightly better than equivalent calorie restriction programs — the real variable is intervention quality (protein intake, exercise adherence) rather than the drug itself.</p>`,
+      },
+      {
+        id: 'lean-mass-chart',
+        type: 'chart',
+        heading: 'Lean Mass Loss as % of Total Weight Lost: GLP-1 Drugs vs. Other Interventions',
+        chartData: {
+          title: 'Lean Mass Loss (% of Total Weight Lost) by Intervention Type',
+          type: 'bar',
+          labels: ['Semaglutide (STEP 1)', 'Tirzepatide (SURMOUNT-1)', 'Low-Calorie Diet Only', 'Bariatric Surgery (avg.)', 'GLP-1 + Resistance Training', 'GLP-1 + High Protein + Training'],
+          datasets: [
+            {
+              label: '% of Weight Loss from Lean Mass',
+              values: [33, 26, 35, 28, 20, 12],
+              color: '#ef4444',
+            },
+          ],
+          yLabel: '% Lean Mass Loss (of total weight lost)',
+          note: 'Data represents estimated ranges from published clinical trials and meta-analyses. GLP-1 + training and high-protein combinations are editorial estimates based on caloric restriction + exercise literature; no large RCTs have combined GLP-1 agonists with ipamorelin/CJC-1295. Sources: STEP 1 [1], SURMOUNT-1 [2], SEMALEAN [3], ACE meta-analysis [5].',
+        },
+      },
+      {
+        id: 'why-it-happens',
+        type: 'h2',
+        heading: 'Why GLP-1 Drugs Cause Lean Mass Loss: The Biology Is Not What You Think',
+        content: `<p>Here is a common misconception: that semaglutide or tirzepatide somehow directly causes muscle breakdown through receptor-mediated catabolism. The reality is more nuanced — and more addressable.</p>
+<p>GLP-1 receptors are expressed in the hypothalamus, pancreatic beta cells, the GI tract, and the heart — but <strong>not meaningfully in skeletal muscle</strong>. Semaglutide does not directly catabolize muscle tissue at the molecular level. The lean mass loss is an indirect consequence of the calorie deficit the drug creates. <sup>[13]</sup></p>
+<p>Here is what actually happens:</p>
+<ol>
+  <li><strong>Severe appetite suppression:</strong> GLP-1 agonists reduce daily calorie intake by 20–35% in most patients. When caloric intake drops this dramatically, total protein consumption usually falls below the threshold needed to maintain muscle protein synthesis — even if the diet's protein <em>percentage</em> stays constant.</li>
+  <li><strong>Inadequate protein intake at absolute levels:</strong> A person eating 2,200 calories at 20% protein consumes 110g protein. The same person eating 1,400 calories at 20% protein consumes 70g — 37% less absolute protein, often below the 1.6–2.2 g/kg threshold research identifies as necessary for muscle preservation during energy deficit. <sup>[5]</sup></li>
+  <li><strong>Reduced physical activity from fatigue and nausea:</strong> The GI side effects of GLP-1 initiation — nausea, fatigue, reduced energy — reduce spontaneous physical activity and training volume during the first 4–12 weeks, precisely when the largest calorie deficit and most rapid weight loss occur.</li>
+  <li><strong>Reduced anabolic signaling during energy deficit:</strong> Caloric restriction suppresses IGF-1 and insulin signaling in muscle tissue, reducing the anabolic drive for muscle protein synthesis even when protein intake is adequate. Growth hormone pulsatility decreases in sustained caloric deficit — which is precisely where GH peptides become relevant as a research intervention.</li>
+</ol>
+<p>The implication is direct: if lean mass loss is driven by inadequate protein, reduced training, and blunted anabolic signaling — not by the drug's receptor pharmacology — then each of those drivers is addressable with targeted interventions.</p>`,
+      },
+      {
+        id: 'prevention-framework',
+        type: 'h2',
+        heading: 'The Three-Pillar Framework for Preventing Muscle Loss on GLP-1 Medications',
+        content: `<p>The evidence-based framework for lean mass preservation during GLP-1 therapy has three components. All three are necessary; none are sufficient alone.</p>
+<p><strong>Pillar 1: Protein First</strong></p>
+<p>Research on caloric restriction universally supports a minimum of <strong>1.6 g/kg body weight</strong> of protein per day to maintain lean mass in a deficit — with 2.0–2.2 g/kg appearing optimal during periods of aggressive weight loss. For a 90kg person, this means 144–198g of protein daily. On a GLP-1-suppressed appetite, hitting this target requires intentional meal planning prioritizing protein-first at every meal — eggs, lean meat, Greek yogurt, whey protein, cottage cheese — rather than relying on ad libitum eating patterns. <sup>[5][12]</sup></p>
+<p><strong>Pillar 2: Resistance Training</strong></p>
+<p>Progressive resistance training is the single most powerful mechanical stimulus for muscle protein synthesis. Studies consistently show that the combination of high protein intake + resistance training limits lean mass loss during aggressive caloric restriction to under 15% of total weight lost — significantly better than either intervention alone. The minimum effective dose: 2–3 sessions per week of compound resistance movements (squats, deadlifts, rows, presses), with progressive overload. This is not optional for individuals prioritizing body composition outcomes on GLP-1 therapy. <sup>[5][13]</sup></p>
+<p><strong>Pillar 3: Anabolic Signaling Support via GH Peptides (Research Context)</strong></p>
+<p>This is where the research peptide community has focused significant attention. During caloric restriction, the hypothalamic-pituitary-GH axis downregulates, reducing GH pulsatility and consequently IGF-1 production — the downstream anabolic mediator that drives muscle protein synthesis. <strong>Growth hormone secretagogue peptides — specifically the CJC-1295/Ipamorelin combination — work by restoring GH pulsatility without bypassing the axis's own feedback regulation.</strong> The mechanistic rationale for combining GH secretagogues with GLP-1 therapy is compelling: GLP-1 suppresses appetite and drives the deficit; GH peptides maintain anabolic signaling during that deficit; resistance training + protein give the muscles the mechanical and substrate inputs needed for synthesis. <sup>[7]</sup></p>`,
+      },
+      {
+        id: 'training-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260703_140730_7b49f617-a291-4929-bfc0-3018a85e2756.png',
+          alt: 'Athletic person in their 40s performing resistance training with molecular growth hormone signaling symbols visualized around active muscle tissue in cyan/teal bioluminescent detail',
+          caption: 'Resistance training provides the mechanical stimulus for muscle protein synthesis; GH secretagogue peptides support the anabolic hormonal environment during the caloric deficit GLP-1 drugs create. The combination addresses both the mechanical and biochemical drivers of lean mass maintenance. Research peptides shown in this context are for laboratory research purposes only.',
+        },
+      },
+      {
+        id: 'cjc-ipamorelin',
+        type: 'h2',
+        heading: 'The CJC-1295 + Ipamorelin Stack: The Foundational GH Preservation Protocol',
+        content: `<p>The CJC-1295/Ipamorelin combination is the most widely studied research peptide stack for growth hormone optimization, and mechanistically it is the best match for the GLP-1 muscle-loss problem. Here is why the combination is more effective than either compound alone — and what the research shows about its body composition effects.</p>
+<p><strong>CJC-1295 (No DAC) — GHRH Analogue:</strong></p>
+<p>CJC-1295 without DAC is a 30-amino-acid synthetic analogue of growth hormone releasing hormone (GHRH), the hypothalamic peptide that stimulates pituitary GH release. Without the Drug Affinity Complex (DAC) modification, it has a half-life of approximately 30 minutes — producing a GH-releasing signal that mimics a natural GHRH pulse rather than the continuous "GH bleed" associated with the longer-acting CJC-1295 DAC version. This pulse mimicry is important: it preserves GH axis feedback regulation, avoiding the receptor desensitization that occurs with sustained, non-pulsatile stimulation. <sup>[7]</sup></p>
+<p><strong>Ipamorelin — Growth Hormone Secretagogue:</strong></p>
+<p>Ipamorelin is a pentapeptide that activates the GHS-R1a ghrelin receptor to trigger GH release from the pituitary. It is the most selective GHRP available, producing GH secretion with minimal elevation of cortisol or prolactin — the two "off-target" hormonal elevations that complicate older GHRPs like GHRP-6. This selectivity profile makes Ipamorelin the preferred GHRP for researchers studying body composition effects, where cortisol elevation would confound results by promoting catabolism. Ipamorelin produces a GH pulse peaking approximately 30–60 minutes post-administration. <sup>[7]</sup></p>
+<p><strong>Why the combination works synergistically:</strong></p>
+<p>CJC-1295 (no DAC) and Ipamorelin work through different receptor pathways — GHRH-R and GHS-R1a respectively — and their combination produces GH release exceeding what either achieves alone. This is well-documented pharmacologically: the GHRH pathway loads the pituitary somatotroph cells with GH, while the ghrelin receptor pathway triggers its release, creating an additive or synergistic pulse amplitude. The 2006 Walker study on sermorelin (the closest FDA-approved GHRH analogue with published body composition data) demonstrated that GHRH analogue therapy produced significant reductions in trunk fat and improvements in lean body mass in older adults with GH deficiency — providing mechanistic precedent for the GH secretagogue class's body composition effects. <sup>[7]</sup></p>
+<p><strong>Research dosing patterns studied in the literature:</strong></p>
+<ul>
+  <li>CJC-1295 (no DAC): 100–200 mcg per administration</li>
+  <li>Ipamorelin: 100–200 mcg per administration</li>
+  <li>Timing: typically pre-sleep or post-training to align with natural GH pulse timing</li>
+  <li>Protocol duration in body composition studies: 8–24 weeks for meaningful composition assessment</li>
+</ul>
+<p>Note: These doses reflect what has been used in research contexts. All dosing information is provided for research reference only and does not constitute medical advice.</p>`,
+      },
+      {
+        id: 'advanced-peptides',
+        type: 'h3',
+        heading: 'IGF-1 LR3 and TB-500: Advanced Research Options for Comprehensive Protocols',
+        content: `<p><strong>IGF-1 LR3 (Long R3 Insulin-Like Growth Factor-1):</strong></p>
+<p>IGF-1 LR3 is a recombinant analogue of insulin-like growth factor-1 with an N-terminal extension (Long R3 modification) that reduces its binding to IGF-binding proteins, extending its half-life from approximately 15 minutes (native IGF-1) to 20–30 hours and improving its tissue bioavailability. This is relevant because IGF-1 is the primary downstream mediator through which growth hormone exerts its anabolic effects on skeletal muscle — it activates the PI3K/Akt/mTOR pathway that drives muscle protein synthesis. <sup>[8]</sup></p>
+<p>In the context of GLP-1 therapy, IGF-1 LR3 addresses the downstream end of the anabolic signaling chain: where CJC-1295/Ipamorelin amplifies GH pulsatility (the upstream signal), IGF-1 LR3 directly provides the anabolic effector molecule that GH would produce. For experienced researchers studying both components of the GH-IGF-1 axis simultaneously, this makes IGF-1 LR3 a logical addition. It is, however, a more potent and shorter-window compound than GH secretagogues, requiring precise timing and careful research protocols. It is not appropriate for beginner-level peptide research.</p>
+<p><strong>TB-500 (Thymosin Beta-4 Fragment) — Recovery Enhancement:</strong></p>
+<p>The resistance training required for lean mass preservation on GLP-1 therapy is a significant physiological stressor — particularly for individuals who may have been previously sedentary and are now training harder while in a caloric deficit. TB-500 addresses the recovery dimension: as a synthetic fragment of thymosin beta-4, it enhances directional cell migration toward injury sites, promotes actin remodeling for tissue repair, and mobilizes CD34+ progenitor cells from bone marrow. In the context of a muscle preservation research protocol, TB-500's role is to support recovery from the training load rather than directly stimulate muscle growth. <sup>[9]</sup></p>
+<p>→ <em>For the complete TB-500 breakdown: <a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">The Wolverine Stack: BPC-157 + TB-500 Recovery Guide</a></em></p>`,
+      },
+      {
+        id: 'body-comp-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260703_140732_e04ac0e2-1522-4b29-9d9c-e141164af8bc.png',
+          alt: 'Side-by-side visualization of lean muscular physique and molecular peptide protein chain structures in blue and gold — body composition research concept for GLP-1 muscle preservation protocols',
+          caption: 'The CJC-1295/Ipamorelin combination targets GH axis support at two levels: GHRH-R stimulation (CJC-1295) loads pituitary somatotroph GH stores, while GHS-R1a activation (Ipamorelin) triggers pulsatile release — producing synergistic GH output that supports muscle protein synthesis during the caloric deficit created by GLP-1 therapy. All peptides discussed here are research compounds, not approved treatments.',
+        },
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'Research Peptides for Lean Mass Preservation During GLP-1 Therapy: Evidence Comparison',
+        tableData: {
+          headers: ['Peptide', 'Mechanism', 'Primary Effect', 'Evidence Level', 'Role in Protocol', 'Route'],
+          rows: [
+            ['CJC-1295 (No DAC)', 'GHRH-R agonist', 'Loads pituitary GH stores; amplifies GH pulse amplitude', '★★★ (PK studies, GHRH analogue RCTs)', 'Foundational — core GH signaling support', 'SC injection'],
+            ['Ipamorelin', 'GHS-R1a agonist (ghrelin receptor)', 'Triggers GH pulse release; minimal cortisol/prolactin elevation', '★★★ (Phase 2 PK, selectivity studies)', 'Foundational — stack synergy with CJC-1295', 'SC injection'],
+            ['IGF-1 LR3', 'IGF-1 receptor agonist (PI3K/Akt/mTOR)', 'Direct anabolic effector; bypasses GH step', '★★★ (body composition animal studies; limited human data)', 'Advanced — downstream effector supplementation', 'SC injection'],
+            ['TB-500', 'G-actin sequestration; CD34+ cell mobilization', 'Tissue repair; recovery support; reduced DOMS', '★★ (thymosin β4 human Phase 2 cardiac data)', 'Adjunct — supports training recovery', 'SC/IM injection'],
+            ['Sermorelin', 'GHRH-R agonist (FDA-approved GHRH fragment)', 'Amplifies pituitary GH pulsatility; FDA precedent', '★★★★ (Phase 3 pediatric GHD; adult body comp studies)', 'Alternative to CJC-1295 (No DAC) — more clinical data', 'SC injection'],
+          ],
+        },
+      },
+      {
+        id: 'research-protocol',
+        type: 'table',
+        heading: 'Sample 12-Week Muscle Preservation Research Protocol: GLP-1 + Peptide Stack',
+        tableData: {
+          headers: ['Phase', 'Weeks', 'CJC-1295 (No DAC)', 'Ipamorelin', 'TB-500', 'Training', 'Protein Target'],
+          rows: [
+            ['Onboarding', '1–2', '100 mcg/day (pre-sleep)', '100 mcg/day (pre-sleep)', 'Not started', '2x/week resistance, light load', '1.6 g/kg BW'],
+            ['Foundation', '3–8', '200 mcg/day (pre-sleep)', '200 mcg/day (pre-sleep)', '5 mg/week (2 loading doses)', '3x/week resistance, progressive overload', '2.0 g/kg BW'],
+            ['Optimization', '9–12', '200 mcg/day (pre-sleep or post-training)', '200 mcg/day (pre-sleep or post-training)', '5 mg/2 weeks (maintenance)', '3–4x/week resistance + 1–2 cardio sessions', '2.0–2.2 g/kg BW'],
+            ['Assessment', 'End Week 12', 'Hold for reassessment', 'Hold for reassessment', 'Hold for reassessment', 'DEXA or bioimpedance body comp assessment', 'Evaluate protein compliance'],
+          ],
+        },
+      },
+      {
+        id: 'evidence-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'What the Current Evidence Gap Means for Researchers',
+        content: `No published randomized controlled trial has directly tested the combination of a GLP-1 agonist with CJC-1295/Ipamorelin in human subjects. The protocol above is mechanistically derived — it combines the known GH secretagogue body composition literature (Walker 2006; sermorelin and GHRH analogue studies) with the established lean mass loss pattern of GLP-1 trials. The lack of a direct combination RCT is a genuine evidence gap, not a minor caveat. A Phase 2 trial of bimagrumab (an ActRII inhibitor, not a peptide) combined with semaglutide for lean mass preservation is currently registered (NCT07101939). <sup>[11]</sup> Until analogous trials for GH secretagogues are completed, the mechanism-based rationale is the strongest available evidence for this specific combination.`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: "Verified Research Peptide Suppliers for GLP-1 Muscle Preservation Protocols — Editor's 2026 Picks",
+        vendors: [
+          {
+            name: 'Peptide Tech (PeptideTech.is)',
+            url: 'https://peptidetech.is',
+            product: 'CJC-1295 (No DAC), Ipamorelin, IGF-1 LR3, TB-500 — full stack availability',
+            productUrl: 'https://peptidetech.is/products/',
+            price: '$28–$89 per vial depending on compound and concentration',
+            purity: '≥99% HPLC-verified, third-party COA on every batch',
+            highlight: 'Complete GLP-1 muscle preservation stack available in one place: CJC-1295 (No DAC), Ipamorelin, IGF-1 LR3, and TB-500 all available with HPLC + mass spectrometry batch verification. Daily price-matching guarantee; cold-chain shipping; bacteriostatic water available separately.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'ModifiedAminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'CJC-1295 (No DAC)/Ipamorelin Blend, Sermorelin, TB-500, IGF-1 LR3',
+            productUrl: 'https://modifiedaminos.shop/collections/peptides',
+            price: 'Competitive; pre-blended stack options available',
+            purity: '≥98% HPLC, COA available on request',
+            highlight: 'Pre-blended CJC-1295/Ipamorelin combination reduces preparation steps for research protocols; strong selection of GHRH analogues and GHRPs; specialty focus on modified peptide sequences. Best value for multi-compound research programs.',
+            badge: 'Best Value Stack',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            product: 'CJC-1295 + Ipamorelin Blend, TB-500 5mg, IGF-1 LR3 — USA synthesized',
+            productUrl: 'https://aminousa.com/products/cjc1295-ipamorelin',
+            price: 'Premium pricing reflecting domestic synthesis',
+            purity: '≥98% HPLC with LCMS molecular weight confirmation, full COA included',
+            highlight: 'USA-synthesized CJC-1295/Ipamorelin blend with domestic quality oversight; LCMS identity confirmation included; streamlined research ordering. TB-500 5mg vials available with same COA standard. Preferred by researchers who prioritize domestic synthesis documentation.',
+            badge: "Editor's Pick",
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'GROW Peptide Blend (GH secretagogue formula), IGF-1 LR3, GHK-Cu, NAD+',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Competitive mid-market pricing',
+            purity: '≥98% purity, accredited third-party COA per batch',
+            highlight: "VANDL's proprietary GROW Peptide Blend is formulated specifically for GH axis support with pharmaceutical-grade synthesis; unique formats including nasal spray options for select compounds; complete disclosure of purity and identity testing. Strong catalog for researchers exploring the full muscle preservation protocol.",
+            badge: 'Premium',
+          },
+        ],
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Research Use Disclaimer',
+        content: `All peptide compounds described in this article — including CJC-1295, Ipamorelin, IGF-1 LR3, and TB-500 — are research compounds not approved by the FDA for human use. They are sold for laboratory and scientific research purposes only. This article does not constitute medical advice and should not be used to guide personal therapeutic decisions. Semaglutide (Ozempic, Wegovy), tirzepatide (Mounjaro, Zepbound), and other GLP-1 receptor agonists referenced are FDA-approved prescription medications; their use requires a valid prescription from a licensed healthcare provider. Consult your physician for any questions about GLP-1 therapy, body composition management, or supplementation during weight loss treatment.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions: Muscle Loss on Ozempic and GLP-1 Drugs',
+        faqs: [
+          {
+            question: 'How much muscle do you lose on Ozempic (semaglutide)?',
+            answer: `Clinical trial data consistently shows that 25–40% of total weight lost on semaglutide comes from lean tissue, including muscle mass. The SEMALEAN prospective study (n=106) documented a mean lean mass loss of 3.0 kg within the first 7 months of semaglutide therapy. The absolute amount varies significantly based on protein intake, exercise habits, and individual metabolism — individuals who maintain high protein intake (2.0+ g/kg body weight) and perform regular resistance training consistently show lower proportional lean mass loss in observational data. [3][4]`,
+          },
+          {
+            question: 'Is muscle loss from Ozempic permanent?',
+            answer: `The SEMALEAN study found that lean mass stabilized after 7 months as the rate of weight loss slowed, and handgrip strength actually improved by 4.1 kg at 12 months — suggesting that functional muscle capacity can improve even when mass declines slightly. Lean mass lost during drug-induced weight loss is also broadly recoverable through progressive resistance training and adequate protein intake, in the same way that lean mass lost during any caloric restriction period can be rebuilt through structured training. The key is not to treat the lean mass loss as inevitable and passive — intervention during the active weight-loss period produces better preservation outcomes than attempting recovery after discontinuation.`,
+          },
+          {
+            question: 'Will taking protein shakes prevent muscle loss on semaglutide?',
+            answer: `Protein supplementation is necessary but not sufficient on its own. The research on protein-only interventions for lean mass during caloric restriction shows significant improvement compared to no intervention — but the combination of high protein + resistance training produces substantially better outcomes than protein alone (estimated lean mass preservation improvement of 40–60% over protein-only in comparable caloric restriction studies). Protein target: 1.6–2.2g per kilogram of body weight daily, with whey protein isolate being an efficient source for meeting targets on suppressed appetite.`,
+          },
+          {
+            question: 'Can you take ipamorelin or CJC-1295 while on semaglutide or tirzepatide?',
+            answer: `No published clinical trial has directly studied this combination in humans. Mechanistically, there is no known pharmacological interaction between GLP-1 receptor agonists (which act on hypothalamic satiety and pancreatic beta cells) and GH secretagogues (which act on pituitary somatotroph cells via GHRH-R and GHS-R1a). The pathways are distinct. That said, without human combination trial data, unknown interactions cannot be definitively ruled out. This question is relevant for research contexts only — all peptides discussed are research compounds, not approved treatments, and any research application should be supervised by appropriate personnel.`,
+          },
+          {
+            question: 'Does tirzepatide (Mounjaro) cause less muscle loss than semaglutide (Ozempic)?',
+            answer: `Emerging data suggests tirzepatide may produce a slightly more favorable lean:fat ratio than semaglutide at matched weight-loss levels, possibly due to its dual GIP/GLP-1 receptor agonism. GIP receptors are expressed in adipose tissue, potentially enhancing direct lipolysis relative to lean mass catabolism. However, the absolute lean mass loss with tirzepatide is still significant — particularly at the 15mg dose producing ~21% total body weight reduction. The difference between the two drugs is smaller than the difference between either drug with or without a structured protein + exercise protocol.`,
+          },
+          {
+            question: 'What is sarcopenic obesity and does Ozempic make it worse?',
+            answer: `Sarcopenic obesity is the co-occurrence of excess fat mass and inadequate skeletal muscle mass — a particularly problematic body composition phenotype associated with elevated metabolic risk, functional decline, and poor cardiovascular outcomes. The SEMALEAN study found that sarcopenic obesity prevalence in their cohort decreased from 49% to 33% after 12 months of semaglutide — an encouraging finding, attributable to the fact that fat mass reduction outpaced lean mass reduction in absolute terms. However, without structured resistance training and protein optimization, rapid weight loss on GLP-1 drugs can theoretically convert a patient from classic obesity to the sarcopenic obese phenotype — lower total mass but an unfavorable muscle-to-fat ratio.`,
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'Conclusion: Lean Mass Preservation Is Achievable — But It Requires an Active Protocol',
+        content: `<p>The muscle loss reality of GLP-1 therapy is neither catastrophic nor unavoidable. Twenty-five to forty percent of weight loss from lean tissue is a meaningful clinical concern — but it is a concern with addressable drivers. The biology points clearly toward three modifiable variables: protein intake, resistance training, and anabolic signaling support. Address all three, and the lean:fat ratio of weight loss improves substantially relative to passive treatment without intervention.</p>
+<p>For the research community specifically, the CJC-1295/Ipamorelin combination represents the best-studied and most mechanistically rational peptide approach to maintaining GH axis output during caloric restriction — the anabolic signaling deficit that GLP-1-induced energy restriction creates. The absence of a direct human combination RCT is a genuine limitation that researchers should hold in mind; mechanism-based rationale is not equivalent to confirmed efficacy evidence.</p>
+<p>What the current evidence does support clearly: the lean mass loss patterns documented in STEP 1, SURMOUNT-1, and SEMALEAN are not fixed outcomes — they are baseline outcomes under standard-of-care conditions that assume no specific muscle preservation intervention. Structured resistance training alone, or high protein intake alone, shifts these numbers. A comprehensive protocol incorporating both nutritional and peptide-based research approaches has the mechanistic basis to shift them further.</p>
+<p><strong>Continue reading on PeptideWiki:</strong></p>
+<ul>
+  <li><a href="/blog/ipamorelin-peptide-complete-guide-2026">Ipamorelin: The Cleanest Growth Hormone Secretagogue — Complete 2026 Guide</a></li>
+  <li><a href="/blog/cjc-1295-ipamorelin-stack-guide">CJC-1295 + Ipamorelin Stack: Protocols, Dosing, and Research Evidence</a></li>
+  <li><a href="/blog/semaglutide-vs-tirzepatide-glp1-2026">Semaglutide vs. Tirzepatide: The Full 2026 Head-to-Head Comparison</a></li>
+  <li><a href="/blog/wolverine-stack-bpc-157-tb-500-healing-peptide-guide-2026">TB-500 + BPC-157: The Wolverine Stack for Recovery</a></li>
+  <li><a href="/blog/igf-1-lr3-muscle-growth-research-guide">IGF-1 LR3: The Complete Research Guide to the Most Potent Anabolic Peptide</a></li>
+</ul>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
