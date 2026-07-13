@@ -25613,3 +25613,428 @@ export function getBlogPost(slug: string): BlogPost | undefined {
 export function getAllBlogPosts(): BlogPost[] {
   return BLOG_POSTS.sort((a, b) => new Date(b.publishedAt).getTime() - new Date(a.publishedAt).getTime())
 }
+
+// ─── NEW BLOG POSTS APPENDED BELOW ───────────────────────────────────────────
+// These are exported for tree-shaking; re-export via BLOG_POSTS push at bottom.
+export const EXTRA_BLOG_POSTS: BlogPost[] = [
+  {
+    slug: 'ghrp-6-ghrp-2-hexarelin-growth-hormone-peptide-guide-2026',
+    title: 'GHRP-6 vs GHRP-2 vs Hexarelin: The Complete 2026 Research Guide to Growth Hormone Releasing Peptides',
+    excerpt:
+      'GHRP-6, GHRP-2, and Hexarelin are three synthetic hexapeptides that all activate the GHS-R1a ghrelin receptor — yet their GH amplitudes, appetite effects, cortisol burden, and secondary targets diverge dramatically. This guide maps the science on all three, compares their research profiles head-to-head with clinical data from a 2024 Phase I/II stroke trial, and breaks down exactly where each compound fits in a modern GH-axis research protocol.',
+    publishedAt: '2026-07-13',
+    updatedAt: '2026-07-13',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Growth Hormone Peptides',
+    tags: [
+      'GHRP-6',
+      'GHRP-2',
+      'Hexarelin',
+      'Growth Hormone Peptides',
+      'GH Secretagogues',
+      'GHS-R1a',
+      'Research Peptides',
+      'Pituitary Peptides',
+      'Ghrelin Receptor',
+      'Peptide Comparison',
+      'GHRP Stack',
+      'Growth Hormone Research 2026',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260713_140452_daeb7ba2-d97f-4405-b813-9056854f68a9.png',
+    heroImageAlt:
+      'Professional pharmaceutical research laboratory with vials of GHRP-6, GHRP-2, and Hexarelin peptide compounds arranged on a lab bench alongside scientific comparison charts and molecular diagrams',
+    metaTitle: 'GHRP-6 vs GHRP-2 vs Hexarelin: Complete 2026 Research Guide | PeptideWiki',
+    metaDescription:
+      'GHRP-6, GHRP-2, and Hexarelin compared head-to-head: GH peak amplitudes, appetite effects, cortisol burden, cardiac CD36 receptor activity, 2024 clinical trial data, and research dosing protocols. The definitive 2026 guide.',
+    keywords: [
+      'GHRP-6 vs GHRP-2',
+      'GHRP-6 vs GHRP-2 vs Hexarelin',
+      'GHRP-6 guide 2026',
+      'GHRP-2 research',
+      'Hexarelin peptide',
+      'growth hormone releasing peptide comparison',
+      'GHRP dosage protocol',
+      'GHS-R1a agonist',
+      'ghrelin receptor peptides',
+      'GHRP stack with CJC-1295',
+      'GHRP-6 appetite stimulation',
+      'Hexarelin cardiac effects',
+      'research peptides growth hormone 2026',
+      'GHRP comparison guide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/ghrp-6-ghrp-2-hexarelin-growth-hormone-peptide-guide-2026',
+    relatedPeptides: ['ghrp-6', 'ghrp-2', 'hexarelin', 'ipamorelin', 'cjc-1295', 'igf-1-lr3'],
+    schema: {
+      articleType: 'ComparisonGuide',
+      wordCount: 2100,
+      primaryKeyword: 'GHRP-6 vs GHRP-2 vs Hexarelin',
+      secondaryKeywords: [
+        'growth hormone releasing peptides comparison 2026',
+        'GHRP-6 guide 2026',
+        'Hexarelin cardiac CD36 effects',
+        'GHRP research protocol dosage',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Bowers CY, Momany FA, Reynolds GA, Hong A.',
+        title: 'On the in vitro and in vivo activity of a new synthetic hexapeptide that acts on the pituitary to specifically release growth hormone.',
+        journal: 'Endocrinology',
+        year: 1984,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/6325066/',
+        doi: '10.1210/endo-114-5-1537',
+        type: 'animal_study',
+      },
+      {
+        id: 2,
+        authors: 'Arvat E, Maccario M, Di Vito L, et al.',
+        title: 'Endocrine activities of ghrelin, a natural growth hormone secretagogue (GHS), in humans: comparison and interactions with hexarelin, a nonnatural peptidyl GHS, and GH-releasing hormone.',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11157973/',
+        doi: '10.1210/jcem.86.3.7292',
+        type: 'human_study',
+      },
+      {
+        id: 3,
+        authors: 'Deghenghi R, Cananzi MM, Torsello A, et al.',
+        title: 'GH-releasing activity of Hexarelin, a new growth hormone releasing peptide, in infant and adult rats.',
+        journal: 'Life Sciences',
+        year: 1994,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/7934716/',
+        doi: '10.1016/0024-3205(94)90175-9',
+        type: 'animal_study',
+      },
+      {
+        id: 4,
+        authors: 'Muccioli G, Tschöp M, Papotti M, et al.',
+        title: 'Neuroendocrine and peripheral activities of ghrelin: implications in metabolism and obesity.',
+        journal: 'European Journal of Pharmacology',
+        year: 2002,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/12419477/',
+        doi: '10.1016/s0014-2999(02)01839-8',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'Pettersson I, Muccioli G, Granata R, et al.',
+        title: 'CD36 Mediates the Cardiovascular Action of Growth Hormone-Releasing Peptides in the Heart.',
+        journal: 'Circulation Research',
+        year: 2002,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11988484/',
+        doi: '10.1161/01.RES.0000016164.02525.B4',
+        type: 'animal_study',
+      },
+      {
+        id: 6,
+        authors: 'Berlanga-Acosta J, García del Barco-Herrera D, Subirós-Martínez N, et al.',
+        title: 'Combination therapy of Epidermal Growth Factor and Growth Hormone-Releasing Hexapeptide in acute ischemic stroke: a phase I/II non-blinded, randomized clinical trial.',
+        journal: 'Frontiers in Neurology',
+        year: 2024,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC11024445/',
+        doi: '10.3389/fneur.2024.1303402',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Popovic V, Leal A, Micic D, et al.',
+        title: 'GH-releasing hormone and GH-releasing peptide-6 for diagnostic testing in GH-deficient adults.',
+        journal: 'Lancet',
+        year: 1999,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/10561297/',
+        doi: '10.1016/s0140-6736(99)05187-0',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Frieboes RM, Murck H, Maier P, Schier T, Holsboer F, Steiger A.',
+        title: 'Growth hormone-releasing peptide-6 stimulates sleep, growth hormone, ACTH and cortisol release in normal man.',
+        journal: 'Neuroendocrinology',
+        year: 1995,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/8577025/',
+        doi: '10.1159/000127002',
+        type: 'human_study',
+      },
+      {
+        id: 9,
+        authors: 'Maheshwari HG, Silverman BL, Dupuis J, Baumann G.',
+        title: 'Phenotype and genetic analysis of a syndrome caused by an inactivating mutation in the growth hormone-releasing hormone receptor: dwarfism of Sindh.',
+        journal: 'Journal of Clinical Endocrinology & Metabolism',
+        year: 1998,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9829703/',
+        doi: '10.1210/jcem.83.11.5231',
+        type: 'human_study',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Three peptides dominate every serious conversation about growth hormone axis research: <strong>GHRP-6</strong>, <strong>GHRP-2</strong>, and <strong>Hexarelin</strong>. All three are synthetic hexapeptides that activate the GHS-R1a ghrelin receptor — the same pathway your body's own ghrelin uses to trigger growth hormone release from the pituitary gland. But that surface-level similarity conceals profound pharmacological differences that matter enormously in research design.</p>
+<p>GHRP-6 is the original, developed by Cyril Bowers in 1984 as the first synthetic GH secretagogue, prized for its pronounced appetite stimulation and robust GH pulse.<sup>1</sup> GHRP-2 arrived as a second-generation analogue with 30–40% higher GH amplitude and a cleaner cortisol profile. Hexarelin pushes GH stimulation further still — and uniquely binds a second, GH-independent cardiac receptor (CD36) that no other classic GHRP touches.<sup>5</sup></p>
+<p>Whether you are comparing these for a GH deficiency study, an anabolic research protocol, or investigating neuroprotective mechanisms, this guide maps the biochemical distinctions from first principles through to 2024 clinical trial data.</p>`,
+      },
+      {
+        id: 'what-are-ghrps',
+        type: 'h2',
+        heading: 'What Are Growth Hormone Releasing Peptides (GHRPs)?',
+        content: `<p>Growth hormone releasing peptides (GHRPs) are a class of synthetic, non-natural peptides designed to mimic the action of ghrelin — the stomach-derived peptide hormone that stimulates GH secretion and appetite. When ghrelin or a GHRP binds to GHS-R1a receptors on somatotroph cells in the anterior pituitary, it triggers a calcium-dependent signaling cascade that drives GH secretion in a physiological pulsatile pattern.<sup>4</sup></p>
+<p>This is mechanistically distinct from growth hormone releasing hormone (GHRH) and its pharmaceutical analogues — Sermorelin, CJC-1295, Tesamorelin. GHRH acts through a completely different receptor (GHRHR) to amplify GH pulse size and frequency. The distinction matters enormously because it means <strong>GHRPs and GHRH analogues are pharmacologically complementary</strong>: their separate receptor pathways converge intracellularly, producing synergistic GH release when co-administered that far exceeds either compound alone.</p>
+<p>The three GHRPs that dominate the research literature are:</p>
+<ul>
+<li><strong>GHRP-6</strong> — sequence His-D-Trp-Ala-Trp-D-Phe-Lys-NH₂, MW ≈873 Da. The original. Highest appetite stimulation of any GHRP.</li>
+<li><strong>GHRP-2</strong> — sequence D-Ala-D-β-Nal-Ala-Trp-D-Phe-Lys-NH₂, MW ≈817 Da. Second-generation. Higher GH amplitude, lower appetite confound than GHRP-6.</li>
+<li><strong>Hexarelin</strong> — sequence His-D-2-MeTrp-Ala-Trp-D-Phe-Lys-NH₂, MW ≈887 Da. Highest potency. Unique CD36 cardiac receptor activity distinct from GHS-R1a.</li>
+</ul>
+<p>All three are research compounds — none holds FDA approval for any indication.</p>`,
+      },
+      {
+        id: 'molecular-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260713_140548_38b5c6e5-6cb0-4875-a4c0-9bdd49545a86.png',
+          alt: 'Scientific illustration showing three molecular peptide structures side by side — GHRP-6, GHRP-2, and Hexarelin — with arrows indicating binding to the pituitary gland GHS-R1a growth hormone receptor, rendered in a glowing biomedical visualization style',
+          caption: 'All three peptides bind GHS-R1a on pituitary somatotrophs — but diverge significantly in binding affinity, downstream signaling amplitude, and off-target receptor activity (Hexarelin uniquely engages CD36 in cardiomyocytes).',
+        },
+      },
+      {
+        id: 'ghrp6-deep-dive',
+        type: 'h2',
+        heading: 'GHRP-6: The Original Ghrelin Mimetic — and Why the Hunger Is Real',
+        content: `<p>GHRP-6 is the founding compound of its class. Bowers and colleagues identified it in 1984 while screening modified enkephalin analogues for GH-releasing activity — discovering a mechanism that would not be molecularly understood until GHS-R1a was cloned in 1996.<sup>1</sup> Today, GHRP-6 remains one of the most extensively characterized compounds in the GHRP literature, with published human pharmacokinetic studies spanning three decades.</p>
+<p><strong>GH Release:</strong> Intravenous administration at 1 µg/kg in healthy adult subjects produces a rapid GH peak (approximately 28–34 ng/mL) within 15–20 minutes post-injection. The pulse is physiologically pulsatile, preserving the on/off secretion rhythm that distinguishes secretagogue-driven GH from the continuous elevated levels seen with exogenous recombinant HGH.</p>
+<p><strong>The Appetite Signal — and Why It Matters for Research Design:</strong> GHRP-6's most clinically significant off-target effect is <em>intense appetite stimulation</em>, more pronounced than any other GHRP. This ghrelin-mimetic effect begins approximately 20–30 minutes post-injection, peaks within the first hour, and typically resolves in 1–3 hours. The mechanism involves hypothalamic NPY and AgRP neuron activation via GHS-R1a — the same pathway the stomach engages before meals. For researchers, this means caloric intake data is confounded unless food access is controlled around administration windows.</p>
+<p><strong>Cortisol and Prolactin Dynamics:</strong> GHRP-6 co-stimulates ACTH secretion in a dose-dependent manner, producing a secondary cortisol rise — particularly at doses above the GH saturation threshold (~1 µg/kg IV). Prolactin is also moderately elevated.<sup>8</sup> These effects are statistically significant in published studies but typically remain within the upper physiological range at research-standard doses. For GH-axis research where cortisol is a confounder, this is a critical consideration.</p>
+<p><strong>Half-Life and Reconstitution:</strong> GHRP-6 has a short half-life of approximately 15–30 minutes following IV administration, with somewhat longer duration via subcutaneous injection due to absorption kinetics. It is typically supplied as a lyophilized powder and reconstituted with bacteriostatic water or sterile saline.</p>`,
+      },
+      {
+        id: 'ghrp2-deep-dive',
+        type: 'h2',
+        heading: 'GHRP-2: Second-Generation Precision — More GH, Less Hunger',
+        content: `<p>GHRP-2 represents the second generation of synthetic GHS pharmacology: a structural refinement of GHRP-6 designed to increase GHS-R1a binding affinity while reducing the pronounced appetite and cortisol side effects that limit GHRP-6's utility in certain research contexts. The substitution of D-Ala-D-β-Nal at the N-terminus for GHRP-6's His-D-Trp motif achieves both objectives simultaneously.</p>
+<p><strong>GH Amplitude:</strong> At equivalent doses, GHRP-2 produces GH peaks approximately 30–40% higher than GHRP-6 — roughly 46–52 ng/mL vs. 28–34 ng/mL at 1 µg/kg IV in human subjects.<sup>2</sup> This advantage is consistent across multiple studies and is preserved in synergistic combinations with GHRH analogues. GHRP-2 + GHRH reaches approximate peaks of 180–220 ng/mL, compared to 140–170 ng/mL for the GHRP-6 + GHRH combination — a meaningful difference in studies where maximizing GH release is the endpoint.</p>
+<p><strong>The Cleaner Side-Effect Profile:</strong> Appetite stimulation with GHRP-2 is <em>moderate</em> — significantly less than GHRP-6, but not absent. Cortisol and prolactin responses are also attenuated compared to GHRP-6, making GHRP-2 the more tractable research tool when cortisol confounding is a concern. This makes GHRP-2 the preferred compound within the classic GHRP class for GH-axis pharmacodynamic studies.</p>
+<p><strong>Diagnostic Role:</strong> The GHRH + GHRP-6 combined stimulation test has been validated as a sensitive, specific diagnostic alternative to the insulin tolerance test (ITT) for identifying GH deficiency in adults.<sup>7</sup> GHRP-2 is increasingly used in the same diagnostic context due to its superior GH amplitude, particularly useful in populations where maximizing test sensitivity is clinically important — such as adult GHD in the context of pituitary disease or cranial irradiation.</p>`,
+      },
+      {
+        id: 'hexarelin-deep-dive',
+        type: 'h2',
+        heading: 'Hexarelin: Maximum Potency and a Second Life in Cardiovascular Research',
+        content: `<p>Hexarelin occupies a pharmacologically unique position. It is simultaneously the <em>most potent GH secretagogue</em> in the classic hexapeptide class and the only GHRP with well-characterized, GH-independent activity at a completely separate receptor: <strong>CD36</strong> — a multifunctional scavenger receptor expressed in cardiomyocytes, microvascular endothelial cells, and macrophages.<sup>5</sup></p>
+<p><strong>GH Release:</strong> Hexarelin produces the highest GH peaks of the three GHRPs, consistently exceeding GHRP-2 by 20–30% in preclinical studies. In human subjects, a single dose of hexarelin drives GH peaks in the range of 60–70 ng/mL; combined with GHRH, peaks of 200–240 ng/mL have been reported in early clinical work. This potency derives from the 2-methylated tryptophan residue in hexarelin's structure, which enhances GHS-R1a binding affinity beyond the unmethylated compounds.<sup>3</sup></p>
+<p><strong>The CD36 Pathway — Hexarelin's Unique Edge:</strong> The landmark 2002 paper in <em>Circulation Research</em> by Pettersson, Muccioli, and colleagues established that hexarelin binds CD36 in cardiomyocytes independently of GHS-R1a.<sup>5</sup> This is not a minor footnote. Multiple subsequent studies in rodent models of heart failure and myocardial infarction demonstrated that hexarelin administration:</p>
+<ul>
+<li>Improved cardiac output and contractility</li>
+<li>Reduced ischemia/reperfusion injury markers</li>
+<li>Decreased myocardial fibrosis and inflammatory infiltration</li>
+<li>Improved coronary perfusion pressure in a dose-dependent manner</li>
+</ul>
+<p>Critically, these effects persisted in hypophysectomized animals — animals without a functioning pituitary, where GH itself was absent. This confirmed the cardioprotective effects are mediated directly through CD36 rather than being secondary to GH secretion. No other classic GHRP has demonstrated significant CD36 activity.</p>
+<p><strong>Tachyphylaxis:</strong> Hexarelin exhibits more pronounced tachyphylaxis with repeated dosing than GHRP-6 or GHRP-2 — the GH response attenuates more quickly with chronic use. This is attributed to enhanced somatostatin feedback secondary to hexarelin's higher GH amplitude and has practical implications for cyclical research protocol design.</p>`,
+      },
+      {
+        id: 'gh-peak-chart',
+        type: 'chart',
+        heading: 'GH Peak Amplitude: Alone vs. Combined with GHRH',
+        chartData: {
+          title: 'Mean GH Peak (ng/mL) at Equivalent Dose — GHRP Alone vs. GHRP + GHRH Analogue',
+          type: 'bar',
+          labels: ['GHRP-6 Alone', 'GHRP-2 Alone', 'Hexarelin Alone', 'GHRP-6 + GHRH', 'GHRP-2 + GHRH', 'Hexarelin + GHRH'],
+          datasets: [
+            {
+              label: 'Mean GH Peak (ng/mL)',
+              values: [31, 49, 65, 155, 200, 225],
+              color: '#3b82f6',
+            },
+          ],
+          note:
+            'Approximate means aggregated across published human pharmacodynamic studies. Individual responses vary by age, BMI, GH axis status, and administration route. Values are not clinical claims — for research orientation only.',
+        },
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Property', 'GHRP-6', 'GHRP-2', 'Hexarelin'],
+          rows: [
+            ['Molecular Weight', '873 Da', '817 Da', '887 Da'],
+            ['Primary Receptor', 'GHS-R1a', 'GHS-R1a', 'GHS-R1a + CD36'],
+            ['GH Peak (1 µg/kg IV)', '28–34 ng/mL', '46–52 ng/mL', '60–70 ng/mL'],
+            ['GH Peak (+ GHRH)', '140–170 ng/mL', '180–220 ng/mL', '200–240 ng/mL'],
+            ['Appetite Stimulation', '★★★★★ Very Strong', '★★★ Moderate', '★★ Mild'],
+            ['Cortisol Elevation', 'Moderate–High', 'Moderate', 'Moderate–High'],
+            ['Prolactin Elevation', 'Moderate', 'Low–Moderate', 'Moderate'],
+            ['Tachyphylaxis Risk', 'Low', 'Low', 'Moderate–High'],
+            ['Cardiac Research Data', 'Minimal', 'Minimal', 'Extensive (CD36)'],
+            ['Half-Life (approx.)', '15–30 min', '15–30 min', '20–30 min'],
+            ['FDA Approval Status', 'None', 'None', 'None'],
+            ['Clinical Trial Activity', 'Stroke (Phase I/II, 2024)', 'Diagnostic validation', 'Cardiac/GHD studies'],
+          ],
+        },
+      },
+      {
+        id: 'ghrh-stack',
+        type: 'h2',
+        heading: 'Stacking GHRPs with GHRH Analogues: The Science of Synergy',
+        content: `<p>Perhaps the most practically important principle in GHRP pharmacology is that <strong>all three compounds produce synergistic GH release when co-administered with a GHRH analogue</strong>. This is not simply additive — it is supra-additive, meaning the combined response significantly exceeds the sum of the two compounds' individual responses.</p>
+<p>The mechanism: GHRPs (via GHS-R1a) and GHRH analogues (via GHRHR) engage separate receptor families on pituitary somatotrophs that converge on overlapping calcium mobilization and cAMP signaling cascades. When both pathways are activated simultaneously, the intracellular signals amplify each other, producing a GH pulse far beyond what either receptor pathway can generate alone. This is the pharmacological foundation of the widely researched CJC-1295/Ipamorelin pairing — and it applies equally to any GHRP × GHRH combination.</p>
+<p>Common GHRH analogues used in synergistic stacks include:</p>
+<ul>
+<li><strong>CJC-1295 (without DAC)</strong> — ~30-minute half-life closely matching GHRP pulse kinetics. Most commonly referenced in published research stacks. Vendor availability from <a href="https://aminousa.com/collections/peptides" target="_blank" rel="noopener noreferrer">Amino USA</a> and other research suppliers.</li>
+<li><strong>Sermorelin</strong> — natural GHRH 1–29 amino acid sequence, ~10–12 minute half-life. Used in early synergy studies; may require more frequent administration relative to CJC-1295.</li>
+<li><strong>Tesamorelin</strong> — the only FDA-approved GHRH analogue (for HIV-associated lipodystrophy); available from <a href="https://peptidetech.is/collections/peptides" target="_blank" rel="noopener noreferrer">Peptide Technologies</a>. Provides the highest quality clinical safety reference data of any GHRH peptide for research comparison.</li>
+</ul>`,
+      },
+      {
+        id: 'research-warning',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Compounds Only — Not for Human Administration:</strong> GHRP-6, GHRP-2, and Hexarelin are not approved by the FDA for human use for any indication. These compounds are classified as research chemicals intended for laboratory and scientific study under qualified oversight. No information in this article constitutes medical advice. These compounds should not be self-administered or administered to other individuals outside of an IRB-approved clinical research context. All regulatory status information reflects publicly available data as of July 2026.`,
+      },
+      {
+        id: 'clinical-spotlight',
+        type: 'h2',
+        heading: '2024 Clinical Spotlight: GHRP-6 in Acute Ischemic Stroke',
+        content: `<p>The most significant recent clinical development for the GHRP class is a Phase I/II randomized clinical trial published in <em>Frontiers in Neurology</em> in April 2024, evaluating <strong>GHRP-6 combined with epidermal growth factor (EGF)</strong> in acute ischemic stroke patients — a study that challenges how researchers think about these peptides' mechanisms of action.<sup>6</sup></p>
+<p>Conducted by researchers at Cuba's Center for Genetic Engineering and Biotechnology (CIGB), the trial enrolled 36 patients and divided them into three groups: standard care control, EGF+GHRP-6 Group I (lower dose), and EGF+GHRP-6 Group II (higher dose). The outcomes at 90 and 180 days were striking:</p>
+<ul>
+<li>EGF + GHRP-6 patients demonstrated significantly improved neurological outcomes on the NIHSS (neurological severity), Barthel Index (functional independence), and modified Rankin Scale (disability) vs. standard care</li>
+<li>Serious adverse events occurred in <strong>56.2% of controls</strong> vs. <strong>20–30% in GHRP-6 groups</strong></li>
+<li>At 6-month follow-up, the combined therapy group showed a meaningfully higher survival rate</li>
+<li>The safety profile was acceptable, explicitly supporting advancement to Phase III</li>
+</ul>
+<p>What makes this trial paradigm-shifting is the mechanism. GHRP-6's neuroprotective benefit in stroke appears to involve anti-inflammatory, anti-apoptotic, and neurotrophic properties mediated through pathways <em>beyond simple GHS-R1a GH release</em>. GHRP-6 has demonstrated in preclinical models the ability to reduce inflammatory cytokine cascades, support neuronal survival, and promote tissue repair in ischemic environments. The stroke trial provides the first significant clinical validation that the GHRP class has pleiotropic therapeutic potential well outside the GH axis.</p>`,
+      },
+      {
+        id: 'dosing-section',
+        type: 'h2',
+        heading: 'Research Dosing: What Published Studies Used',
+        content: `<p>The following dose ranges are drawn from published human pharmacokinetic and pharmacodynamic studies. These parameters are provided for research orientation only — they are not recommendations for human use, and no dose in this table carries FDA approval for any therapeutic application.</p>`,
+      },
+      {
+        id: 'dosing-table',
+        type: 'table',
+        tableData: {
+          headers: ['Parameter', 'GHRP-6', 'GHRP-2', 'Hexarelin'],
+          rows: [
+            ['Dose Range (Published)', '100–300 mcg', '100–300 mcg', '75–200 mcg'],
+            ['Route (Published Studies)', 'IV, SC, intranasal', 'IV, SC', 'IV, SC'],
+            ['Typical Frequency', '1–3× daily', '1–3× daily', '1–2× daily'],
+            ['Peak GH Onset', '15–20 min post-dose', '15–20 min post-dose', '15–20 min post-dose'],
+            ['GH Elevation Duration', '90–120 min', '90–120 min', '90–120 min'],
+            ['Fasted Recommended?', 'Yes (reduces somatostatin tone)', 'Yes', 'Yes'],
+            ['Saturation Dose (approx.)', '~1 µg/kg IV', '~1 µg/kg IV', '~0.5–1 µg/kg IV'],
+            ['Common GHRH Pairing', 'CJC-1295 No DAC 100–200 mcg', 'CJC-1295 No DAC 100–200 mcg', 'CJC-1295 No DAC 100–200 mcg'],
+            ['Tachyphylaxis Cycling', 'Less critical', 'Less critical', 'Recommended cycling'],
+            ['Storage (lyophilized)', '−20°C, away from light', '−20°C, away from light', '−20°C, away from light'],
+          ],
+        },
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Where Researchers Source GHRP and GH-Axis Peptides (2026)',
+        vendors: [
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Tesamorelin + Ipamorelin Blend (8mg total)',
+            productUrl: 'https://aminousa.com/products/tesamorelin-ipamorelin-blend',
+            price: 'Research pricing on site',
+            purity: '≥99% HPLC-MS',
+            highlight:
+              'Amino USA offers a validated GHRH + secretagogue research blend — Tesamorelin (6mg, the only FDA-approved GHRH analogue) paired with Ipamorelin (2mg, the cleanest GHS with minimal cortisol/prolactin elevation). An excellent reference compound for GH-axis synergy research, with independent MS validation on every batch.',
+            badge: 'MS Validated',
+          },
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'IGF-1 LR3 1mg — GH Axis Downstream Research',
+            productUrl: 'https://peptidetech.is/collections/peptides',
+            price: 'From $72.00',
+            purity: '≥99% HPLC',
+            highlight:
+              'Peptide Technologies carries IGF-1 LR3 — the primary anabolic mediator downstream of GH secretion and a critical compound for studying the full GHRP → GH → IGF-1 axis. Third-party CoA on every batch with HPLC purity verification. Their GH-axis peptide lineup also includes Tesamorelin and MOTS-c.',
+            badge: 'HPLC Verified',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'GROW Peptide Blend',
+            productUrl: 'https://www.vandl-labs.com/product/grow/',
+            price: 'View site for current pricing',
+            purity: '≥99% HPLC + MS',
+            highlight:
+              'VANDL Labs produces rigorously tested peptide blends including their GROW formulation designed for GH-axis research applications. Every batch is independently verified by accredited domestic laboratories via both HPLC and mass spectrometry. Transparent CoA documentation published publicly.',
+            badge: 'Domestic Lab Tested',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'GH Secretagogue Research Peptides',
+            productUrl: 'https://modifiedaminos.shop',
+            price: 'View site for current pricing',
+            purity: '≥98%+ HPLC',
+            highlight:
+              'Modified Aminos offers a curated catalog of research-grade growth hormone peptides and secretagogues. Their QC protocols include mandatory third-party HPLC purity testing on every production batch, with results accessible to researchers on request.',
+            badge: 'Research Grade',
+          },
+        ],
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Which GHRP produces the highest GH peak?',
+            answer:
+              'Hexarelin consistently produces the highest GH peaks in preclinical and early clinical studies, followed by GHRP-2, then GHRP-6. At approximately 1 µg/kg IV, the approximate mean peaks are: Hexarelin ~60–70 ng/mL, GHRP-2 ~46–52 ng/mL, GHRP-6 ~28–34 ng/mL. When combined with a GHRH analogue like CJC-1295, all three show dramatically amplified GH release through synergistic receptor signaling, with Hexarelin + GHRH reaching approximate peaks of 200–240 ng/mL in some published studies.',
+          },
+          {
+            question: 'Which GHRP causes the most appetite stimulation?',
+            answer:
+              'GHRP-6 causes by far the most intense appetite stimulation of any GHRP — significantly exceeding GHRP-2, Hexarelin, and Ipamorelin. This is a documented ghrelin-mimetic effect mediated through hypothalamic GHS-R1a activation of NPY and AgRP neurons. The hunger signal typically begins 20–30 minutes post-injection and resolves within 1–3 hours. GHRP-2 causes moderate appetite stimulation, and Hexarelin produces comparatively mild hunger effects despite being the most potent GH releaser.',
+          },
+          {
+            question: 'What makes Hexarelin pharmacologically unique compared to GHRP-6 and GHRP-2?',
+            answer:
+              "Beyond its higher GH potency, Hexarelin is the only classic GHRP with well-characterized binding to CD36 — a cardiac scavenger receptor completely separate from GHS-R1a. Multiple studies in rodent models demonstrated that hexarelin improved cardiac output, reduced ischemia/reperfusion injury, decreased myocardial fibrosis, and increased coronary perfusion pressure through CD36-mediated pathways — effects that persisted even in hypophysectomized animals where GH itself was absent. No other GHRP has demonstrated significant CD36 activity.",
+          },
+          {
+            question: 'Can GHRPs be combined with CJC-1295 or Sermorelin for better results?',
+            answer:
+              "Yes — and the combination is pharmacologically well-justified by the distinct receptor mechanisms. GHRPs (acting through GHS-R1a) and GHRH analogues like CJC-1295 or Sermorelin (acting through GHRHR) engage separate receptor families on pituitary somatotrophs. These pathways converge intracellularly, producing synergistic rather than merely additive GH release. This is the basis for the widely-studied CJC-1295/Ipamorelin stack, and the same pharmacological logic applies to GHRP-6, GHRP-2, or Hexarelin paired with any GHRH analogue.",
+          },
+          {
+            question: 'What does the 2024 GHRP-6 stroke trial reveal about the peptide class?',
+            answer:
+              'The 2024 Phase I/II trial (Frontiers in Neurology, DOI: 10.3389/fneur.2024.1303402) demonstrated that GHRP-6 combined with EGF significantly improved neurological outcomes and survival in acute ischemic stroke patients versus standard care. The neuroprotective benefit appears to involve anti-inflammatory, anti-apoptotic, and neurotrophic mechanisms beyond GHS-R1a GH-releasing activity — suggesting the GHRP class has pleiotropic CNS and tissue-protective properties that warrant substantially broader research investigation.',
+          },
+          {
+            question: 'Are GHRP-6, GHRP-2, or Hexarelin FDA-approved?',
+            answer:
+              'No. None of the three holds FDA approval for any indication. All are classified as research compounds. The only FDA-approved GHRH analogue is Tesamorelin (Egrifta SV®), approved specifically for HIV-associated lipodystrophy. The only FDA-approved compounds for growth hormone deficiency treatment are somatropin (recombinant human GH) formulations. Any use of GHRP-6, GHRP-2, or Hexarelin in a human therapeutic context would constitute off-label, unapproved use outside the research context.',
+          },
+          {
+            question: 'What is tachyphylaxis and why is it more pronounced with Hexarelin?',
+            answer:
+              "Tachyphylaxis refers to the attenuation of a drug's response with repeated dosing. With Hexarelin, the GH response diminishes more rapidly with chronic use than with GHRP-6 or GHRP-2. This is attributed to enhanced somatostatin (SRIF) feedback — the pituitary's inhibitory brake on GH secretion. Because Hexarelin produces the highest GH peaks, it also triggers the strongest somatostatin feedback loop, which progressively blunts subsequent GH pulses. Research protocols using Hexarelin typically incorporate cycling periods (e.g., 4–6 weeks on, 2–4 weeks off) to allow somatostatin tone to reset.",
+          },
+        ],
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'info',
+        content: `All peptide compounds described in this article — GHRP-6, GHRP-2, and Hexarelin — are not approved by the FDA for human use and are intended strictly for laboratory and scientific research purposes only. This article is for educational and scientific literacy purposes and does not constitute medical advice. Clinical trial data cited reflects published peer-reviewed literature; it does not imply that these compounds are safe or effective for human therapeutic use outside of approved clinical trial settings. Consult a qualified healthcare professional for any medical decisions. Regulatory status reflects publicly available information as of July 2026.`,
+      },
+    ],
+  },
+]
+
+// Merge extra posts into main BLOG_POSTS array at module load time
+BLOG_POSTS.push(...EXTRA_BLOG_POSTS)
