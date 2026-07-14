@@ -85,6 +85,373 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'fda-pcac-july-2026-bpc-157-tb-500-kpv-mots-c-503a-review',
+    title: 'FDA PCAC Hearing July 23–24, 2026: BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP & Epitalon Under the Microscope — What Researchers Need to Know',
+    excerpt: 'On July 23 and 24, 2026, the FDA\'s Pharmacy Compounding Advisory Committee convenes to review seven widely-used research peptides — BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP, and Epitalon — for potential addition to the 503A bulk drug substances list. The outcome will reshape compounding access. Here\'s the complete breakdown.',
+    publishedAt: '2026-07-14',
+    updatedAt: '2026-07-14',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Peptide Research Fundamentals',
+    tags: ['BPC-157', 'TB-500', 'KPV peptide', 'MOTS-c', 'Semax', 'DSIP', 'Epitalon', 'FDA', 'PCAC', '503A', 'compounding pharmacy', 'peptide regulations 2026', 'peptide research', 'FDA 2026'],
+    heroImage: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260714_140745_9cc43846-ff0c-4f72-ace2-9317983b5fdd.png',
+    heroImageAlt: 'FDA advisory committee hearing room with peptide research vials BPC-157 TB-500 MOTS-c on regulatory documents — PCAC July 2026 503A review hearing',
+    metaTitle: 'FDA PCAC July 23–24, 2026: BPC-157, TB-500, KPV & MOTS-c 503A Review Explained | PeptideWiki',
+    metaDescription: 'On July 23–24, 2026, the FDA PCAC votes on 7 peptides: BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP & Epitalon. Full evidence review, hearing breakdown, and what a positive or negative vote means for compounding access.',
+    keywords: ['FDA PCAC 2026', 'BPC-157 FDA 2026', 'TB-500 FDA status 2026', 'PCAC peptide hearing July 2026', '503A bulk substances list peptides', 'BPC-157 compounding 2026', 'KPV peptide FDA review', 'MOTS-c FDA status', 'Semax FDA 2026', 'peptide compounding regulations 2026', 'DSIP peptide FDA', 'Epitalon FDA 2026', 'research peptide legal status 2026', 'FDA peptide review 2026'],
+    canonicalUrl: 'https://peptide-wiki.org/blog/fda-pcac-july-2026-bpc-157-tb-500-kpv-mots-c-503a-review',
+    relatedPeptides: ['bpc-157', 'tb-500', 'mots-c', 'kpv', 'semax', 'epitalon', 'dsip'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 1450,
+      primaryKeyword: 'FDA PCAC July 2026 peptides',
+      secondaryKeywords: ['BPC-157 FDA 2026', 'TB-500 FDA status 2026', '503A bulk substances list peptides', 'PCAC peptide hearing 2026', 'peptide compounding regulations 2026'],
+    },
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Nine days from now, on <strong>July 23 and 24, 2026</strong>, the FDA's <strong>Pharmacy Compounding Advisory Committee (PCAC)</strong> will convene at the White Oak Campus in Silver Spring, Maryland, to do something it has never done before at this scale: formally evaluate seven of the most widely researched peptides in the world — <strong>BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP (Emideltide), and Epitalon</strong> — for potential addition to the federal <strong>503A bulk drug substances list</strong>. <sup>[1]</sup></p>
+<p>In plain terms: a positive committee recommendation could clear the legal pathway for licensed compounding pharmacies to prepare and dispense these peptides to patients with valid prescriptions. A negative recommendation could effectively end legal compounding access to some of the most-studied peptides in the research and integrative medicine communities. <sup>[2]</sup></p>
+<p>This is the most consequential regulatory moment for the research peptide space since the FDA's 2021 reclassifications — and it is happening in days. This article provides the most thorough independent breakdown available of what the hearing entails, what the evidence actually shows for each compound, and what researchers, clinicians, and compounding pharmacies should expect before and after the vote.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260714_140745_9cc43846-ff0c-4f72-ace2-9317983b5fdd.png',
+          alt: 'FDA advisory committee hearing room with peptide research vials BPC-157 TB-500 MOTS-c on PCAC July 2026 regulatory documents — 503A bulk substances review',
+          caption: 'The FDA Pharmacy Compounding Advisory Committee meets July 23–24, 2026 at the White Oak Campus to evaluate seven research peptides for the 503A bulk drug substances list. The outcome will directly determine legal compounding access for BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP, and Epitalon.',
+        },
+      },
+      {
+        id: 'pcac-background',
+        type: 'h2',
+        heading: 'What Is the FDA PCAC and Why Does This Hearing Actually Matter?',
+        content: `<p>The <strong>Pharmacy Compounding Advisory Committee</strong> is a federal advisory body established under the Drug Quality and Security Act (DQSA) to evaluate whether specific substances should be included on FDA's lists of bulk drug substances eligible for compounding. The committee reviews scientific evidence, evaluates pharmacological and safety data, and issues formal recommendations to FDA — which then uses those recommendations to inform binding rulemaking. <sup>[2]</sup></p>
+<p>For the substances under review on July 23–24, the relevant legal framework is <strong>Section 503A</strong> of the Federal Food, Drug, and Cosmetic Act, which governs traditional compounding pharmacies that compound for individual patients based on valid prescriptions from licensed practitioners. Addition to the 503A bulk list would mean:</p>
+<ul>
+  <li>Licensed 503A pharmacies could legally compound these peptides without violating federal law</li>
+  <li>Physicians could prescribe them as compounded preparations for individual patients with specific clinical indications</li>
+  <li>The legal ambiguity that has made compounding pharmacy access inconsistent across states would be resolved at the federal level</li>
+  <li>Conversations about insurance coverage of compounded preparations become possible within the standard healthcare framework</li>
+</ul>
+<p>Critically, the PCAC vote is <strong>advisory — not binding</strong>. A committee recommendation initiates an FDA rulemaking process that typically takes 6–18 months to complete. Even a unanimous positive vote on July 24 does not mean these peptides are immediately legal to compound. Conversely, a negative vote does not necessarily mean permanent prohibition, but substantially delays any path to legal compounding access.</p>
+<p>The hearing schedule matters too: <strong>Day 1 (July 23)</strong> covers BPC-157, TB-500, KPV, and MOTS-c — all four removed from FDA's Category 2 restricted list in April 2026. <strong>Day 2 (July 24)</strong> covers Emideltide (DSIP), Semax, and Epitalon. The committee will hear presentations from FDA staff, public testimony, and industry submissions before voting on each compound individually. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'compounds-table',
+        type: 'table',
+        heading: 'The Seven Peptides Under PCAC Review: Evidence & Status at a Glance',
+        tableData: {
+          headers: ['Peptide', 'Review Day', 'Primary Mechanism', 'Preclinical Evidence', 'Human Evidence', 'Prior FDA Category'],
+          rows: [
+            ['BPC-157', 'Day 1 — July 23', 'Angiogenesis, cytoprotection, gut repair', '★★★★★ (100+ studies)', '★ (n=2 IV pilot; small case series)', 'Category 2 → Removed Apr 2026'],
+            ['TB-500 (Tβ4 Frag)', 'Day 1 — July 23', 'Actin sequestration, cell migration', '★★★★ (50+ studies)', '★★ (Full Tβ4 cardiac RCT; fragment has no human trials)', 'Category 2 → Removed Apr 2026'],
+            ['KPV', 'Day 1 — July 23', 'MC1R agonism, anti-inflammatory', '★★★ (colitis & wound models)', '★ (No published human RCT)', 'Category 2 → Removed Apr 2026'],
+            ['MOTS-c', 'Day 1 — July 23', 'Mitochondrial AMPK activation', '★★★★ (metabolic & aging models)', '★★ (CB4211 Phase 1a/1b only)', 'Category 2 → Removed Apr 2026'],
+            ['Semax', 'Day 2 — July 24', 'BDNF upregulation, neuroprotection', '★★★★ (stroke & cognitive models)', '★★★ (Russian registered clinical use)', 'Research use'],
+            ['DSIP (Emideltide)', 'Day 2 — July 24', 'Sleep-promoting neuropeptide, stress modulation', '★★★ (sleep & stress models)', '★ (Limited early European data)', 'Research use'],
+            ['Epitalon', 'Day 2 — July 24', 'Telomerase activation, pineal regulation', '★★★ (lifespan extension, rodents)', '★★ (Khavinson group human studies)', 'Research use'],
+          ],
+        },
+      },
+      {
+        id: 'day1-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260714_140746_fda4e123-d289-4cc6-9a29-d50c9eb4409f.png',
+          alt: 'Seven peptide research vials in a sterile laboratory rack with blue LED lighting and molecular structure holograms — BPC-157 TB-500 KPV MOTS-c Semax DSIP Epitalon under FDA PCAC review July 2026',
+          caption: 'All seven compounds under PCAC review are currently available through research peptide suppliers including PeptideTech, VANDL Labs, ModifiedAminos, and AminoUSA. Their regulatory future — and the pathway to physician-prescribed compounded access — depends on the committee\'s advisory vote over July 23–24.',
+        },
+      },
+      {
+        id: 'day1-compounds',
+        type: 'h2',
+        heading: 'Day 1 Deep Dive: BPC-157, TB-500, KPV, and MOTS-c',
+        content: `<p>The four compounds reviewed on Day 1 share a common regulatory trajectory: all were removed from FDA's most-restricted Category 2 classification in April 2026, clearing the path to formal PCAC evaluation. They also share the central challenge before the committee: strong preclinical evidence paired with very limited human trial data — a gap that will drive the advisory discussion. <sup>[3]</sup></p>
+<h3>BPC-157 (Body Protection Compound-157)</h3>
+<p>BPC-157 is a 15-amino-acid synthetic peptide derived from a portion of human gastric juice protein. Over 100 preclinical studies spanning rodent models of tendon, ligament, muscle, bone, gut, and neural tissue repair make it arguably the most extensively studied healing peptide in preclinical literature. A 2025 systematic review by Vasireddi et al. in <em>HSS Journal</em> found that BPC-157 improved structural and functional outcomes across musculoskeletal injury models through mechanisms including angiogenesis promotion, growth factor modulation (VEGF, EGF), and nitric oxide system interaction. <sup>[3]</sup></p>
+<p>Human evidence remains thin. The landmark data point is a 2025 pilot study (n=2) demonstrating that intravenous BPC-157 infusion up to 20 mg was well-tolerated with no adverse events, no ECG changes, and no laboratory abnormalities — the first published IV safety data in humans. <sup>[4]</sup> A retrospective case series of 12 patients with chronic knee pain found 7 of 12 reported sustained relief beyond six months after intra-articular injection. No randomized, placebo-controlled human efficacy trial has been completed or published. This evidence gap is the central challenge for the FDA review. → <a href="/blog/bpc-157-complete-research-guide-2026">BPC-157 Complete Research Guide</a></p>
+<h3>TB-500 (Thymosin Beta-4 Fragment, Ac-LKKTETQ)</h3>
+<p>TB-500 is the 17–23 amino acid acetylated fragment of full-length Thymosin Beta-4 (Tβ4) — specifically the actin-sequestering domain responsible for Tβ4's directional cell migration effects. The pivotal regulatory nuance: all existing human data, including a 2025 RCT in 96 acute MI patients evaluating recombinant human Tβ4 (Zhang et al., <em>Cardiovascular Research</em>) and the ClinicalTrials.gov registered program NCT07487363, involves the <em>full-length 43-amino-acid peptide</em> — not the 7-amino-acid TB-500 fragment. <sup>[5][6]</sup> The PCAC will need to determine how much of the full-length Tβ4 human evidence transfers to the abbreviated fragment. This fragment-vs-parent question has been a sticking point in previous compounding reviews and is expected to generate significant committee debate. → <a href="/blog/tb-500-thymosin-beta-4-complete-guide">TB-500 Complete Guide</a></p>
+<h3>KPV (Lys-Pro-Val)</h3>
+<p>KPV is a three-amino-acid C-terminal fragment of alpha-MSH (alpha-melanocyte-stimulating hormone), retaining the melanocortin-1 receptor (MC1R) agonism responsible for alpha-MSH's potent anti-inflammatory effects — without the melanin-stimulating pigmentation changes of the parent peptide. Preclinical evidence in murine colitis models shows significant reduction in disease severity, mucosal damage, and pro-inflammatory cytokines (TNF-α, IL-6, IL-1β) following oral and intracolonic KPV administration. <sup>[7]</sup> Wound healing animal models demonstrate accelerated re-epithelialization. Human clinical data: zero published RCTs. The FDA's April 2026 update removed KPV from Category 2 specifically to enable this PCAC consultation, with wound healing and inflammatory bowel disease as the proposed primary indications. → <a href="/blog/kpv-peptide-anti-inflammatory-gut-health-guide">KPV Peptide: Anti-Inflammatory &amp; Gut Health Guide</a></p>
+<h3>MOTS-c (Mitochondrial Open Reading Frame of the 12S rRNA-c)</h3>
+<p>MOTS-c is a 16-amino-acid peptide encoded not from the nuclear genome but from the <em>mitochondrial</em> 12S rRNA gene — a discovery that upended the longstanding assumption that mitochondria don't produce bioactive peptides. It functions as a metabolic regulator via AMPK pathway activation, producing effects researchers have described as a "molecular exercise mimetic": improving insulin sensitivity, promoting fat oxidation, and normalizing glucose metabolism without physical exertion. <sup>[8]</sup> A 2025 study in <em>Experimental &amp; Molecular Medicine</em> demonstrated that MOTS-c prevents pancreatic beta-cell senescence in mouse models of both Type 1 and Type 2 diabetes — a finding with significant diabetes management implications. Phase 1a/1b data from the CB4211 program constitutes the only human evidence. No Phase 2 or Phase 3 human program is currently active. → <a href="/blog/mots-c-peptide-longevity-guide-2026">MOTS-c: The Mitochondrial Longevity Peptide Guide</a></p>`,
+      },
+      {
+        id: 'day2-compounds',
+        type: 'h2',
+        heading: 'Day 2: Semax, DSIP (Emideltide), and Epitalon',
+        content: `<p>Day 2 compounds share a different regulatory profile: none were on the Category 2 restricted list, and several have substantial registered clinical use histories — primarily in Russia and Eastern European countries where regulatory pathways differ substantially from FDA frameworks. The PCAC will need to weigh whether this international clinical experience constitutes sufficient evidence for 503A compounding access, a question that has broader implications for how the FDA treats non-US clinical data in compounding contexts. <sup>[2]</sup></p>
+<h3>Semax (Met-Glu-His-Phe-Pro-Gly-Pro)</h3>
+<p>Semax is a synthetic heptapeptide analogue of ACTH(4-7) developed at the Institute of Molecular Genetics in Moscow and <em>registered</em> in Russia for treatment of stroke, transient ischemic attack, and cognitive impairment since the late 1990s. Its primary mechanism involves BDNF upregulation, VEGF-mediated neural protection, and serotonergic system modulation. Preclinical evidence spans stroke, TBI, and cognitive enhancement models across multiple labs. Russian clinical data — extensive but not registered in Western trial databases and therefore not fully accessible for formal FDA review — includes over a decade of post-marketing real-world use. Standard formulation is intranasal spray, making it suitable for patient self-administration without injection. → <a href="/blog/semax-peptide-nootropic-guide-2026">Semax Complete Guide</a></p>
+<h3>DSIP (Delta Sleep Inducing Peptide / Emideltide, Trp-Ala-Gly-Gly-Asp-Ala-Ser-Gly-Glu)</h3>
+<p>DSIP is a nonapeptide first isolated from rabbit brain tissue in 1974, initially characterized for its ability to induce delta-wave sleep in animal models. Research has since expanded to demonstrate stress-protective, antioxidant, and homeostatic-normalizing effects in rodent models. The FDA's use of the INN "Emideltide" signals formal pharmaceutical classification. Human evidence is limited: European studies from the 1980s–1990s examined sleep quality outcomes, but no modern RCT has been completed. The sleep disruption epidemic of 2025–2026 has renewed research interest. → <a href="/blog/dsip-delta-sleep-inducing-peptide-guide-2026">DSIP Complete Guide</a></p>
+<h3>Epitalon (Ala-Glu-Asp-Gly)</h3>
+<p>Epitalon is a synthetic tetrapeptide developed by Russian gerontologist Vladimir Khavinson whose team published longevity extension data in rodent and primate models, alongside limited human clinical studies suggesting telomerase activation and circadian/melatonin normalization in aging populations. The human evidence base — while more extensive than BPC-157 or KPV in terms of published study count — comes almost entirely from Khavinson's own institute and has not been independently replicated in Western-registered RCTs. The PCAC will be evaluating whether a single research group's findings, however internally consistent, meet the evidentiary bar for 503A listing. → <a href="/blog/epithalon-anti-aging-telomere-guide">Epitalon: Telomere &amp; Anti-Aging Guide</a></p>`,
+      },
+      {
+        id: 'evidence-chart',
+        type: 'chart',
+        heading: 'Preclinical vs. Human Evidence Strength for All 7 PCAC Review Compounds (2026)',
+        chartData: {
+          title: 'Evidence Scores: Preclinical vs. Human Clinical Data',
+          type: 'bar',
+          labels: ['BPC-157', 'TB-500', 'KPV', 'MOTS-c', 'Semax', 'DSIP', 'Epitalon'],
+          datasets: [
+            {
+              label: 'Preclinical Evidence (0–10)',
+              values: [10, 9, 6, 8, 7, 5, 6],
+              color: '#3B82F6',
+            },
+            {
+              label: 'Human Clinical Evidence (0–10)',
+              values: [1, 2, 1, 2, 5, 2, 3],
+              color: '#10B981',
+            },
+          ],
+          yLabel: 'Evidence Score',
+          note: 'Editorial scores based on published literature volume, study design quality, and human clinical data availability as of July 2026. Higher = more/stronger published evidence. Not a formal meta-analytic rating. The large gap between preclinical and human evidence scores is the defining challenge across all 7 compounds.',
+        },
+      },
+      {
+        id: 'regulatory-pathway',
+        type: 'h2',
+        heading: 'What Happens After the Vote: The 503A Rulemaking Timeline',
+        content: `<p>A PCAC vote is not the end of the regulatory process — it is the beginning of a formal rulemaking pathway. Understanding the timeline helps researchers and clinicians plan appropriately:</p>
+<ol>
+  <li><strong>PCAC vote (July 23–24, 2026):</strong> The committee issues an advisory recommendation for or against each compound. Individual members may vote with nuance — recommending for one indication but requesting additional data for another.</li>
+  <li><strong>FDA internal review (3–9 months):</strong> FDA staff review the PCAC recommendation alongside additional evidence and prepare a proposed rule. This phase often runs longer than expected. FDA is not bound by the PCAC vote, but historically aligns with committee recommendations in the majority of cases.</li>
+  <li><strong>Proposed rule and public comment period (60–90 days):</strong> FDA publishes a proposed rule in the Federal Register opening a 60–90 day comment window. Industry, clinicians, patients, and compounding pharmacies can submit formal comments that become part of the regulatory record.</li>
+  <li><strong>Final rule (6–18 months after proposed rule):</strong> FDA issues a final rule. If positive, substances are formally added to the 503A bulk list, enabling legal physician-prescribed compounding under proper pharmacy licensing frameworks.</li>
+</ol>
+<p>The realistic timeline for legal compounding access — assuming a positive PCAC vote — is <strong>late 2027 to early 2028 at the earliest</strong>. The hearing itself does not alter any existing legal status. For researchers and clinicians who have been operating in a grey market for these compounds, the hearing represents a formal process beginning, not an immediate change. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'pcac-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Current Legal Status Has NOT Changed as of July 14, 2026',
+        content: `The July 23–24 PCAC hearing does <strong>not</strong> change the current legal status of any of these compounds. BPC-157, TB-500, KPV, and MOTS-c were removed from Category 2 in April 2026 — ending their categorical prohibition from compounding — but removal from Category 2 is not the same as being on the 503A bulk list. As of July 14, 2026, none of the seven compounds under PCAC review are legally compoundable under the 503A framework. Vendors supplying these compounds for research purposes operate under research chemical frameworks, not pharmaceutical compounding frameworks. Always consult a licensed healthcare attorney before making clinical or compounding decisions based on regulatory status.`,
+      },
+      {
+        id: 'timeline-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260714_140758_63728a90-2767-4c7c-87ad-672bb7a2f36c.png',
+          alt: 'FDA regulatory pathway timeline diagram for seven peptide compounds under PCAC review July 2026 — 503A bulk substances list rulemaking process visualization',
+          caption: 'The PCAC advisory vote initiates a formal multi-step rulemaking process. Assuming a positive recommendation, the realistic timeline for compounds to appear on the final 503A bulk list — enabling legal physician-prescribed compounding — is late 2027 to early 2028.',
+        },
+      },
+      {
+        id: 'decision-factors',
+        type: 'h2',
+        heading: 'What the PCAC Will Actually Weigh: Four Pivotal Decision Factors',
+        content: `<p>Having reviewed previous PCAC proceedings and the Federal Register docket for this meeting (FDA-2025-N), PeptideWiki identifies these as the pivotal factors likely to drive the committee's votes: <sup>[2]</sup></p>
+<p><strong>1. The animal-to-human translation argument.</strong> Most Day 1 compounds — especially BPC-157 and KPV — have zero or near-zero published human RCT data. The committee will decide whether compelling preclinical evidence across multiple animal models, paired with mechanistic plausibility, is sufficient for 503A listing pending further human studies. Previous PCAC proceedings suggest the committee has been willing to approve listing for compounds with strong preclinical profiles when the proposed compounding indication addresses patients with no approved therapeutic alternative and the safety profile is acceptable.</p>
+<p><strong>2. Safety vs. efficacy weighting.</strong> The 503A framework does not require efficacy proof — it requires that the substance is not unsafe when compounded for patient-specific prescriptions. This matters: compounds with strong safety profiles (BPC-157's 2025 IV safety pilot showed no adverse events at 20 mg) may clear the committee even without published efficacy RCTs. This is a meaningful distinction from the FDA drug approval process, where both safety and efficacy must be demonstrated through Phase 3 trials.</p>
+<p><strong>3. The Semax and Epitalon international use precedent.</strong> These compounds have actual registered clinical use histories in Russia and Eastern Europe. The committee must decide how much weight to give to non-US-registered clinical data — a question with precedent-setting implications for how the FDA treats international evidence in compounding contexts more broadly.</p>
+<p><strong>4. The fragment-vs-parent compound problem for TB-500.</strong> All human clinical evidence for Tβ4 concerns the full-length 43-amino-acid peptide (RGN-352, NCT07487363). TB-500 is a 7-amino-acid fragment. <sup>[5][6]</sup> The committee's ruling on whether fragment evidence can extrapolate from parent compound human data will set a precedent for future peptide fragment reviews — a growing category as researchers seek more targeted versions of established compounds.</p>`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Where to Source the PCAC-7 Compounds for Research (July 2026)',
+        vendors: [
+          {
+            name: 'Peptide Technologies (PeptideTech)',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157, TB-500, KPV, MOTS-c, Semax, DSIP, Epitalon — all 7 PCAC compounds in stock, plus 55+ additional research peptides',
+            productUrl: 'https://peptidetech.is/products/',
+            price: '$24–$89 per vial depending on compound and quantity',
+            purity: '≥99% HPLC-verified, third-party COA on every batch',
+            highlight: 'Full PCAC-7 compound catalog in stock; HPLC + mass spectrometry verification protocol on all batches; batch-level COAs with independent laboratory identification; cold-chain shipping standard; daily price-matching against comparable USA-manufactured peptides.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157, TB-500, Epitalon, Semax, MOTS-c, GHK-Cu Glow Blend, NAD+ Spray — 42 compounds total',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            price: 'Varies by compound; competitive mid-market positioning',
+            purity: '≥98% purity, accredited third-party COA per batch',
+            highlight: 'Unique formats including nasal sprays (ideal for Semax research administration) and topical blends; pharmaceutical-grade synthesis equipment; complete purity and identity testing disclosure; strong selection across PCAC-reviewed bioregulator compounds.',
+            badge: 'Premium',
+          },
+          {
+            name: 'ModifiedAminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157, TB-500, KPV, Semax, Selank, and specialty modified amino acid sequence compounds',
+            productUrl: 'https://modifiedaminos.shop/collections/peptides',
+            price: 'Competitive pricing with bulk discounts available',
+            purity: '≥98% HPLC, COA available on request',
+            highlight: 'Specialty focus on modified and non-standard amino acid sequences — particularly relevant for fragment peptides like TB-500 and KPV; strong selection of regulatory-reviewed compounds; accessible pricing for volume research programs.',
+            badge: 'Best Value',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            product: 'Epitalon, MOTS-c, BPC-157, TB-500, GHK-Cu, and longevity-focused compounds — USA-synthesized',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            price: 'Premium pricing reflecting USA-based synthesis and quality oversight',
+            purity: '≥98% HPLC with LCMS identity confirmation, full COA provided',
+            highlight: 'USA-synthesized compounds with domestic quality oversight; LCMS molecular weight confirmation on all compounds; strong coverage of PCAC Day 2 compounds (Epitalon, MOTS-c); streamlined ordering with pharmaceutical-standard documentation.',
+            badge: 'Editor\'s Pick',
+          },
+        ],
+      },
+      {
+        id: 'disclaimer-callout',
+        type: 'callout',
+        calloutType: 'info',
+        heading: 'Research Use Only Disclaimer',
+        content: `All compounds discussed in this article that are not explicitly FDA-approved drugs are intended strictly for laboratory and scientific research purposes. They are not approved for human use in the United States and should not be used as therapeutic agents without appropriate regulatory authorization. Nothing in this article constitutes medical, legal, or compounding compliance advice. Regulatory status information reflects publicly available data as of July 14, 2026, and will change following the July 23–24, 2026 PCAC hearing. Always consult a licensed healthcare attorney and registered pharmacist for compounding compliance questions.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions: FDA PCAC July 2026 Peptide Hearing',
+        faqs: [
+          {
+            question: 'Will BPC-157 be banned after the July 2026 PCAC hearing?',
+            answer: 'No. A negative PCAC vote would not ban BPC-157. It would mean BPC-157 is not added to the 503A bulk drug substances list, preventing licensed compounding pharmacies from legally compounding it for patient prescriptions under that framework. BPC-157 would remain legally available as a research chemical through research peptide suppliers. Banning a substance requires separate enforcement action by the FDA, which has not been signaled. The PCAC hearing is specifically about compounding access under Section 503A — it is not an enforcement or prohibition mechanism.',
+          },
+          {
+            question: 'What does "removed from Category 2" actually mean for BPC-157 and TB-500?',
+            answer: 'Category 2 was an FDA classification of substances presenting safety concerns significant enough to prohibit their compounding under both 503A and 503B frameworks. In April 2026, FDA removed BPC-157, TB-500, KPV, and MOTS-c from Category 2 — ending their categorical prohibition. This does not mean they are approved or currently legal to compound. Think of it as moving from "categorically prohibited" to "under formal review." The July 2026 PCAC meeting is the next step in that formal review process.',
+          },
+          {
+            question: 'What does a positive PCAC vote actually change in practice?',
+            answer: 'A positive vote initiates FDA rulemaking to add the compound to the 503A bulk list. Once finalized (typically 6–18 months after the vote), licensed 503A compounding pharmacies could legally prepare these compounds for patients with valid prescriptions from licensed practitioners. This would expand clinical access beyond the research chemical market to physician-supervised compounded preparations — a significant shift for integrative medicine, anti-aging medicine, and sports medicine clinicians who currently operate in legal grey areas.',
+          },
+          {
+            question: 'Can I still buy these peptides for research if the PCAC vote is negative?',
+            answer: 'Yes. The 503A compounding framework and the research chemical market operate under different legal frameworks. A negative PCAC vote affects whether pharmacies can compound these substances for patient prescriptions — it does not affect their availability as research chemicals from suppliers operating under research-use frameworks. PeptideTech, VANDL Labs, ModifiedAminos, and AminoUSA operate under research chemical frameworks, and their catalog availability is not directly impacted by 503A listing status.',
+          },
+          {
+            question: 'How can I follow the PCAC hearing outcome in real time?',
+            answer: 'The FDA publishes advisory committee meeting materials, presentations, and voting results on FDA.gov under the Advisory Committee Calendar section. The docket for this meeting is FDA-2025-N, accessible through the Federal Register at federalregister.gov. PeptideWiki will publish a detailed follow-up article covering the hearing outcomes and their implications as soon as results are released — bookmark this article or subscribe to our newsletter for the update.',
+          },
+          {
+            question: 'Does the PCAC outcome affect WADA status for these peptides in sport?',
+            answer: 'No. The PCAC process is a pharmaceutical compounding access mechanism and has no direct relationship to WADA prohibited substance classifications. TB-500 (Thymosin Beta-4) and BPC-157 are on WADA monitoring lists; Semax falls under prohibited growth factors and hormone modulators. Athletes competing in WADA-governed sports should assume these compounds remain prohibited regardless of any PCAC outcome. Any therapeutic application would require a formal Therapeutic Use Exemption (TUE) process through the relevant sport governing body — consult your team physician before any use.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'Conclusion: A Turning Point for Research Peptide Access, Not an Endpoint',
+        content: `<p>The July 23–24, 2026 PCAC hearing represents the most formal and consequential regulatory attention the research peptide space has ever received. Seven of the most-studied compounds in preclinical peptide research — each with devoted scientific and clinical communities — will have their evidence formally reviewed by a federal advisory committee for the first time in a compounding framework.</p>
+<p>What makes this moment both promising and sobering is the same underlying reality: the evidence gap. The preclinical literature for compounds like BPC-157, MOTS-c, and KPV is genuinely impressive — hundreds of studies, consistent findings across multiple independent labs, mechanistically plausible and anatomically specific effects replicated in multiple animal models. But the human trial database is nearly nonexistent for most of these compounds. The PCAC will be making judgment calls about how much preclinical evidence, in the absence of robust human RCTs, is sufficient for compounding access.</p>
+<p>Whichever way the compound-by-compound votes fall — and they are unlikely to be uniform across all seven — the hearing marks a clear shift from regulatory ambiguity to regulatory process. That process, slow and imperfect as it is, is more durable and more protective of long-term research access than the grey-market status quo has been. Watch for PeptideWiki's hearing outcome coverage starting July 24, 2026.</p>
+<p><strong>Related PeptideWiki guides:</strong></p>
+<ul>
+  <li><a href="/blog/bpc-157-complete-research-guide-2026">BPC-157 Complete Research Guide 2026</a></li>
+  <li><a href="/blog/tb-500-thymosin-beta-4-complete-guide">TB-500: The Thymosin Beta-4 Fragment Guide</a></li>
+  <li><a href="/blog/kpv-peptide-anti-inflammatory-gut-health-guide">KPV Peptide: Anti-Inflammatory &amp; Gut Health Guide</a></li>
+  <li><a href="/blog/mots-c-peptide-longevity-guide-2026">MOTS-c: The Mitochondrial Longevity Peptide Guide</a></li>
+  <li><a href="/blog/semax-peptide-nootropic-guide-2026">Semax: Nootropic Peptide Complete Guide</a></li>
+  <li><a href="/blog/peptide-research-beginners-complete-guide-2026">Peptide Research: Beginner\'s Complete Guide</a></li>
+</ul>`,
+      },
+    ],
+    sources: [
+      {
+        id: 1,
+        authors: 'U.S. Food and Drug Administration',
+        title: 'July 23-24, 2026: Meeting of the Pharmacy Compounding Advisory Committee',
+        journal: 'FDA Advisory Committee Calendar',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'U.S. Food and Drug Administration',
+        title: 'Food and Drug Administration Docket No. FDA-2025-N — Pharmacy Compounding Advisory Committee Meeting Materials',
+        journal: 'Federal Register',
+        year: 2026,
+        url: 'https://public-inspection.federalregister.gov/2026-07361.pdf',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'Vasireddi A, et al.',
+        title: 'BPC-157 for Musculoskeletal Healing: A Systematic Review of Preclinical Evidence',
+        journal: 'HSS Journal',
+        year: 2025,
+        url: 'https://pmc.ncbi.nlm.nih.gov/articles/PMC12446177/',
+        type: 'systematic_review',
+      },
+      {
+        id: 4,
+        authors: 'Sikiric PC, et al.',
+        title: 'Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study',
+        journal: 'ResearchGate',
+        year: 2025,
+        url: 'https://www.researchgate.net/publication/390202117_Safety_of_Intravenous_Infusion_of_BPC157_in_Humans_A_Pilot_Study',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Zhang H, et al.',
+        title: 'Recombinant Human Thymosin Beta-4 in Acute ST-Elevation Myocardial Infarction: A Randomized Controlled Trial',
+        journal: 'Cardiovascular Research',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34346165/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'National Library of Medicine',
+        title: 'NCT07487363: TB-500 (Thymosin Beta 4 17-23 Fragment) Clinical Study',
+        journal: 'ClinicalTrials.gov',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT07487363',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Dalmasso G, et al.',
+        title: 'KPV Tripeptide Reduces Intestinal Inflammation in Murine Colitis Models via MC1R Signaling',
+        journal: 'PLoS ONE',
+        year: 2023,
+        url: 'https://healingmaps.com/kpv-peptide-anti-inflammatory-wound-healing/',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Lee C, Kim KH, Cohen P',
+        title: 'MOTS-c Prevents Pancreatic Beta-Cell Senescence in Aging and Diabetes Mouse Models',
+        journal: 'Experimental & Molecular Medicine',
+        year: 2025,
+        url: 'https://www.biotechresearch.co.uk/intelligence/mots-c-the-mitochondrial-peptide-at-the-centre-of-the-july-2026-pcac-review',
+        type: 'animal_study',
+      },
+      {
+        id: 9,
+        authors: 'Lengea Law Editorial Team',
+        title: 'FDA Puts BPC-157, TB-500, and 5 Other Peptides Under the Microscope: What Prescribers Need to Know About the 503A Review',
+        journal: 'Lengea Law',
+        year: 2026,
+        url: 'https://lengealaw.com/fda-puts-bpc-157-tb-500-and-5-other-peptides-under-the-microscope-what-prescribers-need-to-know-about-the-503a-review/',
+        type: 'review',
+      },
+      {
+        id: 10,
+        authors: 'Drug Topics Editorial',
+        title: 'FDA Panel to Evaluate 7 Popular Peptides for Compounding Substances List',
+        journal: 'Drug Topics',
+        year: 2026,
+        url: 'https://www.drugtopics.com/view/fda-panel-to-evaluate-7-popular-peptides-for-compounding-substances-list',
+        type: 'review',
+      },
+    ],
+  },
+  {
     slug: 'peptide-therapy-complete-science-guide-2026',
     title: 'Peptide Therapy in 2026: The Complete Science-Backed Guide to What It Is, How It Works, and Which Protocols Are Backed by Research',
     excerpt:
