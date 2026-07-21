@@ -46,12 +46,14 @@ export interface ChartData {
 export interface VendorCard {
   name: string
   url: string
-  product: string
-  productUrl: string
-  price: string
-  purity: string
-  highlight: string
+  product?: string
+  productUrl?: string
+  price?: string
+  purity?: string
+  highlight?: string
   badge?: string
+  description?: string
+  rating?: number
 }
 
 export interface FAQ {
