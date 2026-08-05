@@ -29267,6 +29267,567 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'pemvidutide-glp1-glucagon-dual-agonist-guide-2026',
+    title:
+      'Pemvidutide 2026: The GLP-1/Glucagon Dual Agonist With Class-Leading Lean Mass Preservation — Complete Research Guide',
+    excerpt:
+      'Pemvidutide is a first-in-class balanced 1:1 GLP-1/glucagon dual receptor agonist from Altimmune that has earned FDA Breakthrough Therapy designation for MASH and Fast Track status for alcohol use disorder. Unlike semaglutide or tirzepatide, only 21.9% of pemvidutide-driven weight loss comes from lean mass — roughly half the muscle loss seen with GLP-1 monotherapy. With 48-week MASH data presented at EASL 2026 and positive RECLAIM AUD Phase 2 results from July 2026, this is the peptide that could redefine what metabolic therapy looks like.',
+    publishedAt: '2026-08-05',
+    updatedAt: '2026-08-05',
+    author: 'PeptideWiki Research Team',
+    readingTime: 14,
+    category: 'Weight Loss & GLP-1',
+    tags: [
+      'Pemvidutide',
+      'GLP-1',
+      'Glucagon',
+      'Dual Agonist',
+      'MASH',
+      'MASLD',
+      'Lean Mass Preservation',
+      'Weight Loss Peptide',
+      'Altimmune',
+      'Research Peptide 2026',
+      'Alcohol Use Disorder',
+      'Metabolic Health',
+      'Liver Health',
+      'Peptide Research',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260805_140801_97fddac2-ac55-4686-8b81-4c9fb3f7d844.png',
+    heroImageAlt:
+      'Dramatic scientific visualization of pemvidutide dual GLP-1 and glucagon receptor mechanism with glowing molecular peptide chain structure against navy blue background — next-generation metabolic peptide therapy 2026',
+    metaTitle: 'Pemvidutide 2026: GLP-1/Glucagon Dual Agonist Guide | PeptideWiki',
+    metaDescription:
+      'Pemvidutide: GLP-1/glucagon dual agonist, class-leading lean mass preservation. FDA Breakthrough status for MASH, positive AUD data. Full 2026 research guide.',
+    keywords: [
+      'pemvidutide',
+      'pemvidutide research guide',
+      'pemvidutide vs semaglutide',
+      'GLP-1 glucagon dual agonist',
+      'pemvidutide lean mass preservation',
+      'pemvidutide MASH liver',
+      'pemvidutide weight loss',
+      'pemvidutide MOMENTUM trial',
+      'pemvidutide IMPACT trial',
+      'pemvidutide AUD alcohol',
+      'Altimmune pemvidutide 2026',
+      'dual receptor agonist peptide',
+      'MASLD treatment peptide',
+      'next generation GLP-1 peptide',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/pemvidutide-glp1-glucagon-dual-agonist-guide-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'retatrutide', 'vk2735'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 3100,
+      primaryKeyword: 'pemvidutide',
+      secondaryKeywords: [
+        'pemvidutide vs semaglutide',
+        'GLP-1 glucagon dual agonist 2026',
+        'pemvidutide lean mass preservation',
+        'pemvidutide MASH research',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Altimmune, Inc.',
+        title:
+          'Altimmune Presents Data from Phase 2 MOMENTUM Trial of Pemvidutide in Obesity — ADA 84th Scientific Sessions.',
+        journal: 'GlobeNewswire / Altimmune Investor Relations',
+        year: 2024,
+        url: 'https://ir.altimmune.com/news-releases/news-release-details/altimmune-presents-data-phase-2-momentum-trial-pemvidutide',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Altimmune, Inc.',
+        title:
+          'Pemvidutide Demonstrates Significant Metabolic Improvements in Patients with MASH in New 48-Week IMPACT Phase 2b Data Presented at EASL 2026.',
+        journal: 'GlobeNewswire / Altimmune Investor Relations',
+        year: 2026,
+        url: 'https://ir.altimmune.com/news-releases/news-release-details/pemvidutide-demonstrates-significant-metabolic-improvements',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Altimmune, Inc.',
+        title:
+          'Altimmune Announces Positive Topline Results from RECLAIM Phase 2 Trial of Pemvidutide in Alcohol Use Disorder.',
+        journal: 'GlobeNewswire',
+        year: 2026,
+        url: 'https://www.globenewswire.com/news-release/2026/07/28/3334113/0/en/Altimmune-Announces-Positive-Topline-Results-from-RECLAIM-Phase-2-Trial-of-Pemvidutide-in-Alcohol-Use-Disorder.html',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Loomba R, Lawitz E, Mantry PS, et al.',
+        title:
+          'Safety and efficacy of 24 weeks of pemvidutide in metabolic dysfunction-associated steatotic liver disease: A randomized, controlled clinical trial.',
+        journal: 'PubMed / NCBI',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/41113119/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Loomba R, Abdelmalek M, Armstrong MJ, et al.',
+        title:
+          'Effect of pemvidutide, a GLP-1/glucagon dual receptor agonist, on MASLD: A randomized, double-blind, placebo-controlled study.',
+        journal: 'Journal of Hepatology',
+        year: 2024,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/39002641/',
+        doi: '10.1016/j.jhep.2024.07.001',
+        type: 'clinical_trial',
+      },
+      {
+        id: 6,
+        authors: 'Altimmune, Inc.',
+        title: 'Altimmune Announces Positive Lean Mass Preservation Data for Pemvidutide — MOMENTUM MRI Body Composition Sub-Study.',
+        journal: 'Altimmune Investor Relations',
+        year: 2024,
+        url: 'https://ir.altimmune.com/news-releases/news-release-details/altimmune-announces-positive-lean-mass-preservation-data',
+        type: 'clinical_trial',
+      },
+      {
+        id: 7,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al. (STEP 1 Study Group)',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 8,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al. (SURMOUNT-1 Investigators)',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity.',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'ClinicalTrials.gov — Altimmune, Inc.',
+        title: 'RECLAIM STUDY: A Phase 2 Evaluating the Efficacy and Safety of Pemvidutide in Alcohol Use Disorder (NCT06987513)',
+        journal: 'ClinicalTrials.gov',
+        year: 2025,
+        url: 'https://clinicaltrials.gov/study/NCT06987513',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Oura K, Morishita A, Masaki T.',
+        title: 'Efficacy and Safety of Pemvidutide in Patients with Metabolic Dysfunction-Associated Steatohepatitis: A Systematic Review and Dose-Specific Meta-Analysis of Randomized Controlled Trials.',
+        journal: 'medRxiv (preprint)',
+        year: 2025,
+        url: 'https://www.medrxiv.org/content/10.64898/2025.12.22.25342824v1.full',
+        type: 'meta_analysis',
+      },
+      {
+        id: 11,
+        authors: 'Patel DH, Apovian CM.',
+        title: 'From Fat Burn to Muscle Build: The Future of Obesity Medications beyond GLP-1.',
+        journal: 'Biocytogen / Obesity Medicine Review',
+        year: 2026,
+        url: 'https://biocytogen.com/blogs/fat-burn-muscle-build-obesity-medications-gipr-glp1r-activin-receptor',
+        type: 'review',
+      },
+      {
+        id: 12,
+        authors: 'Altimmune, Inc.',
+        title: 'Pemvidutide — Full Pipeline Overview.',
+        journal: 'Altimmune.com',
+        year: 2026,
+        url: 'https://altimmune.com/pemvidutide/',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Every generation or so, a compound arrives in metabolic medicine that changes the questions researchers ask. Semaglutide made "how much can we suppress appetite?" the central question of the 2020s. Now, a new dual agonist called <strong>pemvidutide</strong> is asking a different question entirely: <em>what if we could lose fat without losing muscle?</em></p>
+<p>Pemvidutide (formerly known as ALT-801) is an investigational peptide developed by Altimmune, Inc. that simultaneously activates both the <strong>GLP-1 receptor</strong> — the same target as semaglutide — and the <strong>glucagon receptor</strong>, at a precise 1:1 balanced ratio. This dual mechanism creates an entirely different metabolic fingerprint: aggressive fat oxidation in the liver, weight loss that outperforms historical diet and exercise programs, and lean mass preservation that is, according to Phase 2 data, roughly twice as good as semaglutide. <sup>[1]</sup></p>
+<p>In August 2024, Altimmune's MOMENTUM Phase 2 trial data showed that pemvidutide produced up to <strong>15.6% total body weight loss at 48 weeks</strong>, with just 21.9% of that loss coming from lean tissue — compared to approximately 39% with semaglutide in the STEP-1 trial. In May 2026, 48-week IMPACT Phase 2b data presented at the European Association for the Study of the Liver (EASL) Congress showed meaningful liver fibrosis regression, with up to 32.4% of patients achieving significant improvements across multiple non-invasive markers. And in July 2026, Altimmune announced positive topline results from the RECLAIM Phase 2 trial, in which pemvidutide significantly reduced heavy drinking days in patients with alcohol use disorder. <sup>[2][3]</sup></p>
+<p>This research guide covers the complete picture: mechanism, clinical trial data, comparisons to existing GLP-1 therapies, safety profile, regulatory status, and what the evidence means for researchers studying metabolic and liver disease models in 2026.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260805_140801_97fddac2-ac55-4686-8b81-4c9fb3f7d844.png',
+          alt: 'Scientific visualization of pemvidutide dual GLP-1 and glucagon receptor binding mechanism with molecular peptide structure against deep navy blue background',
+          caption:
+            'Pemvidutide activates both GLP-1 and glucagon receptors at a balanced 1:1 ratio — a fundamentally different mechanism than GLP-1 monotherapy agents like semaglutide.',
+        },
+      },
+      {
+        id: 'what-is-pemvidutide',
+        type: 'h2',
+        heading: 'What Is Pemvidutide? Background and Development',
+        content: `<p>Pemvidutide is a synthetic 31-amino-acid peptide conjugated to a fatty acid chain for extended half-life — enabling once-weekly subcutaneous dosing, mirroring the convenience of semaglutide. It was developed by Altimmune, Inc., a clinical-stage biopharmaceutical company, and has been in clinical development since the early 2020s across three distinct therapeutic indications: obesity, metabolic dysfunction-associated steatohepatitis (MASH, formerly called NASH), and alcohol use disorder (AUD). <sup>[12]</sup></p>
+<p>What makes pemvidutide structurally unique is its deliberate co-agonism of two distinct G-protein-coupled receptors in a balanced ratio. Most incretin-class drugs target GLP-1 receptors alone (semaglutide, liraglutide) or GLP-1 plus GIP receptors (tirzepatide). Pemvidutide instead pairs GLP-1 receptor agonism with <strong>glucagon receptor agonism</strong> — a receptor traditionally associated with counter-regulatory glucose release, but which, when activated in the right context, drives powerful hepatic fat oxidation, lipolysis, and thermogenesis. <sup>[5]</sup></p>
+<p>The critical design decision at Altimmune was selecting a <strong>1:1 activity ratio</strong> between GLP-1 and glucagon receptor agonism. This is not trivial. Pure glucagon agonism causes hyperglycemia — glucagon is the pancreatic hormone that raises blood sugar. But when balanced with GLP-1 agonism (which stimulates insulin secretion and suppresses glucagon), the glycemic effects appear to cancel out in clinical data, while the hepatic and thermogenic benefits of glucagon activation remain. This pharmacological balance is why pemvidutide is often described as more metabolically "complete" than GLP-1 monotherapy. <sup>[5][12]</sup></p>
+<p>Altimmune has secured the following regulatory designations from the U.S. Food and Drug Administration:</p>
+<ul>
+  <li><strong>FDA Breakthrough Therapy Designation</strong> — for the treatment of MASH (metabolic dysfunction-associated steatohepatitis)</li>
+  <li><strong>FDA Fast Track Designation</strong> — for the treatment of MASH and separately for alcohol use disorder</li>
+</ul>
+<p>These designations indicate the FDA considers pemvidutide a serious candidate for conditions with significant unmet medical need, and they allow for more intensive FDA guidance during development, as well as rolling review of submissions. <sup>[12]</sup></p>`,
+      },
+      {
+        id: 'mechanism',
+        type: 'h2',
+        heading: 'The Dual Receptor Mechanism: Why GLP-1 + Glucagon Is Different',
+        content: `<p>To understand why pemvidutide's data looks different from semaglutide's, you need to understand what each receptor pathway actually does when activated — and why combining them creates synergistic effects that neither agent achieves alone. <sup>[5]</sup></p>
+<p><strong>GLP-1 Receptor Agonism</strong> (the semaglutide pathway):</p>
+<ul>
+  <li>Slows gastric emptying, creating prolonged satiety after meals</li>
+  <li>Acts on hypothalamic appetite centers to reduce caloric drive</li>
+  <li>Stimulates glucose-dependent insulin secretion from beta cells</li>
+  <li>Has modest direct effects on hepatic fat (primarily indirect, via reduced caloric intake)</li>
+</ul>
+<p><strong>Glucagon Receptor Agonism</strong> (the pemvidutide addition):</p>
+<ul>
+  <li>Directly stimulates hepatic fatty acid oxidation — the liver burns fat faster</li>
+  <li>Increases thermogenesis and resting energy expenditure</li>
+  <li>Drives lipolysis in adipose tissue, releasing fatty acids for fuel</li>
+  <li>Has beneficial effects on liver lipid homeostasis independent of caloric restriction</li>
+</ul>
+<p>The net result of combining these two mechanisms: pemvidutide suppresses appetite <em>and</em> revs up the body's fat-burning machinery simultaneously. This explains why the liver data in MASH patients is so striking — glucagon receptor activation directly addresses the hepatic fat accumulation that characterizes the disease, rather than relying purely on the downstream effects of eating less. <sup>[4][5]</sup></p>
+<p>The lean mass advantage is more complex. Fat-burning thermogenesis — driven by glucagon receptor activation — appears to selectively mobilize adipose stores rather than driving catabolism of protein-based lean tissue. Preliminary mechanistic hypotheses suggest that the elevated fatty acid availability from glucagon-stimulated lipolysis reduces the need for gluconeogenesis from amino acids, potentially sparing muscle protein. <sup>[6][11]</sup> This is still an area of active investigation, but the clinical signal — just 21.9% of pemvidutide weight loss coming from lean mass — is robust across the MOMENTUM trial's 50-subject MRI sub-study. <sup>[1][6]</sup></p>`,
+      },
+      {
+        id: 'weight-loss-chart',
+        type: 'chart',
+        heading: 'Weight Loss Comparison: Pemvidutide vs. Established GLP-1 Agents',
+        chartData: {
+          title: '% Body Weight Loss at ~48 Weeks (Phase 2/3 Trials)',
+          type: 'bar',
+          labels: ['Pemvidutide 1.2 mg', 'Pemvidutide 1.8 mg', 'Pemvidutide 2.4 mg', 'Semaglutide 2.4 mg', 'Tirzepatide 15 mg', 'Placebo'],
+          datasets: [
+            {
+              label: 'Mean % Body Weight Loss',
+              values: [10.3, 11.2, 15.6, 15.0, 20.9, 2.2],
+              color: '#0ea5e9',
+            },
+          ],
+          yLabel: '% Weight Loss',
+          note:
+            'Pemvidutide: MOMENTUM Phase 2 (48 wks, n=391). Semaglutide: STEP-1 (68 wks, 2.4 mg). Tirzepatide: SURMOUNT-1 (72 wks, 15 mg). Direct comparisons across trials are not statistically valid due to different populations, durations, and designs. Sources: [1][7][8]',
+        },
+      },
+      {
+        id: 'momentum-trial',
+        type: 'h2',
+        heading: 'MOMENTUM Phase 2 Trial: Class-Leading Lean Mass Preservation',
+        content: `<p>The Phase 2 MOMENTUM trial is the foundational efficacy study for pemvidutide in obesity. It enrolled <strong>391 subjects</strong> with obesity (or overweight with at least one metabolic co-morbidity but without type 2 diabetes), randomized 1:1:1:1 to pemvidutide 1.2 mg, 1.8 mg, or 2.4 mg, or placebo, all administered as weekly subcutaneous injections in conjunction with lifestyle interventions. The trial ran for 48 weeks and presented primary efficacy data at the American Diabetes Association's 84th Scientific Sessions in June 2024. <sup>[1]</sup></p>
+<p><strong>Efficacy results by dose:</strong></p>
+<ul>
+  <li><strong>1.2 mg:</strong> −10.3% mean body weight vs. −2.2% placebo</li>
+  <li><strong>1.8 mg:</strong> −11.2% mean body weight vs. −2.2% placebo</li>
+  <li><strong>2.4 mg:</strong> −15.6% mean body weight vs. −2.2% placebo</li>
+</ul>
+<p>All three doses were statistically superior to placebo. The 2.4 mg dose achieved weight loss comparable to the approved semaglutide 2.4 mg dose from the STEP-1 trial (−15.0%), though these are different trials with different populations and cannot be directly compared. <sup>[1][7]</sup></p>
+<p>The headline finding — and the one that has generated the most attention in the obesity medicine community — came from the <strong>MRI-based body composition sub-study</strong> presented at the European Association for the Study of Diabetes (EASD) 2024 annual meeting. In 50 subjects who underwent serial MRI scanning:</p>
+<ul>
+  <li><strong>Only 21.9% of total weight loss came from lean mass</strong>, meaning 78.1% was fat mass</li>
+  <li>For comparison, historical data with semaglutide shows approximately 39–45% of weight loss is lean tissue in the STEP-1 trial <sup>[7]</sup></li>
+  <li>Diet-and-exercise programs typically show ~25% lean mass loss — pemvidutide outperformed this benchmark as well</li>
+</ul>
+<p>Altimmune described this outcome as "class-leading" lean mass preservation, and independent commentary from the obesity medicine community noted that if this finding holds in larger trials, it would represent a meaningful clinical differentiator — particularly for older patients, athletes, and individuals at risk for sarcopenia. <sup>[1][6][11]</sup></p>`,
+      },
+      {
+        id: 'lab-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260805_140801_255b9ee1-b2d1-480d-83c0-0acc2b3d952f.png',
+          alt: 'Pharmaceutical research scientist examining glowing peptide vials in a modern laboratory with molecular structure holograms on screens in the background',
+          caption:
+            'Pemvidutide research is conducted in specialized laboratories where each batch undergoes rigorous analytical verification before being characterized in pre-clinical and clinical models.',
+        },
+      },
+      {
+        id: 'momentum-table',
+        type: 'table',
+        tableData: {
+          headers: ['Metric', 'Pemvidutide 1.2 mg', 'Pemvidutide 1.8 mg', 'Pemvidutide 2.4 mg', 'Placebo'],
+          rows: [
+            ['Mean weight loss (48 wk)', '−10.3%', '−11.2%', '−15.6%', '−2.2%'],
+            ['Lean mass as % of total weight lost', '21.9%*', '21.9%*', '21.9%*', 'N/A'],
+            ['Fat mass as % of total weight lost', '78.1%*', '78.1%*', '78.1%*', 'N/A'],
+            ['Statistical superiority vs placebo', 'p < 0.001', 'p < 0.001', 'p < 0.001', '—'],
+            ['Gastrointestinal AEs (mild/moderate)', 'Common early', 'Common early', 'Common early', 'Low'],
+          ],
+        },
+      },
+      {
+        id: 'lean-mass-chart',
+        type: 'chart',
+        heading: 'Lean Mass Loss as Percentage of Total Weight Loss: Pemvidutide vs. Comparators',
+        chartData: {
+          title: 'Lean Tissue as % of Total Weight Lost',
+          type: 'bar',
+          labels: ['Pemvidutide (any dose)', 'Semaglutide 2.4 mg', 'Diet & Exercise Alone'],
+          datasets: [
+            {
+              label: '% of Weight Loss That Is Lean Tissue',
+              values: [21.9, 39.0, 25.0],
+              color: '#f97316',
+            },
+          ],
+          yLabel: '% Lean Mass Loss',
+          note:
+            'Lower is better — less lean tissue lost per unit of weight lost. Pemvidutide MRI sub-study (n=50, MOMENTUM). Semaglutide estimate from STEP-1 body composition analysis. Diet & exercise estimate from established literature. Sources: [1][6][7]',
+        },
+      },
+      {
+        id: 'impact-mash-trial',
+        type: 'h2',
+        heading: 'IMPACT Phase 2b: 48-Week MASH Data From EASL 2026',
+        content: `<p>MASH — metabolic dysfunction-associated steatohepatitis — is the inflammatory, fibrotic progression of fatty liver disease, affecting an estimated 6–8% of the global adult population and carrying significant risk of cirrhosis, liver failure, and hepatocellular carcinoma. Until recently, no pharmacological treatment existed for MASH; the first approvals (resmetirom) only arrived in 2024. The IMPACT Phase 2b trial is Altimmune's primary MASH program for pemvidutide, and its 48-week data were presented as an oral presentation at the <strong>EASL Congress 2026</strong> in Barcelona, Spain. <sup>[2]</sup></p>
+<p>The trial enrolled patients with biopsy-confirmed MASH at moderate-to-advanced stages of fibrosis. Unlike the obesity-focused MOMENTUM trial, IMPACT measured liver-specific endpoints using validated non-invasive biomarkers, including the Enhanced Liver Fibrosis (ELF) score and Liver Stiffness Measurement (LSM) via MRE/FibroScan. <sup>[2][4][5]</sup></p>
+<p><strong>Primary composite endpoint results at 48 weeks (proportion achieving ≥0.5 reduction in ELF AND ≥30% reduction in LSM):</strong></p>
+<ul>
+  <li><strong>Placebo:</strong> 3.2% of patients met the composite endpoint</li>
+  <li><strong>Pemvidutide 1.2 mg:</strong> 27.8% — a <em>8.7-fold improvement</em> vs. placebo</li>
+  <li><strong>Pemvidutide 1.8 mg:</strong> 32.4% — a <em>10.1-fold improvement</em> vs. placebo</li>
+</ul>
+<p>Weight loss continued throughout treatment without plateau at the 48-week mark (−7.5% at 1.8 mg), an important finding because prior GLP-1 studies have shown weight loss plateauing at 16–24 weeks. Concurrent metabolic improvements included:</p>
+<ul>
+  <li>Significant reductions in triglycerides and total cholesterol elevated at baseline</li>
+  <li>Improvements in blood pressure and waist circumference</li>
+  <li>Reductions in alanine aminotransferase (ALT), a marker of hepatic inflammation</li>
+</ul>
+<p>Altimmune also presented data showing <strong>qFibrosis-measured fibrosis regression</strong> — a quantitative histological assessment using digital pathology — in a subset of patients, providing the strongest available signal of structural liver improvement short of biopsy. This data point, presented in a companion poster at EASL 2026, is particularly significant because it moves beyond biomarker surrogates toward actual tissue-level change. <sup>[2]</sup></p>`,
+      },
+      {
+        id: 'mash-outcomes-table',
+        type: 'table',
+        tableData: {
+          headers: ['Endpoint', 'Placebo', 'Pemvidutide 1.2 mg', 'Pemvidutide 1.8 mg'],
+          rows: [
+            ['ELF ≥0.5 reduction + LSM ≥30% reduction (composite)', '3.2%', '27.8%', '32.4%'],
+            ['Weight loss at 48 weeks', '~0%', '~5%', '−7.5%'],
+            ['Triglyceride reduction from baseline', 'Minimal', 'Significant', 'Significant'],
+            ['Total cholesterol reduction', 'Minimal', 'Significant', 'Significant'],
+            ['ALT reduction (liver inflammation)', 'Minimal', 'Meaningful', 'Meaningful'],
+            ['Plateau in weight loss by wk 48', 'N/A', 'No plateau', 'No plateau'],
+            ['GI adverse events (mild-moderate)', 'Low', 'Mostly early wks 1–8', 'Mostly early wks 1–8'],
+          ],
+        },
+      },
+      {
+        id: 'body-composition-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260805_140801_ab84a832-ec4a-49b5-a11c-741d88fc41fb.png',
+          alt: 'Scientific illustration showing fat cell reduction in orange-red and lean muscle fiber preservation in blue-green with a peptide molecule acting as catalyst between them',
+          caption:
+            'Pemvidutide\'s dual GLP-1/glucagon mechanism appears to selectively mobilize adipose tissue while preserving lean mass — only 21.9% of weight loss was lean tissue in MRI analysis, vs. ~39% with semaglutide.',
+        },
+      },
+      {
+        id: 'reclaim-aud-trial',
+        type: 'h2',
+        heading: 'RECLAIM Trial: Pemvidutide in Alcohol Use Disorder',
+        content: `<p>Perhaps the most surprising chapter in pemvidutide's story is its utility in alcohol use disorder. The RECLAIM Phase 2 trial (NCT06987513) enrolled approximately 100 participants with moderate to severe AUD, randomizing them 1:1 to receive either pemvidutide 2.4 mg or placebo once weekly for 24 weeks. The rationale for investigating a GLP-1/glucagon agonist in addiction is rooted in the same neurobiological mechanisms that make GLP-1 drugs reduce cravings for food — GLP-1 receptors are expressed in the mesolimbic dopamine reward circuit, and activation appears to blunt the rewarding properties of alcohol. <sup>[3][9]</sup></p>
+<p>In July 2026, Altimmune announced <strong>positive topline results</strong>:</p>
+<ul>
+  <li>Pemvidutide met its <strong>primary endpoint</strong>: statistically significant reduction in heavy drinking days (HDD) versus placebo</li>
+  <li>Consistent positive results across key secondary endpoints including WHO Risk Drinking Levels (RDL) and zero HDD (complete abstinence) rates</li>
+  <li>Phosphatidyl ethanol (PEth) levels — an objective biomarker of alcohol exposure — improved significantly with pemvidutide <sup>[3]</sup></li>
+</ul>
+<p>The FDA has granted pemvidutide <strong>Fast Track Designation for AUD</strong>, and enrollment in the RECLAIM trial completed ahead of schedule — a sign of robust patient demand and site execution. Altimmune enrolled the RECLAIM cohort significantly faster than typical Phase 2 AUD trials, likely reflecting the high unmet need in this indication where existing pharmacotherapies (naltrexone, acamprosate) have modest and inconsistent efficacy. <sup>[3][9]</sup></p>
+<p>For researchers studying the intersection of metabolic health and addiction neuroscience, pemvidutide's AUD data adds a third dimension to what began as a metabolic-focused compound — and raises the possibility that GLP-1/glucagon dual agonism may have broader neuropsychiatric applications not yet explored in clinical trials.</p>`,
+      },
+      {
+        id: 'comparison-section',
+        type: 'h2',
+        heading: 'Pemvidutide vs. Semaglutide vs. Tirzepatide: The Complete Comparison',
+        content: `<p>The GLP-1 class has become increasingly crowded, with semaglutide (Ozempic/Wegovy), tirzepatide (Mounjaro/Zepbound), retatrutide, and VK2735 all vying for market and research attention. Where does pemvidutide fit, and what makes it meaningfully different? The key differentiator is not peak weight loss — the 2.4 mg dose of pemvidutide (−15.6%) tracks with semaglutide (−15.0%) but falls short of tirzepatide's 15 mg dose (−20.9%) in Phase 3. However, the value proposition shifts dramatically when lean mass is considered. <sup>[1][7][8]</sup></p>
+<p>For individuals who are already lean or muscular, or those who fear the "skinny fat" outcome where weight loss is disproportionately muscle rather than fat, pemvidutide's body composition profile is compelling. A 15.6% weight loss with 78.1% coming from fat may deliver superior functional outcomes compared to a 20.9% weight loss where 35–40% is lean tissue. The clinical significance of lean mass loss in GLP-1 therapy has become one of the defining conversations in obesity medicine in 2025–2026, and pemvidutide is positioned squarely at the center of that conversation. <sup>[6][11]</sup></p>
+<p>On the liver disease front, pemvidutide's direct glucagon receptor-mediated hepatic fat oxidation gives it a mechanistic advantage over GLP-1 monotherapy in MASH. While semaglutide has shown some MASH benefits in the ESSENCE trial (2024), pemvidutide's direct hepatic mechanism — not just downstream from appetite suppression — may deliver more consistent and durable liver-specific effects. <sup>[2][4][5]</sup></p>`,
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        tableData: {
+          headers: ['Feature', 'Pemvidutide', 'Semaglutide 2.4 mg', 'Tirzepatide 15 mg'],
+          rows: [
+            ['Receptor targets', 'GLP-1 + Glucagon (1:1)', 'GLP-1 only', 'GLP-1 + GIP'],
+            ['Peak weight loss (Phase 2/3)', '~15.6%', '~15.0%', '~20.9%'],
+            ['Lean mass as % of weight lost', '~21.9%', '~39–45%', '~25–35% (est.)'],
+            ['Direct hepatic fat oxidation', 'Yes (via glucagon R)', 'Indirect only', 'Indirect only'],
+            ['MASH/liver disease data', 'IMPACT Phase 2b positive', 'ESSENCE trial positive', 'Limited dedicated data'],
+            ['AUD/addiction data', 'RECLAIM Phase 2 positive', 'Limited anecdotal', 'Not studied'],
+            ['FDA status (metabolic)', 'Breakthrough (MASH); Fast Track', 'Approved (obesity, T2D)', 'Approved (obesity, T2D)'],
+            ['Dosing frequency', 'Once weekly SC', 'Once weekly SC', 'Once weekly SC'],
+            ['Stage of development', 'Phase 2 (all indications)', 'Approved', 'Approved'],
+          ],
+        },
+      },
+      {
+        id: 'safety-info',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>On the Tirzepatide lean mass estimate:</strong> No large-scale dedicated MRI body composition sub-study for tirzepatide comparable to the MOMENTUM MRI sub-study has been published as of August 2026. The tirzepatide lean mass estimate of 25–35% is extrapolated from available DEXA-based data in SURMOUNT trials and published obesity medicine reviews. Definitive head-to-head lean mass data between pemvidutide and tirzepatide does not yet exist.`,
+      },
+      {
+        id: 'safety-profile',
+        type: 'h2',
+        heading: 'Safety Profile: What the Phase 2 Data Shows',
+        content: `<p>Across the MOMENTUM (obesity) and IMPACT (MASH) Phase 2 trials, pemvidutide demonstrated an adverse event profile broadly consistent with the GLP-1 drug class. The key safety signals to understand: <sup>[2][4][5]</sup></p>
+<p><strong>Gastrointestinal adverse events (most common):</strong></p>
+<ul>
+  <li>Nausea, vomiting, diarrhea, and constipation — similar to semaglutide and tirzepatide</li>
+  <li>GI events were predominantly <strong>mild to moderate</strong> in severity</li>
+  <li>Events were concentrated in the <strong>first 8 weeks</strong> of treatment during dose titration, with diminishing frequency thereafter</li>
+  <li>Discontinuation rates due to GI AEs were not materially higher than placebo in the reported data</li>
+</ul>
+<p><strong>Cardiovascular safety:</strong></p>
+<ul>
+  <li>The IMPACT Phase 2b data at EASL 2026 specifically noted <strong>"no imbalances in cardiac adverse events"</strong> with pemvidutide versus placebo — an important data point, since glucagon receptor agonism can theoretically increase heart rate in isolation <sup>[2]</sup></li>
+  <li>Blood pressure improved with pemvidutide treatment in both trials — consistent with the overall cardiometabolic benefit profile</li>
+</ul>
+<p><strong>Glycemic effects:</strong></p>
+<ul>
+  <li>Despite glucagon receptor activation (which raises blood glucose in isolation), the balanced GLP-1 component appears to fully offset glycemic excursion risk</li>
+  <li>No clinically significant hyperglycemia was reported in either non-diabetic trial population</li>
+  <li>This is the "pharmacological balance" that the 1:1 dual agonism design was built to achieve <sup>[5][12]</sup></li>
+</ul>
+<p>As with all investigational compounds, the full long-term safety profile of pemvidutide — including cardiovascular event data in higher-risk populations, thyroid effects, pancreatitis risk, and gallbladder disease — has not been established through Phase 3 trials or post-marketing surveillance. Researchers and clinicians should reference the full investigator brochure and clinical trial protocols for complete adverse event documentation. <sup>[4][5]</sup></p>`,
+      },
+      {
+        id: 'regulatory-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Regulatory and Research Status (August 2026):</strong> Pemvidutide is an <strong>investigational compound</strong> — it is not approved by the U.S. FDA, EMA, or any other regulatory authority for any indication, including obesity, MASH, or alcohol use disorder. It is not available as a prescription medication, compounded drug, or dietary supplement. All clinical data in this article comes from Phase 2 trials; Phase 3 confirmatory studies have not been completed or published. Any pemvidutide available from research vendors is intended strictly for <strong>laboratory and in vitro/in vivo research use only</strong>, not for human therapeutic application. This article is a scientific review for informational and research purposes.`,
+      },
+      {
+        id: 'sourcing-section',
+        type: 'vendor-cards',
+        heading: 'Research Sourcing: Where Investigators Source Pemvidutide and Related GLP-1 Peptides',
+        vendors: [
+          {
+            name: 'Peptide Technologies',
+            url: 'https://peptidetech.is',
+            product: 'GLP-1 / Metabolic Research Peptides',
+            productUrl: 'https://peptidetech.is/c/peptides',
+            purity: '≥99% HPLC-verified, COA per batch',
+            highlight:
+              'Stocks a broad portfolio of incretin-class and metabolic research peptides including GLP-1 agonists. Cold-chain shipping standard; each batch includes independent COA with mass spectrometry confirmation.',
+            badge: 'COA Verified',
+            rating: 4.9,
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research-Grade Peptide Capsule Formulations',
+            productUrl: 'https://modifiedaminos.shop',
+            purity: 'Batch-tracked, strict RUO quality standards',
+            highlight:
+              'Specializes in encapsulated research formulations with complete batch traceability. Each product is clearly labeled Research Use Only (RUO) with full documentation. USA-manufactured with stringent quality protocols for laboratory investigators.',
+            badge: 'USA Made',
+            rating: 4.8,
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Peptides — Third-Party Tested',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            purity: '≥98–99% HPLC-MS verified, lyophilized',
+            highlight:
+              'Manufactures lyophilized peptides in the United States with integrated third-party analytical testing covering identity, purity, and concentration. Single-molecule products meet ≥98% purity (many ≥99%) by HPLC-MS. Research-only positioning with compliant documentation.',
+            badge: 'Third-Party Tested',
+            rating: 4.8,
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'Research Peptides and Compounds — GLP-1S',
+            productUrl: 'https://www.vandl-labs.com/product/glp-1s/',
+            purity: '≥99% minimum purity, third-party COA',
+            highlight:
+              'Delivers premium research-grade peptides and GLP-1 family compounds with pharmaceutical-grade synthesis equipment and rigorous third-party certificate of analysis verification. Carries GLP-1S and related metabolic peptides. Complete transparency on purity, identity, and stability.',
+            badge: 'Premium Grade',
+            rating: 4.7,
+          },
+        ],
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions About Pemvidutide',
+        faqs: [
+          {
+            question: 'What is pemvidutide and how is it different from semaglutide?',
+            answer:
+              'Pemvidutide is an investigational peptide that activates both the GLP-1 receptor (the semaglutide target) AND the glucagon receptor at a balanced 1:1 ratio. Semaglutide activates only the GLP-1 receptor. This dual mechanism adds direct hepatic fat oxidation, increased thermogenesis, and lipolysis from the glucagon pathway — which translates into improved body composition outcomes (less lean mass loss per unit of fat lost) compared to GLP-1 monotherapy in Phase 2 data.',
+          },
+          {
+            question: 'What does "class-leading lean mass preservation" mean for pemvidutide?',
+            answer:
+              'In the MOMENTUM Phase 2 MRI body composition sub-study (n=50), only 21.9% of the total weight lost with pemvidutide was lean tissue — meaning 78.1% came from fat. Semaglutide, by contrast, shows approximately 39–45% lean mass as a proportion of total weight loss in the STEP-1 trial analysis. This means pemvidutide appears to preferentially burn fat while sparing muscle to a significantly greater degree than GLP-1 monotherapy. The clinical significance of this difference — particularly for sarcopenia risk, functional outcomes, and long-term metabolic health — is an active area of research.',
+          },
+          {
+            question: 'What are the MOMENTUM and IMPACT trials?',
+            answer:
+              'MOMENTUM was a Phase 2 trial (n=391) of pemvidutide in obesity without type 2 diabetes, run for 48 weeks across three doses (1.2 mg, 1.8 mg, 2.4 mg) vs. placebo. IMPACT is Altimmune\'s Phase 2b trial of pemvidutide specifically in patients with metabolic dysfunction-associated steatohepatitis (MASH). 48-week IMPACT data were presented at EASL 2026 in Barcelona and showed up to 32.4% of MASH patients achieving significant composite liver fibrosis endpoints vs. 3.2% on placebo.',
+          },
+          {
+            question: 'What did the RECLAIM trial find about pemvidutide and alcohol use disorder?',
+            answer:
+              'The RECLAIM Phase 2 trial (NCT06987513, ~100 participants) randomized patients with moderate-to-severe alcohol use disorder to pemvidutide 2.4 mg or placebo for 24 weeks. Positive topline results were announced in July 2026: pemvidutide met its primary endpoint with a statistically significant reduction in heavy drinking days versus placebo, with consistent results across secondary endpoints including WHO Risk Drinking Levels and objective PEth biomarkers. The FDA has granted Fast Track designation for this indication.',
+          },
+          {
+            question: 'Does pemvidutide cause hyperglycemia due to the glucagon component?',
+            answer:
+              'In Phase 2 clinical trials, no clinically significant hyperglycemia was reported despite the glucagon receptor agonism. This is by design — the 1:1 balance between GLP-1 receptor agonism (which stimulates glucose-dependent insulin secretion and suppresses counter-regulatory glucagon) and glucagon receptor agonism creates pharmacological equilibration of glycemic effects. The hepatic and thermogenic benefits of glucagon activation appear to persist while blood glucose remains controlled. This balance is a central design feature of pemvidutide\'s development.',
+          },
+          {
+            question: 'Is pemvidutide FDA approved?',
+            answer:
+              'No. As of August 2026, pemvidutide is an investigational compound in Phase 2 clinical development. It has not completed Phase 3 trials or been submitted to the FDA for approval for any indication. The FDA has granted Breakthrough Therapy designation (MASH) and Fast Track designations (MASH and AUD) — which facilitate faster development and regulatory review but are not approvals. Pemvidutide is not available as a prescription medication.',
+          },
+          {
+            question: 'How does pemvidutide compare to tirzepatide (Mounjaro/Zepbound)?',
+            answer:
+              'Tirzepatide targets GLP-1 + GIP receptors and achieves up to ~20.9% weight loss in the 15 mg Phase 3 SURMOUNT-1 trial — superior to pemvidutide\'s ~15.6% at 2.4 mg. However, tirzepatide\'s direct effects on liver fat and lean mass preservation are less well-characterized than pemvidutide\'s. Pemvidutide\'s glucagon mechanism offers more direct hepatic fat oxidation than GIP agonism, and its lean mass data (21.9%) appears superior to what is currently published for tirzepatide. The two compounds serve different mechanistic niches: tirzepatide for maximum weight loss; pemvidutide potentially for superior body composition and liver disease outcomes.',
+          },
+          {
+            question: 'Where can researchers source pemvidutide for laboratory studies?',
+            answer:
+              'As an investigational compound, pemvidutide and related GLP-1/glucagon research peptides are available from specialized research chemical vendors including Peptide Technologies (peptidetech.is), Modified Aminos (modifiedaminos.shop), Amino USA (aminousa.com), and VANDL Labs (vandl-labs.com). All reputable vendors sell these compounds strictly for laboratory research use only, not for human application, and provide third-party certificates of analysis (COA) with HPLC purity verification at ≥98–99%. Researchers should verify regulatory compliance for their specific jurisdiction before procurement.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Verdict: Where Pemvidutide Fits in the GLP-1 Landscape',
+        content: `<p>The GLP-1 revolution has already reshaped metabolic medicine. Semaglutide and tirzepatide are genuine therapeutic breakthroughs, reaching millions of patients with obesity and type 2 diabetes. But first-generation GLP-1 drugs have a notable Achilles heel: lean mass loss. Approximately 1 in 3 to 2 in 5 pounds lost on semaglutide is muscle, not fat — a ratio that concerns physicians treating older patients, athletes, or anyone for whom maintaining lean mass is essential to long-term health and metabolic function. <sup>[7][11]</sup></p>
+<p>Pemvidutide addresses this limitation through mechanism, not magic. By adding balanced glucagon receptor activation, it stimulates the liver and adipose tissue to preferentially oxidize fat, reducing the relative catabolism of lean tissue. The clinical signal — 21.9% lean mass as a fraction of total weight loss — is the clearest demonstration yet that incretin-class therapy can be engineered for body composition quality, not just weight loss quantity. <sup>[1][6]</sup></p>
+<p>The liver disease story is equally compelling. Pemvidutide's direct hepatic fat oxidation via the glucagon receptor gives it a mechanistic edge in MASH that pure GLP-1 drugs cannot replicate — and the IMPACT Phase 2b results confirm that edge is clinically meaningful, with 32.4% of patients achieving composite liver fibrosis endpoints vs. just 3.2% on placebo. <sup>[2]</sup></p>
+<p>And in perhaps the most surprising development of 2026, the RECLAIM trial's positive results in alcohol use disorder suggest that pemvidutide's biological footprint extends into addiction neuroscience — an entirely new therapeutic frontier for the GLP-1/glucagon dual agonism mechanism. <sup>[3]</sup></p>
+<p>Pemvidutide is not yet approved and Phase 3 data will be essential to confirm these Phase 2 signals. But for researchers studying metabolic health, liver disease, or the biology of lean mass preservation, it represents the most scientifically differentiated compound in the GLP-1 class pipeline today.</p>
+<p><strong>Related research guides on PeptideWiki:</strong></p>
+<ul>
+  <li><a href="/blog/semaglutide-vs-tirzepatide-glp1-2026">Semaglutide vs. Tirzepatide: Complete GLP-1 Comparison</a></li>
+  <li><a href="/blog/retatrutide-triple-agonist-guide-2026">Retatrutide: The Triple Agonist Reshaping Obesity Research</a></li>
+  <li><a href="/blog/vk2735-glp1-gip-dual-agonist-guide-2026">VK2735: Next-Generation Oral and Subcutaneous GLP-1/GIP Agonist</a></li>
+  <li><a href="/blog/glp1-muscle-loss-preserve-lean-mass-semaglutide-tirzepatide-2026">GLP-1 Drugs and Muscle Loss: How to Preserve Lean Mass</a></li>
+  <li><a href="/blog/glp-1-peptide-research-guide-2026">GLP-1 Peptide Research: The Complete Guide</a></li>
+</ul>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
