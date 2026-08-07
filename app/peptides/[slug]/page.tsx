@@ -1,3 +1,4 @@
+import type { Metadata } from 'next'
 import { supabase } from '@/lib/supabase'
 import { notFound } from 'next/navigation'
 import Link from 'next/link'
@@ -12,6 +13,8 @@ import type { Peptide, Price, ResearchStudy } from '@/lib/types'
 import PeptideCard from '@/components/PeptideCard'
 import MoleculeViewer from '@/components/MoleculeViewer'
 import ClinicalTrialCard from '@/components/ClinicalTrialCard'
+import JsonLd from '@/components/JsonLd'
+import { SITE_URL, absoluteUrl } from '@/lib/site'
 
 export const revalidate = 3600
 
@@ -20,13 +23,43 @@ export async function generateStaticParams() {
   return (data || []).map(p => ({ slug: p.slug }))
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }) {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
   const { slug } = await params
-  const { data } = await supabase.from('peptides').select('name, summary').eq('slug', slug).single()
-  if (!data) return { title: 'Peptide Not Found' }
+  const { data } = await supabase
+    .from('peptides')
+    .select('name, summary, aliases')
+    .eq('slug', slug)
+    .single()
+  if (!data) return { title: 'Peptide Not Found', robots: { index: false, follow: false } }
+
+  const aliases: string[] = data.aliases ?? []
+  const canonical = `/peptides/${slug}`
+  const title = `${data.name} — Mechanism, Dosage, Research & Where to Buy`
   return {
-    title: `${data.name} — Mechanism, Dosage, Research & Where to Buy`,
+    title,
     description: data.summary,
+    keywords: [
+      data.name,
+      ...aliases,
+      `${data.name} dosage`,
+      `${data.name} benefits`,
+      `${data.name} side effects`,
+      `${data.name} reconstitution`,
+      `buy ${data.name}`,
+      'research peptides',
+    ],
+    alternates: { canonical },
+    openGraph: {
+      type: 'article',
+      title,
+      description: data.summary,
+      url: canonical,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title,
+      description: data.summary,
+    },
   }
 }
 
@@ -142,8 +175,70 @@ export default async function PeptideDetailPage({
     return acc
   }, {})
 
+  // ─── Structured data (schema.org) ──────────────────────────────────────────
+  const canonicalUrl = absoluteUrl(`/peptides/${slug}`)
+  const aliases: string[] = peptide.aliases ?? []
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    '@id': `${canonicalUrl}#breadcrumb`,
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: absoluteUrl('/') },
+      { '@type': 'ListItem', position: 2, name: 'Peptides', item: absoluteUrl('/peptides') },
+      ...(peptide.category
+        ? [{
+            '@type': 'ListItem',
+            position: 3,
+            name: peptide.category.name,
+            item: absoluteUrl(`/peptides?category=${peptide.category.slug}`),
+          }]
+        : []),
+      {
+        '@type': 'ListItem',
+        position: peptide.category ? 4 : 3,
+        name: peptide.name,
+        item: canonicalUrl,
+      },
+    ],
+  }
+
+  const drugSchema: Record<string, unknown> = {
+    '@type': 'Drug',
+    name: peptide.name,
+    description: peptide.summary,
+    legalStatus: 'For research use only — not for human or veterinary consumption.',
+    ...(aliases.length ? { alternateName: aliases } : {}),
+    ...(peptide.mechanism ? { mechanismOfAction: peptide.mechanism } : {}),
+    ...(peptide.administration_routes?.length
+      ? { administrationRoute: peptide.administration_routes.join(', ') }
+      : {}),
+    ...(peptide.side_effects?.length ? { warning: peptide.side_effects.join('; ') } : {}),
+    ...(peptide.cas_number
+      ? { code: { '@type': 'MedicalCode', codingSystem: 'CAS', codeValue: peptide.cas_number } }
+      : {}),
+  }
+
+  const medicalWebPageSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'MedicalWebPage',
+    '@id': `${canonicalUrl}#webpage`,
+    url: canonicalUrl,
+    name: `${peptide.name} — Mechanism, Dosage, Research & Where to Buy`,
+    description: peptide.summary,
+    inLanguage: 'en-US',
+    isPartOf: { '@id': `${SITE_URL}/#website` },
+    breadcrumb: { '@id': `${canonicalUrl}#breadcrumb` },
+    medicalAudience: [{ '@type': 'MedicalAudience', audienceType: 'Researcher' }],
+    about: drugSchema,
+    ...(peptide.updated_at
+      ? { dateModified: peptide.updated_at, lastReviewed: peptide.updated_at }
+      : {}),
+  }
+
   return (
     <div className="min-h-screen bg-zinc-950">
+      <JsonLd id="schema-peptide" data={[breadcrumbSchema, medicalWebPageSchema]} />
       <div className="container mx-auto px-4 py-8 max-w-7xl">
         {/* Breadcrumb */}
         <div className="flex items-center gap-2 text-sm text-zinc-500 mb-6">

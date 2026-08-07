@@ -7,6 +7,13 @@ export const metadata = {
   title: 'Peptide Calculator — Reconstitution, Dosage & Protocol Guide',
   description:
     'Complete peptide calculator: reconstitution calculator, dosage calculator, injection volume calculator, per-peptide protocol guides, and full reference table.',
+  alternates: { canonical: '/calculator' },
+  openGraph: {
+    title: 'Peptide Reconstitution & Dosage Calculator',
+    description: 'Reconstitution, dosage, and injection-volume calculators with per-peptide protocol guides.',
+    url: '/calculator',
+    type: 'website',
+  },
 }
 
 async function getPeptides() {

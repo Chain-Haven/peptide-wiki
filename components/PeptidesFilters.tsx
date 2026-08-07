@@ -14,6 +14,7 @@ interface PeptidesFiltersProps {
   categories: Category[]
   initialCategory?: string
   initialStatus?: string
+  initialSearch?: string
 }
 
 const STATUS_OPTIONS = [
@@ -33,9 +34,10 @@ export default function PeptidesFilters({
   categories,
   initialCategory = '',
   initialStatus = '',
+  initialSearch = '',
 }: PeptidesFiltersProps) {
   // ─── Filter state ─────────────────────────────────────────────────────────
-  const [search, setSearch] = useState('')
+  const [search, setSearch] = useState(initialSearch)
   const [category, setCategory] = useState(initialCategory)
   const [status, setStatus] = useState(initialStatus)
   const [vendorFilter, setVendorFilter] = useState('')

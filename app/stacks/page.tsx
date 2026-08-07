@@ -6,8 +6,16 @@ import { STACKS } from '@/data/peptides'
 export const revalidate = 3600
 
 export const metadata = {
-  title: 'Peptide Stacks',
-  description: 'Popular peptide stacks and combination protocols for muscle building, healing, anti-aging, fat loss, and cognitive enhancement.',
+  title: 'Peptide Stacks — Combination Protocols by Goal',
+  description:
+    'Popular peptide stacks and combination protocols for muscle building, healing, anti-aging, fat loss, and cognitive enhancement — with rationale, dosing, and phase-by-phase guidance.',
+  alternates: { canonical: '/stacks' },
+  openGraph: {
+    title: 'Peptide Stacks — Combination Protocols by Goal',
+    description: 'Curated peptide stacks for muscle, healing, anti-aging, fat loss, and cognition.',
+    url: '/stacks',
+    type: 'website',
+  },
 }
 
 async function getStackPeptides(slugs: string[]) {

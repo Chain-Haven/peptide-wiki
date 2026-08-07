@@ -25,10 +25,25 @@ import {
   Sparkles,
   Tag,
 } from 'lucide-react'
+import type { Metadata } from 'next'
 import type { Category, Peptide, Supplier } from '@/lib/types'
 import { STACKS } from '@/data/peptides'
 
 export const revalidate = 3600
+
+export const metadata: Metadata = {
+  title: 'PeptideWiki — Comprehensive Peptide Research Database',
+  description:
+    'Explore 60+ research peptides with mechanisms of action, clinical-trial data, dosage protocols, vendor price comparisons, molecular structures, and AI-powered answers.',
+  alternates: { canonical: '/' },
+  openGraph: {
+    title: 'PeptideWiki — The Complete Peptide Research Database',
+    description:
+      'Mechanisms, clinical-trial data, dosage protocols, vendor pricing, and molecular structures for 60+ research peptides.',
+    url: '/',
+    type: 'website',
+  },
+}
 
 async function getHomeData() {
   const [categoriesRes, featuredRes, approvedRes, suppliersRes, studiesRes, peptideCountRes] =
