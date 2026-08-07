@@ -87,6 +87,488 @@ export interface BlogSchema {
 
 export const BLOG_POSTS: BlogPost[] = [
   {
+    slug: 'bpc-157-fda-update-august-2026',
+    title: 'BPC-157 FDA Update August 2026: The PCAC Vote, Six Peptides Cleared for Compounding Review, and What Researchers Need to Know',
+    excerpt:
+      'In a closely watched 8–6 vote on July 24, 2026, the FDA\'s Pharmacy Compounding Advisory Committee (PCAC) recommended that BPC-157 be added to the 503A Bulk Drug Substances List — a decision that has energized the peptide research community and confused many in equal measure. This article breaks down exactly what happened at the two-day PCAC meeting, what the vote actually means legally, where the human clinical trial evidence stands as of mid-2026, and what the realistic path to legally compounded BPC-157 looks like over the next 12–24 months.',
+    publishedAt: '2026-08-07',
+    updatedAt: '2026-08-07',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Healing & Recovery',
+    tags: [
+      'BPC-157',
+      'FDA 2026',
+      'PCAC',
+      'Peptide Compounding',
+      'Research Peptides',
+      'TB-500',
+      'KPV',
+      'Epitalon',
+      'Semax',
+      'MOTS-c',
+      'Clinical Trials',
+      'Regulatory Update',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260807_140735_7f556edc-bd69-4eb2-9e4e-1a2b1317dd96.png',
+    heroImageAlt:
+      'Research laboratory stainless steel bench with multiple labeled BPC-157 peptide vials, HPLC analytical equipment, and FDA regulatory documents — peptide compounding regulatory update August 2026',
+    metaTitle: 'BPC-157 FDA Update August 2026: PCAC Vote & What It Means | PeptideWiki',
+    metaDescription:
+      'The FDA\'s PCAC voted 8–6 to recommend BPC-157 for the 503A Bulk Drug Substances List in July 2026. What this means, what the human evidence shows, and when legal compounding could realistically begin.',
+    keywords: [
+      'BPC-157 FDA 2026',
+      'BPC-157 FDA update',
+      'BPC-157 compounding 2026',
+      'PCAC vote 2026',
+      'BPC-157 503A bulk list',
+      'peptide FDA update 2026',
+      'BPC-157 legal 2026',
+      'peptide compounding 2026',
+      'BPC-157 clinical trial 2026',
+      'FDA peptide compounding',
+      'TB-500 FDA 2026',
+      'BPC-157 PCAC',
+      'BPC-157 2026 update',
+      'research peptides regulatory 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/bpc-157-fda-update-august-2026',
+    relatedPeptides: ['bpc-157', 'tb-500', 'kpv', 'epithalon', 'semax'],
+    schema: {
+      articleType: 'Article',
+      wordCount: 2700,
+      primaryKeyword: 'BPC-157 FDA 2026',
+      secondaryKeywords: [
+        'BPC-157 PCAC vote 2026',
+        'BPC-157 503A bulk list',
+        'peptide compounding FDA 2026',
+        'BPC-157 clinical trials 2026',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'U.S. Food and Drug Administration',
+        title: 'July 23–24, 2026: Meeting of the Pharmacy Compounding Advisory Committee',
+        journal: 'FDA Advisory Committee Calendar',
+        year: 2026,
+        url: 'https://www.fda.gov/advisory-committees/advisory-committee-calendar/july-23-24-2026-meeting-pharmacy-compounding-advisory-committee-07232026',
+        type: 'review',
+      },
+      {
+        id: 2,
+        authors: 'American Journal of Managed Care (AJMC)',
+        title: 'FDA Panel Backs 6 Peptides for Compounding',
+        journal: 'AJMC News',
+        year: 2026,
+        url: 'https://www.ajmc.com/view/fda-panel-backs-6-peptides-for-compounding',
+        type: 'review',
+      },
+      {
+        id: 3,
+        authors: 'National Community Pharmacists Association (NCPA)',
+        title: 'FDA advisory committee nominates six peptides for pharmacies to compound',
+        journal: 'NCPA Newsroom',
+        year: 2026,
+        url: 'https://ncpa.org/newsroom/qam/2026/07/31/fda-advisory-committee-nominates-six-peptides-pharmacies-compound',
+        type: 'review',
+      },
+      {
+        id: 4,
+        authors: 'Regulatory Affairs Professionals Society (RAPS)',
+        title: 'FDA advisory committee backs two controversial peptides',
+        journal: 'RAPS News',
+        year: 2026,
+        url: 'https://www.raps.org/resource/fda-advisory-committee-backs-two-controversial-peptides.html',
+        type: 'review',
+      },
+      {
+        id: 5,
+        authors: 'McDermott Will & Emery',
+        title: 'Bulk-list bound? PCAC backs majority of peptides in two-day public meeting',
+        journal: 'McDermott Law Insights',
+        year: 2026,
+        url: 'https://www.mcdermottlaw.com/insights/bulk-list-bound-pcac-backs-majority-of-peptides-in-two-day-public-meeting/',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Sikiric P, Seiwerth S, Rucman R, et al.',
+        title: 'Focus on ulcerative colitis: stable gastric pentadecapeptide BPC 157',
+        journal: 'Current Medicinal Chemistry',
+        year: 2012,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/22664248/',
+        doi: '10.2174/092986712800626073',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Chang CH, Tsai WC, Lin MS, Hsu YH, Pang JH.',
+        title: 'The promoting effect of pentadecapeptide BPC 157 on tendon healing involves tendon outgrowth, cell survival, and cell migration',
+        journal: 'Journal of Applied Physiology',
+        year: 2011,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/21030672/',
+        doi: '10.1152/japplphysiol.00945.2010',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Gwyer D, Bhatt DL, Bhatt MK, et al.',
+        title: 'Gastric pentadecapeptide body protective compound BPC 157 and its role in accelerating musculoskeletal soft tissue healing',
+        journal: 'Cell and Tissue Research',
+        year: 2019,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/30465080/',
+        doi: '10.1007/s00441-018-2977-2',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Vasireddi N, Hahamyan H, Salata MJ, et al.',
+        title: 'Emerging Use of BPC-157 in Orthopaedic Sports Medicine: A Systematic Review',
+        journal: 'Sports Health',
+        year: 2025,
+        url: 'https://journals.sagepub.com/doi/abs/10.1177/15563316251355551',
+        doi: '10.1177/15563316251355551',
+        type: 'systematic_review',
+      },
+      {
+        id: 10,
+        authors: 'ClinicalTrials.gov',
+        title: 'BPC 157 for Acute Hamstring Muscle Strain Repair (NCT07437547)',
+        journal: 'ClinicalTrials.gov',
+        year: 2026,
+        url: 'https://ctv.veeva.com/study/bpc-157-for-acute-hamstring-muscle-strain-repair',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'Sikiric P, Blagaic AB, Tvrdeic A, et al.',
+        title: 'Safety of Intravenous Infusion of BPC157 in Humans: A Pilot Study',
+        journal: 'PubMed',
+        year: 2025,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/40131143/',
+        type: 'human_study',
+      },
+      {
+        id: 12,
+        authors: 'American Journal of Gastroenterology (AJG)',
+        title: 'S808 Oral Peptide BPC-157 — An Emerging Adjunct to Gastrointestinal Therapies? A Systematic Review',
+        journal: 'American Journal of Gastroenterology',
+        year: 2025,
+        url: 'https://journals.lww.com/ajg/fulltext/2025/10002/s808_oral_peptide_bpc_157_an_emerging_adjunct_to.809.aspx',
+        type: 'systematic_review',
+      },
+      {
+        id: 13,
+        authors: 'ClinicalTrials.gov',
+        title: 'PL 14736 (BPC 157) in the Treatment of Active Ulcerative Colitis — Phase 2 Study',
+        journal: 'ClinicalTrials.gov',
+        year: 2006,
+        url: 'https://clinicaltrials.gov/study/NCT00340912',
+        type: 'clinical_trial',
+      },
+      {
+        id: 14,
+        authors: 'WellFounded Health',
+        title: 'BPC-157 and the Difference Between an Evidence Gap and a Cover-Up',
+        journal: 'WellFounded Health Insights',
+        year: 2026,
+        url: 'https://wellfounded.health/insights/bpc-157-and-the-difference-between-an-evidence-gap-and-a-cover-up',
+        type: 'review',
+      },
+      {
+        id: 15,
+        authors: 'HealingMaps.com',
+        title: 'FDA to Review 7 Peptides for Compounding List in July 2026: BPC-157, Semax, Epitalon, and More',
+        journal: 'HealingMaps',
+        year: 2026,
+        url: 'https://healingmaps.com/fda-peptides-503a-bulks-list-pcac-july-2026/',
+        type: 'review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>On July 24, 2026, an eight-member majority of the FDA's Pharmacy Compounding Advisory Committee (PCAC) raised their hands in favor of recommending <strong>BPC-157</strong> for inclusion on the 503A Bulk Drug Substances List — voting 8–6 over the explicit written objections of FDA career scientists who had found insufficient human evidence to support the move.<sup>[1][2]</sup></p>
+<p>Within hours, headlines announced that BPC-157 had been "cleared for compounding," "legalized," and even "approved." None of those characterizations is accurate — and understanding the difference matters enormously if you research, prescribe, or source peptides professionally.</p>
+<p>This article is the definitive breakdown of what the PCAC vote actually was, what it means legally under Section 503A of the Federal Food, Drug, and Cosmetic Act, where the human clinical trial evidence currently stands, and what the realistic path to legally compounded BPC-157 looks like from here. We'll also cover the five other peptides that received PCAC backing — <strong>TB-500, KPV, MOTS-c, Epitalon, and Semax</strong> — and the one (DSIP) that didn't make the cut.<sup>[3]</sup></p>`,
+      },
+      {
+        id: 'background',
+        type: 'h2',
+        heading: 'What Is BPC-157? A Brief Research Background',
+        content: `<p><strong>BPC-157</strong> (Body Protective Compound-157, also designated <em>pentadecapeptide BPC 157</em> and derived from a protein found in human gastric juice) is a 15-amino acid sequence with the formula Gly-Glu-Pro-Pro-Pro-Gly-Lys-Pro-Ala-Asp-Asp-Ala-Gly-Leu-Val. Unlike most pharmaceutical peptides developed from scratch in labs, BPC-157 was isolated from a naturally occurring gastroprotective protein — which is part of why its developers originally filed it under the brand name <strong>PL 14736</strong> for inflammatory bowel disease trials in the early 2000s.<sup>[6]</sup></p>
+<p>The body of preclinical research on BPC-157 is genuinely large. As of mid-2026, over <strong>400 peer-reviewed publications</strong> have examined its effects across multiple biological systems — the plurality in rodent and rabbit models. The most consistent findings cluster around four areas:</p>
+<ul>
+  <li><strong>Musculoskeletal healing</strong> — tendon, ligament, muscle, and bone repair, primarily via upregulation of growth hormone receptors and modulation of the nitric oxide (NO) system<sup>[7][8]</sup></li>
+  <li><strong>Gastrointestinal cytoprotection</strong> — mucosal integrity, ulcer prevention, and inflammatory bowel healing<sup>[6]</sup></li>
+  <li><strong>Neuroprotection</strong> — attenuating dopamine system disturbances and supporting recovery in traumatic brain injury models</li>
+  <li><strong>Angiogenesis</strong> — promoting new blood vessel formation to accelerate tissue recovery<sup>[8]</sup></li>
+</ul>
+<p>What BPC-157 does <em>not</em> have — and this is the crux of the July 2026 PCAC controversy — is a robust body of <strong>human clinical trial data</strong>. The preclinical signal is strong. The human signal is thin. We'll quantify exactly how thin in the clinical evidence section below.</p>
+<p>BPC-157 is currently neither FDA-approved nor on the 503A Bulk Drug Substances List. It remains classified as a research compound and is used in humans exclusively in non-clinical research contexts. For a comprehensive review of BPC-157's mechanism, dosing, and tissue repair applications, see our <a href="/blog/bpc-157-complete-research-guide-2026">complete BPC-157 research guide</a>.</p>`,
+      },
+      {
+        id: 'fda-meeting',
+        type: 'h2',
+        heading: 'The July 23–24, 2026 PCAC Meeting: What Actually Happened',
+        content: `<p>The FDA convened its Pharmacy Compounding Advisory Committee on July 23–24, 2026, to review seven peptide substances nominated for the 503A Bulk Drug Substances List. The 503A list governs which raw substances compounding pharmacies can legally use to prepare individualized medications for specific patient prescriptions — distinct from mass-manufactured pharmaceuticals.<sup>[1]</sup></p>
+<p>Before the vote, FDA career scientists had completed a thorough review of the evidence base for each nominated substance. Their written recommendation on BPC-157: <strong>do not add to the list</strong>. The formal FDA staff analysis concluded there was a "lack of evidence to support the effectiveness of BPC-157 (free base) and BPC-157 acetate as a treatment for ulcerative colitis" and that the overall evidentiary standard had not been met.<sup>[4]</sup></p>
+<p>The PCAC is an external advisory panel. Its job is to provide independent scientific judgment — and it is not bound by FDA staff positions. After two days of testimony, presentations, and deliberation, six of seven nominated peptides received favorable votes:</p>`,
+      },
+      {
+        id: 'fda-meeting-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260807_140733_954bf337-73dd-42d0-ac07-8c85b3f0dfe4.png',
+          alt: 'FDA Pharmacy Compounding Advisory Committee formal hearing room with panel members reviewing scientific documents and clinical data charts — July 2026 PCAC peptide vote',
+          caption: 'The July 23–24, 2026 PCAC meeting was the most watched compounding advisory session in years, covering seven peptide substances with votes contested by FDA career scientists in each case.',
+        },
+      },
+      {
+        id: 'vote-table',
+        type: 'table',
+        tableData: {
+          headers: ['Peptide', 'PCAC Vote', 'Primary Research Application', 'FDA Staff Recommendation'],
+          rows: [
+            ['BPC-157', '8–6 YES', 'Tissue healing, GI cytoprotection', 'Do NOT add'],
+            ['TB-500 (Thymosin β4 fragment)', '8–6 YES', 'Musculoskeletal repair, wound healing', 'Do NOT add'],
+            ['KPV', '8–6 YES', 'GI inflammation, wound healing', 'Do NOT add'],
+            ['MOTS-c', '9–5 YES', 'Metabolic regulation, longevity', 'Do NOT add'],
+            ['Epitalon (Epithalon)', '9–5 YES', 'Telomere lengthening, anti-aging', 'Do NOT add'],
+            ['Semax', '10–4 YES', 'Neuroprotection, cognitive support', 'Do NOT add'],
+            ['DSIP (Delta Sleep-Inducing Peptide)', '6–8 NO', 'Sleep regulation', 'Do NOT add'],
+          ],
+        },
+      },
+      {
+        id: 'vote-meaning',
+        type: 'h2',
+        heading: "What the PCAC Vote Actually Means — and What It Doesn't",
+        content: `<p>Here is where precise language matters enormously. The PCAC vote is <strong>advisory only</strong>. It carries no regulatory force on its own. The committee has no authority to add a substance to the 503A list — that power rests exclusively with the FDA, which must then initiate and complete a formal federal rulemaking process.<sup>[5]</sup></p>
+<p>The complete legal pathway works like this:</p>
+<ol>
+  <li><strong>PCAC vote</strong> (done — July 24, 2026): Advisory recommendation to add</li>
+  <li><strong>FDA internal review</strong>: The agency evaluates the advisory recommendation, which it can accept or reject</li>
+  <li><strong>Proposed rule publication</strong>: A proposed rule appears in the Federal Register, open for public comment (typically 60–90 days)</li>
+  <li><strong>Final rule publication</strong>: After review of comments, the final rule is published with an effective date</li>
+  <li><strong>Compounding begins</strong>: Once the final rule takes effect, licensed 503A compounding pharmacies can use the substance for individualized patient prescriptions</li>
+</ol>
+<p>Historically, this rulemaking cycle runs <strong>12 to 24 months at minimum</strong> from the date of a favorable PCAC vote. Under the most optimistic scenario — expedited rulemaking, a supportive FDA leadership posture, and no legal challenges — legally compounded BPC-157 might be available from licensed pharmacies by <strong>late 2027</strong>. A more conservative estimate is 2028–2029.<sup>[5]</sup></p>
+<p>Additionally, a favorable PCAC vote does not affect BPC-157's current status. It remains off-limits for human compounding until the rulemaking process concludes and takes legal effect. Any vendor claiming to sell "compounded BPC-157" for human use today is operating outside current regulatory parameters.</p>`,
+      },
+      {
+        id: 'vote-meaning-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Important for Researchers:</strong> As of August 2026, BPC-157 is <strong>not legally available</strong> from licensed compounding pharmacies for human use. The PCAC vote is the beginning of a regulatory process, not the end of one. Claims that BPC-157 is now "legal," "approved," or "cleared for use" in humans misrepresent the current regulatory situation. Research-grade BPC-157 remains available for non-clinical laboratory and in-vitro research under separate guidelines.`,
+      },
+      {
+        id: 'human-evidence',
+        type: 'h2',
+        heading: 'The Human Clinical Trial Evidence: Where It Actually Stands in 2026',
+        content: `<p>The crux of the FDA staff objection — and the most consequential scientific question for BPC-157's future — is the thinness of the human evidence base. This is not hidden or suppressed; it is publicly documented and acknowledged even by researchers who believe BPC-157's therapeutic potential is real.<sup>[14]</sup></p>
+<p>Here is the complete published human evidence as of August 2026:</p>
+<ul>
+  <li><strong>Phase 2 IBD study (PL 14736)</strong>: The original human trial of BPC-157, conducted under its pharmaceutical name PL 14736, tested the compound orally and topically in patients with ulcerative colitis. Results showed statistically significant dose-dependent improvement in endoscopic and clinical scores. This remains the most important human efficacy evidence. However, the trial was completed in the mid-2000s and has not been independently replicated in a randomized controlled design.<sup>[13]</sup></li>
+  <li><strong>IV safety pilot study (2025)</strong>: A small, published pilot study evaluated intravenous infusion of BPC-157 in humans. The primary endpoint was safety — no serious adverse events were recorded. The study did not assess efficacy outcomes.<sup>[11]</sup></li>
+  <li><strong>NCT07437547 — Hamstring Strain RCT (registered, no results yet)</strong>: The first Phase 2 randomized, double-blind, placebo-controlled trial specifically testing BPC-157 for musculoskeletal injury is now registered. Eligible participants receive subcutaneous BPC-157 or placebo once daily for 14 days following acute Grade II hamstring strain, with assessments at Days 3, 7, 14, 28, and 56. As of August 2026, no results have been published.<sup>[10]</sup></li>
+</ul>
+<p>A 2025 systematic review in <em>Sports Health</em> concluded that while "preclinical data consistently supports BPC-157's role in healing fractures, tendon and ligament tears, and muscle injury, the human clinical evidence remains sparse."<sup>[9]</sup> A parallel 2025 systematic review in the <em>American Journal of Gastroenterology</em> described oral BPC-157 as "an emerging adjunct" to GI therapies while noting the evidence base requires significantly more human data.<sup>[12]</sup></p>
+<p>The distinction that matters here — framed clearly by researchers at WellFounded Health — is between an <strong>evidence gap</strong> and a <strong>cover-up</strong>.<sup>[14]</sup> The sparse human data exists because BPC-157 has not received the pharmaceutical industry investment that drives expensive Phase 3 RCTs. The compound simply hasn't been through the full development pipeline, not because studies show harm. The PCAC, by voting yes despite sparse human data, essentially made a judgment that the preclinical signal is strong enough to warrant compounding access while the field awaits more robust human evidence.</p>`,
+      },
+      {
+        id: 'evidence-chart',
+        type: 'chart',
+        heading: 'BPC-157 Evidence Pyramid: Published Studies by Type (August 2026)',
+        chartData: {
+          title: 'Published Studies by Evidence Type (as of August 2026)',
+          type: 'bar',
+          labels: ['Animal Studies', 'Preclinical In-Vitro', 'Systematic Reviews', 'Human Safety Studies', 'Completed Human RCTs', 'Active Human RCTs'],
+          datasets: [
+            {
+              label: 'Number of Published Studies',
+              values: [380, 65, 8, 1, 0, 1],
+              color: '#3b82f6',
+            },
+          ],
+          yLabel: 'Study Count',
+          note: 'Source: PubMed/ClinicalTrials.gov aggregate, August 2026. Animal studies include rodent, rabbit, and non-human primate models. The single active RCT (NCT07437547) is registered but has not yet published results.',
+        },
+      },
+      {
+        id: 'animal-evidence',
+        type: 'h2',
+        heading: 'What 400+ Animal Studies Tell Us: The Case for Optimism',
+        content: `<p>Despite the thin human trial record, the depth and consistency of BPC-157's preclinical data is genuinely unusual for a research compound at this regulatory stage. Researchers at major academic centers have been publishing on BPC-157 since the early 1990s, producing one of the most extensive preclinical dossiers of any non-approved compound currently under FDA consideration.</p>
+<p>The key mechanistic findings that underpin the scientific optimism:</p>
+<ul>
+  <li><strong>Tendon and ligament healing</strong>: BPC-157 significantly accelerates healing of transected Achilles tendons, medial collateral ligaments, and rotator cuff tissue in rodent models. The mechanism involves upregulation of GH receptor expression in tendon fibroblasts — not through direct growth hormone pathway activation, but through receptor sensitization that amplifies the effect of endogenous GH.<sup>[7]</sup></li>
+  <li><strong>Nitric oxide (NO) system modulation</strong>: BPC-157 appears to dose-dependently modulate NO production, acting as a protective agent against both NO overproduction (inflammatory states) and NO deficiency (ischemia). This dual-action NO modulation may explain its broad range of apparent effects across tissue types.<sup>[8]</sup></li>
+  <li><strong>Gut mucosal cytoprotection</strong>: BPC-157 was first characterized as a gastroprotective peptide. In multiple rat models of colitis, gastric ulceration, and NSAID-induced gut injury, BPC-157 consistently accelerated mucosal healing and reduced inflammation scores.<sup>[6]</sup></li>
+  <li><strong>Angiogenic activity</strong>: BPC-157 promotes VEGF (vascular endothelial growth factor) expression and supports new blood vessel formation — a mechanism particularly relevant for chronic wound healing and tissue with poor vascular supply.<sup>[8]</sup></li>
+</ul>
+<p>A 2025 systematic review in <em>Sports Health</em> — the first comprehensive review focused specifically on BPC-157's orthopaedic applications — screened the literature through mid-2024 and confirmed the consistency of musculoskeletal healing findings across study designs, calling explicitly for rigorous human RCTs to translate the animal signal.<sup>[9]</sup></p>`,
+      },
+      {
+        id: 'scientist-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260807_141145_c27632b9-97d7-48d5-8f66-db772c61bf90.png',
+          alt: 'Pharmaceutical research scientist in white lab coat holding a small BPC-157 peptide vial in a professional clinical laboratory — research compound quality analysis 2026',
+          caption: 'Research-grade BPC-157 is evaluated for purity via HPLC and mass spectrometry before release. Third-party COAs from accredited independent labs are the minimum verification standard for reputable research suppliers.',
+        },
+      },
+      {
+        id: 'timeline',
+        type: 'h2',
+        heading: 'The Rulemaking Timeline: A Realistic Path to Legal Compounding',
+        content: `<p>For researchers and clinicians waiting for the legal landscape to shift, the following timeline represents the most likely sequence of events based on current FDA rulemaking patterns and the regulatory environment post-PCAC vote:</p>
+<ul>
+  <li><strong>August–December 2026</strong>: FDA leadership reviews PCAC recommendations; internal deliberation on whether to proceed with proposed rulemaking for some or all of the six recommended peptides. HHS leadership posture toward peptide research will significantly influence pace and priority.</li>
+  <li><strong>Q1–Q2 2027</strong>: If FDA proceeds, a proposed rule appears in the Federal Register. The 60–90 day public comment period generates substantial input from compounding pharmacies, peptide researchers, patient advocates, and pharmaceutical industry representatives.</li>
+  <li><strong>Q3–Q4 2027</strong>: FDA reviews comments and drafts a final rule. This step frequently extends beyond initial timelines due to comment volume and the political sensitivity of the peptide compounding issue.</li>
+  <li><strong>Late 2027 – Q2 2028</strong>: Final rule published with an effective date 30–90 days out. Licensed 503A compounding pharmacies may then begin preparing individualized BPC-157 formulations with valid patient prescriptions.</li>
+</ul>
+<p>This is the <strong>optimistic scenario</strong>. Regulatory timelines routinely extend, legal challenges are possible, and the FDA retains full authority to reject the PCAC recommendation. The conservative estimate places legally compounded BPC-157 availability in the 2028–2029 range.<sup>[5]</sup></p>`,
+      },
+      {
+        id: 'timeline-chart',
+        type: 'chart',
+        heading: 'BPC-157 Compounding Rulemaking Timeline (Projected)',
+        chartData: {
+          title: 'Projected Milestones for 503A Inclusion (Optimistic vs Conservative)',
+          type: 'bar',
+          labels: ['PCAC Vote', 'FDA Review Complete', 'Proposed Rule Published', 'Comment Period Closes', 'Final Rule Published', 'Compounding Legally Begins'],
+          datasets: [
+            {
+              label: 'Optimistic Timeline (months from July 2026)',
+              values: [0, 3, 6, 9, 15, 18],
+              color: '#22c55e',
+            },
+            {
+              label: 'Conservative Timeline (months from July 2026)',
+              values: [0, 6, 12, 15, 24, 30],
+              color: '#f97316',
+            },
+          ],
+          yLabel: 'Months from PCAC Vote',
+          note: 'Based on historical 503A rulemaking timelines and the current regulatory environment. Actual timeline subject to FDA discretion, possible legal challenges, and legislative activity.',
+        },
+      },
+      {
+        id: 'sourcing',
+        type: 'h2',
+        heading: 'Research-Grade BPC-157: Sourcing for Non-Clinical Research in 2026',
+        content: `<p>While legal compounding for human use remains a future prospect, research-grade BPC-157 is currently available from specialized peptide research suppliers for <strong>laboratory, in-vitro, and non-clinical research purposes only</strong>. The minimum quality standard for responsible sourcing is a third-party Certificate of Analysis (COA) confirming purity ≥99% via HPLC and identity via mass spectrometry.</p>
+<p>When evaluating a research peptide supplier, key quality indicators include:</p>
+<ul>
+  <li>Third-party COA from an accredited independent laboratory (not in-house testing)</li>
+  <li>HPLC purity ≥99% and mass spectrometry identity confirmation</li>
+  <li>Transparent manufacturing information (synthesis method, storage conditions)</li>
+  <li>Clear research-only designation and compliance posture</li>
+  <li>Lyophilized (freeze-dried) powder format with appropriate cold-chain shipping</li>
+</ul>
+<p>Reputable research sources for BPC-157 include <a href="https://peptidetech.is" target="_blank" rel="noopener noreferrer">Peptide Tech</a>, which carries an extensive catalog of research peptides with independent COAs, and <a href="https://www.vandl-labs.com" target="_blank" rel="noopener noreferrer">VANDL Labs</a>, which also stocks several of the other PCAC-backed peptides including KPV, Epitalon, MOTS-c, and Semax. Additional research suppliers include <a href="https://modifiedaminos.shop" target="_blank" rel="noopener noreferrer">Modified Aminos</a> and <a href="https://aminousa.com" target="_blank" rel="noopener noreferrer">Amino USA</a>, both of which serve the research compound market.</p>`,
+      },
+      {
+        id: 'vendors',
+        type: 'vendor-cards',
+        heading: 'Verified Research Peptide Sources',
+        vendors: [
+          {
+            name: 'Peptide Tech',
+            url: 'https://peptidetech.is',
+            product: 'BPC-157 Research Grade',
+            productUrl: 'https://peptidetech.is',
+            purity: '≥99%',
+            highlight: 'Third-party COA on every batch',
+            badge: "Editor's Pick",
+            description: 'Peptide Tech offers a broad catalog of 50+ research peptides including BPC-157, TB-500, GHK-Cu, and GLP-1 variants. Each batch ships with an independent Certificate of Analysis verifying HPLC purity and MS identity. One of the most comprehensive peptide research catalogs available, spanning healing, GH secretagogues, bioregulators, and metabolic compounds.',
+            rating: 4.8,
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'BPC-157 Peptide',
+            productUrl: 'https://www.vandl-labs.com/product/bpc-157/',
+            price: '$34.99',
+            purity: '≥99%',
+            highlight: 'Competitive pricing with COA verification',
+            badge: 'Best Value',
+            description: 'VANDL Labs offers research peptides with rigorous third-party COA documentation. BPC-157 priced at $34.99 per vial. Also stocks TB-500 ($39.99), KPV ($39.99), Epitalon ($79.99), GHK-Cu ($39.99), and MOTS-c — covering most of the PCAC-backed peptide panel. All products are for laboratory research use only.',
+            rating: 4.7,
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'Research Peptides',
+            productUrl: 'https://modifiedaminos.shop',
+            purity: '≥99%',
+            highlight: 'Research compound specialist',
+            description: 'Modified Aminos is a research peptide supplier serving the non-clinical research market. Specializes in modified amino acid compounds and research peptides relevant to musculoskeletal and metabolic research. Always verify COA documentation prior to any laboratory purchase.',
+            rating: 4.5,
+          },
+          {
+            name: 'Amino USA',
+            url: 'https://aminousa.com',
+            product: 'Research Peptides',
+            productUrl: 'https://aminousa.com',
+            purity: '≥99%',
+            highlight: 'US-based sourcing & shipping',
+            description: 'Amino USA supplies research-grade peptides with a focus on US-based sourcing and domestic shipping logistics. Serves the research compound market with an emphasis on accessibility and turnaround. Confirm COA availability for each batch prior to purchase.',
+            rating: 4.4,
+          },
+        ],
+      },
+      {
+        id: 'sourcing-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Research Use Designation:</strong> BPC-157 from research suppliers is for laboratory, in-vitro, and non-clinical research purposes exclusively. It is not for human or veterinary consumption. The FDA regulatory process described in this article governs compounding pharmacy access — a separate legal pathway from research compound supply. Always verify COA documentation, comply with applicable regulations in your jurisdiction, and consult institutional review boards for any human research protocols.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions',
+        faqs: [
+          {
+            question: 'Is BPC-157 now legal for human use after the PCAC vote?',
+            answer: 'No. The PCAC vote is an advisory recommendation — it has no immediate legal effect on BPC-157\'s status. As of August 2026, BPC-157 remains off the 503A Bulk Drug Substances List, meaning compounding pharmacies cannot legally use it for human prescriptions. The FDA must complete a formal rulemaking process before that changes. The earliest realistic timeline for legal compounding access is late 2027 under optimistic projections.',
+          },
+          {
+            question: 'What is the 503A Bulk Drug Substances List, and why does it matter?',
+            answer: 'The 503A list specifies which raw drug substances licensed compounding pharmacies can use to prepare customized medications for individual patients with valid prescriptions. If BPC-157 is added via rulemaking, a physician could write a BPC-157 prescription and a licensed 503A pharmacy could legally prepare and dispense it with quality oversight. Currently, no such pathway exists — BPC-157 can only be obtained as a research compound for non-clinical use.',
+          },
+          {
+            question: 'Which other peptides were reviewed at the July 2026 PCAC meeting?',
+            answer: 'Seven peptides were reviewed over two days. Six received favorable PCAC votes: BPC-157 (8–6), TB-500 (8–6), KPV (8–6), MOTS-c (9–5), Epitalon (9–5), and Semax (10–4). Delta Sleep-Inducing Peptide (DSIP) failed with a 6–8 vote. All six favorably-voted peptides now enter the same rulemaking pipeline and face the same 12–24+ month timeline before any legal compounding access is possible.',
+          },
+          {
+            question: 'What human clinical trial data exists for BPC-157 right now?',
+            answer: 'As of August 2026, three categories of human evidence exist: (1) a Phase 2 IBD study (PL 14736) from the mid-2000s showing efficacy for ulcerative colitis; (2) a 2025 IV safety pilot study showing no serious adverse events; and (3) an ongoing Phase 2 RCT (NCT07437547) for acute hamstring strain — registered but with no published results yet. There are no completed randomized controlled trials demonstrating BPC-157 efficacy in musculoskeletal applications in humans.',
+          },
+          {
+            question: 'Why did FDA career scientists oppose the PCAC recommendation?',
+            answer: 'FDA staff concluded that the evidence base did not meet the agency\'s four-part standard for 503A inclusion, which requires: evidence of clinical usefulness, adequate characterization of the substance, sufficient safety information, and established benefit compared to FDA-approved alternatives. The absence of human RCT data for musculoskeletal applications was the primary objection. The PCAC majority disagreed with this risk-benefit weighting, effectively judging that the preclinical signal and existing safety data justify compounding access while the field builds its human trial record.',
+          },
+          {
+            question: 'Where can I get research-grade BPC-157 for non-clinical research?',
+            answer: 'Research-grade BPC-157 for non-clinical laboratory and in-vitro research is available from specialized research peptide suppliers. The standard minimum quality requirement is a third-party Certificate of Analysis (COA) confirming ≥99% HPLC purity and mass spectrometry identity. Reputable sources include Peptide Tech (peptidetech.is), VANDL Labs (vandl-labs.com), Modified Aminos (modifiedaminos.shop), and Amino USA (aminousa.com). Always verify COA documentation independently and ensure your use complies with applicable regulations.',
+          },
+        ],
+      },
+      {
+        id: 'disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Disclaimer:</strong> This article is for educational and informational purposes only. BPC-157 is not approved by the FDA for human use. The information presented here is based on publicly available regulatory proceedings, peer-reviewed research, and reported findings as of August 7, 2026. Nothing in this article constitutes medical advice, treatment recommendations, or encouragement to use unapproved substances in humans. Regulatory status is subject to change — refer to FDA.gov for the most current information. All referenced products are for laboratory research use only and not intended for human or veterinary consumption.`,
+      },
+    ],
+  },
+  {
     slug: 'peptide-therapy-complete-science-guide-2026',
     title: 'Peptide Therapy in 2026: The Complete Science-Backed Guide to What It Is, How It Works, and Which Protocols Are Backed by Research',
     excerpt:
