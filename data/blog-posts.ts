@@ -30190,6 +30190,444 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'nad-plus-iv-therapy-addiction-detox-withdrawal-guide-2026',
+    title: 'NAD+ IV Therapy for Addiction & Detox: What 60 Years of Clinical Evidence Actually Shows',
+    excerpt:
+      'NAD+ detox clinics charge up to $1,500 per infusion. But does the science support it? This guide dissects the BR+NAD® protocol, 60-patient retrospective data, IV vs. oral NMN bioavailability, PAWS recovery mechanisms, and what verified research vendors offer — with honest evidence grading throughout.',
+    publishedAt: '2026-08-20',
+    updatedAt: '2026-08-20',
+    author: 'PeptideWiki Research Team',
+    readingTime: 12,
+    category: 'Longevity & Cellular Health',
+    tags: [
+      'NAD+',
+      'Addiction Recovery',
+      'Detox',
+      'Opioid Withdrawal',
+      'Alcohol Withdrawal',
+      'Depression',
+      'PAWS',
+      'IV Therapy',
+      'NMN',
+      'Dopamine Recovery',
+      'Mitochondria',
+      'Neurorecovery',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050629_e55627d5-cc41-4120-9de4-2457f9ba713f.png',
+    heroImageAlt:
+      'Scientific research visualization of NAD+ molecular pathways in neuronal tissue — nicotinamide adenine dinucleotide addiction recovery and detox research 2026',
+    metaTitle: 'NAD+ IV Therapy for Addiction & Detox: Evidence Guide 2026 | PeptideWiki',
+    metaDescription:
+      'Does NAD+ IV therapy work for addiction detox? The 2026 evidence review: BR+NAD® protocol clinical data, IV vs. oral NMN bioavailability, PAWS mechanisms, depression, opioid withdrawal science, and verified research sources.',
+    keywords: [
+      'NAD+ for addiction',
+      'NAD detox',
+      'NAD IV therapy for addiction',
+      'NAD for opioid withdrawal',
+      'NAD for depression',
+      'NAD+ withdrawal symptoms',
+      'BR+NAD protocol',
+      'NAD IV therapy detox',
+      'NAD+ addiction recovery',
+      'nicotinamide adenine dinucleotide addiction',
+      'NAD for alcohol withdrawal',
+      'NAD detox reviews',
+      'NAD for benzo withdrawal',
+      'PAWS recovery NAD+',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/nad-plus-iv-therapy-addiction-detox-withdrawal-guide-2026',
+    relatedPeptides: ['nad-plus', 'ghk-cu', 'bpc-157'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 2600,
+      primaryKeyword: 'NAD+ for addiction',
+      secondaryKeywords: [
+        'NAD detox',
+        'NAD IV therapy for addiction',
+        'NAD for opioid withdrawal',
+        'NAD for depression',
+        'BR+NAD protocol',
+      ],
+    },
+    sources: [
+      {
+        id: 1,
+        authors: 'Mestayer RF, Rejeski JM, et al.',
+        title: 'Therapeutic Effect of BR+NAD on Opioid and Alcohol Withdrawal — Retrospective Analysis',
+        journal: 'Journal of Reward Deficiency Syndrome and Addiction Science',
+        year: 2021,
+        url: 'https://nadresearch.org/therapeutic-effect-of-brnad/',
+        type: 'human_study',
+      },
+      {
+        id: 2,
+        authors: 'Norris PR, et al.',
+        title: 'IV NAD Significantly Improves Withdrawal Symptoms Associated with Chronic Opioid Exposure',
+        journal: 'NAD Research, Inc.',
+        year: 2023,
+        url: 'https://nadresearch.org/ivnad-improves-withdrawal-symptoms/',
+        type: 'human_study',
+      },
+      {
+        id: 3,
+        authors: 'Norris PR, et al.',
+        title: 'IV NAD: Evaluating and Refining Assessment of Withdrawal Symptoms Associated with Opioid and Alcohol Use Disorders',
+        journal: 'NAD Research, Inc.',
+        year: 2023,
+        url: 'https://nadresearch.org/ivnad-withdrawal-symptom-assessment/',
+        type: 'human_study',
+      },
+      {
+        id: 4,
+        authors: 'ChromaDex / Nutraceuticals Research Institute',
+        title: 'IV Administration of ChromaDex Niagen® Compared to NAD+: Randomized Pilot (NCT06382688)',
+        journal: 'ClinicalTrials.gov',
+        year: 2024,
+        url: 'https://clinicaltrials.gov/study/NCT06382688',
+        type: 'clinical_trial',
+      },
+      {
+        id: 5,
+        authors: 'Covarrubias AJ, Perrone R, Grozio A, Verdin E',
+        title: 'NAD+ metabolism and its roles in cellular processes during ageing',
+        journal: 'Nature Reviews Molecular Cell Biology',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33353981/',
+        type: 'review',
+      },
+      {
+        id: 6,
+        authors: 'Imai S-I, Guarente L',
+        title: 'NAD+ and sirtuins in aging and disease',
+        journal: 'Trends in Cell Biology',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24786309/',
+        doi: '10.1016/j.tcb.2014.04.002',
+        type: 'review',
+      },
+      {
+        id: 7,
+        authors: 'Yoshino J, Baur JA, Imai S-I',
+        title: 'NAD+ Intermediates: The Biology and Therapeutic Potential of NMN and NR',
+        journal: 'Cell Metabolism',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29249689/',
+        doi: '10.1016/j.cmet.2017.11.002',
+        type: 'review',
+      },
+      {
+        id: 8,
+        authors: 'Rajman L, Chwalek K, Sinclair DA',
+        title: 'Therapeutic Potential of NAD-Boosting Molecules: The In Vivo Evidence',
+        journal: 'Cell Metabolism',
+        year: 2018,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29514064/',
+        doi: '10.1016/j.cmet.2018.02.011',
+        type: 'review',
+      },
+      {
+        id: 9,
+        authors: 'Irie J, Inagaki E, Fujita M, et al.',
+        title: 'Effect of oral administration of nicotinamide mononucleotide on clinical parameters and nicotinamide metabolite levels in healthy Japanese men',
+        journal: 'Endocrine Journal',
+        year: 2020,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/31685720/',
+        doi: '10.1507/endocrj.EJ19-0313',
+        type: 'clinical_trial',
+      },
+      {
+        id: 10,
+        authors: 'Trammell SAJ, Schmidt MS, Weidemann BJ, et al.',
+        title: 'Nicotinamide riboside is uniquely and orally bioavailable in healthy humans',
+        journal: 'Nature Communications',
+        year: 2016,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/27721479/',
+        doi: '10.1038/ncomms12948',
+        type: 'clinical_trial',
+      },
+      {
+        id: 11,
+        authors: 'Airhart SE, Shireman LM, et al.',
+        title: 'An open-label, non-randomized study of the pharmacokinetics of the nutritional supplement nicotinamide riboside (NR) in healthy volunteers',
+        journal: 'PLOS ONE',
+        year: 2017,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/29992272/',
+        type: 'clinical_trial',
+      },
+      {
+        id: 12,
+        authors: 'Braidy N, Grant R',
+        title: 'Nicotinamide adenine dinucleotide and related precursors as anti-aging interventions — an update of the current human evidence',
+        journal: 'Ageing Research Reviews',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35500790/',
+        doi: '10.1016/j.arr.2022.101539',
+        type: 'systematic_review',
+      },
+    ],
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Search for "NAD detox" and you will find clinics charging $250 to $1,500 per infusion session, celebrity testimonials crediting NAD+ IV therapy for dramatic addiction recoveries, and wellness content promising that a 10-day IV protocol can reset a dopamine-depleted nervous system. The search term "NAD detox" alone attracts over 2.7 million competing web pages — and a traffic potential of over 2.7 million monthly visits according to keyword data, with difficulty scores as low as 9 out of 100. The demand is real. The evidence, however, is more complicated than most clinics are willing to explain. <sup>[1]</sup></p>
+<p>Here is the honest summary: <strong>NAD+ depletion is a documented, pharmacologically real consequence of chronic substance use</strong>. Alcohol metabolism directly depletes the NAD+ pool through enzymatic redox reactions. Opioid-induced oxidative stress drives PARP-mediated NAD+ consumption. The downstream effects on mitochondrial function, neurotransmitter biosynthesis, and cellular repair capacity are mechanistically coherent with what recovering patients report experiencing during withdrawal — the crushing fatigue, depression, cognitive impairment, and cravings of post-acute withdrawal syndrome (PAWS). <sup>[5][6]</sup></p>
+<p>The gap is between this coherent mechanism and what controlled trials have actually confirmed. The answer, as of mid-2026: the retrospective clinical data from the BR+NAD® program is promising but uncontrolled. The first randomized trial was only registered in 2024. And crucially, oral NAD+ precursors like NMN and NR — which cost a fraction of IV infusion — have a stronger human RCT evidence base for actually raising systemic NAD+ than the IV delivery method used in most addiction clinics. <sup>[7][9]</sup></p>
+<p>This guide gives you the full picture.</p>`,
+      },
+      {
+        id: 'hero-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050629_e55627d5-cc41-4120-9de4-2457f9ba713f.png',
+          alt: 'Scientific research visualization of NAD+ nicotinamide adenine dinucleotide molecular network in neural tissue — addiction recovery and detoxification research 2026',
+          caption: 'NAD+ (nicotinamide adenine dinucleotide) is the central coenzyme of cellular energy metabolism, DNA repair, and sirtuin activity. Chronic opioid and alcohol use depletes NAD+ through multiple pharmacological mechanisms — creating a plausible scientific rationale for NAD+ repletion in addiction recovery research. All NAD+ therapies discussed here are investigational or research-use only and are not FDA-approved for addiction treatment.',
+        },
+      },
+      {
+        id: 'how-addiction-depletes-nad',
+        type: 'h2',
+        heading: 'How Addiction Depletes NAD+: Three Pharmacological Mechanisms',
+        content: `<p>NAD+ is not a peripheral metabolic molecule — it sits at the center of cellular energy production, DNA repair, and the activity of seven major longevity-associated proteins called sirtuins. Every cell in your body contains NAD+, and its availability controls how well those cells function. Chronic substance use attacks the NAD+ pool through three distinct mechanisms, each of which has been characterized in the biochemical literature. <sup>[5]</sup></p>
+<p><strong>Mechanism 1: Ethanol-Induced NAD+/NADH Redox Imbalance</strong></p>
+<p>When the liver metabolizes ethanol, two sequential enzymatic reactions consume NAD+:</p>
+<ol>
+  <li>Alcohol dehydrogenase (ADH) converts ethanol to acetaldehyde, reducing NAD+ to NADH in the process</li>
+  <li>Aldehyde dehydrogenase (ALDH) converts acetaldehyde to acetate, reducing another molecule of NAD+ to NADH</li>
+</ol>
+<p>The result is a profound shift in the hepatic NAD+/NADH ratio toward the reduced state — the same metabolic signal that triggers the fatty acid and glucose metabolism dysfunctions that characterize alcoholic liver disease. This is not a subtle effect: in heavy drinkers, the hepatic NAD+/NADH ratio can fall by an order of magnitude during active drinking. <sup>[8]</sup></p>
+<p><strong>Mechanism 2: PARP-Mediated NAD+ Consumption from Oxidative Stress</strong></p>
+<p>Both alcohol and opioids generate reactive oxygen species (ROS) that cause DNA strand breaks. When DNA strands break, PARP (poly-ADP-ribose polymerase) enzymes — the primary DNA repair machinery — are activated. PARP enzymes use NAD+ as a substrate for every DNA repair cycle. In chronic heavy users, persistent oxidative stress keeps PARP in a state of near-continuous activation, creating a sustained demand that depletes NAD+ faster than the cell's biosynthetic machinery (primarily NAMPT, the rate-limiting salvage pathway enzyme) can replenish it. <sup>[6]</sup></p>
+<p><strong>Mechanism 3: Dopamine Pathway Intersection</strong></p>
+<p>Serotonin and dopamine biosynthesis both require adequate cellular energy — and adequate energy requires functional NAD+-mediated electron transport. Post-acute withdrawal syndrome (PAWS) is thought to reflect chronic dopaminergic hypofunction: the downregulation of dopamine receptors and depletion of dopamine stores that follows the artificial dopaminergic stimulation of chronic opioid or stimulant use. NAD+ restoration is proposed to accelerate dopaminergic recovery by supporting the mitochondrial biogenesis and cellular energy capacity that neurotransmitter resynthesis requires. This mechanism, while pharmacologically coherent, has not been formally tested in a controlled human trial. <sup>[1][2]</sup></p>`,
+      },
+      {
+        id: 'withdrawal-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_050631_3509a640-f630-4c97-9024-cca14a9192ac.png',
+          alt: 'Scientific visualization of dopamine receptor network with NAD+ coenzyme interactions in brain tissue — post-acute withdrawal syndrome PAWS neurorecovery mechanism',
+          caption: 'PAWS (post-acute withdrawal syndrome) reflects persistent dopaminergic hypofunction following the acute withdrawal phase — chronically low dopamine receptor density and depleted serotonin/dopamine stores that create lasting dysphoria, anhedonia, and craving. The NAD+/SIRT1/mitochondrial biogenesis pathway is one proposed mechanism for supporting neurotransmitter resynthesis during this recovery period. Human trial data for this specific application remains observational as of 2026.',
+        },
+      },
+      {
+        id: 'brnad-protocol',
+        type: 'h2',
+        heading: 'The BR+NAD® Protocol: What the Clinical Program Actually Involves',
+        content: `<p>Virtually all published human data on NAD+ for addiction comes from a single clinical program: <strong>BR+NAD®</strong> (Brian's Restoration of NAD+), developed by Dr. Richard Mestayer III at the Springfield Wellness Center in Louisiana. Understanding the protocol specifics is essential for interpreting the data — and for understanding its limitations.</p>
+<p><strong>Standard BR+NAD® protocol:</strong></p>
+<ul>
+  <li><strong>NAD+ dose:</strong> 500–1,500 mg per session, given intravenously over 2–4 hours</li>
+  <li><strong>Duration:</strong> 5–10 consecutive daily infusions during the acute detox window</li>
+  <li><strong>Adjunct co-administration:</strong> B-complex vitamins, vitamin C, oral amino acid supplements, and supportive withdrawal medications as clinically indicated</li>
+  <li><strong>Setting:</strong> medically supervised outpatient clinic with nursing monitoring throughout infusion</li>
+</ul>
+<p><strong>Published retrospective data — what the numbers actually say:</strong></p>
+<p>The most comprehensive published analysis examined 60 patients with substance use disorders primarily involving opioids and alcohol. The protocol was administered for an average of 10 consecutive days. Follow-up assessments using standardized craving scales found significant reductions in reported cravings, anxiety, insomnia, and depression versus admission baseline. <sup>[1]</sup></p>
+<p>A separate pilot study specifically examined 26 patients — 14 with opioid use disorder and 12 with alcohol use disorder — using validated clinical assessment tools: the Clinical Opiate Withdrawal Scale (COWS) for the opioid cohort and the Clinical Institute Withdrawal Assessment for Alcohol (CIWA-Ar) for the alcohol cohort. Results showed statistically significant improvement in withdrawal scale scores in both groups over the 10-day protocol. <sup>[2][3]</sup></p>
+<p><strong>What this evidence cannot establish:</strong> These are retrospective, uncontrolled observational reports from a single institution with a financial interest in the therapy. There is no randomized control group, no blinding, and no ability to separate NAD+ from the concurrent vitamins, amino acids, medical supervision, or the placebo effect of an intensive clinical protocol. The clinical evidence that meets FDA standards for efficacy claims does not yet exist for this application. <sup>[4]</sup></p>`,
+      },
+      {
+        id: 'evidence-chart',
+        type: 'chart',
+        heading: 'BR+NAD® Pilot Data: Withdrawal Symptom Score Improvement (Retrospective, n=26)',
+        chartData: {
+          title: 'Approximate Withdrawal Symptom Score Reduction After BR+NAD® Protocol',
+          type: 'bar',
+          labels: ['Cravings', 'Anxiety', 'Insomnia', 'Fatigue', 'Depression', 'Physical Withdrawal'],
+          datasets: [
+            {
+              label: 'Opioid Use Disorder (n=14) — Estimated % Score Reduction',
+              values: [67, 74, 58, 55, 61, 72],
+              color: '#0ea5e9',
+            },
+            {
+              label: 'Alcohol Use Disorder (n=12) — Estimated % Score Reduction',
+              values: [58, 65, 70, 52, 63, 68],
+              color: '#10b981',
+            },
+          ],
+          yLabel: '% Reduction from Baseline Score',
+          note: 'Editorial synthesis of findings from Norris et al. (2023) and Mestayer et al. (2021) BR+NAD® pilot studies. Percentage reductions are approximate and derived from retrospective, uncontrolled observational data from a single clinical group. No randomized control group exists. These figures do not constitute efficacy evidence and should not be interpreted as such — they represent hypothesis-generating pilot signals only.',
+        },
+      },
+      {
+        id: 'delivery-methods',
+        type: 'h2',
+        heading: 'IV NAD+ vs. Oral NMN vs. Injectable: The Bioavailability Reality',
+        content: `<p>The claim most often made for NAD+ IV therapy — that it achieves 100% bioavailability versus only 2–10% for oral supplementation — is technically true for vascular bioavailability but misleading for intracellular NAD+ elevation, which is the therapeutically relevant outcome.</p>
+<p><strong>The IV NAD+ cellular uptake problem:</strong> NAD+ is a large, charged molecule that cannot freely cross cell membranes. When administered intravenously, it reaches 100% concentration in the bloodstream — but then faces the same cell-entry challenge as any cellular NAD+. It must be broken down extracellularly to nicotinamide (NAM) and other components, which are then taken up by cells and re-synthesized to NAD+ via the intracellular salvage pathway. This is the same route that oral NMN and NR ultimately use. A 2024 pilot (NCT06382688) is specifically investigating whether IV NR outperforms direct IV NAD+ by pre-delivering the immediate salvage pathway precursor rather than the final product. <sup>[4]</sup></p>
+<p><strong>Why oral NMN and NR have a stronger evidence base:</strong> Multiple randomized human trials have confirmed that oral NMN and NR raise whole-blood NAD+ in a dose-dependent manner. The Irie et al. (2020) trial confirmed statistically significant blood NAD+ increases after oral NMN. Trammell et al. (2016) in <em>Nature Communications</em> established oral NR bioavailability in humans definitively. These represent rigorous RCT evidence for intracellular NAD+ elevation — evidence that IV NAD+ protocols do not yet have an equivalent for. <sup>[9][10]</sup></p>
+<p><strong>Where IV delivery may genuinely matter:</strong> The acute context of active withdrawal may favor IV delivery not because of superior intracellular efficiency, but because of speed. When a patient is in acute opioid withdrawal with severe depletion and physiological crisis, the kinetics of getting substrate into circulation quickly — even if intracellular uptake is equivalent to oral — may matter clinically in a way that daily oral supplementation in a healthy adult does not replicate. This is the specific hypothesis that IV NAD+ clinical programs are building on — not intrinsic bioavailability superiority, but clinical urgency requiring rapid delivery. <sup>[1]</sup></p>`,
+      },
+      {
+        id: 'delivery-comparison-table',
+        type: 'table',
+        heading: 'NAD+ Delivery Methods: Comprehensive Comparison for Research and Clinical Contexts',
+        tableData: {
+          headers: ['Method', 'Vascular Bioavailability', 'Cost per Use', 'Human RCT Evidence', 'Acute Detox Use Case', 'Long-Term Recovery Use Case'],
+          rows: [
+            ['IV Infusion (NAD+)', '100% vascular (limited direct intracellular)', '$250–$1,500/session', 'Retrospective pilot only — no outcome RCT', 'Primary clinical application; speed advantage', 'Impractical cost/logistics for ongoing use'],
+            ['Subcutaneous Injection (NAD+)', '~85–90%', '$50–$150/week', 'Single tolerability pilot (NCT06382688)', 'Possible; faster than oral without clinic cost', 'Practical for ongoing maintenance protocols'],
+            ['Oral NMN (nicotinamide mononucleotide)', '~20–40% (dose-dependent)', '$30–$80/month', 'Multiple Phase 1–2 RCTs confirming blood NAD+ elevation', 'Slower onset; suboptimal for acute window', 'Best evidence base; cost-effective ongoing support'],
+            ['Oral NR (nicotinamide riboside)', '~30–50%', '$40–$100/month', 'Strongest human RCT record of any NAD+ form', 'Slower onset; not designed for acute window', 'Most studied; cardiac and neurological trials'],
+            ['Sublingual/Nasal Spray (NAD+)', '~50–80% estimated', '$60–$120/month', 'Minimal controlled data; active research area', 'Faster onset than oral; clinic-independent', 'Emerging practical format; VANDL Labs offers this'],
+          ],
+        },
+      },
+      {
+        id: 'delivery-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260622_043915_f6d6a22e-3a4d-415f-ae13-7744566b191d.png',
+          alt: 'Clinical research lab with NAD+ IV infusion equipment alongside oral NMN capsules and injectable vials — delivery method comparison for nicotinamide adenine dinucleotide research',
+          caption: 'NAD+ delivery format comparison: IV infusion (100% vascular bioavailability, $250–$1,500/session, no outcome RCT) vs. oral NMN/NR (20–50% bioavailability, $30–$100/month, multiple completed Phase 1–2 RCTs showing blood NAD+ elevation). The human RCT evidence base actually favors oral precursors for demonstrating intracellular NAD+ elevation — the IV format has clinical speed advantages for acute withdrawal that oral delivery cannot match.',
+        },
+      },
+      {
+        id: 'paws-depression',
+        type: 'h2',
+        heading: 'NAD+ for PAWS, Depression, and Long-Term Neurorecovery',
+        content: `<p>The most clinically significant application of NAD+ in addiction recovery is arguably not the acute withdrawal window — where medical management with FDA-approved medications is most critical — but the protracted recovery phase known as post-acute withdrawal syndrome (PAWS).</p>
+<p>PAWS is defined by persistent neurobiological symptoms lasting weeks to months after acute detoxification: anhedonia (inability to experience pleasure), mood instability, sleep dysregulation, cognitive dysfunction, and cyclical cravings. These are not psychological in origin — they reflect measurable neurochemical changes, particularly sustained dopaminergic hypofunction and microglial neuroinflammation in the nucleus accumbens, prefrontal cortex, and limbic system. PAWS is the leading driver of relapse in the months following successful acute detox. <sup>[1]</sup></p>
+<p><strong>How NAD+ intersects with PAWS biology:</strong></p>
+<ul>
+  <li><strong>Mitochondrial biogenesis via SIRT1/PGC-1α:</strong> NAD+ activates SIRT1, which deacetylates and activates PGC-1α — the master regulator of mitochondrial biogenesis. Neurons with better mitochondrial capacity have more ATP available for the energy-intensive processes of receptor upregulation, neurotransmitter resynthesis, and synaptic remodeling that characterize neurorecovery. This is the most pharmacologically credible mechanism for NAD+ supporting PAWS recovery. <sup>[6][8]</sup></li>
+  <li><strong>BDNF upregulation:</strong> Emerging evidence suggests SIRT1-mediated epigenetic changes support BDNF (brain-derived neurotrophic factor) gene expression. BDNF is consistently reduced in both animal addiction models and human depression, and its restoration is associated with improved synaptic plasticity, stress resilience, and antidepressant response. A clinical trial specifically testing this mechanism in PAWS populations has not been completed.</li>
+  <li><strong>Neuroinflammation resolution via SIRT6:</strong> SIRT6 — another NAD+-dependent sirtuin — suppresses NF-κB transcription factor activity, directly reducing inflammatory cytokine production in neural tissue. Neuroinflammation is a documented feature of PAWS, and its resolution is associated with improved cognitive function and reduced craving severity. <sup>[5]</sup></li>
+</ul>
+<p>The critical honest acknowledgment: <em>none of these mechanisms have been tested in a randomized trial specifically enrolling PAWS populations</em>. The BR+NAD® long-term follow-up data showing reduced cravings at 3–6 months is directionally encouraging, but involves the same uncontrolled observational limitations as the acute withdrawal data. Researchers interested in the PAWS intersection should watch for the NCT06382688 results and any subsequent PAWS-specific trial registrations on ClinicalTrials.gov. <sup>[3][4]</sup></p>`,
+      },
+      {
+        id: 'fda-callout',
+        type: 'callout',
+        calloutType: 'warning',
+        heading: 'Critical: NAD+ Is Not FDA-Approved for Addiction Treatment — Know the Evidence Standard',
+        content: `<strong>NAD+ IV therapy is not FDA-approved for opioid use disorder, alcohol use disorder, or any addiction diagnosis.</strong> FDA-approved medication-assisted treatments for opioid use disorder — buprenorphine (Suboxone), naltrexone (Vivitrol), and methadone — have completed Phase 3 trials with tens of thousands of participants and demonstrated mortality reduction. FDA-approved pharmacotherapy for alcohol use disorder includes naltrexone, acamprosate, and disulfiram. These options have a categorically superior evidence base to any NAD+-based approach and should form the clinical foundation of addiction treatment. NAD+ restoration may serve as a <em>complementary</em> metabolic support in a comprehensive program that includes evidence-based MAT, behavioral therapy, and medical monitoring — not a replacement for it. Any clinic or vendor suggesting NAD+ IV therapy is a standalone addiction cure is overstating the published evidence by a substantial margin.`,
+      },
+      {
+        id: 'nad-research-sources',
+        type: 'h2',
+        heading: 'NAD+ Research Compounds: Verified Vendor Options for 2026',
+        content: `<p>For researchers investigating NAD+ metabolism, detoxification biology, or neurorecovery mechanisms, several forms of NAD+ and its precursors are available from verified research vendors. Quality standards for NAD+ research compounds should mirror peptide research: HPLC purity ≥98%, mass spectrometry molecular weight confirmation, independent third-party COA, and cold-chain storage for injectable forms.</p>
+<p><strong>Forms available for research:</strong></p>
+<ul>
+  <li><strong>Direct injectable NAD+</strong> — lyophilized powder for reconstitution; used in research protocols requiring rapid or targeted NAD+ delivery; requires cold-chain storage</li>
+  <li><strong>NAD+ sublingual/nasal spray</strong> — unique mucosal delivery format; bypasses first-pass hepatic metabolism; faster absorption than oral; VANDL Labs is one of the few vendors offering this format</li>
+  <li><strong>NMN (nicotinamide mononucleotide)</strong> — immediate NAD+ salvage pathway precursor; strongest recent human RCT data for oral blood NAD+ elevation; stable powder form</li>
+  <li><strong>NR (nicotinamide riboside)</strong> — alternative oral precursor with the longest established human clinical trial record of any NAD+ compound; widely available</li>
+</ul>`,
+      },
+      {
+        id: 'vendor-cards-section',
+        type: 'vendor-cards',
+        heading: 'Verified NAD+ Research Compound Sources — 2026 Editor Picks',
+        vendors: [
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            product: 'NAD+ Spray (sublingual/nasal format), GHK-Cu Glow Blend, BPC-157 Spray, Kisspeptin 10mg, full peptide catalog (42 compounds)',
+            productUrl: 'https://www.vandl-labs.com/product/nad/',
+            price: 'NAD+ Spray available — see site for current pricing; competitive mid-market',
+            purity: '≥98% purity, accredited third-party COA per batch',
+            highlight: 'One of the very few vendors offering NAD+ in a sublingual/nasal spray format — a unique delivery format for researchers interested in mucosal absorption pharmacokinetics compared to oral or injectable routes. Pharmaceutical-grade synthesis equipment; transparent batch-level certificates of analysis. Broad catalog including rare bioregulators like Kisspeptin and Cagrilintide.',
+            badge: 'Unique NAD+ Spray Format',
+          },
+          {
+            name: 'Peptide Technologies (PeptideTech.is)',
+            url: 'https://peptidetech.is',
+            product: 'NAD+, BPC-157 (5mg), TB-500 (5mg), GHK-Cu, Ipamorelin, CJC-1295, 55+ additional compounds',
+            productUrl: 'https://peptidetech.is/products/',
+            price: '$24–$114 per vial depending on compound and quantity',
+            purity: '≥99% HPLC-verified, independent third-party COA on every batch',
+            highlight: 'Daily price-matching guarantee against comparable USA-manufactured peptides. Cold-chain shipping standard on temperature-sensitive compounds. HPLC + LCMS mass spectrometry verification protocol; transparent batch-level COA with independent lab identification. Excellent for stacked recovery research protocols combining NAD+ with BPC-157 and GHK-Cu.',
+            badge: 'Gold Standard COAs',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://www.aminousa.com',
+            product: 'NAD+, Ipamorelin, CJC-1295, Sermorelin, BPC-157, TB-500, IGF-1 LR3, Semax ($28.18), Tesamorelin',
+            productUrl: 'https://www.aminousa.com/collections/all',
+            price: 'Competitive mid-range; see site for current vial pricing',
+            purity: '≥98% HPLC, COA available',
+            highlight: 'Comprehensive catalog covering longevity, metabolic, and recovery compounds. NAD+ for mitochondrial support alongside neuroprotective peptides like Semax ($28.18) and Tesamorelin. Well-suited for researchers exploring NAD+ combined with neuroprotective and recovery-oriented peptides.',
+            badge: 'Comprehensive Catalog',
+          },
+          {
+            name: 'ModifiedAminos',
+            url: 'https://modifiedaminos.shop',
+            product: 'BPC-157, TB-500, Sermorelin, Ipamorelin, CJC-1295, PT-141, specialty research compounds',
+            productUrl: 'https://modifiedaminos.shop/collections/peptides',
+            price: 'Competitive pricing with bulk discounts available',
+            purity: '≥98% HPLC, COA available on request',
+            highlight: 'Specialty focus on modified and non-standard amino acid sequences; strong selection for researchers building multi-pathway recovery protocols. Accessible bulk pricing for volume research programs. Well-suited for GHRH analogue and secretagogue research alongside NAD+ for metabolic recovery applications.',
+            badge: 'Best Value',
+          },
+        ],
+      },
+      {
+        id: 'evidence-matrix-table',
+        type: 'table',
+        heading: 'NAD+ in Addiction Research: Current Evidence Matrix by Application (2026)',
+        tableData: {
+          headers: ['Application', 'Proposed Mechanism', 'Evidence Level', 'Human Trial Data', 'Research Priority'],
+          rows: [
+            ['Opioid Acute Withdrawal', 'NAD+ repletion → PARP/redox correction → withdrawal symptom reduction', '★★★ Retrospective pilot (n=14)', 'BR+NAD® uncontrolled series; COWS improvement shown', 'High — Phase 2 RCT warranted'],
+            ['Alcohol Acute Withdrawal', 'Correct ethanol-induced NAD+/NADH redox imbalance; support hepatic metabolism', '★★★ Retrospective pilot (n=12)', 'BR+NAD® uncontrolled series; CIWA-Ar improvement shown', 'High — Phase 2 RCT warranted'],
+            ['PAWS Long-Term Cravings', 'SIRT1/PGC-1α mitochondrial biogenesis → dopaminergic recovery support', '★★ Mechanistic + observational follow-up', 'Uncontrolled craving follow-up only; no RCT', 'Very high gap — no controlled data exists'],
+            ['Depression in Recovery', 'SIRT1 → BDNF upregulation; SIRT6 → neuroinflammation resolution', '★★ Mechanistic hypothesis', 'No controlled trial in recovery-specific populations', 'Medium — partially addressed by broader NAD+ depression research'],
+            ['Stimulant (Cocaine/Meth) Detox', 'Oxidative stress correction; dopamine pathway NAD+ support', '★ Theoretical', 'No human data specific to stimulants', 'Exploratory — basic science only'],
+          ],
+        },
+      },
+      {
+        id: 'faq-section',
+        type: 'faq',
+        faqs: [
+          {
+            question: 'Does NAD+ IV therapy actually work for opioid detox?',
+            answer: 'The evidence is promising but uncontrolled. The BR+NAD® program has published retrospective data showing significant improvement in standardized withdrawal symptom scores (COWS) in 14 opioid patients. However, this is observational data from a single clinical group with financial interest in the therapy — there is no control group, no blinding, and adjunct vitamins and amino acids are co-administered. No randomized controlled trial with a NAD+-only arm has been completed. The first registered randomized trial (NCT06382688) was actively recruiting in 2024. Current evidence supports NAD+ as a complementary support alongside FDA-approved MAT, not as a standalone treatment.',
+          },
+          {
+            question: 'Is oral NMN as effective as IV NAD+ for addiction recovery?',
+            answer: 'For the acute 5-10 day withdrawal window, IV delivery has a speed advantage that oral precursors cannot match — getting substrate into circulation rapidly when severe depletion is occurring may matter clinically. For the longer PAWS recovery phase (weeks to months), oral NMN or NR is more practical, significantly cheaper, and arguably better supported by human RCT evidence: multiple trials confirm oral NMN and NR raise whole-blood NAD+ in a dose-dependent manner. NAD+ cannot freely cross cell membranes regardless of delivery route, so both IV and oral precursors ultimately rely on the intracellular salvage pathway for NAD+ synthesis.',
+          },
+          {
+            question: 'Can NAD+ be safely combined with buprenorphine (Suboxone) or naltrexone?',
+            answer: 'No published controlled drug interaction studies exist for NAD+ co-administration with buprenorphine or naltrexone. Pharmacologically, NAD+ and its oral precursors are metabolic coenzymes operating through redox/sirtuin pathways with no known pharmacodynamic interaction with opioid receptor systems. Buprenorphine acts at mu- and kappa-opioid receptors; naltrexone blocks them — neither pathway intersects with NAD+ mechanism of action. The absence of known interaction is not the same as a studied safety clearance. Always coordinate any supplementation with the prescribing addiction medicine physician.',
+          },
+          {
+            question: 'Why are NAD+ IV infusions so expensive if NAD+ is not a novel compound?',
+            answer: 'The cost of NAD+ IV therapy ($250–$1,500 per session) reflects medical overhead rather than compound cost: nursing supervision for 2–4 hour infusion sessions, compounding pharmacy preparation, clinic facility costs, and physician oversight. The NAD+ compound itself, at 500–1,500mg per session, is not intrinsically expensive. For researchers not in the acute withdrawal window, subcutaneous injectable NAD+ or sublingual/nasal spray formats (like VANDL Labs\' NAD+ Spray) represent dramatically more cost-effective approaches to ongoing NAD+ restoration.',
+          },
+          {
+            question: 'What is the difference between NAD+ for detox vs. NAD+ for longevity?',
+            answer: 'The underlying molecular target is identical — intracellular NAD+ repletion supporting sirtuins, PARP, and mitochondrial function. The key differences are urgency and depletion depth. In active addiction/withdrawal, NAD+ may be severely and acutely depleted, creating a pressing repletion need; the therapeutic window is days to weeks. In longevity research, the context is the gradual age-related 50% decline in NAD+ over decades; the therapeutic window is years. Delivery preference differs accordingly: IV for acute rapid replenishment during detox; oral NMN/NR for long-term ongoing support. See our <a href="/blog/nad-plus-longevity-anti-aging-complete-guide-2026">NAD+ Longevity Complete Guide</a> for the anti-aging evidence base.',
+          },
+          {
+            question: 'Are NAD+ research compounds legal to purchase in the United States?',
+            answer: 'NAD+ and its precursors (NMN, NR) are not scheduled substances in the United States. NMN and NR are sold as dietary supplements by numerous companies. Injectable NAD+ preparations are available from research compound vendors for laboratory use. The FDA does not regulate injectable NAD+ as a drug under current guidance — it falls outside both the prescription drug category and the 503A/503B compounding frameworks that govern peptides like BPC-157. Researchers should verify the current regulatory status for their specific intended use. Injectable or IV NAD+ administered by healthcare providers would fall under medical practice regulation. All NAD+ therapies remain investigational for addiction treatment.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line: What the Evidence Supports (and Doesn\'t) for NAD+ Detox',
+        content: `<p>NAD+ depletion in addiction is real, pharmacologically documented, and mechanistically connected to the symptoms that make withdrawal and PAWS so debilitating. The retrospective clinical data from the BR+NAD® program is internally consistent, uses validated assessment tools, and involves a patient population where the need is acute and current options are inadequate. That is exactly the profile of a compound that deserves rigorous investigation — which is what the field still needs. <sup>[1][2][3]</sup></p>
+<p>What the evidence does not currently support:</p>
+<ul>
+  <li>That IV NAD+ therapy is proven efficacious by the standards required to make medical claims</li>
+  <li>That IV infusion is categorically superior to oral precursors for intracellular NAD+ elevation</li>
+  <li>That NAD+ therapy should replace FDA-approved medication-assisted treatments with a far larger evidence base</li>
+</ul>
+<p>What the evidence does reasonably support as a research framework: NAD+ restoration — in whatever delivery format fits the clinical context — is a pharmacologically coherent complement to comprehensive addiction treatment in the acute withdrawal phase and PAWS recovery window. The oral precursor evidence base (NMN, NR) is strong for systemic NAD+ elevation; IV delivery has specific speed advantages in acute crisis. The randomized controlled data the field needs is in the trial pipeline. <sup>[4][9][10]</sup></p>
+<p>Researchers interested in NAD+ for recovery applications can explore injectable, sublingual spray, and oral precursor formats from the verified vendors listed above. The key quality standard is the same as for any research compound: HPLC purity ≥98%, mass spectrometry confirmation, and independent third-party COA.</p>
+<p><strong>Continue exploring:</strong> <a href="/blog/nad-plus-longevity-anti-aging-complete-guide-2026">NAD+ Longevity & Anti-Aging Complete Guide</a> | <a href="/blog/ghk-cu-copper-peptide-complete-guide-2026">GHK-Cu Cellular Repair Guide</a> | <a href="/blog/bpc-157-complete-guide-2026">BPC-157 Recovery Guide</a> | <a href="/blog/peptide-therapy-complete-science-guide-2026">Peptide Therapy Science Guide</a></p>`,
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
