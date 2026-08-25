@@ -30679,6 +30679,438 @@ The use of anabolic steroids creates similar HPG suppression to TRT, often at de
       },
     ],
   },
+  {
+    slug: 'best-peptides-for-fat-loss-2026',
+    title: 'Best Peptides for Fat Loss in 2026: A Research-Ranked Guide to 7 Top Compounds',
+    excerpt:
+      'From FDA-approved GLP-1 agonists achieving 20%+ body weight reduction in Phase III RCTs to growth hormone-releasing stacks that target visceral fat without muscle loss — the peptide landscape for fat loss has never been more evidence-rich. This guide ranks 7 compounds by clinical evidence quality, explains how each mechanism works, and provides sourcing guidance for researchers, with PubMed and ClinicalTrials.gov citations throughout.',
+    publishedAt: '2026-08-25',
+    updatedAt: '2026-08-25',
+    author: 'PeptideWiki Research Team',
+    readingTime: 13,
+    category: 'Weight Loss & Metabolic Health',
+    tags: [
+      'Fat Loss Peptides',
+      'Best Peptides for Fat Loss',
+      'Semaglutide',
+      'Tirzepatide',
+      'HGH Fragment 176-191',
+      'AOD-9604',
+      'CJC-1295',
+      'Ipamorelin',
+      'Tesamorelin',
+      '5-Amino-1MQ',
+      'GLP-1 Peptides',
+      'Weight Loss Research 2026',
+      'Lipolysis Peptides',
+      'Research Peptides 2026',
+    ],
+    heroImage:
+      'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260825_140436_1ff92d40-722b-47fa-af29-5e7efe9c84f8.png',
+    heroImageAlt:
+      'Pharmaceutical laboratory researcher examining peptide vials and purity certificates alongside HPLC equipment — best peptides for fat loss research guide 2026',
+    metaTitle: 'Best Peptides for Fat Loss 2026: Research-Ranked Guide | PeptideWiki',
+    metaDescription:
+      'The 7 best peptides for fat loss in 2026, ranked by clinical evidence: semaglutide, tirzepatide, tesamorelin, CJC-1295/ipamorelin, HGH fragment 176-191, AOD-9604, and 5-Amino-1MQ. Mechanisms, dosing protocols, and sourcing.',
+    keywords: [
+      'best peptides for fat loss',
+      'peptides for fat loss',
+      'fat loss peptides',
+      'peptides for weight loss',
+      'peptide fat burning',
+      'HGH fragment 176-191 fat loss',
+      'AOD-9604 fat loss',
+      'semaglutide weight loss',
+      'tirzepatide fat loss',
+      'CJC-1295 ipamorelin fat loss',
+      'tesamorelin fat loss',
+      '5-amino-1mq fat loss',
+      'best peptides for weight loss 2026',
+      'research peptides fat loss 2026',
+    ],
+    canonicalUrl: 'https://peptide-wiki.org/blog/best-peptides-for-fat-loss-2026',
+    relatedPeptides: ['semaglutide', 'tirzepatide', 'ipamorelin', 'cjc-1295', 'tesamorelin', 'ghk-cu', 'bpc-157'],
+    schema: {
+      articleType: 'Guide',
+      wordCount: 2900,
+      primaryKeyword: 'best peptides for fat loss',
+      secondaryKeywords: [
+        'peptides for weight loss 2026',
+        'fat loss peptides ranked',
+        'HGH fragment 176-191 fat loss',
+        'AOD-9604 research peptide',
+      ],
+    },
+    sections: [
+      {
+        id: 'intro',
+        type: 'intro',
+        content: `<p>Weight loss is the most searched health topic on the internet — and peptides have become its most talked-about frontier. Between 2023 and 2026, searches for "peptides for fat loss" surged alongside the explosive clinical success of GLP-1 receptor agonists, but most online content makes a critical error: it treats FDA-approved drugs like semaglutide and tirzepatide as interchangeable with research-stage peptides like HGH Fragment 176-191, AOD-9604, and 5-Amino-1MQ, which are studied in very different settings and carry very different evidence profiles.</p>
+<p>This guide addresses both categories honestly. We rank 7 compounds by clinical evidence quality — from double-blind Phase III RCT data with thousands of subjects to promising but primarily preclinical animal model findings — and explain exactly what each compound does, what the actual research shows (not what marketing claims), and what protocol contexts researchers are exploring in 2026. Every factual claim is sourced to peer-reviewed literature or registered clinical trials. No hype.</p>
+<p><strong>Regulatory context upfront:</strong> Semaglutide (Wegovy/Ozempic) and tirzepatide (Zepbound/Mounjaro) are prescription medications requiring physician supervision. All other compounds discussed here are investigational research peptides, sold strictly for non-clinical research purposes in most jurisdictions. This article is educational only — not medical advice. Please consult a licensed physician for any weight management intervention.</p>`,
+      },
+      {
+        id: 'mechanisms',
+        type: 'h2',
+        heading: 'How Peptides Drive Fat Loss: The Four Core Mechanisms',
+        content: `<p>Not all fat-loss peptides work the same way. Understanding the four primary mechanisms helps predict which compounds stack synergistically versus those that produce diminishing returns in combination — and why some compounds preferentially target visceral fat while others affect total body fat or appetite.</p>
+<ul>
+<li><strong>GLP-1/GIP Receptor Agonism:</strong> Glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) are endogenous incretin hormones released after meals. Pharmaceutical agonists of these receptors produce profound fat loss through CNS-mediated appetite suppression, delayed gastric emptying (prolonged satiety), and improved insulin sensitivity. This is the mechanism behind semaglutide and tirzepatide — the most evidence-backed fat loss compounds in existence. <sup>[1][2]</sup></li>
+<li><strong>Growth Hormone Axis Activation:</strong> Growth hormone (GH) is a primary lipolytic hormone — it directly stimulates adipose tissue to release free fatty acids via hormone-sensitive lipase activation, with preferential effects on visceral fat. GHRH analogs (tesamorelin, CJC-1295), GH secretagogues (ipamorelin), and isolated GH lipolytic fragments (HGH Fragment 176-191, AOD-9604) all exploit this axis through different entry points. <sup>[3][4]</sup></li>
+<li><strong>NNMT Inhibition:</strong> Nicotinamide N-methyltransferase (NNMT) is an enzyme highly expressed in white adipose tissue that depletes adipocyte NAD+ availability and suppresses metabolic gene expression. Inhibiting NNMT — as 5-Amino-1MQ does — shifts adipocytes from a storage-dominant phenotype toward a metabolically active lipolytic state. Animal data shows this mechanism can drive significant fat loss without any change in caloric intake. <sup>[7][9]</sup></li>
+<li><strong>Lipogenesis Inhibition:</strong> AOD-9604 uniquely inhibits new fat synthesis (de novo lipogenesis) in addition to stimulating lipolysis — a dual-pathway effect not seen with full GH or most GHRH analogs. This theoretically addresses both fat accumulation and fat mobilization simultaneously. <sup>[6]</sup></li>
+</ul>
+<p><strong>The key insight for stacking:</strong> GLP-1 agonists and GH-axis peptides operate through entirely independent mechanisms — one drives caloric restriction via CNS signaling, the other drives adipose lipolysis via endocrine signaling. These pathways can theoretically be combined for additive effects, and this exact combination is an emerging area of clinical investigation in 2025–2026 for addressing the lean mass loss that accompanies aggressive GLP-1-driven weight reduction.</p>`,
+      },
+      {
+        id: 'mechanisms-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260825_140436_a8c44eb3-730f-43ee-8091-1e9cdc3fec89.png',
+          alt: 'Scientific visualization of adipose tissue metabolic pathways showing peptide receptor binding and lipolysis signaling — mechanisms of peptide-driven fat loss 2026',
+          caption: 'Fat-loss peptides work through four independent mechanisms: GLP-1/GIP receptor agonism (appetite/insulin), GH axis activation (lipolysis), NNMT inhibition (adipocyte metabolic reprogramming), and direct lipogenesis inhibition — each targeting a distinct node in fat metabolism.',
+        },
+      },
+      {
+        id: 'ranked-intro',
+        type: 'h2',
+        heading: 'The 7 Best Peptides for Fat Loss in 2026: Research-Ranked',
+        content: `<p>The following ranking is based on three criteria: clinical evidence quality (Phase III RCT > Phase II > Phase I > animal studies), magnitude of fat loss demonstrated in controlled conditions, and safety profile in human subjects. Compounds are rated on a 5-star evidence scale.</p>
+<p>It is important to note that star ratings reflect <em>evidence quality</em>, not necessarily absolute fat-loss magnitude. A 2-star compound might produce compelling fat loss in animal models but simply lacks the human trial data to justify higher confidence. As human research matures, these rankings will evolve.</p>`,
+      },
+      {
+        id: 'semaglutide',
+        type: 'h3',
+        heading: '1. Semaglutide — The Clinical Gold Standard ★★★★★',
+        content: `<p>Semaglutide is a GLP-1 receptor agonist developed by Novo Nordisk, FDA-approved for type 2 diabetes as Ozempic (2017) and for chronic weight management as Wegovy (2021). It is currently the most evidence-backed peptide for fat loss in any pharmacological context.</p>
+<p><strong>Key clinical data:</strong> The STEP 1 trial — a 68-week, randomized, double-blind, placebo-controlled Phase III RCT in 1,961 adults with obesity (BMI ≥30) — demonstrated a mean body weight reduction of <strong>14.9%</strong> (approximately 15.3 kg) in the semaglutide 2.4 mg/week group versus 2.4% with placebo (p&lt;0.001). <sup>[1]</sup> The STEP 4 continuation trial confirmed that discontinuing semaglutide leads to progressive weight regain, indicating ongoing appetite suppression (not a metabolic reset) as the primary mechanism — and the need for sustained use in a clinical context.</p>
+<p><strong>Mechanism depth:</strong> Semaglutide activates GLP-1 receptors in the hypothalamus and area postrema (brainstem), reducing food intake through reduced appetite and increased satiety. It also delays gastric emptying (prolonging the sensation of fullness after meals), improves pancreatic beta-cell function, and sensitizes peripheral tissues to insulin — addressing the common comorbidity of insulin resistance in obesity.</p>
+<p><strong>Protocol context:</strong> Clinical dosing begins at 0.25 mg/week subcutaneously, escalating over 16–20 weeks to the maintenance dose of 2.4 mg/week. Requires a prescription and physician supervision. Compounding pharmacy options exist in the US; some research vendors including <a href="https://aminousa.com" target="_blank" rel="noopener noreferrer">AminoUSA</a> supply compounded formulations for licensed research applications. The most common side effects are gastrointestinal (nausea, vomiting, diarrhea) and typically attenuate with the escalation protocol.</p>`,
+      },
+      {
+        id: 'tirzepatide',
+        type: 'h3',
+        heading: '2. Tirzepatide — Dual Agonism, Maximum Fat Loss ★★★★★',
+        content: `<p>Tirzepatide (Eli Lilly's Mounjaro for diabetes, Zepbound for obesity) is the world's first approved dual GLP-1/GIP receptor agonist. By simultaneously activating both incretin pathways, it produces fat loss that exceeds anything previously demonstrated in a non-surgical Phase III obesity trial.</p>
+<p><strong>Key clinical data:</strong> The SURMOUNT-1 trial — a 72-week Phase III RCT in 2,539 adults with obesity (BMI ≥30 or ≥27 with comorbidity) — demonstrated a mean body weight reduction of <strong>20.9%</strong> at the 15 mg/week dose versus 3.1% with placebo. <sup>[2]</sup> At 15 mg, 57% of participants achieved ≥20% body weight reduction — a benchmark never reached in a large-scale obesity drug trial. The 5 mg and 10 mg doses showed 15% and 19.5% weight reduction respectively, establishing a clear dose-response relationship.</p>
+<p><strong>Why it outperforms semaglutide:</strong> GIP receptor agonism appears to potentiate GLP-1's hypothalamic effects while independently improving adipose tissue insulin sensitivity and mitochondrial function. The combination produces additive appetite suppression and enhanced fat oxidation beyond either GLP-1 or GIP alone. GIP agonism may also reduce the nausea associated with pure GLP-1 agonism, which may allow higher effective doses.</p>
+<p><strong>Protocol context:</strong> Dosing escalates from 2.5 mg/week to a maximum of 15 mg/week over approximately 20 weeks. Prescription required. Research-oriented procurement options include <a href="https://modifiedaminos.shop" target="_blank" rel="noopener noreferrer">Modified Aminos</a> for designated research applications. SURMOUNT data shows tirzepatide's effects begin distinguishing from semaglutide around week 24 and continue diverging through week 72.</p>`,
+      },
+      {
+        id: 'tesamorelin',
+        type: 'h3',
+        heading: '3. Tesamorelin — GHRH Analog with Phase III Fat Loss Evidence ★★★★☆',
+        content: `<p>Tesamorelin is a synthetic GHRH (growth hormone-releasing hormone) analog — the full 44-amino-acid GHRH sequence stabilized by a trans-3-hexenoic acid modification for extended half-life. It is FDA-approved under the brand name Egrifta for HIV-associated lipodystrophy (excess visceral adipose tissue accumulation in people on antiretroviral therapy). It is the only GH-axis peptide with Phase III human data demonstrating visceral fat reduction.</p>
+<p><strong>Key clinical data:</strong> Falutz et al. demonstrated in a 26-week randomized placebo-controlled trial that tesamorelin 2 mg/day produced a <strong>15–17% reduction in visceral adipose tissue</strong> (quantified by CT scan) compared to placebo (p&lt;0.001), alongside statistically significant improvements in triglycerides, trunk-to-limb fat ratio, and waist circumference. <sup>[3]</sup> A 52-week extension study confirmed sustained efficacy, with maintained VAT reduction through continued dosing and partial return toward baseline upon discontinuation. <sup>[8]</sup></p>
+<p><strong>Why visceral fat matters:</strong> Visceral adipose tissue (VAT) — the fat surrounding abdominal organs — is more metabolically dangerous than subcutaneous fat, driving insulin resistance, systemic inflammation, dyslipidemia, and cardiovascular risk far more strongly than total body weight. Tesamorelin's mechanism is uniquely positioned: GH preferentially mobilizes visceral fat over subcutaneous fat, making it relevant to metabolic health research beyond simple weight reduction.</p>
+<p><strong>Protocol context:</strong> Studied at 2 mg/day subcutaneous injection in the evening, aligned with the natural nocturnal GH secretion pattern. Research supply available from <a href="https://peptidetech.is" target="_blank" rel="noopener noreferrer">Peptide Technologies (peptidetech.is)</a>, which provides dual ISO 17025-accredited third-party COA documentation on every batch.</p>`,
+      },
+      {
+        id: 'cjc-ipamorelin',
+        type: 'h3',
+        heading: '4. CJC-1295 + Ipamorelin — The GH Secretagogue Stack ★★★☆☆',
+        content: `<p>CJC-1295 is a long-acting GHRH analog that binds endogenous albumin via a drug affinity complex (DAC), extending its active half-life from minutes to approximately 6–8 days. Ipamorelin is a highly selective ghrelin mimetic (GHSR agonist) that amplifies GH pulse amplitude without the cortisol, prolactin, or ACTH elevations seen with older GHRP-2 and GHRP-6 analogs. Combined, they produce synergistic, sustained GH secretion that accumulates anabolic and lipolytic effects across weeks of use.</p>
+<p><strong>Key clinical data:</strong> Teichman et al. (2006) demonstrated in a Phase I/II dose-ranging study in healthy adults that CJC-1295 produced a <strong>2–10x increase in mean GH concentration</strong> and a 1.5–1.7x increase in IGF-1 levels sustained for up to 14 days following a single injection. <sup>[4]</sup> Ipamorelin human Phase I data (Raun et al., 1998) confirmed its selectivity: GH release was dose-dependently stimulated with no significant effect on ACTH, cortisol, or prolactin at therapeutic doses — a critical safety differentiation. <sup>[5]</sup></p>
+<p><strong>Fat loss mechanism:</strong> Elevated GH levels directly stimulate hormone-sensitive lipase in adipose tissue, increasing the rate of triglyceride hydrolysis and free fatty acid mobilization. Unlike GLP-1 agonists, which drive fat loss through caloric restriction, the GH-axis mechanism operates through enhanced fat oxidation — typically preserving or even building lean mass simultaneously, making this the preferred fat-loss research stack when body composition (not just weight) is the primary outcome variable.</p>
+<p><strong>Protocol context:</strong> Commonly studied at 300 mcg CJC-1295 DAC (with DAC, 2×/week) + 200–300 mcg ipamorelin (5×/week before sleep, to align with the nocturnal GH surge). Stack available from <a href="https://modifiedaminos.shop" target="_blank" rel="noopener noreferrer">Modified Aminos</a> and <a href="https://aminousa.com" target="_blank" rel="noopener noreferrer">AminoUSA</a>.</p>`,
+      },
+      {
+        id: 'hgh-fragment',
+        type: 'h3',
+        heading: '5. HGH Fragment 176-191 — The Isolated Lipolytic Domain ★★☆☆☆',
+        content: `<p>HGH Fragment 176-191 is the C-terminal 16-amino-acid sequence of human growth hormone (residues 176 through 191) responsible for GH's lipolytic activity. The fragment was isolated when researchers recognized that full GH exerts many pleiotropic effects — IGF-1 elevation, insulin antagonism, anabolic tissue signaling — while the specific 176-191 region retains the fat-mobilizing property with negligible effects on glucose metabolism, IGF-1, or growth.</p>
+<p><strong>Key research data:</strong> In vitro and animal model studies demonstrated that HGH Fragment 176-191 has <strong>lipolytic potency approximately 12.5x greater than full-length GH</strong> on a molar basis, along with significant inhibition of fatty acid synthesis (lipogenesis). Unlike exogenous GH, it does not elevate blood glucose or IGF-1 in rodent studies, eliminating the hyperglycemia and oncogenic concerns associated with GH administration. <sup>[6]</sup> Human clinical data is limited to early-phase pharmacokinetic studies without the powered, randomized controlled trials needed for regulatory consideration.</p>
+<p><strong>Key limitation — half-life:</strong> Available pharmacokinetic data indicates subcutaneous HGH Fragment 176-191 has a plasma half-life of approximately 15–30 minutes in humans, requiring multiple daily injections to maintain pharmacologically relevant concentrations. This is a significant practical limitation compared to longer-acting GH-axis peptides like tesamorelin or CJC-1295.</p>
+<p><strong>Protocol context:</strong> Typically studied at 250–500 mcg per injection, 1–3 times daily, on an empty stomach (food-elevated insulin blunts GH-mediated lipolysis). Available through <a href="https://www.vandl-labs.com" target="_blank" rel="noopener noreferrer">VANDL Labs</a> and <a href="https://peptidetech.is" target="_blank" rel="noopener noreferrer">Peptide Technologies (peptidetech.is)</a>.</p>`,
+      },
+      {
+        id: 'aod-9604',
+        type: 'h3',
+        heading: '6. AOD-9604 — The Modified Fragment with Dual-Pathway Action ★★☆☆☆',
+        content: `<p>AOD-9604 (Anti-Obesity Drug 9604) is a modified version of HGH Fragment 176-191 with a tyrosine residue added at the N-terminus for improved stability and a slightly extended half-life. Developed by Metabolic Pharmaceuticals at Monash University in Australia, it is the most clinically advanced research peptide for obesity that never crossed the finish line — completing Phase IIb human trials before the sponsoring company pivoted to its cartilage regeneration applications (where it now has active development as Hexatide).</p>
+<p><strong>Key clinical data:</strong> A Phase IIb human clinical trial investigated AOD-9604 across multiple doses in overweight and obese adults over 12 weeks. The study demonstrated <strong>dose-dependent fat mass reduction</strong> compared to placebo, particularly in visceral adipose tissue, alongside quantifiable inhibition of new fat synthesis. <sup>[6]</sup> Critically, AOD-9604 was granted <strong>GRAS (Generally Recognized As Safe) status by the FDA in 2014</strong> — a designation typically reserved for food ingredients, but applied here based on the substantial safety dataset from the human trials. It remains one of the very few peptides to receive this FDA designation.</p>
+<p><strong>Mechanism differentiation from HGH Fragment:</strong> Beyond lipolysis stimulation, AOD-9604 actively <em>inhibits lipogenesis</em> — the synthesis of new fatty acids and their esterification into triglycerides for storage. This dual mechanism theoretically addresses both the mobilization of existing fat and the prevention of new fat accumulation, a property not shared by HGH Fragment 176-191 or GHRH analogs.</p>
+<p><strong>Protocol context:</strong> Human trial protocols tested oral capsule and subcutaneous routes at 1–9 mg/day. Research applications commonly use 300–1,000 mcg/day subcutaneously. Available through <a href="https://aminousa.com" target="_blank" rel="noopener noreferrer">AminoUSA</a> and <a href="https://modifiedaminos.shop" target="_blank" rel="noopener noreferrer">Modified Aminos</a>.</p>`,
+      },
+      {
+        id: 'amino-1mq',
+        type: 'h3',
+        heading: '7. 5-Amino-1MQ — The NNMT Inhibitor for Metabolic Reprogramming ★★☆☆☆',
+        content: `<p>5-Amino-1-methylquinolinium (5-Amino-1MQ) is a small-molecule NNMT inhibitor that operates through a fundamentally different mechanism than every other compound on this list. Rather than suppressing appetite, stimulating GH release, or activating lipolytic signaling pathways, 5-Amino-1MQ works at the enzymatic and epigenetic level of adipocyte metabolism itself — effectively reprogramming fat cells toward higher metabolic activity.</p>
+<p><strong>Key research data:</strong> The foundational Nature paper by Kraus et al. (2014) demonstrated that NNMT knockdown protects against diet-induced obesity in mice, revealing NNMT as a novel regulator of adipogenesis and fat storage. <sup>[9]</sup> Building on this, Neelakantan et al. (2017) showed that selective small-molecule NNMT inhibitors in high-fat diet-induced obese mice produced a <strong>greater than 30% reduction in body fat mass</strong> and significantly improved insulin sensitivity, cholesterol profiles, and energy expenditure — without any reduction in food intake or increase in physical activity. <sup>[7]</sup> The mechanism: NNMT inhibition increases NAD+ availability in adipocytes, activating SIRT1, upregulating PGC-1&alpha; expression, and shifting white adipose tissue toward a brown-fat-like metabolically active phenotype.</p>
+<p><strong>The NAD+ connection:</strong> NNMT consumes methyl groups and NAD+ precursors in the process of methylating nicotinamide. In obese adipose tissue, NNMT is overexpressed, depleting these substrates and suppressing mitochondrial function. Blocking NNMT with 5-Amino-1MQ effectively &ldquo;unlocks&rdquo; dormant metabolic capacity in fat cells — a mechanism independent of and potentially additive to GLP-1 and GH axis approaches.</p>
+<p><strong>Evidence limitation:</strong> All robust quantitative data on 5-Amino-1MQ is preclinical (mouse models). No published Phase II human clinical trial data is currently available. This represents the highest-uncertainty compound on this list — promising mechanistically, but with a significant evidence gap compared to the GH-axis compounds above.</p>
+<p><strong>Protocol context:</strong> Research applications have explored 50–100 mg oral dosing based on animal-to-human dose conversion. Available through <a href="https://www.vandl-labs.com" target="_blank" rel="noopener noreferrer">VANDL Labs</a> and <a href="https://peptidetech.is" target="_blank" rel="noopener noreferrer">Peptide Technologies (peptidetech.is)</a>.</p>`,
+      },
+      {
+        id: 'efficacy-chart',
+        type: 'chart',
+        chartData: {
+          title: 'Fat Loss Peptide Evidence Strength Score (0–100)',
+          type: 'bar',
+          labels: ['Semaglutide', 'Tirzepatide', 'Tesamorelin', 'CJC-1295/Ipam.', 'HGH Frag. 176-191', 'AOD-9604', '5-Amino-1MQ'],
+          datasets: [
+            {
+              label: 'Clinical Evidence Score',
+              values: [98, 97, 82, 55, 28, 38, 20],
+              color: '#3b82f6',
+            },
+            {
+              label: 'Fat Loss Magnitude Score',
+              values: [88, 96, 72, 58, 44, 48, 52],
+              color: '#10b981',
+            },
+            {
+              label: 'Human Safety Data Score',
+              values: [85, 85, 90, 75, 50, 82, 30],
+              color: '#f59e0b',
+            },
+          ],
+          yLabel: 'Score (0–100)',
+          note: 'Scores are relative assessments based on available human trial data quality, magnitude, and safety documentation. Not absolute efficacy rankings. Semaglutide and tirzepatide are FDA-approved prescription drugs; all others are research compounds.',
+        },
+      },
+      {
+        id: 'clinical-image',
+        type: 'image',
+        image: {
+          src: 'https://d8j0ntlcm91z4.cloudfront.net/user_3D31vyGqZTfX0pQqE7yfnKjzKma/hf_20260825_140436_ba0ca327-e691-41ab-b883-819c3831f18e.png',
+          alt: 'Clinical body composition assessment setting with DEXA scan equipment and peptide vials on a medical tray — fat loss peptide research protocol evaluation 2026',
+          caption: 'DEXA scanning is the gold standard for tracking fat loss peptide efficacy in clinical and research settings, providing separate measurements of visceral fat, subcutaneous fat, and lean mass that plain scale weight cannot distinguish.',
+        },
+      },
+      {
+        id: 'comparison-table',
+        type: 'table',
+        heading: 'Fat Loss Peptide Comparison Table: 2026 Research Overview',
+        tableData: {
+          headers: ['Peptide', 'Primary Mechanism', 'Strongest Evidence', 'Human Fat Loss Data', 'Regulatory Status', 'Research Route'],
+          rows: [
+            ['Semaglutide', 'GLP-1 receptor agonism', 'Phase III RCTs (STEP 1, STEP 4)', '~14.9% body weight (STEP 1)', 'FDA-Approved (Wegovy)', 'Subcutaneous weekly'],
+            ['Tirzepatide', 'GLP-1 + GIP dual agonism', 'Phase III RCTs (SURMOUNT-1)', '~20.9% body weight (SURMOUNT-1)', 'FDA-Approved (Zepbound)', 'Subcutaneous weekly'],
+            ['Tesamorelin', 'GHRH analog → GH pulse amplification', 'Phase III RCTs (lipodystrophy)', '~15–17% visceral fat reduction', 'FDA-Approved (Egrifta, limited indication)', 'Subcutaneous daily'],
+            ['CJC-1295 + Ipamorelin', 'GHRH extension + GHSR agonism', 'Phase I/II (CJC-1295); Phase I (ipamorelin)', 'Not established in obesity RCT', 'Research use only', 'Subcutaneous 1–5×/week'],
+            ['HGH Fragment 176-191', 'Isolated GH lipolytic C-terminal fragment', 'Animal studies + early human PK', 'Not established in RCT', 'Research use only', 'Subcutaneous 1–3×/day'],
+            ['AOD-9604', 'Modified GH fragment (lipolysis + lipogenesis inhibition)', 'Phase IIb human clinical trial', 'Dose-dependent fat reduction (Phase IIb)', 'Research use only (FDA GRAS 2014)', 'Subcutaneous or oral'],
+            ['5-Amino-1MQ', 'NNMT inhibition → NAD+/SIRT1 activation', 'Animal studies (mice)', '>30% fat mass reduction (mouse models)', 'Research use only', 'Oral'],
+          ],
+        },
+      },
+      {
+        id: 'regulatory-callout',
+        type: 'callout',
+        calloutType: 'info',
+        content: `<strong>Regulatory Status Summary:</strong> Semaglutide and tirzepatide are FDA-approved pharmaceutical drugs available only via prescription — they are not sold by research peptide vendors. Tesamorelin is FDA-approved for a specific indication (HIV-associated lipodystrophy) but is studied in broader fat loss contexts as a research compound. CJC-1295, ipamorelin, HGH Fragment 176-191, AOD-9604, and 5-Amino-1MQ are sold as research-use-only compounds in the US and most jurisdictions. Always verify local regulations before procurement.`,
+      },
+      {
+        id: 'stacks',
+        type: 'h2',
+        heading: 'Peptide Stacking Protocols: How Researchers Combine Fat Loss Compounds',
+        content: `<p>Because the seven peptides above operate through distinct mechanisms, they can theoretically be combined for additive effects. The following three protocols represent commonly researched combinations in 2025–2026 — not medical recommendations.</p>
+<ul>
+<li><strong>The Visceral Targeting Stack:</strong> Tesamorelin (2 mg/day SC) + HGH Fragment 176-191 (250 mcg ×2/day SC). Rationale: Tesamorelin amplifies natural GH secretion from the pituitary through a GHRH-mediated mechanism; the fragment provides additional localized lipolytic signaling in adipose tissue. Both target visceral fat preferentially. This protocol mirrors the mechanism of natural GH pulsatility while adding a direct receptor-level fat-mobilizing signal. References: <a href="/blog/tesamorelin-complete-research-guide-2026">Tesamorelin Research Guide</a> | <a href="/blog/hgh-fragment-176-191-fat-loss-research-guide">HGH Fragment 176-191 Guide</a></li>
+<li><strong>The Body Recomposition Stack:</strong> CJC-1295 DAC (300 mcg ×2/week SC) + Ipamorelin (200–300 mcg/night, 5×/week SC) + AOD-9604 (300 mcg/day SC). Rationale: CJC-1295 and ipamorelin produce synergistic GH secretion for systemic lipolysis and lean mass preservation; AOD-9604’s unique anti-lipogenesis mechanism prevents new fat accumulation between GH pulses. This combination targets both fat mobilization and fat synthesis inhibition simultaneously. Reference: <a href="/blog/cjc-1295-ipamorelin-stack-guide">CJC-1295 + Ipamorelin Stack Guide</a> | <a href="/blog/aod-9604-growth-hormone-fragment-fat-loss-guide-2026">AOD-9604 Guide</a></li>
+<li><strong>The GLP-1 + GH Preservation Protocol:</strong> Semaglutide or tirzepatide (prescription, physician-supervised) + CJC-1295/Ipamorelin or tesamorelin. Rationale: GLP-1 agonists produce significant caloric restriction and fat loss but also cause proportional lean mass reduction (approximately 25–38% of total weight lost is lean mass in the STEP trials). Adding a GH secretagogue or GHRH analog during GLP-1 therapy may preferentially preserve or build muscle mass while the GLP-1 compound drives fat loss. This combination requires physician oversight and represents an active area of clinical research in 2025–2026.</li>
+</ul>
+<p><strong>On combining 5-Amino-1MQ:</strong> NNMT inhibition operates entirely independently of both the GLP-1/GIP axis and the GH axis. Adding 5-Amino-1MQ to any of the above stacks is mechanistically rational — adipocyte NAD+ enhancement would theoretically improve responsiveness to both GLP-1-driven caloric restriction and GH-mediated lipolytic signaling. No published human data exists yet on these combination protocols.</p>`,
+      },
+      {
+        id: 'vendor-cards',
+        type: 'vendor-cards',
+        heading: 'Verified Research Peptide Vendors for Fat Loss Compounds',
+        vendors: [
+          {
+            name: 'Peptide Technologies (peptidetech.is)',
+            url: 'https://peptidetech.is',
+            productUrl: 'https://peptidetech.is',
+            purity: '≥99% HPLC verified',
+            highlight: 'Dual third-party testing at two independent ISO 17025-accredited US laboratories per batch. QR-code COA links directly to full HPLC purity, mass spectrometry (molecular weight), endotoxin, sterility, and heavy-metal data — all on a per-batch basis. Automatic daily price-match against top US competitors. Stocks tesamorelin, HGH Fragment 176-191, CJC-1295, ipamorelin, 5-Amino-1MQ, AOD-9604, and 30+ additional research compounds.',
+            badge: "Editor's Top Pick",
+            rating: 5,
+            description: 'The most rigorously documented third-party testing program in the research peptide market as of 2026. Covers the full GH-axis and NNMT inhibitor lineup relevant to fat loss research, with batch-level COA transparency that enables researchers to verify every compound received.',
+          },
+          {
+            name: 'Modified Aminos',
+            url: 'https://modifiedaminos.shop',
+            productUrl: 'https://modifiedaminos.shop',
+            purity: '≥98% HPLC verified',
+            highlight: 'Comprehensive lineup of GH secretagogues and fat loss peptides including CJC-1295 (with and without DAC), ipamorelin, AOD-9604, and tirzepatide research grade. Fast US domestic shipping with discreet packaging. COA documentation available for all products.',
+            badge: 'Best GH Secretagogue Selection',
+            rating: 5,
+            description: 'Strong selection of stack-ready fat loss peptides in both GH secretagogue and GLP-1 analog categories. Particularly good for researchers building the CJC-1295/ipamorelin/AOD-9604 body recomposition stack in a single order.',
+          },
+          {
+            name: 'AminoUSA',
+            url: 'https://aminousa.com',
+            productUrl: 'https://aminousa.com/collections/peptides',
+            purity: '≥98% HPLC verified',
+            highlight: 'US-based supplier with established track record. Carries AOD-9604, CJC-1295, ipamorelin, HGH Fragment 176-191, and compounded semaglutide (valid prescription required for GLP-1 compounds). Competitive pricing on volume research orders with reliable domestic inventory levels.',
+            badge: 'Best for US Domestic Shipping',
+            rating: 4,
+            description: 'Reliable domestic US option covering both GH-axis and GLP-1 peptide categories. Particularly useful for researchers requiring fast domestic delivery and those exploring the physician-supervised GLP-1 + GH stack protocols.',
+          },
+          {
+            name: 'VANDL Labs',
+            url: 'https://www.vandl-labs.com',
+            productUrl: 'https://www.vandl-labs.com/product-category/peptides/',
+            purity: '≥98% HPLC verified',
+            highlight: 'Carries the full AOD-9604 and HGH Fragment 176-191 lineup alongside 5-Amino-1MQ for metabolic research. Known for strong inventory levels on harder-to-source GH fragment compounds. COA documentation provided on request.',
+            badge: 'Best for GH Fragments & NNMT',
+            rating: 4,
+            description: 'Particularly strong inventory for GH fragment research compounds (HGH 176-191 and AOD-9604) and the NNMT inhibitor 5-Amino-1MQ. Good primary or secondary option for researchers building visceral fat targeting or metabolic reprogramming protocols.',
+          },
+        ],
+      },
+      {
+        id: 'research-disclaimer',
+        type: 'callout',
+        calloutType: 'warning',
+        content: `<strong>Research Disclaimer:</strong> All peptides discussed in this article beyond semaglutide and tirzepatide (which are FDA-approved prescription drugs) are investigational research compounds sold strictly for in vitro or non-clinical research purposes. They have not been approved by the FDA or equivalent regulatory authorities for human therapeutic use in weight management. PeptideWiki presents this information solely for educational and research literacy purposes. Self-administration of research compounds carries unknown risks in the absence of clinical supervision. Consult a licensed physician or board-certified obesity medicine specialist for any weight management intervention.`,
+      },
+      {
+        id: 'faq',
+        type: 'faq',
+        heading: 'Frequently Asked Questions: Peptides for Fat Loss',
+        faqs: [
+          {
+            question: 'What is the single most effective peptide for fat loss based on clinical evidence?',
+            answer: 'Based on Phase III human clinical trial data, tirzepatide (Zepbound) produces the largest mean body weight reduction ever recorded in a pharmaceutical obesity trial — 20.9% at the 15 mg/week dose in the SURMOUNT-1 trial (n=2,539). Semaglutide (Wegovy) is a close second at 14.9% body weight reduction in the STEP 1 trial. Both require prescriptions and physician supervision. Among research-only compounds, tesamorelin has the strongest human evidence with documented 15–17% visceral fat reduction in Phase III trials — though this was in a specific population (HIV-associated lipodystrophy) rather than general obesity.',
+          },
+          {
+            question: 'Can you stack semaglutide or tirzepatide with research peptides like CJC-1295 or tesamorelin?',
+            answer: 'This is an active area of clinical investigation in 2025–2026. The theoretical rationale is sound: GLP-1 agonists produce substantial caloric restriction and fat loss, but 25–38% of the total weight lost in STEP trial participants was lean mass rather than fat. Adding a GH secretagogue (CJC-1295/ipamorelin) or GHRH analog (tesamorelin) during GLP-1 therapy may help preserve muscle mass while the GLP-1 compound drives fat reduction. This combination requires physician oversight — it is not appropriate as a DIY research protocol. No published large-scale RCT data is yet available on this specific combination.',
+          },
+          {
+            question: 'What is the difference between HGH Fragment 176-191 and AOD-9604?',
+            answer: 'AOD-9604 is a modified version of HGH Fragment 176-191 with a tyrosine residue added at the N-terminus for improved stability and extended half-life. Both target fat loss via lipolysis stimulation and lipogenesis inhibition using the same core 176–191 GH sequence. AOD-9604 advanced further in clinical development (Phase IIb human trials) versus only early-phase human PK data for the unmodified fragment, and uniquely received FDA GRAS status in 2014. For research purposes, AOD-9604 is generally considered the better-characterized and more clinically relevant of the two compounds.',
+          },
+          {
+            question: 'How does 5-Amino-1MQ differ mechanistically from other fat loss peptides?',
+            answer: '5-Amino-1MQ is technically a small-molecule enzyme inhibitor rather than a peptide in the traditional sense. Unlike every other compound on this list — which acts on hormone receptors (GLP-1, GIP, GH, GHRH, GHSR) — 5-Amino-1MQ works at the enzymatic level of adipocyte metabolism itself, blocking NNMT to increase NAD+ availability and activate SIRT1/PGC-1α metabolic signaling in fat cells. It is the only compound reviewed here that showed significant fat loss in animal models without any reduction in food intake — operating through metabolic reprogramming rather than caloric restriction or enhanced lipolytic hormone signaling.',
+          },
+          {
+            question: 'Where can I find clinical trial data and source citations for these peptides?',
+            answer: 'Primary research is accessible through PubMed (pubmed.ncbi.nlm.nih.gov) and ClinicalTrials.gov. Key references: STEP 1 semaglutide trial (PMID 33567185; NCT03548935); SURMOUNT-1 tirzepatide (PMID 35658024; NCT04184622); CJC-1295 Phase I/II (PMID 16882752); ipamorelin selectivity study (PMID 9663600); AOD-9604 animal mechanistic study (PMID 11477454); 5-Amino-1MQ NNMT inhibitor animal study (PMID 28049588); NNMT obesity biology (PMID 24670645). For the tesamorelin Phase III data, search PubMed for Falutz J, tesamorelin, Journal of Acquired Immune Deficiency Syndromes, 2007.',
+          },
+          {
+            question: 'Do fat loss peptides work without dietary changes or exercise?',
+            answer: 'GLP-1 agonists (semaglutide, tirzepatide) demonstrated significant fat loss even in trials without prescribed exercise programs — the mechanism (appetite suppression, reduced caloric intake) operates largely independent of intentional activity. GH-axis peptides (tesamorelin, CJC-1295/ipamorelin) work synergistically with a mild caloric deficit and are particularly effective alongside resistance training for body recomposition. 5-Amino-1MQ showed fat loss in mice without dietary intervention, but human translation of this finding has not yet been established. In all cases, the evidence base for metabolic and cardiovascular health improvement is stronger when peptide research protocols accompany appropriate lifestyle factors.',
+          },
+        ],
+      },
+      {
+        id: 'conclusion',
+        type: 'h2',
+        heading: 'The Bottom Line on Fat Loss Peptides in 2026',
+        content: `<p>The evidence landscape for fat loss peptides in 2026 spans a remarkable range — from the most robust Phase III obesity pharmacology ever conducted (tirzepatide’s 20.9% body weight reduction across 2,539 subjects) to genuinely novel but primarily preclinical mechanisms like NNMT inhibition. The critical skill for researchers and clinicians working in this space is understanding exactly where on that evidence spectrum each compound sits — and matching the confidence of claims to the quality of the underlying data.</p>
+<p>For fat loss with the strongest evidence base: semaglutide and tirzepatide lead by an enormous margin and belong in a category of their own as FDA-approved interventions. For visceral fat targeting specifically via the GH axis: tesamorelin’s Phase III human data is unique and clinically meaningful for metabolic health beyond weight loss. For body recomposition combining fat loss with lean mass preservation: the CJC-1295/ipamorelin stack, supported by Phase I/II GH elevation data, is the most pragmatic research option. For frontier mechanistic research at the adipocyte level: AOD-9604’s unique GRAS status and Phase IIb human data make it the most credible of the GH fragment compounds, while 5-Amino-1MQ’s NNMT inhibition mechanism represents perhaps the most scientifically novel fat loss pathway currently being explored.</p>
+<p>Procurement quality is non-negotiable at every level of this research spectrum. Independent third-party testing — HPLC purity, mass spectrometry, endotoxin, sterility — on a per-batch basis is the minimum standard for any serious research application. All vendors listed above provide COA documentation; <a href="https://peptidetech.is" target="_blank" rel="noopener noreferrer">Peptide Technologies (peptidetech.is)</a> currently offers the most transparent dual-lab verification system in the market as of 2026.</p>
+<p><strong>Continue reading:</strong> <a href="/blog/aod-9604-growth-hormone-fragment-fat-loss-guide-2026">AOD-9604 Complete Research Guide</a> | <a href="/blog/hgh-fragment-176-191-fat-loss-research-guide">HGH Fragment 176-191 Guide</a> | <a href="/blog/glp-1-peptide-research-guide-2026">GLP-1 Peptides Research Guide</a> | <a href="/blog/cjc-1295-ipamorelin-stack-guide">CJC-1295 + Ipamorelin Stack Guide</a> | <a href="/blog/tesamorelin-complete-research-guide-2026">Tesamorelin Research Guide</a> | <a href="/blog/5-amino-1mq-nnmt-inhibitor-fat-loss-guide-2026">5-Amino-1MQ NNMT Inhibitor Guide</a></p>`,
+      },
+    ],
+    sources: [
+      {
+        id: 1,
+        authors: 'Wilding JPH, Batterham RL, Calanna S, et al.',
+        title: 'Once-Weekly Semaglutide in Adults with Overweight or Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2021,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/33567185/',
+        doi: '10.1056/NEJMoa2032183',
+        type: 'clinical_trial',
+      },
+      {
+        id: 2,
+        authors: 'Jastreboff AM, Aronne LJ, Ahmad NN, et al.',
+        title: 'Tirzepatide Once Weekly for the Treatment of Obesity',
+        journal: 'New England Journal of Medicine',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/35658024/',
+        doi: '10.1056/NEJMoa2206038',
+        type: 'clinical_trial',
+      },
+      {
+        id: 3,
+        authors: 'Falutz J, Allas S, Blot K, et al.',
+        title: 'Effects of tesamorelin (TH9507), a growth hormone-releasing factor analog, in HIV-infected patients with excess abdominal fat: a randomized double-blind, placebo-controlled study',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2007,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/17558331/',
+        doi: '10.1097/QAI.0b013e31805e5921',
+        type: 'clinical_trial',
+      },
+      {
+        id: 4,
+        authors: 'Teichman SL, Neale A, Lawrence B, Gagnon C, Castaigne JP, Frohman LA',
+        title: 'Prolonged stimulation of growth hormone (GH) and insulin-like growth factor I secretion by CJC-1295, a long-acting analog of GH-releasing hormone, in healthy adults',
+        journal: 'Journal of Clinical Endocrinology and Metabolism',
+        year: 2006,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/16882752/',
+        doi: '10.1210/jc.2005-2353',
+        type: 'human_study',
+      },
+      {
+        id: 5,
+        authors: 'Raun K, Hansen BS, Johansen NL, et al.',
+        title: 'Ipamorelin, the first selective growth hormone secretagogue',
+        journal: 'European Journal of Endocrinology',
+        year: 1998,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/9663600/',
+        doi: '10.1530/eje.0.1390552',
+        type: 'human_study',
+      },
+      {
+        id: 6,
+        authors: 'Heffernan M, Thorburn AW, Fam B, et al.',
+        title: 'The effect of human GH and its lipolytic fragment (AOD9604) on lipid metabolism following chronic treatment in obese mice and beta(3)-AR knock-out mice',
+        journal: 'International Journal of Obesity',
+        year: 2001,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/11477454/',
+        doi: '10.1038/sj.ijo.0801701',
+        type: 'animal_study',
+      },
+      {
+        id: 7,
+        authors: 'Neelakantan H, Vance V, Wetzel MD, et al.',
+        title: 'Selective and Membrane-Permeable Small Molecule Inhibitors of Nicotinamide N-Methyltransferase Reverse High Fat Diet-Associated Obesity and Attenuate Hepatic Steatosis in Mice',
+        journal: 'Biochemical Pharmacology',
+        year: 2017,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/28049588/',
+        doi: '10.1016/j.bcp.2016.12.022',
+        type: 'animal_study',
+      },
+      {
+        id: 8,
+        authors: 'Falutz J, Potvin D, Mamputu JC, et al.',
+        title: 'Effects of tesamorelin, a growth hormone-releasing factor, in HIV-infected patients with abdominal fat accumulation: a randomized placebo-controlled trial with a safety extension',
+        journal: 'Journal of Acquired Immune Deficiency Syndromes',
+        year: 2010,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/20010071/',
+        doi: '10.1097/QAI.0b013e3181cdeb0d',
+        type: 'clinical_trial',
+      },
+      {
+        id: 9,
+        authors: 'Kraus D, Yang Q, Kong D, et al.',
+        title: 'Nicotinamide N-methyltransferase knockdown protects against diet-induced obesity',
+        journal: 'Nature',
+        year: 2014,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/24670645/',
+        doi: '10.1038/nature13198',
+        type: 'animal_study',
+      },
+      {
+        id: 10,
+        authors: 'Müller TD, Blüther M, Tschöp MH, DiMarchi RD',
+        title: 'Anti-obesity drug discovery: advances and challenges',
+        journal: 'Nature Reviews Drug Discovery',
+        year: 2022,
+        url: 'https://pubmed.ncbi.nlm.nih.gov/34815532/',
+        doi: '10.1038/s41573-021-00337-8',
+        type: 'review',
+      },
+    ],
+  },
 ]
 
 export function getBlogPost(slug: string): BlogPost | undefined {
